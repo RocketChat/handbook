@@ -1,0 +1,354 @@
+- Contributing:
+  - Developing
+  - Documentation:
+    - Contribution Guidelines
+    - Markdown Styleguide
+    - Documentation Map
+    - Missing and Outdated List
+    - Community Maintainers
+  - Google Summer of Code 2017
+  - Google Summer of Code 2018
+  - Promoting
+  - Reporting Issues
+  - Security:
+    - Responsible Disclosure Policy
+  - Translating
+- Getting Support
+- Installation:
+  - Rocket.Chat Cloud
+  - PaaS Deployments:
+    - Aliyun
+    - AWS
+    - Cloudron.io
+    - Digital Ocean
+    - DPlatform
+    - Galaxy
+    - Google Computer Engine
+    - Heroku
+    - Hyper.sh
+    - IBM Bluemix
+    - IndieHosters
+    - Koozali
+    - Layershift
+    - OpenShift
+    - ReadySpace
+    - Sandstorm.io
+    - Scalingo
+    - Sloppy.io
+    - WeDeploy
+    - D2C.io
+  - Docker containers:
+    - Generic Linux
+    - systemd
+    - High Availability Install
+    - Available Images
+    - Docker Compose
+  - Manual Installation:
+    - CentOS
+    - Debian
+    - Multiple Instances to Improve Performance
+    - Migrating Meteor Mongo
+    - RedHat
+    - Ubuntu:
+      - Snaps:
+        - AutoSSL
+    - Configuring SSL Reverse Proxy
+    - PM2, Systemd, Upstart
+    - Running in a sub folder
+  - Automation tools:
+    - Ansible
+    - Openshift
+    - Vagrant
+  - Mobile and Desktop Apps
+  - Updating:
+    - From 0.x.x to 0.40.0
+  - Minimum Requirements
+  - Community Supported Installation:
+    - FreeBSD:
+      - Universal
+    - Windows 10 Pro
+    - Windows Server
+    - OpenSUSE
+- User guides:
+  - Connecting to a Server
+  - Registration
+  - Login
+  - Channels
+  - Messaging
+  - Channel Actions
+  - Managing your Account
+  - Voice and Video Calls
+- Administrator guides:
+  - Account Settings
+  - Authentication:
+    - CAS
+    - Ldap
+    - Oauth
+    - SAML
+    - WordPress
+  - Database-Migration
+  - Email:
+    - Setup
+    - Editing Emails Content
+    - Mailer
+    - Direct Reply
+  - File Upload:
+    - Amazon S3
+    - Minio
+  - Hubot
+  - Import:
+    - CSV
+    - HipChat:
+      - Cloud
+      - Enterprise
+    - Slack:
+      - SlackBridge
+  - Integrations:
+    - Zapier:
+      - Using Zaps
+    - AppVeyor
+    - Azure Alerts
+    - BitBucket
+    - DeadSimpleScreenSharing
+    - Giphy
+    - GitHub
+    - GitLab
+    - Google-Calendar
+    - Guggy
+    - Jenkins
+    - Jira
+    - NewRelic
+    - nixstats
+    - Osticket
+    - PagerDuty
+    - Prometheus
+    - ReplyGif
+    - ReviewBoard
+    - RunDeck
+    - Sentry
+    - Telegram
+    - Travis CI
+    - Trello
+    - Uptime Robot
+  - Internal Hubot
+  - Jitsi Video Bridge
+  - Livechat:
+    - Livechat Queues
+  - Notifications:
+    - Push Notifications
+  - Permissions
+  - Plug-ins:
+    - Drupal
+    - Pidgin
+  - Create the First Admin
+  - Restoring an Admin
+  - Settings Via Env Vars
+- Developer guides:
+    - Quick Start
+    - Branches and Releases
+    - Code Styleguide:
+      - less
+    - Deeplink
+    - Deprecation
+    - Iframe Integration:
+      - Authentication
+      - Commands
+      - Events
+    - Embedded Layout
+    - Internationalization
+    - Livechat API
+    - Mobile Apps:
+      - Supporting SSL
+    - Realtime-API:
+      - Method Calls:
+        - Login
+        - Logout
+        - Register User
+        - Get User Roles
+        - List Custom Emoji
+        - Load History
+        - Get Room Roles
+        - Get Subscriptions
+        - Get Rooms
+        - Get Public Settings
+        - Get Permissions
+        - User Presence
+        - Notify Room Stream
+        - Create Direct Message
+        - Send Message
+        - Delete Message
+        - Update Message
+        - Pin Message
+        - Unpin Message
+        - Set Reaction
+        - Create Channels
+        - Create Private Groups
+        - Delete Rooms
+        - Archive Rooms
+        - Unarchive Rooms
+        - Joining Channels
+        - Leaving Rooms
+        - Hiding Rooms
+        - Opening Rooms
+        - Favoriting Rooms
+        - Save Room Settings
+      - Subscriptions:
+        - Stream Notify All
+        - Stream Notify User
+        - Stream Notify Room
+        - Stream Room Messages
+      - The Message Object
+      - The Room Object
+      - Livechat API:
+        - getInitialData
+        - registerGuest
+        - sendMessageLivechat
+        - sendOfflineMessage
+    - Rest API:
+      - Authentication:
+        - facebook
+        - google
+        - login
+        - logout
+        - me
+        - twitter
+      - Channels:
+        - addAll
+        - addModerator
+        - addOwner
+        - archive
+        - close
+        - create
+        - files
+        - getAllUserMentionsByChannel
+        - getIntegrations
+        - history
+        - info
+        - invite
+        - kick
+        - leave
+        - list.joined
+        - list
+        - open
+        - removeModerator
+        - removeOwner
+        - rename
+        - setDescription
+        - setJoinCode
+        - setPurpose
+        - setReadOnly
+        - SetTopic
+        - setType
+        - unarchive
+      - Chat:
+        - delete
+        - getMessage
+        - getMessageReadReceipts
+        - pinMessage
+        - postMessage
+        - react
+        - reportMessage
+        - search
+        - starMessage
+        - sendMessage
+        - unPinMessage
+        - unStarMessage
+        - update
+      - Commands:
+        - get
+        - list
+        - run
+      - Groups:
+        - addAll
+        - addModerator
+        - addOwner
+        - archive
+        - close
+        - create
+        - files
+        - getIntegrations
+        - history
+        - info
+        - invite
+        - kick
+        - leave
+        - list
+        - listAll
+        - open
+        - removeModerator
+        - removeOwner
+        - rename
+        - setDescription
+        - setPurpose
+        - setReadOnly
+        - SetTopic
+        - setType
+        - unarchive
+      - Im:
+        - close
+        - create
+        - files
+        - history
+        - list.everyone
+        - list
+        - messages.others
+        - open
+        - setTopic
+      - Integration:
+        - create
+        - list
+        - remove
+      - Livechat:
+        - department
+        - sms-incoming
+        - users
+      - Miscellaneous:
+        - directory
+        - info
+        - spotlight
+        - statistics
+        - statistics.list
+      - Rooms:
+        - cleanHistory
+        - favorite
+        - get
+        - saveNotification
+        - upload
+      - Settings:
+        - get
+        - get-by-id
+        - oauth
+        - public
+        - service-configuration
+        - update
+      - Subscriptions:
+        - get
+        - getOne
+      - Users:
+        - create
+        - createToken
+        - delete
+        - forgotPassword
+        - getAvatar
+        - getPresence
+        - get-preferences
+        - info
+        - list
+        - register
+        - resetAvatar
+        - setAvatar
+        - set-preferences
+        - update
+        - updateOwnBasicInfo
+      - Offset and Count and Sort Info
+      - Permissions
+      - Query and Fields Info
+    - Schema Definition
+    - Testing
+    - Troubleshooting
+    - UI and Theming:
+      - Colors
+      - Components
+      - Themes
+- Community Cookbook:
+  - Remote Video Monitoring
