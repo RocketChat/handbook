@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Paid-Time-Off (PTO) Policy](#paid-time-off-pto-policy)
+- [Paid Time Off Policy](#paid-time-off-policy)
   - [PTO Guide](#pto-guide)
   - [Types of Time Off](#types-of-time-off)
   - [Recognizing Burnout](#recognizing-burnout)
@@ -13,9 +13,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Paid Time Off (PTO) Policy
+# Paid Time Off Policy
 
-Rocket.Chat encourages everyone to take some time off whenever you need it, be it for visiting exotic places or just taking some time for yourself. This is important for maintaining a healthy work/life balance.
+Rocket.Chat encourages everyone to take some paid time off (PTO) off whenever you need it, be it for visiting exotic places or just taking some time for yourself. This is important for maintaining a healthy work/life balance.
 
 ## PTO Guide
 
