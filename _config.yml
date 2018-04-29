@@ -1,0 +1,29 @@
+title: "Rocket.Chat Handbook"
+description: The Rocket.Chat team handbook is the central repository for how we run the company.
+
+# leave trailing slash off
+url: https://rocket.chat/Handbook
+
+# bump if alterting styles or js
+version: 1
+
+defaults:
+  - scope:
+      type: ""
+    values:
+      layout: "default"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
