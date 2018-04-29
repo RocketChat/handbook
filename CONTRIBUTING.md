@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Documentation Contribution Guidelines](#documentation-contribution-guidelines)
+  - [Finding something to work on](#finding-something-to-work-on)
+    - [1. The Documentation Map](#1-the-documentation-map)
+    - [2. Issues](#2-issues)
+  - [Creating a new Pull Request](#creating-a-new-pull-request)
+    - [Requirements](#requirements)
+    - [Recommended Workflow](#recommended-workflow)
+    - [Table of Contents](#table-of-contents)
+  - [Reporting Issues and Missing Articles](#reporting-issues-and-missing-articles)
+    - [Documentation Map](#documentation-map)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Documentation Contribution Guidelines
 
 First of all, thank you for your interest in contributing to Rocket.Chat Docs.

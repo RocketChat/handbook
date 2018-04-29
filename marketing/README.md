@@ -1,25 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-## Table of Contents
+- [Marketing](#marketing)
+  - [How we publish](#how-we-publish)
+    - [Technologies](#technologies)
+    - [Setup local environment](#setup-local-environment)
+    - [Install a code editor](#install-a-code-editor)
+    - [Clone the projects](#clone-the-projects)
+    - [Run a project](#run-a-project)
+      - [Start the web server](#start-the-web-server)
+      - [Stop the web server](#stop-the-web-server)
+      - [Clear the web server cache](#clear-the-web-server-cache)
+    - [Editing content](#editing-content)
+    - [Blog posts](#blog-posts)
+    - [Social updates](#social-updates)
+  - [What we publish](#what-we-publish)
+    - [Content from Rocket.Chat team](#content-from-rocketchat-team)
+    - [Content from the community](#content-from-the-community)
+    - [Assessment criteria](#assessment-criteria)
+    - [Marketing team approval](#marketing-team-approval)
 
-- [How we publish](#how-we-publish)
-  - [Technologies](#technologies)
-  - [Set up local environment](#setup-local-environment)
-  - [Install a code editor](#install-a-code-editor)
-  - [Clone  projects](#clone-the-projects)
-  - [Run a project](#run-a-project)
-    - [Start the web server](#start-the-web-server)
-    - [Stop the web server](#stop-the-web-server)
-    - [Clear the web server cache](#clear-the-web-server-cache)
-  - [Editing content](#editing-content)
-  - [Blog posts](#blog-posts)
-  - [Social updates](#social-updates)
-- [What we publish](#what-we-publish)
-  - [Content from Rocket.Chat team](#content-from-rocketchat-team)
-  - [Content from the community](#content-from-the-community)
-  - [Assessment criteria](#assessment-criteria)
-  - [Marketing team approval](#marketing-team-approval)
-
----
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Marketing
 
