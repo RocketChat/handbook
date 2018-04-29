@@ -94,6 +94,7 @@ rocketchat_web_clear
 - Don't commit changes to the `master` branch.
 - Don't work on someone else's branch without their permission.
 - [Make changes](https://services.github.com/on-demand/github-desktop/make-changes-github-desktop).
+- Update/Genetare the Table of Contents using [doctoc](https://github.com/thlorenz/doctoc).
 - [Commit changes](https://services.github.com/on-demand/github-desktop/add-commits-github-desktop).
 - [Open a Pull Request (PR)](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop).
 - Start your PR with "`WIP: `" if it is not ready to be merged.
