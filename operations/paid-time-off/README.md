@@ -13,7 +13,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Paid-Time-Off (PTO) Policy
+# Paid Time Off (PTO) Policy
 
 Rocket.Chat encourages everyone to take some time off whenever you need it, be it for visiting exotic places or just taking some time for yourself. This is important for maintaining a healthy work/life balance.
 

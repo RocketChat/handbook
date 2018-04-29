@@ -40,7 +40,8 @@ We use
 [GitHub](https://help.github.com),
 [GitHub Pages](https://pages.github.com/) and
 [Amazon CloudFront](https://aws.amazon.com/cloudfront/) to publish our
-[Website & Handbook](github.com/RocketChat/rocketchat.github.io) and
+[Website](github.com/RocketChat/rocketchat.github.io),
+[Handbook](github.com/RocketChat/handbook) and
 [Documentation](github.com/RocketChat/docs) content.
 
 Content can be directly edited and previewed on GitHub but to view it with the full styling you will need to setup a local development environment.
@@ -61,7 +62,8 @@ We recommend [Visual Studio Code](https://code.visualstudio.com/) as it has a gr
 
 Clone our projects using [GitHub Desktop](https://services.github.com/on-demand/github-desktop/clone-repository-github-desktop):
 
-- Website & handbook: `https://github.com/RocketChat/rocketchat.github.io.git`
+- Website: `https://github.com/RocketChat/rocketchat.github.io.git`
+- Handbook: `https://github.com/RocketChat/handbook.git`
 - Documentation: `https://github.com/RocketChat/docs.git`
 
 ### Run a project
@@ -131,7 +133,7 @@ Do not commit to any marketing or imply that any marketing may be done for an ex
 
 ### Content from the community
 
-The community can suggest content by opening a GitHub Issue on the [Website & Handbook](https://github.com/RocketChat/rocketchat.github.io/issues) and [Documentation](https://github.com/RocketChat/docs/issues) projects.
+The community can suggest content by opening a GitHub Issue on the [Website](https://github.com/RocketChat/rocketchat.github.io/issues), [Handbook](https://github.com/RocketChat/handbook/issues) and [Documentation](https://github.com/RocketChat/docs/issues) projects.
 
 ### Assessment criteria
 
