@@ -1,12 +1,12 @@
 
-// redirect people to rocket.chat/docs if they try and browse the github pages version
+// redirect people to rocket.chat/handbook if they try and browse the github pages version
 if(location.hostname == "rocketchat.github.io" && location.href.indexOf('?noredirect') == -1) {
   location="https://rocket.chat" + location.pathname
 }
 
 function scroll_toc(path) {
-  // remove base either '/docs/' or '/'
-  var base = '/docs/';
+  // remove base either '/handbook/' or '/'
+  var base = '/handbook/';
     
   path = path.indexOf(base) == 0? path.substring(base.length) : path.substring(1);
   
@@ -34,7 +34,7 @@ $(document).ready(function() {
   var app = new senna.App();
   
   if(location.hostname == "rocketchat.github.io" || location.hostname == "rocket.chat") {
-    app.setBasePath('/docs/');
+    app.setBasePath('/handbook/');
   }
   else {
     app.setBasePath('/');
