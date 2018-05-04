@@ -22,9 +22,9 @@
 ## Your first week at Rocket.Chat
 
 1. Familiarise yourself with Rocket.Chat and the various applications and services we use.
-1. Ask Marcelo to add you to our weekly Team Call and Roadmap Discussion meetings.
-1. Schedule 1:1 calls with various people in the team to get to know them.
-1. Add yourself to the [team page](https://rocket.chat/team) and [map](https://sundial.teleport.org/public/groups/ar5ZyCa6Sd875BFQbrRb)
+2. Ask Marcelo to add you to our weekly Team Call and Roadmap Discussion meetings.
+3. Schedule 1:1 calls with various people in the team to get to know them.
+4. Add yourself to the [team page](https://rocket.chat/team) and [map](https://sundial.teleport.org/public/groups/ar5ZyCa6Sd875BFQbrRb)
 
 ## Applications and services
 
@@ -61,12 +61,12 @@ It is each team member's responsibility to add their own information and photo t
 ### Prerequisites
 
 1. Learn how to add content to the [marketing website](../marketing/).
-1. Create a branch with an appropriate name `add-firstname-lastname-to-team-page`.
+2. Create a branch with an appropriate name `add-firstname-lastname-to-team-page`.
 
 ### Add your profile
 
 1. Open `_data/team.yml`.
-1. Add a new record at the bottom of the file with the following fields:
+2. Add a new record at the bottom of the file with the following fields:
   - `name`: full name
   - `title`: from your contract
   - `department`: from your contract
@@ -89,4 +89,4 @@ If you are using your GitHub profile photo instead of uploading a photo skip thi
 ### Create a pull request
 
 1. Commit your changes.
-1. From GitHub create a pull request and assign it to a member of the Marketing team to review.
+2. From GitHub create a pull request and assign it to a member of the Marketing team to review.

@@ -26,7 +26,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
 The marketing team is responsible for publishing high quality content that showcases the best of Rocket.Chat to our various channels: website, blog, newsletter, social and through external agencies and publications.
 
 ## How we publish
@@ -99,7 +98,7 @@ rocketchat_web_clear
 - Update/Genetare the Table of Contents using [doctoc](https://github.com/thlorenz/doctoc).
 - [Commit changes](https://services.github.com/on-demand/github-desktop/add-commits-github-desktop).
 - [Open a Pull Request (PR)](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop).
-- Start your PR with "`WIP: `" if it is not ready to be merged.
+- Start your PR with "`WIP:`" if it is not ready to be merged.
 - Someone will [review and merge](https://services.github.com/on-demand/github-desktop/merge-pull-request-showcase) your PR.
 - You may receive feedback requesting changes to your work.
 - Delete your merged branch.

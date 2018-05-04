@@ -45,8 +45,7 @@ Other tips to avoid burnout include:
 
 - Assess and pursue your interests, skills and passions
 - Take breaks during the day to eat healthy foods
-- Make time each day to increase blood and oxygen circulation which improves brain
-activity and functionality
+- Make time each day to increase blood and oxygen circulation which improves brain activity and functionality
 - Get plenty of restful sleep
 
 ## Statutory Vacation Requirements
