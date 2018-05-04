@@ -1,8 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-# Onboarding
-
 **Table of Contents**
 
 - [Onboarding](#onboarding)
@@ -18,6 +15,8 @@
     - [Create a pull request](#create-a-pull-request)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Onboarding
 
 ## Your first week at Rocket.Chat
 

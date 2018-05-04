@@ -1,7 +1,4 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-# Marketing
-
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
@@ -25,6 +22,8 @@
     - [Marketing team approval](#marketing-team-approval)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# Marketing
 
 The marketing team is responsible for publishing high quality content that showcases the best of Rocket.Chat to our various channels: website, blog, newsletter, social and through external agencies and publications.
 
