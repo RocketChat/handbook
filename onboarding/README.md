@@ -1,5 +1,8 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+# Onboarding
+
 **Table of Contents**
 
 - [Onboarding](#onboarding)
@@ -16,14 +19,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Onboarding
-
 ## Your first week at Rocket.Chat
 
 1. Familiarise yourself with Rocket.Chat and the various applications and services we use.
 1. Ask Marcelo to add you to our weekly Team Call and Roadmap Discussion meetings.
 1. Schedule 1:1 calls with various people in the team to get to know them.
-1. Add yourself to the [team page](/team) and [map](https://sundial.teleport.org/public/groups/ar5ZyCa6Sd875BFQbrRb)
+1. Add yourself to the [team page](https://rocket.chat/team) and [map](https://sundial.teleport.org/public/groups/ar5ZyCa6Sd875BFQbrRb)
 
 ## Applications and services
 
@@ -59,7 +60,7 @@ It is each team member's responsibility to add their own information and photo t
 
 ### Prerequisites
 
-1. Learn how to add content to the [marketing website](/handbook/marketing/index.html#how-we-publish).
+1. Learn how to add content to the [marketing website](../marketing/).
 1. Create a branch with an appropriate name `add-firstname-lastname-to-team-page`.
 
 ### Add your profile

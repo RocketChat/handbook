@@ -1,4 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
+# Marketing
+
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
@@ -23,7 +26,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Marketing
 
 The marketing team is responsible for publishing high quality content that showcases the best of Rocket.Chat to our various channels: website, blog, newsletter, social and through external agencies and publications.
 
@@ -40,9 +42,9 @@ We use
 [GitHub](https://help.github.com),
 [GitHub Pages](https://pages.github.com/) and
 [Amazon CloudFront](https://aws.amazon.com/cloudfront/) to publish our
-[Website](github.com/RocketChat/rocketchat.github.io),
-[Handbook](github.com/RocketChat/handbook) and
-[Documentation](github.com/RocketChat/docs) content.
+[Website](https://github.com/RocketChat/rocketchat.github.io),
+[Handbook](https://github.com/RocketChat/handbook) and
+[Documentation](https://github.com/RocketChat/docs) content.
 
 Content can be directly edited and previewed on GitHub but to view it with the full styling you will need to setup a local development environment.
 
