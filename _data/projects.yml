@@ -6,7 +6,7 @@
 
 -
   name: Operations
-  icon: cog
+  icon: rocketchat
   description: Guides and policies for our team.
   path: operations/
   pages:
@@ -15,12 +15,12 @@
 
 -
   name: Marketing
-  icon: sliders
+  icon: rocketchat
   description: Guides for managing and writting and publishing high quality content.
   path: marketing/
 
 -
   name: Summit
-  icon: code
+  icon: rocketchat
   description: Information about our annual summit when we get the entire team together.
   path: summit/

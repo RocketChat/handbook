@@ -40,9 +40,9 @@ We use
 [GitHub](https://help.github.com),
 [GitHub Pages](https://pages.github.com/) and
 [Amazon CloudFront](https://aws.amazon.com/cloudfront/) to publish our
-[Website](github.com/RocketChat/rocketchat.github.io),
-[Handbook](github.com/RocketChat/handbook) and
-[Documentation](github.com/RocketChat/docs) content.
+[Website](https://github.com/RocketChat/rocketchat.github.io),
+[Handbook](https://github.com/RocketChat/handbook) and
+[Documentation](https://github.com/RocketChat/docs) content.
 
 Content can be directly edited and previewed on GitHub but to view it with the full styling you will need to setup a local development environment.
 
@@ -97,7 +97,7 @@ rocketchat_web_clear
 - Update/Genetare the Table of Contents using [doctoc](https://github.com/thlorenz/doctoc).
 - [Commit changes](https://services.github.com/on-demand/github-desktop/add-commits-github-desktop).
 - [Open a Pull Request (PR)](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop).
-- Start your PR with "`WIP: `" if it is not ready to be merged.
+- Start your PR with "`WIP:`" if it is not ready to be merged.
 - Someone will [review and merge](https://services.github.com/on-demand/github-desktop/merge-pull-request-showcase) your PR.
 - You may receive feedback requesting changes to your work.
 - Delete your merged branch.

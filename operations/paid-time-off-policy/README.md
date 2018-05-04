@@ -39,16 +39,13 @@ Rocket.Chat encourages everyone to take some paid time off (PTO) off whenever yo
 
 It is important for us to take a step back in order to recognize and acknowledge the feelings of being "burned out". We are not as effective or efficient when we work long hours, miss meals or forego nurturing our personal lives for sustained periods of time. If you feel yourself or notice someone on your team experiencing burnout, be sure to address it right away. To get ahead of a problem, be sure to communicate with the COO and/or CEO if the following statement ever applies to you, "I'm feeling like I might burn out if the situation doesn't change."
 
-
 If you or your peers are showing signs of burnout, you should take time out to focus on things that relax you and improve your overall health and welfare. We as a team should address burnout right away by discussing options with each other to evaluate the workload and manage contributing stressors.
-
 
 Other tips to avoid burnout include:
 
 - Assess and pursue your interests, skills and passions
 - Take breaks during the day to eat healthy foods
-- Make time each day to increase blood and oxygen circulation which improves brain
-activity and functionality
+- Make time each day to increase blood and oxygen circulation which improves brain activity and functionality
 - Get plenty of restful sleep
 
 ## Statutory Vacation Requirements
