@@ -14,6 +14,12 @@
     Travel Policy: travel-policy/
 
 -
+  name: Design
+  icon: rocketchat
+  description: Documentation on principles and best practices on user experience.
+  path: design/
+
+-
   name: Marketing
   icon: rocketchat
   description: Guides for managing and writting and publishing high quality content.
