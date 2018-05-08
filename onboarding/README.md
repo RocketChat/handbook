@@ -21,17 +21,19 @@
 ## Your first week at Rocket.Chat
 
 1. Familiarise yourself with Rocket.Chat and the various applications and services we use.
-2. Ask Marcelo to add you to our weekly Team Call and Roadmap Discussion meetings.
+2. You will receive a `@rocket.chat` e-mail address and invitations to our team meetings.
 3. Schedule 1:1 calls with various people in the team to get to know them.
 4. Add yourself to the [team page](https://rocket.chat/team) and [map](https://sundial.teleport.org/public/groups/ar5ZyCa6Sd875BFQbrRb)
 
 ## Applications and services
 
-We use the following applications and services on a daily basis.
+We use the following applications and services on a regular basis.
 
 - [Google Account](http://mail.google.com) `firstname.surname@rocket.chat`.
 - [GitHub](https://github.com) to contribute to the orginization's repos, issues and projects.
 - [BambooHR](https://www.bamboohr.com) for HR.
+- [OfficeVibe](https://app.officevibe.com/n/rocket.chat) for weekly satisfaction surveys.
+- [Small Improvements](https://rocketchat.small-improvements.com/app/home) for 360˚ reviews.
 - Speak to your manager to access team specific applications and services.
 
 ## Join open.rocket.chat
