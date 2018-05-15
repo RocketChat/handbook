@@ -51,7 +51,7 @@ Content can be directly edited and previewed on GitHub but to view it with the f
 The following software is required: Git, Ruby 2.4.2+, bundler gem. To install the publishing stack on OSX run:
 
 ```
-curl -fsSL https://raw.githubusercontent.com/RocketChat/rocketchat.github.io/master/handbook/marketing/setup.sh | /bin/bash
+curl -fsSL https://rocket.chat/handbook/marketing/setup.sh | /bin/bash
 ```
 
 ### Install a code editor
