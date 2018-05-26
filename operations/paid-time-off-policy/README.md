@@ -7,7 +7,7 @@
   - [Types of Time Off](#types-of-time-off)
   - [Recognizing Burnout](#recognizing-burnout)
   - [Statutory Vacation Requirements](#statutory-vacation-requirements)
-    - [Brasil Employees](#brasil-employees)
+    - [Brazil Employees](#brazil-employees)
     - [US Employees](#us-employees)
     - [Worldwide Contractors](#worldwide-contractors)
 
@@ -50,7 +50,7 @@ Other tips to avoid burnout include:
 
 ## Statutory Vacation Requirements
 
-### Brasil Employees
+### Brazil Employees
 
 Employees must take at least 30 vacation days. The days will accrue yearly starting 1 year after contract start date. If employees have not taken 30 days off before the work year ends they will be required to take the remainder of their 30 days off. There is no carry-over for unused vacation days.
 
