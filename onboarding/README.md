@@ -30,7 +30,7 @@
 We use the following applications and services on a regular basis.
 
 - [Google Account](http://mail.google.com) `firstname.surname@rocket.chat`.
-- [GitHub](https://github.com) to contribute to the orginization's repos, issues and projects.
+- [GitHub](https://github.com) to contribute to the organization's repos, issues and projects.
 - [BambooHR](https://www.bamboohr.com) for HR.
 - [OfficeVibe](https://app.officevibe.com/n/rocket.chat) for weekly satisfaction surveys.
 - [Small Improvements](https://rocketchat.small-improvements.com/app/home) for 360˚ reviews.
