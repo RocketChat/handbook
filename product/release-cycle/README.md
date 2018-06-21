@@ -1,8 +1,8 @@
 # Rocket.Chat Release Planning
- 
+
  This document describes the suggested method by which our teams should plan for releases.
 
- ## What’s a release?
+## What’s a release?
 
  The release is every version of the app that’s sent to the store as a production release. The release is always a major/minor update, like from (1.0.0 to 1.1.0 or to 2.0.0). Patch releases (from 1.0.0 to 1.0.1) won’t follow this steps and are considered hotfixes releases. Our versioning is following the [Semantic Versioning 2.0.0](https://semver.org/) guide.
 
@@ -24,7 +24,7 @@ We choose to have fixed monthly releases, that means that under optimal circumst
 - **Validation** `~5 work days`
   - Get feedback
   - If the product needs further polishing start a new construction phase micro iteration
-  - If there’s “free time” (release is doing fine), work to improve tests and technical debt, new ideas, experiments or features/improvements to the next release cycle 
+  - If there’s “free time” (release is doing fine), work to improve tests and technical debt, new ideas, experiments or features/improvements to the next release cycle
 - **Release** `~3 work days`
   - Generate changelog
   - Review and polishing of technical documentation
@@ -37,7 +37,7 @@ The first release candidate (TestFlight and Beta) needs to be done by the 20th o
 
 ## What happens if something could not be done in time for the release candidate?
 
-In general, if it’s a new feature, it’ll be postponed for the next release only. Under extreme circumstances, when it will result in significant business impact a extraordinary release could happen. 
+In general, if it’s a new feature, it’ll be postponed for the next release only. Under extreme circumstances, when it will result in significant business impact a extraordinary release could happen.
 
 ## When do we plan the release features/improvements/bugs?
 
@@ -52,7 +52,7 @@ Every release is a project in GitHub. There are 6 columns on each project (board
 - **Desirable (temporary)**: what we want to have on the release. This is very useful while planning. This is where everybody can add features/improvements that wanna see on the release;
 - **Blocked**: when something is blocked (waiting asset, waiting API, etc) the issue will be on this board;
 - **To-do**: after planning, all to-do issues come here;
-In progress: when something is in progress, the issue/PR will be on this board;
+- **In progress**: when something is in progress, the issue/PR will be on this board;
 - **Review/QA**: when something is done and waiting for review or waiting to be tested, the issue/PR will be on this board;
 - **Ready to Merge**: when PR is reviewed and approved it will be o here waiting to final adjustments (title, related issues, etc) and merge;
 - **Done**: when the issue is closed (merged), the issue/PR will be on this board;
@@ -78,7 +78,6 @@ The fix will be shipped as a Hotfix Release, see the `Hotfix Releases` section.
 ## What happens when the release is done?
 
 Project and milestones are closed, all the changes are merged to the branch master and the tag is created, following the release pattern of the repository.
-
 
 ## Hotfix Releases
 
@@ -115,4 +114,3 @@ Server Review
 - Run a server and tests the changes (heroku deployment is an option)
 - The `package-lock.json` was not changed without changes in `package.json`
 - The `package.json` has no irrelevant changes
-
