@@ -14,6 +14,12 @@
     Travel Policy: travel-policy/
 
 -
+  name: Product
+  icon: rocketchat
+  description: Information about our development and release process.
+  path: product/
+
+-
   name: Design
   icon: rocketchat
   description: Documentation on principles and best practices on user experience.
