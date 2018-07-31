@@ -96,5 +96,6 @@ If you are using your GitHub profile photo instead of uploading a photo skip thi
 
 ## Configure your email signature
 
-- Select and copy the template signature <a href="email-signature.html" target="_blank">here</a> (as the image below)
-- ![selection-template](selecting-template.png)
+- Select and copy the template signature <a href="email-signature.html" target="_blank">here</a> 
+- Paste the template in the signature settings of your email
+- Change the text with your infos (don't forget to change the text display and link)
