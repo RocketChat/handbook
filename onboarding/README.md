@@ -13,6 +13,8 @@
     - [Add your profile](#add-your-profile)
     - [Add your photo](#add-your-photo)
     - [Create a pull request](#create-a-pull-request)
+    
+  - [email](email-signature.html)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
