@@ -99,3 +99,4 @@ If you are using your GitHub profile photo instead of uploading a photo skip thi
 - Select and copy the template signature <a href="email-signature.html" target="_blank">here</a> 
 - Paste the template in the signature settings of your email
 - Change the texts with your infos (don't forget to change both, text displays and links)
+- Send a test email to a teammate to confirm that your signature appears correctly
