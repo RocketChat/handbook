@@ -13,6 +13,7 @@
     - [Add your profile](#add-your-profile)
     - [Add your photo](#add-your-photo)
     - [Create a pull request](#create-a-pull-request)
+  - [Configure your email signature](#configure-your-email-signature)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -91,3 +92,10 @@ If you are using your GitHub profile photo instead of uploading a photo skip thi
 
 1. Commit your changes.
 2. From GitHub create a pull request and assign it to a member of the Marketing team to review.
+
+## Configure your email signature
+
+- Select and copy the template signature <a href="email-signature.html" target="_blank">here</a>
+- Paste the template in the signature settings of your email
+- Change the texts with your infos (don't forget to change both, text displays and links)
+- Send a test email to a teammate to confirm that your signature appears correctly
