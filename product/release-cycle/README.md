@@ -11,25 +11,25 @@
 We choose to have fixed monthly releases, that means that under optimal circumstances we’ll have only one release per month. Each release should follow a specific life-cycle consisting of four distinct phases: _planning, construction, validation, release._ Usually _validation_ and _planning_ phases overlap.
 
 - **Planning** `~5 work days`
-  - Issue triage workgroup
-  - Backlog grooming
-  - Identification and refinement of requirements
-  - Technical agreement
-  - Planning session
+    - Issue triage workgroup
+    - Backlog grooming
+    - Identification and refinement of requirements
+    - Technical agreement
+    - Planning session
 - **Construction** `~15 work days`
-  - Development
-  - Write technical documentation (at least at draft level)
-  - Peer review
-  - Final review & merge
+    - Development
+    - Write technical documentation (at least at draft level)
+    - Peer review
+    - Final review & merge
 - **Validation** `~5 work days`
-  - Get feedback
-  - If the product needs further polishing start a new construction phase micro iteration
-  - If there’s “free time” (release is doing fine), work to improve tests and technical debt, new ideas, experiments or features/improvements to the next release cycle
+    - Get feedback
+    - If the product needs further polishing start a new construction phase micro iteration
+    - If there’s “free time” (release is doing fine), work to improve tests and technical debt, new ideas, experiments or features/improvements to the next release cycle
 - **Release** `~3 work days`
-  - Generate changelog
-  - Review and polishing of technical documentation
-  - Write a blog post about the changes, fixes and new features
-  - Release final version of the product
+    - Generate changelog
+    - Review and polishing of technical documentation
+    - Write a blog post about the changes, fixes and new features
+    - Release final version of the product
 
 ## What are the important days of a release?
 
