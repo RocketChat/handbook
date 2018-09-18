@@ -50,13 +50,13 @@ It is each team member's responsibility to add their own information and photo t
 
 1. Open `_data/team.yml`.
 2. Add a new record at the bottom of the file with the following fields:
-  - `name`: full name
-  - `title`: from your contract
-  - `department`: from your contract
-  - `username`: Rocket.Chat username in the format `firstname.lastname`
-  - `github_username`: GitHub username to link your profiles
-  - `github_uid`: GitHub user id, add if you want to use your GitHub profile photo
-  - `photo`: **yes/no** If you've added your own photo to the website
+- `name`: full name
+- `title`: from your contract
+- `department`: from your contract
+- `username`: Rocket.Chat username in the format `firstname.lastname`
+- `github_username`: GitHub username to link your profiles
+- `github_uid`: GitHub user id, add if you want to use your GitHub profile photo
+- `photo`: **yes/no** If you've added your own photo to the website
 
 ### Add your photo
 
