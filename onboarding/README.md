@@ -1,22 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Onboarding](#onboarding)
-  - [Your first week at Rocket.Chat](#your-first-week-at-rocketchat)
-  - [Applications and services](#applications-and-services)
-  - [Join open.rocket.chat](#join-openrocketchat)
-  - [Rocket.Chat t-shirts](#rocketchat-t-shirts)
-  - [Meeting the team](#meeting-the-team)
-  - [Add yourself to the team page](#add-yourself-to-the-team-page)
-    - [Prerequisites](#prerequisites)
-    - [Add your profile](#add-your-profile)
-    - [Add your photo](#add-your-photo)
-    - [Create a pull request](#create-a-pull-request)
-  - [Configure your email signature](#configure-your-email-signature)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Onboarding
 
 ## Your first week at Rocket.Chat
