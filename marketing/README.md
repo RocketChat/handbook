@@ -80,9 +80,9 @@ rocketchat_web_clear
 ### Blog posts
 
 - Look at previous posts to see how to use:
-  - Meta data including categories and the cover image.
-  - Post structure, specifically for release posts.
-  - Reference images and open links in new tabs.
+    - Meta data including categories and the cover image.
+    - Post structure, specifically for release posts.
+    - Reference images and open links in new tabs.
 - Publish posts under with the following naming structure `_posts/yyyy/mm/yyyy-mm-dd-slug.md`
 - Put your post's images under `images/posts/yyyy/mm/slug/`
 - Use [Image.Optim](https://imageoptim.com/mac) to reduce the size of your images.
