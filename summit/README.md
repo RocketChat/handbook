@@ -1,11 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Summit](#summit)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Summit
 
 Rocket.Chat holds an annual summit to get the entire team together. Attendance is optional but highly recommended to:

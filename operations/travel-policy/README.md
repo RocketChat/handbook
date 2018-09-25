@@ -1,14 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Travel Policy](#travel-policy)
-  - [Expenses While Traveling](#expenses-while-traveling)
-  - [Self Stay Incentive Policy](#self-stay-incentive-policy)
-  - [Booking travel and accommodation](#booking-travel-and-accommodation)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Travel Policy
 
 ## Expenses While Traveling

@@ -14,4 +14,3 @@ env:
 script:
   - bundle exec mdl ./ -i -g
   - bundle exec "rake test"
-
