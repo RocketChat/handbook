@@ -1,22 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Onboarding](#onboarding)
-  - [Your first week at Rocket.Chat](#your-first-week-at-rocketchat)
-  - [Applications and services](#applications-and-services)
-  - [Join open.rocket.chat](#join-openrocketchat)
-  - [Rocket.Chat t-shirts](#rocketchat-t-shirts)
-  - [Meeting the team](#meeting-the-team)
-  - [Add yourself to the team page](#add-yourself-to-the-team-page)
-    - [Prerequisites](#prerequisites)
-    - [Add your profile](#add-your-profile)
-    - [Add your photo](#add-your-photo)
-    - [Create a pull request](#create-a-pull-request)
-  - [Configure your email signature](#configure-your-email-signature)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Onboarding
 
 ## Your first week at Rocket.Chat
@@ -69,13 +50,13 @@ It is each team member's responsibility to add their own information and photo t
 
 1. Open `_data/team.yml`.
 2. Add a new record at the bottom of the file with the following fields:
-  - `name`: full name
-  - `title`: from your contract
-  - `department`: from your contract
-  - `username`: Rocket.Chat username in the format `firstname.lastname`
-  - `github_username`: GitHub username to link your profiles
-  - `github_uid`: GitHub user id, add if you want to use your GitHub profile photo
-  - `photo`: **yes/no** If you've added your own photo to the website
+- `name`: full name
+- `title`: from your contract
+- `department`: from your contract
+- `username`: Rocket.Chat username in the format `firstname.lastname`
+- `github_username`: GitHub username to link your profiles
+- `github_uid`: GitHub user id, add if you want to use your GitHub profile photo
+- `photo`: **yes/no** If you've added your own photo to the website
 
 ### Add your photo
 

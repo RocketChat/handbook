@@ -1,28 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Marketing](#marketing)
-  - [How we publish](#how-we-publish)
-    - [Technologies](#technologies)
-    - [Setup local environment](#setup-local-environment)
-    - [Install a code editor](#install-a-code-editor)
-    - [Clone the projects](#clone-the-projects)
-    - [Run a project](#run-a-project)
-      - [Start the web server](#start-the-web-server)
-      - [Stop the web server](#stop-the-web-server)
-      - [Clear the web server cache](#clear-the-web-server-cache)
-    - [Editing content](#editing-content)
-    - [Blog posts](#blog-posts)
-    - [Social updates](#social-updates)
-  - [What we publish](#what-we-publish)
-    - [Content from Rocket.Chat team](#content-from-rocketchat-team)
-    - [Content from the community](#content-from-the-community)
-    - [Assessment criteria](#assessment-criteria)
-    - [Marketing team approval](#marketing-team-approval)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Marketing
 
 The marketing team is responsible for publishing high quality content that showcases the best of Rocket.Chat to our various channels: website, blog, newsletter, social and through external agencies and publications.
@@ -94,7 +69,6 @@ rocketchat_web_clear
 - Don't commit changes to the `master` branch.
 - Don't work on someone else's branch without their permission.
 - [Make changes](https://services.github.com/on-demand/github-desktop/make-changes-github-desktop).
-- Update/Generate the Table of Contents using [doctoc](https://github.com/thlorenz/doctoc).
 - [Commit changes](https://services.github.com/on-demand/github-desktop/add-commits-github-desktop).
 - [Open a Pull Request (PR)](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop).
 - Start your PR with "`WIP:`" if it is not ready to be merged.
@@ -106,9 +80,9 @@ rocketchat_web_clear
 ### Blog posts
 
 - Look at previous posts to see how to use:
-  - Meta data including categories and the cover image.
-  - Post structure, specifically for release posts.
-  - Reference images and open links in new tabs.
+    - Meta data including categories and the cover image.
+    - Post structure, specifically for release posts.
+    - Reference images and open links in new tabs.
 - Publish posts under with the following naming structure `_posts/yyyy/mm/yyyy-mm-dd-slug.md`
 - Put your post's images under `images/posts/yyyy/mm/slug/`
 - Use [Image.Optim](https://imageoptim.com/mac) to reduce the size of your images.
