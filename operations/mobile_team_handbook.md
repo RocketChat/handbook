@@ -37,7 +37,9 @@ We avoid meetings, we try to do everything async. Unless something really requir
 
 There are three emails that we can use to communicate internally: `mobile@rocket.chat`, `ios@rocket.chat` and `android@rocket.chat`. If you want to communicate the whole team you can reach `team@rocket.chat`.
 
-It’s expected that you check your email at least once a day for new invitations, 
+It’s expected that you check your email at least once a day for new invitations...
+
+RKS TODO: Write more information about how it works.
 
 ## Office Vibe
 
