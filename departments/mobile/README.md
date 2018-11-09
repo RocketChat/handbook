@@ -4,24 +4,24 @@ _Note: this document is still in progress, but everything that’s written here 
 
 ## Experts
 
-- [Filipe Alvarenga](https://open.rocket.chat/direct/filipe.alvarenga), iOS Engineer
-- [Filipe Brito](https://open.rocket.chat/direct/filipe.brito), Android Engineer
-- [Leonardo Aramaki](https://open.rocket.chat/direct/leonardo.aramaki), Android Engineer
-- [Lúcio Maciel](https://open.rocket.chat/direct/lucio.maciel), Android Engineer
-- [Matheus Cardoso](https://open.rocket.chat/direct/matheus.cardoso), iOS Engineer
-- [Rafael Kellermann Streit](https://open.rocket.chat/direct/rafael.kellermann), iOS Engineer & Team Leader
+* [Filipe Alvarenga](https://open.rocket.chat/direct/filipe.alvarenga), iOS Engineer
+* [Filipe Brito](https://open.rocket.chat/direct/filipe.brito), Android Engineer
+* [Leonardo Aramaki](https://open.rocket.chat/direct/leonardo.aramaki), Android Engineer
+* [Lúcio Maciel](https://open.rocket.chat/direct/lucio.maciel), Android Engineer
+* [Matheus Cardoso](https://open.rocket.chat/direct/matheus.cardoso), iOS Engineer
+* [Rafael Kellermann Streit](https://open.rocket.chat/direct/rafael.kellermann), iOS Engineer & Team Leader
 
 ## Basics
 
 ### Working Hours
 
-We expect you will be working from 9am to 5pm every day from your timezone. If you cannot make this hours, inform your team leader of the times you’ll be working so everybody will know and we will avoid contact with you outside these hours.
+We expect you will be working from 9am to 5pm every day from your timezone. If you cannot make this hours, inform your team leader of the times you’ll be working so everybody will know and we will avoid contact with you outside these hours. Since the mobile team is 100% remote, we need to make sure our times are synced so we don't bother other colleagues when they're not working.
 
 ### Chat (open.rocket.chat)
 
 It’s not required to be connected to the chat all the time, but it’s expected that you check it at least twice in the morning and twice in the afternoon so you don’t miss important announcements or important questions.
 
-### Team Sync
+### Mobile Team Sync
 
 1. There will be a bot every Monday, Tuesday, Thursday and Friday that will ask you in the morning what’s your status (working on, blocked issues, problems you are having, etc). It’s expected that you reply to this bot as soon as you start working that day.
 2. We have calls every Wednesday with iOS and Android team. It’s expected that all of you participate of this meeting (it’s only once a week!) and the duration is between 30min and 45min.
@@ -33,7 +33,7 @@ Every week the whole company joins a call via Google Meets at 1pm Brasilia Time 
 
 ### Calendar
 
-Mobile Team has a shared calendar where we put our deadlines and important events to the whole mobile team. Make sure you have it subscribed in your calendar application, the URL is this one: https://calendar.google.com/calendar?cid=cm9ja2V0LmNoYXRfY3BqcGV2a3BvOXR1NmZxbWczdDNvM2tobjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.
+Mobile Team has a shared calendar where we put our deadlines and important events to the whole mobile team. Make sure you have it subscribed in your calendar application, you can copy [this url](https://calendar.google.com/calendar?cid=cm9ja2V0LmNoYXRfY3BqcGV2a3BvOXR1NmZxbWczdDNvM2tobjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
 It's also expected that you reply to the invitations you are invited for with yes, no or maybe.
 
@@ -42,6 +42,10 @@ It's also expected that you reply to the invitations you are invited for with ye
 There are three emails that we can use to communicate internally: `mobile@rocket.chat`, `ios@rocket.chat` and `android@rocket.chat`. If you want to communicate the whole team you can reach `team@rocket.chat`.
 
 It’s expected that you check your email at least twice a day (morning and afternoon) for new invitations, annoucements, etc.
+
+### Forum
+
+There's an [internal category in our forums specific to the Mobile Team discussions](https://forums.rocket.chat/c/internal/mobile). It's encouraged that everyone share ideas and problems there in form of discussion. It's the preferable way to communicate long discussions with your team. All discussions on this category are private.
 
 ### Office Vibe
 
@@ -78,7 +82,7 @@ You can refer to your platform planning document ([iOS](https://github.com/Rocke
 
 ### How to choose something to work on
 
-// TODO
+Prior starting your wokr on your `To-do` issues. They're sorted by priority.
 
 ### Community
 
@@ -90,7 +94,7 @@ We avoid meetings, we try to do everything async. Unless something really requir
 
 ## Stores (App Store and Google Play)
 
-// RKS TODO
+Every member of the team has the capability to submit new builds to the store and is encouraged to do so.
 
 ## How to work with the Design Team
 
