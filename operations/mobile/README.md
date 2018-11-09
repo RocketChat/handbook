@@ -72,9 +72,13 @@ We don’t contact you in your vacation time unless it’s super urgent. The con
 2. Make sure you tag your issues and the issues from the community correctly and add the milestone if you think it makes sense.
 3. Bugs are prioritised over new features and improvements most of the time, if you have any question about the prioritisation, contact your team leader.
 
+### Planning
+
+You can refer to your platform planning document ([iOS](https://github.com/RocketChat/Rocket.Chat.iOS/blob/develop/PLANNING.md) and [Android](https://github.com/RocketChat/Rocket.Chat.Android/blob/develop/PLANNING.md)) for questions related to the way we plan our cycles.
+
 ### How to choose something to work on
 
-// RKS TODO
+// TODO
 
 ### Community
 
