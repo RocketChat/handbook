@@ -29,7 +29,7 @@ It’s not required to be connected to the chat all the time, but it’s expecte
 
 ### Rocket.Chat Company Weekly Calls
 
-Every week the whole company joins a call via Google Meets at 1pm Brasilia Time (duration is no longer than 1h). It’s expected that you are present into this meeting and if not, you **must** inform your team leader why.
+Every week the whole company joins a call via Jitsi (link on the event) at 1pm Brasilia Time (duration is no longer than 1h). It’s expected that you are present into this meeting and if not, you **must** inform your team leader why.
 
 ### Calendar
 
@@ -49,11 +49,11 @@ There's an [internal category in our forums specific to the Mobile Team discussi
 
 ### Office Vibe
 
-You will receive sometimes emails from Office Vibe questionaries. It’s expected that you reply to all of them in order to help Rocket.Chat improve with your feedback. You have ways to give written feedback to the company from there anonymously and this is very encouraged.
+You will receive sometimes emails from Office Vibe questionnaires. It’s expected that you reply to all of them in order to help Rocket.Chat improve with your feedback. We encourage you to give us written feedback from there as much as possible, one of our core values is to be transparent and honest with each other. If you don't feel like giving feedback with your name on it, you can also choose to send the feedback anonymously.
 
 ### Small Improvements
 
-Once a quarter you’ll be requested to make 360º reviews of some of your colleagues and to make your self-assessment. The 360º reviews are optional but we encourage you to give to at least 3 of your collegues once a quarter. The self-assessment review is extrictly required as your team leader will also write a feedback for you and you'll only be able to do see it if your self-assessment was written.
+Once a quarter you’ll be requested to make 360º reviews of some of your colleagues and to make your self-assessment. The 360º reviews are optional but we encourage you to give to at least 3 of your collegues once a quarter. The self-assessment review is strictly required as your team leader will also write a feedback for you and you'll only be able to do see it if your self-assessment was written.
 
 ### PTO
 
