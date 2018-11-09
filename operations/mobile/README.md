@@ -31,17 +31,6 @@ It’s not required to be connected to the chat all the time, but it’s expecte
 
 Every week the whole company joins a call via Google Meets at 1pm Brasilia Time (duration is no longer than 1h). It’s expected that you are present into this meeting and if not, you **must** inform your team leader why.
 
-### Pull Requests
-
-1. Prefer to use pull-requests to send changes to your repository always. It’s also very important that your pull-request have tags, milestone and the cycle.
-2. You can request your colleagues to review your PRs as much as you want. It’s expected that every colleague don’t take more than 24 hours to review a new pull-request. Taking more than 3 days to review a PR will sound us an alarm that something is not right. We believe that moving the project with small pull-requests is the way to go and reviewing than quickly will reduce the changes of causing conflicts and wasting time to fix it.
-
-### Issues
-
-1. It’s expected that you create issues for the bugs you found, improvements that you think are necessary (or want to start a discussion about it) or new features. It’s always preferable to discuss things on the issues or pull-requests than on the chat or video calls.
-2. Make sure you tag your issues and the issues from the community correctly and add the milestone if you think it makes sense.
-3. Bugs are prioritised over new features and improvements most of the time, if you have any question about the prioritisation, contact your team leader.
-
 ### Calendar
 
 Mobile Team has a shared calendar where we put our deadlines and important events to the whole mobile team. Make sure you have it subscribed in your calendar application, the URL is this one: https://calendar.google.com/calendar?cid=cm9ja2V0LmNoYXRfY3BqcGV2a3BvOXR1NmZxbWczdDNvM2tobjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.
@@ -70,11 +59,24 @@ Please refer to the company guidelines about PTO in [company's handbook](https:/
 
 We don’t contact you in your vacation time unless it’s super urgent. The contact will probably be over phone call or something, but we plan everything so we don’t have to contact you at anytime. We don’t expect you to read your emails, calendar changes, forums, chats, etc. This is the time for you to turn off and disconnect. Also refer to the [company handbook](https://rocket.chat/handbook/operations/paid-time-off-policy/) for more information about vacations.
 
-## How to choose something to work on
+## GitHub
+
+### Pull Requests
+
+1. Prefer to use pull-requests to send changes to your repository always. It’s also very important that your pull-request have tags, milestone and the cycle.
+2. You can request your colleagues to review your PRs as much as you want. It’s expected that every colleague don’t take more than 24 hours to review a new pull-request. Taking more than 3 days to review a PR will sound us an alarm that something is not right. We believe that moving the project with small pull-requests is the way to go and reviewing than quickly will reduce the changes of causing conflicts and wasting time to fix it.
+
+### Issues
+
+1. It’s expected that you create issues for the bugs you found, improvements that you think are necessary (or want to start a discussion about it) or new features. It’s always preferable to discuss things on the issues or pull-requests than on the chat or video calls.
+2. Make sure you tag your issues and the issues from the community correctly and add the milestone if you think it makes sense.
+3. Bugs are prioritised over new features and improvements most of the time, if you have any question about the prioritisation, contact your team leader.
+
+### How to choose something to work on
 
 // RKS TODO
 
-## Community
+### Community
 
 Everyone on the team is responsible to take care of the community issues and questions. Everyone has the same responsibility and we value very much being clear and responsible to them. Our community is super important to the company.
 
