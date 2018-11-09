@@ -68,7 +68,7 @@ We don’t contact you in your vacation time unless it’s super urgent. The con
 ### Pull Requests
 
 1. Prefer to use pull-requests to send changes to your repository always. It’s also very important that your pull-request have tags, milestone and the cycle.
-2. You can request your colleagues to review your PRs as much as you want. It’s expected that every colleague don’t take more than 24 hours to review a new pull-request. Taking more than 3 days to review a PR will sound us an alarm that something is not right. We believe that moving the project with small pull-requests is the way to go and reviewing than quickly will reduce the changes of causing conflicts and wasting time to fix it.
+2. You can request your colleagues to review your PRs as much as you want. It’s expected that every colleague don’t take more than 24 hours to review a new pull-request. Taking more than 3 days to review a PR will sound us an alarm that something is not right. We believe that moving the project with small pull-requests is the way to go and reviewing them quickly will reduce the changes of causing conflicts and wasting time to fix it.
 
 ### Issues
 
@@ -86,7 +86,7 @@ Prior starting your wokr on your `To-do` issues. They're sorted by priority.
 
 ### Community
 
-Everyone on the team is responsible to take care of the community issues and questions. Everyone has the same responsibility and we value very much being clear and responsible to them. Our community is super important to the company.
+Everyone on the team is responsible for taking care of the community issues and questions. Everyone has the same responsibility and we value very much being clear and responsible to them. Our community is super important to the company.
 
 ## Meetings
 
