@@ -90,7 +90,7 @@ Everyone on the team is responsible to take care of the community issues and que
 
 ## Meetings
 
-We avoid meetings, we try to do everything async. Unless something really requires our presence in real time, we'll prefer to use our forums to long discussions. If the discussion is too much back and forth we can schedule a call (30min is preferred, 1h maximum) to resolve the situation with a very clear goal.
+We avoid meetings trying to do every discussion async. Unless something really requires our presence in real time, we'll prefer to use our forums to long discussions. If the discussion is too much back and forth we can schedule a call (30min is preferred, 1h maximum) to resolve the situation with a very clear goal.
 
 ## Stores (App Store and Google Play)
 
