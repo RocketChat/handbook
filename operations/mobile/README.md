@@ -19,7 +19,7 @@ We expect you will be working from 9am to 5pm every day from your timezone. If y
 
 ### Chat (open.rocket.chat)
 
-It’s not required to be connected to the chat all the time, but it’s expected that you check it at least twice in the morning and twice in the afternoon so you don’t leave without reading important announcements or important questions.
+It’s not required to be connected to the chat all the time, but it’s expected that you check it at least twice in the morning and twice in the afternoon so you don’t miss important announcements or important questions.
 
 ### Team Sync
 
