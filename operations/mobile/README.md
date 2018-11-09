@@ -27,9 +27,9 @@ It’s not required to be connected to the chat all the time, but it’s expecte
 2. We have calls every Wednesday with iOS and Android team. It’s expected that all of you participate of this meeting (it’s only once a week!) and the duration is between 30min and 45min.
 3. It’s expected that you keep your status in GitHub Projects updated. Every cycle has a project and there’s columns that specifics what should be done, what is in progress, what’s waiting for review and what’s done already.
 
-### Weekly Calls
+### Rocket.Chat Company Weekly Calls
 
-Every week we have a call via Google Meets at 1pm Brasilia Time. It’s expected that all of you are present into this meeting and if not, you must inform your team leader why.
+Every week the whole company joins a call via Google Meets at 1pm Brasilia Time (duration is no longer than 1h). It’s expected that you are present into this meeting and if not, you **must** inform your team leader why.
 
 ### Pull Requests
 
