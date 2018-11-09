@@ -44,35 +44,31 @@ Every week we have a call via Google Meets at 1pm Brasilia Time. It’s expected
 
 ### Calendar
 
-// RKS TODO
+Mobile Team has a shared calendar where we put our deadlines and important events to the whole mobile team. Make sure you have it subscribed in your calendar application, the URL is this one: https://calendar.google.com/calendar?cid=cm9ja2V0LmNoYXRfY3BqcGV2a3BvOXR1NmZxbWczdDNvM2tobjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.
+
+It's also expected that you reply to the invitations you are invited for with yes, no or maybe.
 
 ### Emails
 
 There are three emails that we can use to communicate internally: `mobile@rocket.chat`, `ios@rocket.chat` and `android@rocket.chat`. If you want to communicate the whole team you can reach `team@rocket.chat`.
 
-It’s expected that you check your email at least once a day for new invitations...
-
-RKS TODO: Write more information about how it works.
+It’s expected that you check your email at least twice a day (morning and afternoon) for new invitations, annoucements, etc.
 
 ### Office Vibe
 
-You will receive sometimes emails from Office Vibe questionaries. It’s expected that you reply to all of them to help us. You have ways to give feedback to the company from there as well anonymously and this is very encouraged. The company will always reply your feedbacks because they are very valuable.
-
-RKS TODO: Write more information about how it works.
+You will receive sometimes emails from Office Vibe questionaries. It’s expected that you reply to all of them in order to help Rocket.Chat improve with your feedback. You have ways to give written feedback to the company from there anonymously and this is very encouraged.
 
 ### Small Improvements
 
-Once a quarter you’ll be requested to make 360º reviews of some of your colleagues and to make your self-assessment.
-
-RKS TODO: Write more information about how it works.
+Once a quarter you’ll be requested to make 360º reviews of some of your colleagues and to make your self-assessment. The 360º reviews are optional but we encourage you to give to at least 3 of your collegues once a quarter. The self-assessment review is extrictly required as your team leader will also write a feedback for you and you'll only be able to do see it if your self-assessment was written.
 
 ### PTO
 
-Please refer to the company guidelines about PTO in our handbook.
+Please refer to the company guidelines about PTO in [company's handbook](https://rocket.chat/handbook/operations/paid-time-off-policy/).
 
 ### Vacations
 
-We don’t contact you in your vacation time unless it’s super urgent. The contact will probably be over phone call or something, but we plan everything so we don’t have to contact you at anytime. We don’t expect you to read your emails, calendar changes, forums, chats, etc. This is the time for you to turn off and disconnect. Also refer to the company handbook for more information about vacations.
+We don’t contact you in your vacation time unless it’s super urgent. The contact will probably be over phone call or something, but we plan everything so we don’t have to contact you at anytime. We don’t expect you to read your emails, calendar changes, forums, chats, etc. This is the time for you to turn off and disconnect. Also refer to the [company handbook](https://rocket.chat/handbook/operations/paid-time-off-policy/) for more information about vacations.
 
 ## How to choose something to work on
 
@@ -86,15 +82,10 @@ Everyone on the team is responsible to take care of the community issues and que
 
 We avoid meetings, we try to do everything async. Unless something really requires our presence in real time, we'll prefer to use our forums to long discussions. If the discussion is too much back and forth we can schedule a call (30min is preferred, 1h maximum) to resolve the situation with a very clear goal.
 
-## Mobile Calendar
-
-// RKS TODO
-
 ## Stores (App Store and Google Play)
 
 // RKS TODO
 
 ## How to work with the Design Team
 
-// RKS TODO
-
+Design Team is a shared team with all other teams of Rocket.Chat and to contact them in order to request assets, new designs or share ideas we have a channel to each specific platform or feature being developed. For iOS, we have `ios-design` channel and for Android team we have `android-design`.
