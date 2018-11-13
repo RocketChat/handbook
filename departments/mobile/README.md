@@ -15,7 +15,7 @@ _Note: this document is still in progress, but everything that’s written here 
 
 ### Working Hours
 
-We expect you will be working from 9am to 6pm every day from your timezone. If you cannot make this hours, inform your team leader of the times you’ll be working so everybody will know and we will avoid contact with you outside these hours. Since the mobile team is 100% remote, we need to make sure our times are synced so we don't bother other colleagues when they're not working.
+We expect you work from 9am to 6pm every day from your timezone. If you cannot make this hours, inform your team leader of the times you’ll work so everybody will know and we will avoid contact with you outside these hours. Since the mobile team is 100% remote, we need to make sure our times are synced so we don't bother other colleagues when they're not working.
 
 ### Chat (open.rocket.chat)
 
