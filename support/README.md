@@ -20,7 +20,7 @@ The basic support workflow is defined in the chart below. First level support is
 <br>
 Closed tickets also have their own workflow in order to ensure actionable items for each type of issue raised by customers:
 
-![](ttps://rocket.chat/handbook/images/support/support_closed.svg)
+![](https://rocket.chat/handbook/images/support/support_closed.svg)
 
 In summary closed tickets should have one of three possible outcomes:
 
@@ -28,4 +28,4 @@ In summary closed tickets should have one of three possible outcomes:
 - If it's a **functionality** issue, an existing GitHub feature request should be linked to the ticket and updated or a new one created to raise visibility to the customer request
 - If it's a **reliability** issue, an existing GitHub bug should be linked to the ticket and updated or a new one created to raise visibility to the problem reported
 
-![](ttps://rocket.chat/handbook/images/support/support_paths.svg)
+![](https://rocket.chat/handbook/images/support/support_paths.svg)
