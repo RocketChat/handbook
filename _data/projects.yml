@@ -44,3 +44,9 @@
   icon: rocketchat
   description: Information about our annual summit when we get the entire team together.
   path: summit/
+
+-
+  name: Support
+  icon: rocketchat
+  description: Processes and guidelines for ensuring customer success.
+  path: support/
