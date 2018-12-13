@@ -50,3 +50,8 @@
   icon: rocketchat
   description: Processes and guidelines for ensuring customer success.
   path: support/
+  pages:
+    Processes: processes/
+    SLAs: slas/
+    System: systems/
+    Team: team/
