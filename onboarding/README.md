@@ -5,7 +5,7 @@
 1. Familiarise yourself with Rocket.Chat and the various applications and services we use.
 2. You will receive a `@rocket.chat` e-mail address and invitations to our team meetings.
 3. Schedule 1:1 calls with various people in the team to get to know them.
-4. Add yourself to the [team page](https://rocket.chat/team) and [map](https://sundial.teleport.org/public/groups/ar5ZyCa6Sd875BFQbrRb)
+4. Add yourself to the [team page](https://rocket.chat/team).
 
 ## Applications and services
 
@@ -27,11 +27,11 @@ Join [open.rocket.chat](https://open.rocket.chat) and ask your manager to add yo
 
 ## Rocket.Chat t-shirts
 
-[Indicate your t-shirt size and desired colors](https://docs.google.com/spreadsheets/d/1zjOnlscEeHy5F1a40dQ04ct96S49q9PJ-Y4pTNpBzrQ/edit?usp=sharing).  T-shirts will be shipped to you from Brazil if you work remotely.
+T-shirts will be shipped to you from Brazil if you work remotely and handed in-person when you come to the office the first time.
 
 ## Meeting the team
 
-If you are working remotely, we recommend you arrange meetings with Gabriel and at least nine other team members using the [team page](https://rocket.chat/team). Ensure that you speak to team members from a range of departments.
+If you are working remotely, we recommend you arrange meetings with Gabriel, Marcelo and at least your direct team members using the [team page](https://rocket.chat/team). Try to speak to other teams' members as well.
 
 ## Add yourself to the team page
 
