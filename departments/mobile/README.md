@@ -11,6 +11,10 @@ _Note: this document is still in progress, but everything that’s written here 
 - [Matheus Cardoso](https://open.rocket.chat/direct/matheus.cardoso), iOS Engineer
 - [Rafael Kellermann Streit](https://open.rocket.chat/direct/rafael.kellermann), iOS Engineer & Team Leader
 
+## Public Roadmap
+
+- [Q1 2019](https://forums.rocket.chat/t/2019-q1-mobile-team/2695)
+
 ## Basics
 
 ### Working Hours
