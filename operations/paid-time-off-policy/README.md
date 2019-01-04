@@ -10,7 +10,8 @@ Rocket.Chat encourages everyone to take some paid time off (PTO) off whenever yo
 4. For every period you decide to take off, you must request it no fewer than twice as many business days plus one. For example, assuming someone wants leave from June 4, 2018 until June 15, 2018 they would have to request PTO on or before May 4, 2018 (21 business days before) as this is a total of 10 business days.  Exceptions are listed on Types of Time Off, below.
 5. You are free to take some time off to go to the gym, go grocery shopping, take a nap, do household chores, help someone, etc. If something comes up or takes longer than expected, you have urgent tasks and you're able to communicate, just ensure the rest of the team knows and someone can pick up any of your urgent tasks.
 6. Being part of a global onsite/remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
-7. Don't forget to always check with your line manager and/or project manager before requesting time off. This is to ensure no deadlines are being overseen and to provide them with enough time to accommodate resources.
+7. Don't forget to always check with your line manager and/or project manager before requesting time off. This is to ensure no deadlines are being overseen and to provide them with enough time to accommodate resources. The following question will help determine if you may take time off: "During that time, will someone be able to take over your duties? Does this someone need training?"
+8. After the PTO has been approved, update your own calendar using Google's "out of office" feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
 
 ## Types of Time Off
 
