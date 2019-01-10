@@ -4,11 +4,7 @@ _Note: this document is still in progress, but everything that’s written here 
 
 ## Experts
 
-- [Filipe Alvarenga](https://open.rocket.chat/direct/filipe.alvarenga), iOS Engineer
 - [Filipe Brito](https://open.rocket.chat/direct/filipe.brito), Android Engineer
-- [Leonardo Aramaki](https://open.rocket.chat/direct/leonardo.aramaki), Android Engineer
-- [Lúcio Maciel](https://open.rocket.chat/direct/lucio.maciel), Android Engineer
-- [Matheus Cardoso](https://open.rocket.chat/direct/matheus.cardoso), iOS Engineer
 - [Rafael Kellermann Streit](https://open.rocket.chat/direct/rafael.kellermann), iOS Engineer & Team Leader
 
 ## Basics
