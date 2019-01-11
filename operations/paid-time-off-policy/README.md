@@ -5,7 +5,7 @@ Rocket.Chat encourages everyone to take some paid time off (PTO) off whenever yo
 ## PTO Guide
 
 1. You may take as many days off as you want, as long as your work is organised and in order, i.e. that your work or responsibilities are not compromised by your absence.
-2. We enforce a minimum of 20 days of vacation per year. This is not a benefit; this is our requirement for maintaining the team's health.
+2. We suggest between 10 and 30 days of vacation per year. 
 3. When you decide which days you want to take off, please request them in [BambooHR](https://rocketchat.bamboohr.com) so that everyone knows you will be away during that period.
 4. For every period you decide to take off, you must request it no fewer than twice as many business days plus one. For example, assuming someone wants leave from June 4, 2018 until June 15, 2018 they would have to request PTO on or before May 4, 2018 (21 business days before) as this is a total of 10 business days.  Exceptions are listed on Types of Time Off, below.
 5. You are free to take some time off to go to the gym, go grocery shopping, take a nap, do household chores, help someone, etc. If something comes up or takes longer than expected, you have urgent tasks and you're able to communicate, just ensure the rest of the team knows and someone can pick up any of your urgent tasks.
@@ -33,17 +33,3 @@ Other tips to avoid burnout include:
 - Take breaks during the day to eat healthy foods
 - Make time each day to increase blood and oxygen circulation which improves brain activity and functionality
 - Get plenty of restful sleep
-
-## Statutory Vacation Requirements
-
-### Brazil Employees
-
-Employees must take at least 30 vacation days. The days will accrue yearly starting 1 year after contract start date. If employees have not taken 30 days off before the work year ends they will be required to take the remainder of their 30 days off. There is no carry-over for unused vacation days.
-
-### US Employees
-
-The U.S. Fair Labor Standards Act (FLSA) does not require payment for time not worked such as vacations, sick leave or federal or other holidays, but employees are eligible for our Unlimited Time Off Policy.
-
-### Worldwide Contractors
-
-Contractors do not have statutory vacation requirements, but are eligible for our Unlimited Time Off Policy.
