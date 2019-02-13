@@ -4,14 +4,14 @@
 
 ||Community|Pro|Enterprise|
 |:-:|:-:|:-:|:-:|
-|**Minimal**|Best Effort|4 business days|1 business day|
-|**Normal**|Best Effort|24 hours|6 hours|
-|**Critical**|Best Effort|2 hours|30 minutes|
+|**Low**|Best Effort|4 business days|1 business day|
+|**Medium**|Best Effort|24 hours|6 hours|
+|**High (Critical)**|Best Effort|2 hours|30 minutes|
 
 ## Cloud Rocket.Chat instances
 
 ||Bronze|Silver|Gold|
 |:-:|:-:|:-:|:-:|
-|**Minimal**|4 business days|2 business days|1 business day|
-|**Normal**|24 hours|12 hours|6 hours|
-|**Critical**|2 hours|1 hour|30 minutes|
+|**Low**|4 business days|2 business days|1 business day|
+|**Medium**|24 hours|12 hours|6 hours|
+|**High (Critical)**|2 hours|1 hour|30 minutes|

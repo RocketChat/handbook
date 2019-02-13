@@ -1,15 +1,62 @@
 # Processes
 
-## Basic support workflow
+## Overview
 
-![](support_flow.png)
+Tickets can be created by a support agent directly inside OTRS (e.g., in cases such as phone calls or channel requests) or reach it from external ways: web or email.
 
-## Follow-up workflow
+Customers can create tickets on the [Support Portal](https://support.rocket.chat), provided they have a registered user (also known as a **named contact**. The number of named contacts available for a customer will depend on the support offering associated with the contractual service level). When creating a ticket, the user must select a **Type**, the **Subject**, add a **Text** with the description. Optionally, the user can add an **Attachment** and select the **Priority** level of the issue (if no priority is select, the ticket will be created as a **Low** priority issue).
 
-![](support_closed.png)
+There are four possible ticket types:
 
-In summary closed tickets should have one of three possible outcomes:
+1. `Feedback`
+2. `Problem`
+3. `Question`
+4. `Request`
 
-- If it's a **usability** issue, an existing document should be linked to the ticket and/or updated to reflect new knowledge
-- If it's a **functionality** issue, an existing GitHub feature request should be linked to the ticket and updated or a new one created to raise visibility to the customer request
-- If it's a **reliability** issue, an existing GitHub bug should be linked to the ticket and updated or a new one created to raise visibility to the problem reported
+The default type is **Question**.
+
+There are three priority levels:
+
+1. `High` (e.g., system down, main functions affected, large number of users unable to access, severe performance problems)
+2. `Medium` (e.g., essential functions affected, significant impact to system usage, inconsistent performance)
+3. `Low` (e.g., small impact to functions, low number of users affected, minor bugs, simple questions)
+
+Alternatively, emails sent to one of the email addresses below will reach OTRS as well:
+
+- `cloud.support@rocket.chat`
+- `omni@rocket.chat`
+- `support@rocket.chat`
+
+Tickets created by email **do not** have associated SLAs and are considered to be Community requests. Customers entitled to paid support **must** raise tickets on the Support Portal.
+
+## Working with OTRS
+
+An agent can see whether the ticket was created from a web request or email by checking the initial article created on the ticket. If the ticket was created through a web request, the initial article type will be **customer -- web request**. If the ticket was created through an email, the initial article type will be **customer - email-external**.
+
+New tickets can be seen on the [Agent Dashboard](https://otrs.rocket.chat/otrs/index.pl?Action=AgentDashboard), under the **New Tickets** widget. In order to help maintain consistency throughout the support team, please ensure the following columns are visible on the **New Tickets** widget:
+
+1. Created
+2. Changed
+3. Priority
+4. TicketNumber
+5. Title
+6. CustomerName
+7. Customer Company Name
+8. Age
+
+## Queues
+
+There are three main queues, with Support having three sub-queues:
+
+1. `Junk` (for spam and invalid tickets)
+2. `Sales` (for forwarding tickets to the sales team)
+3. `Support` (the main support queue)
+  - `Community` (for incoming email tickets)
+  - `Development` (for forwarding tickets to the development team)
+  - `OmniChannel` (for forwarding API requests to the OmniChannel team)
+
+All tickets with registered users and an SLA should be assigned to and worked in the main Support queue. If necessary during analysis, the tickets can be forwarded to the Development, OmniChannel or Sales queue. The agent should also assigned a new **Owner** to ensure the ticket is visible on the new responsible's dashboard. If no **Owner** is available or the agent is unsure, it should be set to **Admin OTRS**.
+
+## Best practices
+
+## Follow-up
