@@ -51,7 +51,7 @@
   description: Processes and guidelines for ensuring customer success.
   path: support/
   pages:
-    Partner Guide: partner/
+    Partner Guide: partner-guide/
     Processes: processes/
     SLAs: slas/
     System: systems/
