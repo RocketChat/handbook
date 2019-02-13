@@ -14,10 +14,14 @@ If you are the last to leave the office at any given day, here's a checklist you
 - Turn lights off. 
 - Don't worry about the windows on the meeting rooms.
 
+### Passage
+
+- Close the iron doors that go from the hallway to the passage.
+- Close and lock the door between the laundry area and the passage. 
+
 ### Kitchen / Laundry
 
-- Close and lock the iron door to the patio. Remove the keys and store on the kitchen's locker (in front of the fridge).
-- Close and lock the door between the laundry area and the passage. 
+- Close and lock the iron door to the patio. Remove the keys and store on the kitchen's locker.
 - Close and lock kitchen windows.
 - Lock the door between the kitchen and the laundry area.
 - Turn lights off.
