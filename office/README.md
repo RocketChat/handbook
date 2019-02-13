@@ -12,7 +12,7 @@ If you are the last to leave the office at any given day, here's a checklist you
 
 - Turn off all 5 air conditioners (two on the main room, one on each meeting room).
 - Turn lights off. 
-- Don't have to worry about the windows on the meeting rooms.
+- Don't worry about the windows on the meeting rooms.
 
 ### Kitchen / Laundry
 
