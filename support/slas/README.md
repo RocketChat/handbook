@@ -1,6 +1,6 @@
 # SLAs
 
-## Self-Managed Rocket.Chat instances
+## Self-Managed
 
 ||Community|Pro|Enterprise|
 |:-:|:-:|:-:|:-:|
@@ -8,7 +8,7 @@
 |**Medium**|Best Effort|24 hours|6 hours|
 |**High (Critical)**|Best Effort|2 hours|30 minutes|
 
-## Cloud Rocket.Chat instances
+## Cloud
 
 ||Bronze|Silver|Gold|
 |:-:|:-:|:-:|:-:|
