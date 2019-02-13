@@ -1,5 +1,9 @@
 # OFFICE RULES
 
+## Door and alarm pin codes
+
+If you don't have a pin code for the gate door, the office door or the alarm, contact Marcelo Schmidt ([@marcelo.schmidt](https://open.rocket.chat/direct/marcelo.schmidt)) to get your pin codes.
+
 ## Leaving the office
 
 If you are the last to leave the office at any given day, here's a checklist you have to follow before leaving:
