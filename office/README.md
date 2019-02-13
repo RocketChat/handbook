@@ -17,7 +17,9 @@ If you are the last to leave the office at any given day, here's a checklist you
 ### Kitchen / Laundry
 
 - Close and lock the iron door to the patio. Remove the keys and store on the kitchen's locker (in front of the fridge).
-- Close kitchen windows.
+- Close and lock the door between the laundry area and the passage. 
+- Close and lock kitchen windows.
+- Lock the door between the kitchen and the laundry area.
 - Turn lights off.
 
 ### Main office
