@@ -10,7 +10,7 @@ The Cloud version is hosted by Rocket.Chat in three paid versions: Bronze, Silve
 
 Usually, you can easily check whether a customer is using the Cloud version by checking the instance URL. A Cloud instance will follow the <https://company.rocket.chat> format. This is not always the case, as Silver and Gold plans are entitled to custom domains (e.g., <https://chat.company.com>).
 
-Cloud instances are managed by the Rocket.Chat Cloud Engineering Team. Customers have access to an administration area where a few operations can be performed, such as restarting the instance. The Cloud Console URL is <https://cloud-console.rocket.chat>. Support tickets can also be raised from the Cloud Console.
+Cloud instances are managed by the Rocket.Chat Cloud Engineering Team. Customers have access to an administration area where a few operations can be performed, such as restarting the instance. The Cloud Console URL is <https://cloud.rocket.chat>. Support tickets can also be raised from the Cloud Console.
 
 Customers usually sign up for a trial on the Cloud before deciding which version to subscribe to. The trial version is the full-featured (Gold) one.
 
