@@ -21,7 +21,7 @@ Discussion Channels
 Mailing lists 
 
 - [Security mailing list](mailto:security@rocket.chat) - all things related to security
-- [Privacy mailing list](mailto:privacy@rocket.chat) - all things related to privacy@rocket
+- [Privacy mailing list](mailto:privacy@rocket.chat) - all things related to privacy@rocket.chat
 - [GDPR mailing list](mailto:gdpr@rocket.chat) - special mailing list for GDPR inquiries, no longer used  
   
 Public
