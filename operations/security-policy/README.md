@@ -24,17 +24,17 @@ Rocket.Chat places a great emphasis on protecting its information. Such informat
 At Rocket.Chat, we aim to ensure at all times that information we manage is appropriately secured to protect against the consequences of breaches of confidentiality, failures of integrity or interruptions to the availability of that information.  
 
 Our objectives are:
-* We will meet all applicable requirements in properly protecting the information, including: laws, regulations, industry standards and contractual commitments 
+* We will meet all applicable requirements in properly protecting our information, including: laws, regulations, industry standards and contractual commitments 
 * The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against 
-* The cost of controls 
-* The impact of the controls on the effectiveness of business operations 
-* The risks against confidentiality, integrity and availability of the information 
+	* The cost of controls 
+	* The impact of the controls on the effectiveness of business operations 
+	* The risks against confidentiality, integrity and availability of the information 
 * We will ensure that these controls are accepted by all employees, vendors, service providers, representatives and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets
 * We will identify and mitigate any breaches to this policy.
 * We aim to continually improve our security practices over time.
 
 ### Applicability and Ratification
-This information security policy provides management direction and support for information security across the organisation. Specific, subsidiary information security policies, procedures and guidelines or are considered an integral part of this information security policy, because only when followed in its entirety, we can ensure the objectives of this policy are met.  
+This information security policy provides management direction and support for information security across the organisation. Specific, subsidiary information security policies, procedures and guidelines are considered an integral part of this information security policy, because only when followed in its entirety, we can ensure the objectives of this policy are met.  
 This policy has been ratified by Rocket.Chat´s management team and forms part of its policies and procedures.  
 It is applicable to and will be communicated to our staff, contractors, students and other relevant parties. 
 
@@ -65,8 +65,10 @@ The following are subpolicies related to specific areas and supplement the gener
 ## Organzation
 We maintain a [RASCI-chart](https://drive.google.com/file/d/10oSnNvSqx5OObvXyIjrAkOZLNFEc6n6d/view?usp=sharing) that contains the responsibilities around information security. 
 Conflicts of interest in these responsibilities must be avoided and tasks that create these conflicts be assigned to different persons. Where this is not possible, compensating controls (e.g. four-eyes principle) should be considered. 
-Current conflicting roles:
+
+Current conflicting roles identified:
 - The roles of data protection officer and security lead are currently taken by one person and cases of conflict of interest will be raised to the management team to resolve.
+
 The company maintains relevant contacts with authorities and agencies, those relevant for Rocket.Chat being mostly:
 - data protection agencies
 - NIST
@@ -75,21 +77,22 @@ The company maintains relevant contacts with authorities and agencies, those rel
 In project management, the project leads are responsible to ensure security is properly addressed in a project.
 
 ## Personnel Security
-All personnel is screened before entering a position and subject to a Terms of employment, including a duty of confidentiality.
+All personnel is screened before entering a position and subject to a Terms of employment, including a duty of confidentiality. The screening process is in relation to the applicable laws and regulations as well as the requirements of the position. All personnel is subject to contractual terms that describe their duties.
+The Information Security Team ensures that all personnel is aware of Rocket.Chat´s Security policies. Personnel that is leaving Rocket.Chat must certify that all assets have been returned to the company and then will be de-registered from the user directories.
 
-The details of these processes are implemented by the Human Resources Team.
-
-
+The details of these processes are implemented and the records kept by the Human Resources Team.
 
 ## Asset Management
-All assets must be inventoried. We maintain a list of all devices and all software used, including additional information.
+All assets must be inventoried. An asset is something of value for Rocket.Chat (e.g. information itself, a device, intellectual property). We maintain a list of all devices and all software used, including additional information relevant per type of asset. References to sublists for assets (e.g. virtual machine inventories, mobile device lists) are allowed and should be referenced. The amount of effort needed to maintain a detailed list of assets should correspond to the criticality of the asset.Assets must be returned to Rocket.Chat once an owner leaves the organization.
+Ownership of an asset and the risks associated with an asset are separated to focus on overarching risk mitigation without boundaries between assets.
+
+The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/1Nh8T3FP7QGR35jAdbd9j6HQnnirQDNcnC7X9Dg-Kdvo/edit?usp=sharing)
 
 ## Data Classification & Lifecycle Policy
 This section is about how we classify various elements of data and how to treat them regarding their criticality. You might have seen documents containing footers like "confidential" / "top secret", etc. This section focusses on general aspects of handling data.
 
 #### Scope:
-This data classification policy applies to all data and to all user-developed data sets and systems that may access these data, regardless of the environment where the data reside (including cloud systems, servers, personal computers, mobile devices, etc.). The policy applies regardless of the media on which data reside (including electronic, microfiche, printouts, CD, etc.) or the form they may take (text, graphics, video, voice, etc.).
-Your private opinion, e.g. what you share on social media under your personal name, is not in scope of this policy. You should always make clear if you are posting in the name of Rocket.Chat or privately, if the context leaves room for ambiguity.
+This data classification policy applies to all data and to all user-developed data sets and systems that may access these data, regardless of the environment where the data reside (including cloud systems, servers, personal computers, mobile devices, etc.). The policy applies regardless of the media on which data reside (including electronic, microfiche, printouts, CD, etc.) or the form they may take (text, graphics, video, voice, etc.) Your private opinion, e.g. what you share on social media under your personal name, is not in scope of this policy. You should always make clear if you are posting in the name of Rocket.Chat or privately, if the context leaves room for ambiguity.
 
 #### Classifications:
 All data you create, modify, receive or otherwise process in connection with Rocket.Chat, must be handled confidentially and protected according to the risk related to it. (Confidential Data). Your NDA includes more details on what is considered confidential and what not. We do not distinguish between various levels of confidentiality (like secret, top secret, super secret, ...).
@@ -98,42 +101,40 @@ An exception to confidentiality of data applies when the data in question is spe
 
 In case a customer has a different way of classifying data and we are required to follow the customer´s classification scheme (either by contract or because it is custom), then the customer classification scheme applies. (Customer Data Classification)
 
-
-#### Handling and marking of data:
+#### Handling and marking of data, incl. access control:
+Unless stated otherwise, the creator of data is considered its owner and has to ensure the provisions of this policy are followed. Our general policy is that access to data is denied by default within the company, unless the owner has authorized access to it (e.g. to an individual, to a role or to a group of individuals). This granting or changing of access must be logged and the access control lists regularly reviewed by the owner. This also means we follow the principle of discretionary access control, meaning that owners of data grant access to this data by themselves.
 
 Confidential data: 
-We generally do not tag or otherwise mark confidential information. Instead we store information in secure repositories and grant access to information only when there is a legitimate need to it ("need-to-know"-access). Other access must be prevented with the features of the tools you are using. E.g. you should set links to a file with the right sharing permission.
-Unless stated otherwise specifically, the creator of data is considered its owner and has to ensure the provisions of this policy are followed.
+We generally do not tag or otherwise mark confidential information. Instead we store information in secure repositories and grant access to information only when there is a legitimate need to it ("need-to-know"-access). Unauthorized access must be prevented with the features of the tools you are using. E.g. you should set links to a file with the correct sharing permission. 
 Before sharing confidential data with individuals outside the Rocket.Chat organization, an NDA must be signed. This NDA signature is the responsiblity of the HR team for employees and contractors and of the Sales team for potential clients and customers. In case you are in doubt of the existence of an NDA, contact these teams respectively before sharing confidential data.
 For confidential information shared from us to customers or other external parties (e.g. a slidedeck), you must tag it with the Rocket.Chat logo to indicate its origin and minimize intellectual property infringement. Where the context warrants an additional note to the recipient, you should consider putting a footer like "Confidential material. Do not reproduce" on your document. Secure ways of sharing data (e.g. PGP-encrypted mailing, end-to-end encrypted channels on Rocket.Chat) should be preferred.
+For sending confidential material via hardcopy, only use legitimate mail services and avoid marking that draws attention to the content of the package.
 
 Public data: 
-Public data is not marked specifically, instead it is characterized as being public when you put it on a place where the intended audience can access it (e.g. on our website or a public GitHub repository). Consider that all data you put on the web is potentially replicated in other places (e.g. wayback machine, reupload on youtube, etc.) so be sure to check in advance if the data in question is really intended to be public.
+Public data is also not marked specifically, instead it is characterized as being public when you put it on a place where the intended audience can access it (e.g. on our website or a public GitHub repository). To distinguish public data and confidential data, consider where it is being placed. Consider also that all data you put on the web is potentially replicated in other places (e.g. wayback machine, reupload on youtube, etc.) so be sure to check in advance if the data in question is really intended to be public.
 
 Customer Data Classification:
-For information that is received from customers or regularly exchanged with them (e.g. slidedecks, RFQs, etc.) stick to the customer´s classification method.
+For information that is received from customers or regularly exchanged with them (e.g. slidedecks, RFQs, etc.) stick to the customer´s classification method and mark it appropriately.
 
 Other handling and marking methods depending on tools and systems you use:
-When you work with specific tools and systems, these systems often come with their own classification schemes (e.g. GitHub Public vs Private Repositories). You should use these classification mechanisms in the spirit of this policy and the context of how you use the system.
-
+When you work with specific tools and systems, these systems often come with their own classification schemes (e.g. GitHub Public vs Private Repositories) and mechanisms (access control lists, metadata, etc.). You should use these classification mechanisms in the spirit of this policy and the context of how you use the system.
 
 #### Deletion of data:
-Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. for legal reasons). 
-Public data generally does not need to be deleted since the risk associated with it is low and our external audience often expects this data to be available (e.g. in our public source code repositories).
-
+Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. for legal reasons). Use secure methods for deleting data, e.g. [DBAN](https://dban.org/) Contact the security team in case you are in doubt of deleting data. Public data generally does not need to be deleted since the risk associated with it is low and our external audience often expects this data to be available (e.g. in our public source code repositories).
 
 ## Acceptable Use 
 This section is about general acceptable use of equipment, systems, the internet, etc. when you are using those in a capacity for Rocket.Chat. We have additional, specific policies for device types, which are presented in the upcoming sections.
 
 #### Applicability:
-This policy applies to assets, when these assets are provided by Rocket.Chat or when they are provided by you but when used in the name of Rocket.Chat. 
+This policy applies to assets, when these assets are provided by Rocket.Chat or when they are provided by you and used in the name of Rocket.Chat. 
 Assets are: Internet/Intranet/Extranet-related systems, including but not limited to computer equipment, software, operating systems, storage media, network accounts providing electronic mail, WWW browsing, and FTP.
 It does not apply to the usage of e.g. your private internet at home when not working for Rocket.Chat.
 
 #### Acceptable Use:
-Assets must only be used for business purposes in serving the interests of the company, and of our clients and customers in the course of normal operations. You are responsible for exercising good judgment regarding the reasonability of personal use. 
+Assets must primarily be used for business purposes in serving the interests of the company, and of our clients and customers in the course of normal operations. You are responsible for exercising good judgment regarding the reasonability of personal use. Personal use may never endanger the objectives of our policies (e.g. via actions regarded as unacceptable use)
 
 #### Unacceptable Use:
+The following are examples of unacceptable use:
 * Violations of the law or of rights of any person or company, e.g. copyrights, patents, trademarks
 * Accessing data, a server or an account for any purpose other than conducting company business
 * Exporting technology in violation of international or regional export control laws
@@ -150,27 +151,26 @@ For security and network maintenance purposes, authorized individuals within Roc
 
 ## Device & Portable Storage Security
 
-Our general policy is that everyone is responsible to secure their workstation by themselves. We do not enforce group policies, software whitelisting, or such. This means in turn that you must be taking a greater amount of care to secure your workstation.
+Our general policy is that everyone is responsible to secure their workstation by themselves. We do not enforce group policies, software whitelisting, or such. This means in turn that you yourself must be taking a greater amount of care to secure your workstation.
 
 #### General
-
 Applicable to all devices:
 - Keep your workstation in a secure environment (e.g. a locked room or building). 
 - Always lock your workstation screen when leaving it. 
 - Store all important or sensitive information on network drives (e.g. GSuite). 
 - Keep your antivirus and antimalware protection up to date at all times and with daily definition updates
 - Keep on updating your operating system and local software to the latest version as soon as it becomes available. 
-- In case of a virus/malware warning, run a full scan and resolve all findings. Run a full check at least monthly. 
+- Run a full anti-malware check at least monthly. 
+- In case of a virus/malware warning, run a full scan and resolve all findings. 
 - Use software and OS that still receive security updates from their vendors. 
-- Do not install software that could cause security risks. You are responsible to determine if a new software you are about to install poses a security risk.
+- Do not install software that could cause security risks (e.g. not from official app stores). You are responsible to determine if a new software you are about to install poses a security risk.
 - Limit your privileges to what is necessary (e.g. do not run programs with administrator privileges that do not need them). 
-- When decommissioning a workstation, securely wipe it with DBAN or an alternative (factory reset) before using it in another way (e.g. selling it).
+- When decommissioning a workstation, securely wipe it with DBAN or an alternative (e.g. factory reset) before using it in another way (e.g. selling it).
 
-#### Mobile Specifics
+#### Mobile Device Specifics
 - Install at least one authenticator app to allow for multifactor authentication
 - No jailbreak / rooted devices
 - Do not store business information outside of apps (e.g. in the download folder), instead keep information inside the native apps and use the app-side browser to view and modify information.
-
 
 #### Portable Storage
 Portable Storage (e.g. USB sticks, external HDDs) creates some additional risks, especially to availability of information and the risk of theft. That is why portable storage is generally not allowed to be used for Rocket.Chat information. 
@@ -192,38 +192,45 @@ Instead of using portable storage, you should always use shared network resource
 
 Additional rules apply if you work remotely:
 - Configure a secure home network, you can use a guide like: 
-       https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c
-       https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/
+	- [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c)
+	- [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
 - Use VPN when working outside of your home office (e.g. in a coffee shop)
 - Block sight lines of others, so that only you can see your screen when it contains confidential information
 - Keep printouts with work data to an absolute minimum and destroy them securely once done. In general, most of your work should be done paperless.
 - Keep your workstation secure at all times (e.g. not leave it in a car)
 
+## Cryptography
+Cryptographic requirements are adressed in the other parts of the subpolicies and must follow the general principles as described by [OWASP](https://www.owasp.org/index.php/Guide_to_Cryptography)
+Cryptography in our products will be described in the product documentation.
+
 ## Password & Secrets Policy
-- Always use strong passwords, as described e.g. here. https://www.fpainc.com/blog/password-guidelines-from-nist
+- Always use strong passwords, as described e.g. [here.](https://www.fpainc.com/blog/password-guidelines-from-nist)
 - Always reset your password if you have suspicion of it being compromised. 
 - Never share your passwords with anyone. Credential sharing is not allowed. An exception to this applies if the password is shared by nature. 
-- Always keep your passwords in a secure and encrypted location like your password manager or your head.
+- Always keep your passwords in a secure and encrypted location like your password manager (preferred) or your head.
 
 ## Authentication Policy
-Your main account is your rocket.chat account. As you will work with many tools and services, authentication is critical.
+Access to confidential Rocket.Chat data is only allowed after successfully and securely authenticating an individual. Your main account is your rocket.chat account and serves as your main digital identity. You will receive your account during your onboarding process as well as other, potentially needed digital identities.
 
-You should always use your firstname.lastname@rocket.chat identity. Exceptions apply when you are testing out a service or you specifically want to access the service under a pseudonym.
+You should always use your firstname.lastname@rocket.chat identity. Exceptions apply when you are testing out a service or you specifically want to access the service under a pseudonym. You may not circumvent authentication or use different identities unless this is specifically part of your duties.
 
-In terms of authentication methods,  always prefer using SSO/SAML authentication where possible. Since your identity is tied to a Google account, you can also click on the "Sign up with Google" button or similar phrasing, in case SAML/SSO is not available. If you get an error when authenticating via SAML or SSO, contact the person who invited you to enable it properly.
+In terms of authentication methods,  you should always opt for using SSO/SAML authentication where possible. Since your identity is tied to a Google account, you can also click on the "Sign up with Google" button or similar phrasing, in case SAML/SSO is not available. If you get an error when authenticating via SAML or SSO, contact the person who invited you to enable it properly.
 
-2-Factor- or Multifactor-Authentication is required before accessing critical assets.
+2-Factor- or Multifactor-Authentication is required before accessing critical assets and will be set as mandatory there.
+
+## Change Management
+
+Changes to assets should only occur when a change is necessary. All changes must be controlled. All changes related to source code must occur through the authorized version control system (e.g. GitHub). In case a change is urgent, the change control process may be shortened by decision of management, in order to mitigate potential damages to the organization.
 
 ## Accessing Customer Data 
 
 For access to customer data, you must adhere to the following:
 
 You may only access customer data if 
-- the customer specifically requests it (e.g. support request) or 
+- the customer specifically requests it (e.g. support request) *or* 
 - when it is necessary for us to fulfill our contractual obligations (e.g. to act proactively to prevent an instance from failing)
 
-Access is strictly limited to the data needed to fulfill the request. When you do not need access to customer data, you may not access it. You may not access data of other tenants.
-No customer data may be extracted unless this is strictly requested by the customer. All data extracted must be stored safely and deleted when it is no longer necessary.
+Access is strictly limited to the data needed to fulfill the request. You may not access data of other tenants. No customer data may be extracted unless this is strictly requested by the customer. All data extracted must be stored safely and deleted when it is no longer necessary.
 
 You must terminate the session immediately after the reason for your access has been resolved.
 You must as soon as possible inform the customer of the outcome of your access.
@@ -238,7 +245,6 @@ Examples of incidents include:
 - ransomware attack 
 - email with confidential data sent to wrong recipient
 - law enforcement requests to disclose data of customers
-
 
 Incident Process:
 1) Logging the incident
@@ -289,6 +295,8 @@ Suppliers accessing or processing Rocket.Chat data must be subject to an NDA or 
 #### Supplier compliance:
 Supplier compliance is assessed on a risk-based approach and against the requirements of our security policies. Suppliers must demonstrate the same level of compliance for their supply chain.
 
+## Auditing
 
+The Information Security Team will audit the design and implementation of these policies on a regular basis, with a focus on risks identified in the risk management process. Where a potential conflict of interest takes place, the audit will be delegated to another individual with such conflict or other compensating controls be taken.
 
 
