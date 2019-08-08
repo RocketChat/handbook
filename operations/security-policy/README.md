@@ -26,9 +26,9 @@ At Rocket.Chat, we aim to ensure at all times that information we manage is appr
 Our objectives are:
 * We will meet all applicable requirements in properly protecting our information, including: laws, regulations, industry standards and contractual commitments
 * The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against
-	* The cost of controls
-	* The impact of the controls on the effectiveness of business operations
-	* The risks against confidentiality, integrity and availability of the information
+   * The cost of controls
+   * The impact of the controls on the effectiveness of business operations
+   * The risks against confidentiality, integrity and availability of the information
 * We will ensure that these controls are accepted by all employees, vendors, service providers, representatives and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets
 * We will identify and mitigate any breaches to this policy.
 * We aim to continually improve our security practices over time.
@@ -71,13 +71,16 @@ We maintain a [RASCI-chart](https://drive.google.com/file/d/10oSnNvSqx5OObvXyIjr
 Conflicts of interest in these responsibilities must be avoided and tasks that create these conflicts be assigned to different persons. Where this is not possible, compensating controls (e.g. four-eyes principle) should be considered.
 
 Current conflicting roles identified:
+
 - The roles of data protection officer and security lead are currently taken by one person and cases of conflict of interest will be raised to the management team to resolve.
 
 The company maintains relevant contacts with authorities and agencies, those relevant for Rocket.Chat being mostly:
+
 - data protection agencies
 - NIST
 - ISO
 - Open Source Community
+
 In project management, the project leads are responsible to ensure security is properly addressed in a project.
 
 ## Personnel Security
@@ -150,6 +153,7 @@ Assets must primarily be used for business purposes in serving the interests of 
 ### Unacceptable Use:
 
 The following are examples of unacceptable use:
+
 * Violations of the law or of rights of any person or company, e.g. copyrights, patents, trademarks
 * Accessing data, a server or an account for any purpose other than conducting company business
 * Exporting technology in violation of international or regional export control laws
@@ -172,6 +176,7 @@ Our general policy is that everyone is responsible to secure their workstation b
 ### General
 
 Applicable to all devices:
+
 - Keep your workstation in a secure environment (e.g. a locked room or building).
 - Always lock your workstation screen when leaving it.
 - Store all important or sensitive information on network drives (e.g. GSuite).
@@ -194,9 +199,11 @@ Applicable to all devices:
 
 Portable Storage (e.g. USB sticks, external HDDs) creates some additional risks, especially to availability of information and the risk of theft. That is why portable storage is generally not allowed to be used for Rocket.Chat information.
 You may use portable storage in limited circumstances when you have custody of the device (e.g. you own it) and it is used:
+
 - for non-sensitive purposes (e.g. marketing material to be shared with a customer on a USB stick)
 - for encrypted backups of your workstation
 - to extend the storage of your mobile devices
+
 Portable storage you acquire in a used state or not directly from a vendor (e.g. a gift you received, lost & found devices) may never be connected to your devices and should be returned or destroyed because they could be infected with Malware, even after wiping them.
 Instead of using portable storage, you should always use shared network resources (e.g. GSuite).
 
@@ -210,9 +217,10 @@ Instead of using portable storage, you should always use shared network resource
 ### Homeoffice / Remote Work
 
 Additional rules apply if you work remotely:
+
 - Configure a secure home network, you can use a guide like:
-	- [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c)
-	- [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
+   - [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c)
+   - [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
 - Use VPN when working outside of your home office (e.g. in a coffee shop)
 - Block sight lines of others, so that only you can see your screen when it contains confidential information
 - Keep printouts with work data to an absolute minimum and destroy them securely once done. In general, most of your work should be done paperless.
@@ -249,6 +257,7 @@ Changes to assets should only occur when a change is necessary. All changes must
 For access to customer data, you must adhere to the following:
 
 You may only access customer data if
+
 - the customer specifically requests it (e.g. support request) *or*
 - when it is necessary for us to fulfill our contractual obligations (e.g. to act proactively to prevent an instance from failing)
 
@@ -262,6 +271,7 @@ You must as soon as possible inform the customer of the outcome of your access.
 An incident is any event that has the potential to affect the confidentiality, integrity or availability of Rocket.Chat information, in any format, or IT systems in which this information is held. Violations of laws, policies, contractual obligations or also external requests should also be considered as incidents in this sense.
 
 Examples of incidents include:
+
 - lost devices
 - a suspicious and successful log in
 - malware incident
@@ -270,6 +280,7 @@ Examples of incidents include:
 - law enforcement requests to disclose data of customers
 
 Incident Process:
+
 1) Logging the incident
 2) Assigning it to the proper team to investigate
 3) Triage
