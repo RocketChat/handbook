@@ -25,14 +25,11 @@ At Rocket.Chat, we aim to ensure at all times that information we manage is appr
 
 Our objectives are:
 
-* We will meet all applicable requirements in properly protecting our information, including: laws, regulations, industry standards and contractual commitments
-* The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against
-  * The cost of controls
-  * The impact of the controls on the effectiveness of business operations
-  * The risks against confidentiality, integrity and availability of the information
-* We will ensure that these controls are accepted by all employees, vendors, service providers, representatives and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets
-* We will identify and mitigate any breaches to this policy.
-* We aim to continually improve our security practices over time.
+- We will meet all applicable requirements in properly protecting our information, including: laws, regulations, industry standards and contractual commitments
+- The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against the cost of controls, the impact of the controls on the effectiveness of business operations and the risks against confidentiality, integrity and availability of the information
+- We will ensure that these controls are accepted by all employees, vendors, service providers, representatives and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets
+- We will identify and mitigate any breaches to this policy.
+- We aim to continually improve our security practices over time.
 
 ### Applicability and Ratification
 
