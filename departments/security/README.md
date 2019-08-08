@@ -40,6 +40,7 @@ Playbooks help us to standardize certain processes around security and enable tr
 ## Incident Management
 
 We follow the following incident management process:
+
 1. Once we have identified a potential security incident (e.g. by an alert, by an issue or a customer complaint), we log it in our task-tracking tool (currently Asana). You should link to background information, e.g. a support ticket.
 2. As a next step it must be assigned to the proper team and added to the project "Incidents & Vulnerabilities".  Also add the source of the incident as a tag (e.g. hackerone), if possible. If you are unsure to whom to assign it to, assign it to the security lead.
 3. As a next step, the incident is triaged, meaning: it gets evaluated for its priority- low, medium or high. Also set a proper due date for the incident to be resolved. We want to resolve incidents as quickly as possible, but to manage our risks effectively, we focus on high priority incidents first. External criteria like customer specifications of priority or CVE-numbers are taken into consideration in the triage process, but can be modified where the context allows. Triaging may also result in the finding that no incident exists.
@@ -74,6 +75,7 @@ We differentiate if the code affected is open-source or closed-source. When a di
 ### Open Source Vulnerability
 
 The same process as Closed Source Vulnerabilities, except:
+
 1. phrase the PullRequests in a non-sensitive and technology-focussed way that explains what was changed
 2. do not include keywords like "XSS", "hacker", "exploit"
 
