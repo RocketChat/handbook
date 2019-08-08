@@ -300,3 +300,4 @@ Supplier compliance is assessed on a risk-based approach and against the require
 The Information Security Team will audit the design and implementation of these policies on a regular basis, with a focus on risks identified in the risk management process. Where a potential conflict of interest takes place, the audit will be delegated to another individual with such conflict or other compensating controls be taken.
 
 
+
