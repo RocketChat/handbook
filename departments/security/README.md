@@ -1,6 +1,6 @@
 # Security
 
-Security is very important for Rocket.Chat. Not only for our product but we ourselves have to stick to good security practices to keep our information secure. Also our customers and community expect that we keep their information secure. 
+Security is very important for Rocket.Chat. Not only for our product but we ourselves have to stick to good security practices to keep our information secure. Also our customers and community expect that we keep their information secure.
 
 ## Contacts
 
@@ -16,14 +16,14 @@ Objective of the security team is to help everyone to keep Rocket.Chat and our c
 Discussion Channels
 
 - [RC security channel](https://open.rocket.chat/group/rocketchat-security) - day-to-day conversation, invite on request
-- [RC important](https://open.rocket.chat/group/important) - company-wide announcements  
-  
-Mailing lists 
+- [RC important](https://open.rocket.chat/group/important) - company-wide announcements
+
+Mailing lists
 
 - [Security mailing list](mailto:security@rocket.chat) - all things related to security
 - [Privacy mailing list](mailto:privacy@rocket.chat) - all things related to privacy@rocket.chat
-- [GDPR mailing list](mailto:gdpr@rocket.chat) - special mailing list for GDPR inquiries, no longer used  
-  
+- [GDPR mailing list](mailto:gdpr@rocket.chat) - special mailing list for GDPR inquiries, no longer used
+
 Public
 
 - [Security solutions](https://rocket.chat/security) - summary of security features of the product
@@ -33,11 +33,9 @@ Public
 
 See [Security Policies](https://rocket.chat/handbook/operations/security-policy/)
 
-
 ## Playbooks
 
 Playbooks help us to standardize certain processes around security and enable transparency on how we work.
-
 
 ## Incident Management
 
@@ -55,6 +53,7 @@ We follow the following incident management process:
 We differentiate if the code affected is open-source or closed-source. When a disclosure happens, we should assume that attacking starts immediately.
 
 ### Closed Source Vulnerability
+
 1. Create a vulnerability disclosure task in Asana, link it to the vulnerability task if needed
 2. First phase - on the release day or upcoming days
 - Update our hosting (cloud) client's servers
@@ -73,10 +72,10 @@ We differentiate if the code affected is open-source or closed-source. When a di
 9. Close task
 
 ### Open Source Vulnerability
+
 The same process as Closed Source Vulnerabilities, except:
 1. phrase the PullRequests in a non-sensitive and technology-focussed way that explains what was changed
 2. do not include keywords like "XSS", "hacker", "exploit"
-
 
 ## Hackerone
 
@@ -93,6 +92,3 @@ to be added
 ## Task & Project Management
 
 to be added
-
-
-
