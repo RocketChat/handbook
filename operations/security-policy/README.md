@@ -24,11 +24,12 @@ Rocket.Chat places a great emphasis on protecting its information. Such informat
 At Rocket.Chat, we aim to ensure at all times that information we manage is appropriately secured to protect against the consequences of breaches of confidentiality, failures of integrity or interruptions to the availability of that information.
 
 Our objectives are:
+
 * We will meet all applicable requirements in properly protecting our information, including: laws, regulations, industry standards and contractual commitments
 * The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against
-   * The cost of controls
-   * The impact of the controls on the effectiveness of business operations
-   * The risks against confidentiality, integrity and availability of the information
+  * The cost of controls
+  * The impact of the controls on the effectiveness of business operations
+  * The risks against confidentiality, integrity and availability of the information
 * We will ensure that these controls are accepted by all employees, vendors, service providers, representatives and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets
 * We will identify and mitigate any breaches to this policy.
 * We aim to continually improve our security practices over time.
@@ -219,8 +220,8 @@ Instead of using portable storage, you should always use shared network resource
 Additional rules apply if you work remotely:
 
 - Configure a secure home network, you can use a guide like:
-   - [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c)
-   - [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
+  - [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c)
+  - [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
 - Use VPN when working outside of your home office (e.g. in a coffee shop)
 - Block sight lines of others, so that only you can see your screen when it contains confidential information
 - Keep printouts with work data to an absolute minimum and destroy them securely once done. In general, most of your work should be done paperless.
