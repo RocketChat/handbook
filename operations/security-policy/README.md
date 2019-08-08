@@ -216,9 +216,7 @@ Instead of using portable storage, you should always use shared network resource
 
 Additional rules apply if you work remotely:
 
-- Configure a secure home network, you can use a guide like:
-  - [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c)
-  - [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
+- Configure a secure home network, you can use a guide like: [link 1](https://hackernoon.com/how-to-set-up-a-secure-home-network-a3d0f829fd6c) or [link 2](https://www.makeuseof.com/tag/configure-router-make-home-network-really-secure/)
 - Use VPN when working outside of your home office (e.g. in a coffee shop)
 - Block sight lines of others, so that only you can see your screen when it contains confidential information
 - Keep printouts with work data to an absolute minimum and destroy them securely once done. In general, most of your work should be done paperless.
