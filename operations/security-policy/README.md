@@ -154,14 +154,14 @@ Assets must primarily be used for business purposes in serving the interests of 
 
 The following are examples of unacceptable use:
 
-* Violations of the law or of rights of any person or company, e.g. copyrights, patents, trademarks
-* Accessing data, a server or an account for any purpose other than conducting company business
-* Exporting technology in violation of international or regional export control laws
-* Introduction of malicious programs into the network or server
-* Revealing your account password to others or allowing use of your account by others. This includes family and other household members when work is being done at home.
-* Making statements about warranty, expressly or implied, unless it is a part of normal job duties
-* Effecting security breaches or disruptions of network communication, e.g. port scanning or security scanning
-* Circumventing user authentication or security of any host, network or account.
+- Violations of the law or of rights of any person or company, e.g. copyrights, patents, trademarks
+- Accessing data, a server or an account for any purpose other than conducting company business
+- Exporting technology in violation of international or regional export control laws
+- Introduction of malicious programs into the network or server
+- Revealing your account password to others or allowing use of your account by others. This includes family and other household members when work is being done at home.
+- Making statements about warranty, expressly or implied, unless it is a part of normal job duties
+- Effecting security breaches or disruptions of network communication, e.g. port scanning or security scanning
+- Circumventing user authentication or security of any host, network or account.
 
 Certain exceptions to the items listed under acceptable use apply when such behaviour listed is expressly part of your job duties (e.g. to perform vulnerability scanning) or with prior authorization of senior management.
 
