@@ -1,19 +1,17 @@
-Job Descriptions
-==================================
+# Job Descriptions
 
 This is to be used by all leadership team. We have to fill it up to every position that you have in your team.
 
-Note, that it is a good tool to help you even when you don't have a member of a team. 
-It will be very useful when you decide to open a position for your team. 
+Note, that it is a good tool to help you even when you don't have a member of a team.
+It will be very useful when you decide to open a position for your team.
 So it will be more clear to recruit and also, to engage more the candidate in your job description, and for last join the company.
 
-When do I have to use? 
-Every new member of your team must have one.
-Also, everytime that someone has any position movement done, it will be required. 
-It's the main tool of your onboarding team to use as a development strategy.
+When do I have to use?
+- Every new member of your team must have one.
+- Also, everytime that someone has any position movement done, it will be required.
+- It's the main tool of your onboarding team to use as a development strategy.
 
-
-We suggest this work flow:
+We suggest this workflow:
 1. Leader creates a version in Github
 2. Leader defines/ fills up every Welcoming Talk to each position already opened in his/her team
 3. Send to People Operations (HR) to  help the validation
@@ -21,13 +19,17 @@ We suggest this work flow:
 
 In the future we will use, also, to development and move people from different areas. As long as everyone knows what are the skills and key activities to need in each position, it will be easier to create an action/development plan to achieve what the position requires.
 
-Role Expectation - Standart
+## Job Descriptions Creation Guide
+
+### Identification
 
 Position name:
 Area:
 Leader:
 Team Member:
 Date:
+
+### Questions
 
 #### 1. PURPOSE OF THE AREA
 
