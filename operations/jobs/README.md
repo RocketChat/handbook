@@ -7,11 +7,13 @@ It will be very useful when you decide to open a position for your team.
 So it will be more clear to recruit and also, to engage more the candidate in your job description, and for last join the company.
 
 When do I have to use?
+
 - Every new member of your team must have one.
 - Also, everytime that someone has any position movement done, it will be required.
 - It's the main tool of your onboarding team to use as a development strategy.
 
 We suggest this workflow:
+
 1. Leader creates a version in Github
 2. Leader defines/ fills up every Welcoming Talk to each position already opened in his/her team
 3. Send to People Operations (HR) to  help the validation
@@ -33,7 +35,7 @@ Please inform Job Role Name, Area, Leader.
 
 #### 2. CHALLENGES
 
-- What are the biggest challenges in our area in which you will be involved? 
+- What are the biggest challenges in our area in which you will be involved?
 - What indicators can be impacted by your performance?
 
 #### 3. PURPOSE OF THE LEADERSHIP
@@ -49,11 +51,11 @@ Please inform Job Role Name, Area, Leader.
 - What do I expect in terms of performance? Metrics, Deliveries
 - Suggest: Fill up with "macro"goals. Use the 1:1 tool to do the follow up of all metrics, projects, deliveries, and area goals.
 - Remember: For the safety and strategic decisions, we do not want to show to all world ours main KPIs (key performance indicator) and KRA (key results area).
- 
+
 #### 6. KEY SKILLS
 
 - What skills are needed to carry out the key activities - which ones do I need to look more closely at, follow and guide?
-  
+
 #### 7. VALUES AND RULES OF BEHAVIOR
 
 - What attitudes and behaviors are unacceptable and what do they reinforce our Culture and should I follow closely?
