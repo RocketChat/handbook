@@ -1,6 +1,8 @@
 ### Identification
 
-Junior Recruitment Analyst , People, Otávio Torres.
+Position: Junior Recruitment Analyst
+Area: People,
+Leader: Otávio Torres.
 
 ### Definitions
 
@@ -8,7 +10,7 @@ Junior Recruitment Analyst , People, Otávio Torres.
 
 - Recruit, Develop and Retain Talent the Best People
 - Ensure that organizational culture is always present and alive
-- Improve the work environment and engage the entire CIA in projects and objectives.
+- Improve the work environment and engage the entire company in projects and objectives.
 - Support and seek ways to recognize People and Teams
 
 
