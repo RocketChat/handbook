@@ -4,11 +4,13 @@
 
 ### Identification
 
-Position: Security Lead  
-Area: Security  
+Position: Security Lead
+Area: Security
 Lead: Markus Kirsch
 
 ### Definitions
+
+These are the definitions of the position.
 
 #### 1. PURPOSE OF THE AREA
 
