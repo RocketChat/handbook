@@ -27,7 +27,6 @@ These are the definitions of the position.
 - Position Rocket.Chat as a trusted and secure company, partner and employer
 - Manage security risks as an integral part of our internal processes, including development
 
-
 #### 4. KEY ACTIVITIES
 
 - Demonstrating security to customers
@@ -40,7 +39,7 @@ These are the definitions of the position.
 #### 5. PERFORMANCE STANDARDS
 
 - Manage a healthy vulnerability management program, incl. maintaining disclosure time limits and at least all public code covered
-- Certify Rocket.Chat according to industry standards and customer demand and maintain such certification 
+- Certify Rocket.Chat according to industry standards and customer demand and maintain such certification
 - bring risk exposure to an acceptable threshold
 
 #### 6. KEY SKILLS
