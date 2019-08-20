@@ -63,7 +63,7 @@ The implementation of the information security policy shall be reviewed independ
 
 The following are subpolicies related to specific areas and supplement the general policy.
 
-## Organzation
+## Organization
 
 We maintain a [RASCI-chart](https://drive.google.com/file/d/10oSnNvSqx5OObvXyIjrAkOZLNFEc6n6d/view?usp=sharing) that contains the responsibilities around information security.
 Conflicts of interest in these responsibilities must be avoided and tasks that create these conflicts be assigned to different persons. Where this is not possible, compensating controls (e.g. four-eyes principle) should be considered.
@@ -277,12 +277,12 @@ Examples of incidents include:
 
 Incident Process:
 
-1) Logging the incident
-2) Assigning it to the proper team to investigate
-3) Triage
-4) Escalation (if needed)
-5) Resolution, including implementation, testing, as well as reaching out to other parties necessary. Before advancing, the affected user or customer must also be in agreement that the incident has been resolved.
-6) Closing
+1. Logging the incident
+2. Assigning it to the proper team to investigate
+3. Triage
+4. Escalation (if needed)
+5. Resolution, including implementation, testing, as well as reaching out to other parties necessary. Before advancing, the affected user or customer must also be in agreement that the incident has been resolved.
+6. Closing
 
 The Security Team will produce metrics on the incidents occurring in order to reduce their occurrence and improve our process.
 

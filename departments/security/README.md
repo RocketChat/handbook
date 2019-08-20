@@ -65,7 +65,7 @@ We differentiate if the code affected is open-source or closed-source. When a di
 4. Third phase - latest 30 days after the release
 - In case the instance was not updated: Notify the administrator via banner system
 - in case the app was not updated: notify the user via banner system
-- Add the fix to our page of security fixes (to be added
+- Add the fix to our page of security fixes (to be added)
 5. Fourth phase - latest 90 days after the release
 6. Inform/Allow the disclosure of the breach details by the external reporter
 7. Give credit on HackerOne and on WhiteHat List on our Website
