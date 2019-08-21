@@ -20,26 +20,29 @@ These are the definitions of the position.
 #### 2. CHALLENGES
 
 - External: Security is largely influenced by external factors (technology developments, regulations & standards, market trends)
-- Internal: Building, maintaining and growing security-conscious behaviours in the company is a challenge especially during company growth (new team members)
+- Internal: Building, maintaining and growing security-conscious behaviours in the company is a challenge especially during company growth (new team members), promoting team engagement, defining appropriate KPIs aligned with objevtives, supporting team development
 
 #### 3. PURPOSE OF THE LEADERSHIP
 
 - Position Rocket.Chat as a trusted and secure company, partner and employer
-- Manage security risks as an integral part of our internal processes, including development
+- Manage security risks as an integral part of our internal processes
 
 #### 4. KEY ACTIVITIES
 
-- Demonstrating security to customers
+- Demonstrating security and privacy to customers
 - identify, analyse and manage security risks
-- Implementing and performing internal security processes (e.g. vulnerability management)
+- Implementing, performing, measuring and improving internal security processes (e.g. vulnerability management)
 - liaising with external parties (e.g. white hat hackers)
 - raising security awareness and skill level in the company
 - Implement secure coding standards in the SDLC
+- Building an engaged team
+- Select and develop talent
 
 #### 5. PERFORMANCE STANDARDS
 
 - Manage a healthy vulnerability management program, incl. maintaining disclosure time limits and at least all public code covered
 - Certify Rocket.Chat according to industry standards and customer demand and maintain such certification
+- maintain an appropriate demonstration of security for customers
 - bring risk exposure to an acceptable threshold
 
 #### 6. KEY SKILLS
@@ -59,3 +62,4 @@ These are the definitions of the position.
 - Lead by Example
 - do not take shortcuts
 - fix the root cause rather than just the issue
+- put the right people on fitting positions when growing the team
