@@ -298,6 +298,7 @@ Disaster recovery means restoring vital support systems and is a subset of busin
 
 Disaster prevention is everyone´s responsibility. This means that every employee must actively prevent disasters from occurring and report potential risks of a disaster to management.
 Most controls to prevent disasters are taken on a system level by the respective system administrator and will be performed against a system specific control catalog (e.g. backup configuration). Since many of our systems rely on third party providers, following our policies for third parties is critical. Disaster Prevention controls include:
+
 - redundancy of the network in the office
 - preventing vendor lock-ins
 - chosing of trusted partners that provide an adequate level of security (e.g. SaaS providers)

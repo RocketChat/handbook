@@ -92,8 +92,10 @@ These are the definitions of the position.
 
 #### 3. PURPOSE OF THE LEADERSHIP
 
-- Position Rocket.Chat as a secure provider for our service offerings
-- Make securing our assets, incl. customer data, your prime mission
+- Make Rocket.Chat most secure Enterprise communication platform for millions of users
+- Beat hackers and cybercriminals to the task, always be one step ahead!
+- Choose your own toolchain. No predefined system restrictions, put your hands to the task YOUR way.
+- Find the needle in the haystack. Huge amounts of data to be analyzed, yet you have your clever ways to find and fix that one dangerous anomaly.
 
 #### 4. KEY ACTIVITIES
 
@@ -106,7 +108,7 @@ These are the definitions of the position.
 
 #### 5. PERFORMANCE STANDARDS
 
-- Create and set up a complete security event monitoring event process, covering all our service-related processes
+- Create and set up a complete security event monitoring event process incl. log management, covering all our service-related processes
 - Reduce the number of false positives to a minimum
 - bring risk exposure to an acceptable threshold
 
@@ -118,15 +120,15 @@ These are the definitions of the position.
 - Analytical problem solving
 - Ethics / Ability to deal with sensitive information
 - SIEM and SOC experience
-- Strong understanding of cloud technologies, administration
+- Strong understanding of cloud technologies and administration
 - Hands-on experience in Linux
+- beneficial: javascript experience
 
 #### 7. VALUES AND RULES OF BEHAVIOR
 
 - Do not ignore potential security alerts, make a habit of investigating them
-- Do not use sensitive information to the disadvantage of the company and our customers
+- You can be entrusted with sensitive information.
 - Create an environment where people speak up on security issues rather than ignoring them
 - Lead by Example
-- do not take shortcuts
-- fix the root cause rather than just the issue
+- do not take shortcuts, rather fix the root cause than just the issue
 - empower other teams to secure the company

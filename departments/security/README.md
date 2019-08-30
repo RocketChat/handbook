@@ -50,9 +50,9 @@ We follow the following incident management process:
 7. Re-occuring incidents or those indicating a deeper, critical root cause, may be analyzed as part of a problem management process. To start problem management, create a task in Asana.
 
 Our SLA for incidents is as follows:
-Time to first response - 5 days	
-Time to triage - 10 days	
-Time to resolution - 
+Time to first response: 5 days
+Time to triage: 10 days
+Time to resolution:
 
 - High: 30 days
 - Medium: 60 days
@@ -114,6 +114,7 @@ The same process as Closed Source Vulnerabilities, except:
 For pentesting, we use OWASP ZAP. OWASP ZAP is a Proxy server that allows for testing against common web application vulnerabilities. The relevant GDrive folder is [here](https://drive.google.com/drive/folders/1-3vERUvdNxrQsRM59RGoJN5bIIdT_HYh?usp=sharing).
 
 We use the following process:
+
 - Install the most recent version of OWASP ZAP on a local machine. Get it from the website.
 - Set up a test instance of Rocket.Chat with all features enabled with the most recent version
 - Use persistent session in OWASP ZAP
@@ -138,7 +139,7 @@ On a weekly basis, the security team reports the status of the current tasks and
 
 ## Task & Project Management
 
-Task and Project Management for Security occur in Asana. 
+Task and Project Management for Security occur in Asana.
 Security uses three projects:
 
 - Product Security: contains tasks that deal with the overall features and improvements of our products and services, e.g.: new features
@@ -147,7 +148,7 @@ Security uses three projects:
 
 Important security milestones are mirrored in the "Milestones" project of the company.
 Proper Tags should be added, especially to vulnerabilities. We mostly use the tags: hackerone, github, pentest
-Tasks involving security are often cross-referenced in other projects in Asana. Other teams requesting resources of the security team can simply create a task in Asana and assign it to one of the security members. 
+Tasks involving security are often cross-referenced in other projects in Asana. Other teams requesting resources of the security team can simply create a task in Asana and assign it to one of the security members.
 
 ## Static Code Analysis
 
