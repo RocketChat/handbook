@@ -275,7 +275,7 @@ Examples of incidents include:
 - email with confidential data sent to wrong recipient
 - law enforcement requests to disclose data of customers
 
-Incident Process:
+General Incident Process:
 
 1. Logging the incident
 2. Assigning it to the proper team to investigate
@@ -284,7 +284,7 @@ Incident Process:
 5. Resolution, including implementation, testing, as well as reaching out to other parties necessary. Before advancing, the affected user or customer must also be in agreement that the incident has been resolved.
 6. Closing
 
-The Security Team will produce metrics on the incidents occurring in order to reduce their occurrence and improve our process.
+The Security Team will produce metrics on the incidents occurring in order to reduce their occurrence and improve our process. The detailed process is in the playbooks section of the security team.
 
 Incidents happen and it is important for Rocket.Chat to be aware of them and taking proper action. In case you feel you are in a conflict of interest or in fear of potential repercussions of reporting an incident, you can confidentially contact the HR team or the Security team and your incident report will be submitted anonymously.
 
@@ -297,7 +297,12 @@ Disaster recovery means restoring vital support systems and is a subset of busin
 ### Disaster prevention:
 
 Disaster prevention is everyone´s responsibility. This means that every employee must actively prevent disasters from occurring and report potential risks of a disaster to management.
-Most controls to prevent disasters are taken on a system level by the respective system administrator and will be performed against a system specific control catalog (e.g. backup configuration). Since many of our systems rely on third party providers, following our policies for third parties is critical.
+Most controls to prevent disasters are taken on a system level by the respective system administrator and will be performed against a system specific control catalog (e.g. backup configuration). Since many of our systems rely on third party providers, following our policies for third parties is critical. Disaster Prevention controls include:
+
+- redundancy of the network in the office
+- preventing vendor lock-ins
+- chosing of trusted partners that provide an adequate level of security (e.g. SaaS providers)
+- storing data offsite and off-client
 
 ### Criticality ratings:
 
@@ -316,6 +321,10 @@ We will inform all affected employees via the Rocket.Chat channel "important" or
 ### Testing:
 
 Annually, we test our business continuity and disaster recovery capabilities. The scope and method of testing are related to our risk management process and decided by management. The results of these tests are shared in the company and may lead to updates to this policy.
+
+## Procurement
+
+All Systems procured must comply with defined information security requirements. Those requirements are defined before a procurement decision is made,
 
 ## Supplier Relationships
 
