@@ -1,8 +1,8 @@
-### Identification
+# Identification
 
 Position: Junior Recruitment Analyst
-Area: People,
-Leader: Otávio Torres.
+Area: People
+Leader: Otávio Torres
 
 ### Definitions
 
@@ -10,9 +10,8 @@ Leader: Otávio Torres.
 
 - Recruit, Develop and Retain Talent the Best People
 - Ensure that organizational culture is always present and alive
-- Improve the work environment and engage the entire company in projects and objectives.
+- Improve the work environment and engage the entire company in projects and objectives
 - Support and seek ways to recognize People and Teams
-
 
 #### 2. CHALLENGES
 
@@ -22,14 +21,12 @@ Leader: Otávio Torres.
 - Control and measure business-supporting KPIs
 - Bring AI tools to assist in scalability and effectiveness of hires.
 
-
 #### 3. PURPOSE OF THE LEADERSHIP
 
 - Find the best people for each position and create a unique / amazing experience so that the candidate can spread our company to more people
 - Ensure effective recruitment according to hiring plan
 - Process and Activities Improvements in Recruitment and Selection Management
 - Search for technology tools that support People processes.
-
 
 #### 4. KEY ACTIVITIES
 
@@ -38,7 +35,6 @@ Leader: Otávio Torres.
 - Promote actions with universities and institutions focused on recruitment
 - Promote Young Talent Program
 - Promote Internal Recruitment
-
 
 #### 5. PERFORMANCE STANDARDS
 
@@ -60,7 +56,6 @@ Leader: Otávio Torres.
 - Flexibility
 - Team work
 - Time management
-
 
 #### 7. VALUES AND RULES OF BEHAVIOR
 
