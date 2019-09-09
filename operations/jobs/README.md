@@ -35,14 +35,14 @@ Please inform Job Role Name, Area, Leader.
 
 - What is the purpose of our area?
 
-#### 2. CHALLENGES
+#### 2. PURPOSE OF THE POSITION
+
+- How can he/she(and will) contribute to the challenges of the area?
+
+#### 3. CHALLENGES
 
 - What are the biggest challenges in our area in which you will be involved?
 - What indicators can be impacted by your performance?
-
-#### 3. POSITION's PURPOSE
-
-- How can he/she(and will) contribute to the challenges of the area?
 
 #### 4. KEY ACTIVITIES
 
