@@ -1,8 +1,12 @@
+# Job Description
+
+## Recruitment Analyst
+
 ### Identification
 
-Position: Junior Recruitment Analyst
-Area: People,
-Leader: Otávio Torres.
+- Position: Junior Recruitment Analyst
+- Area: People
+- Leader: Otávio Torres
 
 ### Definitions
 
@@ -13,23 +17,20 @@ Leader: Otávio Torres.
 - Improve the work environment and engage the entire company in projects and objectives.
 - Support and seek ways to recognize People and Teams
 
-
-#### 2. CHALLENGES
-
-- Find the best people to form International Reference Teams
-- Improve the selection process experience
-- Develop new Recruitment channels
-- Control and measure business-supporting KPIs
-- Bring AI tools to assist in scalability and effectiveness of hires.
-
-
-#### 3. POSITION's PURPOSE
+#### 2. PURPOSE OF THE POSITION
 
 - Find the best people for each position and create a unique / amazing experience so that the candidate can spread our company to more people
 - Ensure effective recruitment according to hiring plan
 - Process and Activities Improvements in Recruitment and Selection Management
 - Search for technology tools that support People processes.
 
+#### 3. CHALLENGES
+
+- Find the best people to form International Reference Teams
+- Improve the selection process experience
+- Develop new Recruitment channels
+- Control and measure business-supporting KPIs
+- Bring AI tools to assist in scalability and effectiveness of hires.
 
 #### 4. KEY ACTIVITIES
 
@@ -38,7 +39,6 @@ Leader: Otávio Torres.
 - Promote actions with universities and institutions focused on recruitment
 - Promote Young Talent Program
 - Promote Internal Recruitment
-
 
 #### 5. PERFORMANCE STANDARDS
 
@@ -60,7 +60,6 @@ Leader: Otávio Torres.
 - Flexibility
 - Team work
 - Time management
-
 
 #### 7. VALUES AND RULES OF BEHAVIOR
 
