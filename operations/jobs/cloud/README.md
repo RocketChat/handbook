@@ -85,6 +85,7 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 - Maintaining Infrastructure
 - Developing knowledge to be experts at deploying Rocket.Chat
 - Reducing barriers to Deploying Rocket.Chat
+- Implementing Infrastructure as code
 
 #### 3. CHALLENGES
 
@@ -94,6 +95,8 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 
 - Manage infrastructure
 - Develop deployment methods
+- Developing solutions/tool
+- Automation for infrastructure and security
 
 #### 5. PERFORMANCE STANDARDS
 
