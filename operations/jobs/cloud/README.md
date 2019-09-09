@@ -99,6 +99,7 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 - Developing solutions/tool
 - Automation for infrastructure and security
 - Interact with and learn mongo
+- Help with escalated support tickets related to infrastructure/services
 
 #### 5. PERFORMANCE STANDARDS
 
