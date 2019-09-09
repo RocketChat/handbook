@@ -23,7 +23,7 @@ Leader: Otávio Torres.
 - Bring AI tools to assist in scalability and effectiveness of hires.
 
 
-#### 3. PURPOSE OF THE LEADERSHIP
+#### 3. POSITION's PURPOSE
 
 - Find the best people for each position and create a unique / amazing experience so that the candidate can spread our company to more people
 - Ensure effective recruitment according to hiring plan
