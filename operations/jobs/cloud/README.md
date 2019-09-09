@@ -164,7 +164,7 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 
 #### 7. VALUES AND RULES OF BEHAVIOR
 
-- 
+- High code quality - leads to a long standing and stable product
 
 ## Software Engineer
 
@@ -213,4 +213,4 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 
 #### 7. VALUES AND RULES OF BEHAVIOR
 
-- 
+- High code quality - leads to a long standing and stable product
