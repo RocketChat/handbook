@@ -22,6 +22,7 @@ Some of the services we build are:
 * Fleetcommand
 * Marketplace
 * Statistics Collector
+* Cloud Hosted Workspaces
 
 Because of our familiarity with deploying Rocket.Chat we are also involved in the development and maintenance of deployment methods.
 
@@ -76,6 +77,7 @@ Some of the services we build are:
 * Fleetcommand
 * Marketplace
 * Statistics Collector
+* Cloud Hosted Workspaces
 
 Because of our familiarity with deploying Rocket.Chat we are also involved in the development and maintenance of deployment methods.
 
@@ -140,6 +142,7 @@ Some of the services we build are:
 * Fleetcommand
 * Marketplace
 * Statistics Collector
+* Cloud Hosted Workspaces
 
 Because of our familiarity with deploying Rocket.Chat we are also involved in the development and maintenance of deployment methods.
 
@@ -189,6 +192,7 @@ Some of the services we build are:
 * Fleetcommand
 * Marketplace
 * Statistics Collector
+* Cloud Hosted Workspaces
 
 Because of our familiarity with deploying Rocket.Chat we are also involved in the development and maintenance of deployment methods.
 
