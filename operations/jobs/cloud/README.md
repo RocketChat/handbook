@@ -86,6 +86,7 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 - Developing knowledge to be experts at deploying Rocket.Chat
 - Reducing barriers to Deploying Rocket.Chat
 - Implementing Infrastructure as code
+- Interact with/maintain db clusters
 
 #### 3. CHALLENGES
 
@@ -97,6 +98,7 @@ Because of our familiarity with deploying Rocket.Chat we are also involved in th
 - Develop deployment methods
 - Developing solutions/tool
 - Automation for infrastructure and security
+- Interact with and learn mongo
 
 #### 5. PERFORMANCE STANDARDS
 
