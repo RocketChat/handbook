@@ -40,7 +40,7 @@ Please inform Job Role Name, Area, Leader.
 - What are the biggest challenges in our area in which you will be involved?
 - What indicators can be impacted by your performance?
 
-#### 3. PURPOSE OF THE LEADERSHIP
+#### 3. POSITION's PURPOSE
 
 - How can he/she(and will) contribute to the challenges of the area?
 
