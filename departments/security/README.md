@@ -71,7 +71,7 @@ The process is as follows:
 - If a report is valid, it is triaged and a message sent to the 3rd party acknowledging the validity of the report. The triage default values of HackerOne are generally acceptable, but you can modify them if they are not fitting to the case.
 - Then create an Asana task to have all the internal discussions and roadmap planning done there. Give the task the tag "hackerone" and set the priority according to the criticality. Assign it to the right internal team and set the due date according to our incident metrics. The report can also be triaged directly into GitHub. HackerOne only supports integration into a single GitHub repository per program, so we chose the Enterprise repository of Rocket.Chat because it is confidential. So if you want you can duplicate the issue into GitHub, but it is not recommended. Better to use Asana only.
 - For external discussions with the 3rd party, use HackerOne, but try to mirror all discussions in Asana (e.g. copy and paste).
-- once the vulnerability has been fixed, decide if you want to verify with the external party to double check or continue to close the issue right away.
+- Once the vulnerability has been fixed, decide if you want to verify with the external party to double check or continue to close the issue right away.
 - To close the issue, close both the task in Asana and in HackerOne. Ask the external party if they want the vulnerability disclosed. If yes, continue with the playbook for Vulnerability Disclosure.
 
 On a quarterly basis, the security team reviews the scope and the settings of the hackerone program. Our incident metrics are mirrored in HackerOne.
@@ -93,7 +93,7 @@ Start this workflow once a vulnerability has been fixed and merged.
 - Notify our support clients and partners. Create a message for the support team and link to the blog post.
 4. Third phase - latest 30 days after the release
 - In case the instance was not updated: Notify the administrator via banner system
-- in case the app was not updated: notify the user via banner system
+- In case the app was not updated: notify the user via banner system
 - Add the fix to our page of security fixes (to be added)
 5. Fourth phase - latest 90 days after the release
 - Inform/Allow the disclosure of the breach details by the external reporter. We currently do not use CVE-numbers, but maybe the reporter does.
@@ -105,8 +105,8 @@ Start this workflow once a vulnerability has been fixed and merged.
 
 The same process as Closed Source Vulnerabilities, except:
 
-1. phrase the PullRequests in a non-sensitive and technology-focussed way that explains what was changed
-2. do not include keywords like "XSS", "hacker", "exploit" in the PR
+1. Phrase the PullRequests in a non-sensitive and technology-focussed way that explains what was changed
+2. Do not include keywords like "XSS", "hacker", "exploit" in the PR
 3. The merged PR will show in the release notes in GitHub (this happens automatically)
 
 ## Pentesting (internal)
@@ -155,12 +155,12 @@ Tasks involving security are often cross-referenced in other projects in Asana. 
 Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories. We have decided not to purchase a license for our closed repos. For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
 
 - LGTM is enabled for all public repos
-- to enable LGTM for a repo, you must be admin
-- to access LGTM, use your GitHub account
+- To enable LGTM for a repo, you must be admin
+- To access LGTM, use your GitHub account
 - LGTM provides alerts when merging new PRs. The merge process is delayed by a couple of minutes, depending on the size of the code changed. Alerts should be reviewed before the PR is finally merged.
 - To review an alert: Open it in LGTM, review the alert and recommendation, and decide on the mitigation measure. There are different types of alerts (error, warning and recommendation). Errors and warnings must be mitigated, recommendations are optional.
-- to mitigate an alert: change the codebase as per the suggestion and re-submit the PR. Review that the alert does not show up anymore.
-- to dismiss an alert, click the crossed-out eye icon and follow the instructions. As the dismissal involves adding a line in the code, we should limit dismissals of alerts and rather re-tune LGTM or fix the alert at its root.
+- To mitigate an alert: change the codebase as per the suggestion and re-submit the PR. Review that the alert does not show up anymore.
+- To dismiss an alert, click the crossed-out eye icon and follow the instructions. As the dismissal involves adding a line in the code, we should limit dismissals of alerts and rather re-tune LGTM or fix the alert at its root.
 
 Repo owners and the security team should use the query console to analyze other parts of their repositories on a regular basis, that are not affected by PRs.
 On a monthly basis, the security team will create a report with all open alerts and request a response to open alerts not tagged with a mitigation measure. Repo owners must submit a response to an alert in LGTM until the next monthly report.
@@ -176,7 +176,7 @@ Goal: Keep all members of Rocket.Chat appraised of new and current developments 
 
 We are not a large size organization, so putting up programs for formal awareness measurement are currently not efficient to establish. We rather focus on ad-hoc awareness topics that are in line with our organizational direction. We use the following measures:
 
-- every new member gets a personal introduction into our security policies as part of his onboarding
+- Every new member gets a personal introduction into our security policies as part of his onboarding
 - Policy updates are posted in the #important channel
 - New vulnerabilities & industry news are submitted in the respective channels, e.g. #important, #random or #dev, to allow for an ongoing discussions
 - Annually, all members of the organization submit a policy acknowledgment, meaning: the have to read the policies
@@ -188,11 +188,11 @@ Goal: Provide all rocket.chat members with the security skills fitting to their 
 
 We are not a large size organization and often dont have strict organizational boundaries. Therefore members of different teams often need skills of another team, this goes for security as well. We are also a product centric company with a growing footprint providing services (e.g. cloud offering). We use the following measures:
 
-- every new member gets a personal introduction into our security policies as part of his onboarding
-- all trainings provided are recorded and available on request
-- all trainings should accomodate for remote participation
-- trainings should focus on on-demand topics and have a workshop character rather than classroom training. Team Leads can contact the security team to provide a training for specific areas.
+- Every new member gets a personal introduction into our security policies as part of his onboarding
+- All trainings provided are recorded and available on request
+- All trainings should accomodate for remote participation
+- Trainings should focus on on-demand topics and have a workshop character rather than classroom training. Team Leads can contact the security team to provide a training for specific areas.
 - We aim to provide one training half a year.
 - Topics-wise, the main subject matter areas are: Secure Development Lifecycle, Securing Cloud Services, Web Application Security, SecDevOps
-- where there is internal expertise missing, we consider leveraging external specialists.
+- Where there is internal expertise missing, we consider leveraging external specialists.
 - Training outcomes (e.g. application of security principles in a PR) should be highlighted in our RC channels, especially #dev
