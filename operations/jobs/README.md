@@ -19,7 +19,7 @@ We suggest this workflow:
 3. Send to People Operations (HR) to  help the validation
 4. Leader set up a meeting with every member of the team to present
 
-We do believe that follow those workflow we will develop our team and will get them more engaged in our projects, improving also the behavior and happiness to be part of the team.
+We believe that by following this workflow, we will develop our team and will get it more engaged in our projects, improving also the behavior and happiness of the team as a whole.
 
 In the future we will use, also, to development and move people from different areas. As long as everyone knows what are the skills and key activities to need in each position, it will be easier to create an action/development plan to achieve what the position requires.
 
