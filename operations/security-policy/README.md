@@ -210,7 +210,7 @@ Instead of using portable storage, you should always use shared network resource
 ### Porto Alegre
 
 - Read the rules that are pinned in the office
-- join the Rocket.chat channel to be informed about news
+- join the [Rocket.chat channel](https://open.rocket.chat/group/rocketchat-office) to be informed about news
 
 ### Homeoffice / Remote Work
 
