@@ -2,9 +2,9 @@
 
 ## Overview
 
-Tickets can be created by a support agent directly inside Zoho Desk (after every phone call request) or by a customer or community user from external ways: web form, email, social media (Twitter, Facebook) or offline livechat message. 
+Tickets can be created by a support agent directly inside Zoho Desk (after every phone call request) or by a customer or community user from external ways: web form, email, social media (Twitter, Facebook) or offline livechat message.
 
-Before we fully migrate to Zoho Desk Helpdesk solutions, customers can create tickets on the [Support Portal](https://support.rocket.chat), provided they have a registered user (also known as a **named contact**. The number of named contacts available for a customer will depend on the support offering associated with the contractual service level). When creating a ticket, the user must select a **Type**, the **Subject**, add a **Text** with the description. Optionally, the user can add an **Attachment** and select the **Priority** level of the issue (if no priority is select, the ticket will be created as a **Low** priority issue). The ticket will be mirrored and handled in Zoho Desk platform with the same fields and values. 
+Before we fully migrate to Zoho Desk Helpdesk solutions, customers can create tickets on the [Support Portal](https://support.rocket.chat), provided they have a registered user (also known as a **named contact**. The number of named contacts available for a customer will depend on the support offering associated with the contractual service level). When creating a ticket, the user must select a **Type**, the **Subject**, add a **Text** with the description. Optionally, the user can add an **Attachment** and select the **Priority** level of the issue (if no priority is select, the ticket will be created as a **Low** priority issue). The ticket will be mirrored and handled in Zoho Desk platform with the same fields and values.
 
 There are four possible ticket types:
 
@@ -33,25 +33,25 @@ Tickets created by email **do not** have associated SLAs and are considered to b
 
 ## Working with Zoho Desk
 
-An agent can see whether the ticket was created from a web request or email by checking the **History** tab of the ticket, and from the icon preceding the ticket title. If the ticket was created through a web request, the Channel field in the History tab will show **Web**. If the ticket was created through email, the Channel will say **Email**. Facebook and Twitter messages will be displayed accordingly.  
+An agent can see whether the ticket was created from a web request or email by checking the **History** tab of the ticket, and from the icon preceding the ticket title. If the ticket was created through a web request, the Channel field in the History tab will show **Web**. If the ticket was created through email, the Channel will say **Email**. Facebook and Twitter messages will be displayed accordingly.
 
-All tickets can be seen on the [Agent Dashboard](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/q/duedate), on the **Tickets** page. 
+All tickets can be seen on the [Agent Dashboard](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/q/duedate), on the **Tickets** page.
 
 ## Assigning
 
 There are typical requests that should be assigned to specific departments or employees:
 
 1. `Omni channel API keys requests` are autoassigned to [Jonas Friedmann](https://open.rocket.chat/direct/frdmn)
-2. `Sales requests` are manually assigned to Sales team 
-3. `Security and GDPR requests` are automatically assigned to the Security team. 
-3. `Support requests` are automatically assigned to Rocket.Chat Support team. 
+2. `Sales requests` are manually assigned to Sales team
+3. `Security and GDPR requests` are automatically assigned to the Security team.
+4. `Support requests` are automatically assigned to Rocket.Chat Support team.
 
-If necessary during analysis, the tickets can be forwarded to a team member who is responsible for the area that the tickets subject refers to.  The agent should assign a new **Owner** to ensure the ticket is visible on the new responsible's dashboard. If no **Owner** is available or the agent is unsure, it should be set to **Rocket.Chat team**. 
+If necessary during analysis, the tickets can be forwarded to a team member who is responsible for the area that the tickets subject refers to.  The agent should assign a new **Owner** to ensure the ticket is visible on the new responsible's dashboard. If no **Owner** is available or the agent is unsure, it should be set to **Rocket.Chat team**.
 
 ## Hotline Support
 
 Phone support is offered within Silver, Pro, Gold and Enterprise plans.
-Phone calls are handled in [Freshdesk system](https://wow24-7.freshcaller.com). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat). 
+Phone calls are handled in [Freshdesk system](https://wow24-7.freshcaller.com). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat).
 
 ## Replying mobile apps reviews
 
