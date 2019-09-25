@@ -23,6 +23,7 @@ Our administrative assistants are responsible for ensuring everyone is treated f
 - Negotiate with suppliers to get the best quotes
 - Use different tools or methodologies for organizing electronic and physical documents for easy search and access
 - Keep office assets under a maintenance schedule to ensure its longevity
+- Search for tools and process improvements in travel expenses reimbursements, searching for air tickets, hotels, etc.
 
 #### 4. KEY ACTIVITIES
 
@@ -48,6 +49,7 @@ Our administrative assistants are responsible for ensuring everyone is treated f
 - Communication
 - Proactivity
 - Ethics
+- Openness to receiving feedback and suggestions on how to improve our office and processes
 
 #### 7. VALUES AND RULES OF BEHAVIOR
 
@@ -56,3 +58,4 @@ Our administrative assistants are responsible for ensuring everyone is treated f
 - Make a habit of reconciling accounts. If you do it daily, you'll do it in a few minutes
 - Listen to others' complaints without a sense of judgement. Make sure you forward complaints to your lead and if possible include a suggestion on how to solve the problem
 - Make sure our office rules are followed and make amendments to policies as necessary
+- Live by our [Company's Core Values](https://github.com/RocketChat/Rocket.Chat.Operations.Internal/blob/master/source/HR/Core Values and DNA.md)
