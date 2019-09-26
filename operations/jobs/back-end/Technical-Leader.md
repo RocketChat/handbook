@@ -13,7 +13,8 @@
 The back-end area delivers the ultimate experience for the Rocket.Chat users around the world. It's responsible, with the Apps team, by the performance, features and APIs of our product, by the quality of our code and the development experience.\
 It's tight related with the success of the company, helping the product to grow, to be desired, be saleable and attract developers and contributors.
 
-This area is involved with the back-end code for:
+#### This area is involved with the back-end code for:
+
 - the core project (the APIs, performance, distribution, etc...)
 - the cloud admin, where we control the cloud instances
 - the cloud user pages, where the users control their instances, trials, on-premise installs, etc
@@ -47,6 +48,7 @@ The leader is responsible by the team engagement, is an example of the culture t
 ### 4. KEY ACTIVITIES
 
 #### Product development and management
+
 - Leads the implementation of significant back-end features
 - Work with other teams to identify priorities for releases
 - Continues to spend part of their time coding
@@ -61,6 +63,7 @@ The leader is responsible by the team engagement, is an example of the culture t
 - Bring feedback to the managers about demand and roadmap improvements avoiding the emergence of conflicts
 
 #### People management
+
 - Identifies hiring needs for back-end group
 - Interviews candidates for back-end engineers positions
 - Does 1:1's with the team regularly
