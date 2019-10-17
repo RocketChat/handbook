@@ -12,6 +12,8 @@ Rocket.Chat encourages everyone to take some paid time off (PTO) off whenever yo
 6. Being part of a global onsite/remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
 7. Don't forget to always check with your line manager and/or project manager before requesting time off. This is to ensure no deadlines are being overseen and to provide them with enough time to accommodate resources. The following question will help determine if you may take time off: "During that time, will someone be able to take over your duties? Does this someone need training?"
 8. After the PTO has been approved, update your own calendar using Google's "out of office" feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
+9. After the PTO has been approved, update your own calendar using Google's "out of office" feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
+
 
 ## Types of Time Off
 
@@ -19,7 +21,6 @@ Rocket.Chat encourages everyone to take some paid time off (PTO) off whenever yo
 2. **Vacation**: days you would not like to be contacted by any means
 3. **Sick**: this is an exception to the rule concerning the number of days you need to request before leave ;D Whenever you're sick, please add that day as a sick day type of time off
 4. **Half-day**: for when you know you'll be available during half of the day only
-5. **Maternity**: duh, paternity as well :)
 
 ## Recognizing Burnout
 
