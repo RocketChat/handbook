@@ -66,7 +66,6 @@ rocketchat_web_clear
 ### Editing content
 
 - Check out an existing branch or [create a new branch](https://services.github.com/on-demand/github-desktop/create-branches-github-desktop).
-- Don't commit changes to the `master` branch.
 - Don't work on someone else's branch without their permission.
 - [Make changes](https://services.github.com/on-demand/github-desktop/make-changes-github-desktop).
 - [Commit changes](https://services.github.com/on-demand/github-desktop/add-commits-github-desktop).
