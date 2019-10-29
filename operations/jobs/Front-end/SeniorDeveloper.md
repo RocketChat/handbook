@@ -24,7 +24,6 @@ It's tight related with the success of the company, helping the product to grow,
 - the marketplace page for end users, where users can list all the apps
 - the website, containing marketing info, pricing, documentation, blog posts, etc
 
-
 ### 2. PURPOSE OF THE POSITION
 
 - You will participate on interviews and help to qualify new candidates
