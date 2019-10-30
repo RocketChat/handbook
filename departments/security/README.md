@@ -50,13 +50,10 @@ We follow the following incident management process:
 7. Re-occuring incidents or those indicating a deeper, critical root cause, may be analyzed as part of a problem management process. To start problem management, create a task in Asana.
 
 Our SLA for incidents is as follows:
-Time to first response: 5 days
-Time to triage: 10 days
-Time to resolution:
 
-- High: 30 days
-- Medium: 60 days
-- Low: 90 days
+- Time to first response: 5 days
+- Time to triage: 10 days
+- Time to resolution: High - 30 days, Medium - 60 days, Low - 90 days
 
 ## BugBounty / Hackerone
 
