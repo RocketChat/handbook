@@ -4,6 +4,8 @@ We have created a general information security policy and specific policies for 
 
 In case of any questions, contact the security team. More information on [this page](https://rocket.chat/handbook/departments/security/)
 
+Do you want a short summary? You can find a [security one pager here!](https://docs.google.com/document/d/1ZiyPRgAJMwKZAkdGDL36npEBFJYfCDqaX4-ZOef3P90/edit?usp=sharing)
+
 ## Mandatory Acknowledgment & Secure Configuration
 
 Because we all must follow our security policies, we have set up GoogleForms that you can fill out and submit.
@@ -11,7 +13,6 @@ Use the following 3 checklists to set yourself up securely:
 
 - [Policy Acknowledgment](https://docs.google.com/forms/d/e/1FAIpQLSe5NwjKNXQl9gQPhgF93iB2clFPY2tiYVIE3PKEL_ZaswTkkw/viewform?usp=sf_link), an acknowledgment for our current policies. Mandatory to complete annually by all employees
 - [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf_link), a checklist to set up a basic secure configuration of your tools. Mandatory to complete annually by all employees.
-- [access to customer data](https://docs.google.com/forms/d/e/1FAIpQLSdA1pwhkAT-692y0P6gSMg32KVGbjTIAUo_HFIAKNSS-d5HnA/viewform?usp=sf_link), a checklist for securing access to customer data. Mandatory annual complete for all employees with access to customer data (e.g. in our cloud offering).
 
 ## Overall Security Policy
 
