@@ -4,6 +4,8 @@ We have created a general information security policy and specific policies for 
 
 In case of any questions, contact the security team. More information on [this page](https://rocket.chat/handbook/departments/security/)
 
+Do you want a short summary? You can find a [security one pager here!](https://docs.google.com/document/d/1ZiyPRgAJMwKZAkdGDL36npEBFJYfCDqaX4-ZOef3P90/edit?usp=sharing)
+
 ## Mandatory Acknowledgment & Secure Configuration
 
 Because we all must follow our security policies, we have set up GoogleForms that you can fill out and submit.
@@ -11,7 +13,6 @@ Use the following 3 checklists to set yourself up securely:
 
 - [Policy Acknowledgment](https://docs.google.com/forms/d/e/1FAIpQLSe5NwjKNXQl9gQPhgF93iB2clFPY2tiYVIE3PKEL_ZaswTkkw/viewform?usp=sf_link), an acknowledgment for our current policies. Mandatory to complete annually by all employees
 - [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf_link), a checklist to set up a basic secure configuration of your tools. Mandatory to complete annually by all employees.
-- [access to customer data](https://docs.google.com/forms/d/e/1FAIpQLSdA1pwhkAT-692y0P6gSMg32KVGbjTIAUo_HFIAKNSS-d5HnA/viewform?usp=sf_link), a checklist for securing access to customer data. Mandatory annual complete for all employees with access to customer data (e.g. in our cloud offering).
 
 ## Overall Security Policy
 
@@ -74,7 +75,7 @@ Current conflicting roles identified:
 
 The company maintains relevant contacts with authorities and agencies, those relevant for Rocket.Chat being mostly:
 
-- data protection agencies
+- Data protection agencies
 - NIST
 - ISO
 - Open Source Community
@@ -198,9 +199,9 @@ Applicable to all devices:
 Portable Storage (e.g. USB sticks, external HDDs) creates some additional risks, especially to availability of information and the risk of theft. That is why portable storage is generally not allowed to be used for Rocket.Chat information.
 You may use portable storage in limited circumstances when you have custody of the device (e.g. you own it) and it is used:
 
-- for non-sensitive purposes (e.g. marketing material to be shared with a customer on a USB stick)
-- for encrypted backups of your workstation
-- to extend the storage of your mobile devices
+- For non-sensitive purposes (e.g. marketing material to be shared with a customer on a USB stick)
+- For encrypted backups of your workstation
+- To extend the storage of your mobile devices
 
 Portable storage you acquire in a used state or not directly from a vendor (e.g. a gift you received, lost & found devices) may never be connected to your devices and should be returned or destroyed because they could be infected with Malware, even after wiping them.
 Instead of using portable storage, you should always use shared network resources (e.g. GSuite).
@@ -210,7 +211,7 @@ Instead of using portable storage, you should always use shared network resource
 ### Porto Alegre
 
 - Read the rules that are pinned in the office
-- join the Rocket.chat channel to be informed about news
+- Join the Rocket.chat channel to be informed about news
 
 ### Homeoffice / Remote Work
 
@@ -254,8 +255,8 @@ For access to customer data, you must adhere to the following:
 
 You may only access customer data if
 
-- the customer specifically requests it (e.g. support request) *or*
-- when it is necessary for us to fulfill our contractual obligations (e.g. to act proactively to prevent an instance from failing)
+- The customer specifically requests it (e.g. support request) *or*
+- When it is necessary for us to fulfill our contractual obligations (e.g. to act proactively to prevent an instance from failing)
 
 Access is strictly limited to the data needed to fulfill the request. You may not access data of other tenants. No customer data may be extracted unless this is strictly requested by the customer. All data extracted must be stored safely and deleted when it is no longer necessary.
 
@@ -268,12 +269,12 @@ An incident is any event that has the potential to affect the confidentiality, i
 
 Examples of incidents include:
 
-- lost devices
-- a suspicious and successful log in
-- malware incident
-- ransomware attack
-- email with confidential data sent to wrong recipient
-- law enforcement requests to disclose data of customers
+- Lost devices
+- A suspicious and successful log in
+- Malware incident
+- Ransomware attack
+- Email with confidential data sent to wrong recipient
+- Law enforcement requests to disclose data of customers
 
 General Incident Process:
 
@@ -299,10 +300,10 @@ Disaster recovery means restoring vital support systems and is a subset of busin
 Disaster prevention is everyone´s responsibility. This means that every employee must actively prevent disasters from occurring and report potential risks of a disaster to management.
 Most controls to prevent disasters are taken on a system level by the respective system administrator and will be performed against a system specific control catalog (e.g. backup configuration). Since many of our systems rely on third party providers, following our policies for third parties is critical. Disaster Prevention controls include:
 
-- redundancy of the network in the office
-- preventing vendor lock-ins
-- chosing of trusted partners that provide an adequate level of security (e.g. SaaS providers)
-- storing data offsite and off-client
+- Redundancy of the network in the office
+- Preventing vendor lock-ins
+- Chosing of trusted partners that provide an adequate level of security (e.g. SaaS providers)
+- Storing data offsite and off-client
 
 ### Criticality ratings:
 
