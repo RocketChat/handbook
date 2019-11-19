@@ -21,7 +21,7 @@ https://github.com/helm/charts/tree/master/stable/rocketchat
 https://hub.docker.com/_/rocket-chat
 https://hub.docker.com/r/rocketchat/rocket.chat
 https://hub.docker.com/r/rocketchat/rocket.chat.enterprise
-https://hub.docker.com/_/rocketchat
+https://hub.docker.com/_/rocketchat - store listing
 
 - RC docs
 https://rocket.chat/docs/
