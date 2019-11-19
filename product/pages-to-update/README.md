@@ -1,9 +1,13 @@
-## Places or pages to update
+# Places or pages to update
 
 This is a list to keep RC info consistent around Internet, check and update periodically: logo, descriptions, screenshots, setup instructions, links not working anymore, other ...
 
 **Official listing, we have complete control to change and approve changes:**
 ___
+
+- DigitalOcean Marketplace <https://marketplace.digitalocean.com/apps/rocket-chat>
+
+- AWS marketplace <https://aws.amazon.com/marketplace/seller-profile?id=dcb2092b-ef39-40bd-bc7c-f2394fa75ba7>
 
 - Snap Store <https://snapcraft.io/rocketchat-server>
 
@@ -15,6 +19,7 @@ ___
   - <https://hub.docker.com/r/rocketchat/rocket.chat>
   - <https://hub.docker.com/r/rocketchat/rocket.chat.enterprise>
   - <https://hub.docker.com/_/rocketchat> - store listing
+  - <https://hub.docker.com/_/rocket-chat> - Official image
 
 - RC docs <https://rocket.chat/docs/>
 
@@ -28,12 +33,6 @@ ___
 
 **3rd parties or partners listings, depending on the case we have to or should push changes, but the partner or 3rd party has to approve them:**
 ___
-
-- DigitalOcean Marketplace <https://marketplace.digitalocean.com/apps/rocket-chat>
-
-- AWS marketplace <https://aws.amazon.com/marketplace/seller-profile?id=dcb2092b-ef39-40bd-bc7c-f2394fa75ba7>
-
-- DockerHub <https://hub.docker.com/_/rocket-chat> - Official image
 
 - Heroku <https://elements.heroku.com/buttons/rocketchat/rocket.chat>
 
