@@ -15,11 +15,11 @@ ___
 
 - Helm chart <https://github.com/helm/charts/tree/master/stable/rocketchat>
 
-- DockerHub 
-  - <https://hub.docker.com/r/rocketchat/rocket.chat>
-  - <https://hub.docker.com/r/rocketchat/rocket.chat.enterprise>
-  - <https://hub.docker.com/_/rocketchat> - store listing
-  - <https://hub.docker.com/_/rocket-chat> - Official image
+- DockerHub
+  * <https://hub.docker.com/r/rocketchat/rocket.chat>
+  * <https://hub.docker.com/r/rocketchat/rocket.chat.enterprise>
+  * <https://hub.docker.com/_/rocketchat> - store listing
+  * <https://hub.docker.com/_/rocket-chat> - Official image
 
 - RC docs <https://rocket.chat/docs/>
 
