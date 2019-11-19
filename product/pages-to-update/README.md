@@ -5,48 +5,36 @@ This is a list to keep RC info consistent around Internet, check and update peri
 **Official listing, we have complete control to change and approve changes:**
 ___
 
-- Snap Store
-https://snapcraft.io/rocketchat-server
+- Snap Store <https://snapcraft.io/rocketchat-server>
 
-- Univention UCS
-https://www.univention.com/products/univention-app-center/app-catalog/rocketchat/
+- Univention UCS <https://www.univention.com/products/univention-app-center/app-catalog/rocketchat/>
 
-- Helm chart
-https://github.com/helm/charts/tree/master/stable/rocketchat
+- Helm chart <https://github.com/helm/charts/tree/master/stable/rocketchat>
 
-- DockerHub
-https://hub.docker.com/r/rocketchat/rocket.chat
-https://hub.docker.com/r/rocketchat/rocket.chat.enterprise
-https://hub.docker.com/_/rocketchat - store listing
+- DockerHub 
+  - <https://hub.docker.com/r/rocketchat/rocket.chat>
+  - <https://hub.docker.com/r/rocketchat/rocket.chat.enterprise>
+  - <https://hub.docker.com/_/rocketchat> - store listing
 
-- RC docs
-https://rocket.chat/docs/
+- RC docs <https://rocket.chat/docs/>
 
-- RC website
-https://rocket.chat/
+- RC website <https://rocket.chat/>
 
 - RC gmail (the signature if logo changes)
 
-- RC twitter
-https://twitter.com/RocketChat
+- RC twitter <https://twitter.com/RocketChat>
 
-- RC github
-https://github.com/RocketChat
+- RC github <https://github.com/RocketChat>
 
 **3rd parties or partners listings, depending on the case we have to or should push changes, but the partner or 3rd party has to approve them:**
 ___
 
-- DigitalOcean Marketplace
-https://marketplace.digitalocean.com/apps/rocket-chat
+- DigitalOcean Marketplace <https://marketplace.digitalocean.com/apps/rocket-chat>
 
-- AWS marketplace
-https://aws.amazon.com/marketplace/seller-profile?id=dcb2092b-ef39-40bd-bc7c-f2394fa75ba7
+- AWS marketplace <https://aws.amazon.com/marketplace/seller-profile?id=dcb2092b-ef39-40bd-bc7c-f2394fa75ba7>
 
-- DockerHub
-https://hub.docker.com/_/rocket-chat - Official image
+- DockerHub <https://hub.docker.com/_/rocket-chat> - Official image
 
-- Heroku 
-https://elements.heroku.com/buttons/rocketchat/rocket.chat
+- Heroku <https://elements.heroku.com/buttons/rocketchat/rocket.chat>
 
-- Not sure who this is but says partner
-https://www.fairkom.eu/rocketchat
+- Not sure who this is but says partner <https://www.fairkom.eu/rocketchat>
