@@ -232,7 +232,7 @@ Cryptography in our products will be described in the product documentation.
 
 - Always use strong passwords, as described e.g. [here.](https://www.fpainc.com/blog/password-guidelines-from-nist)
 - Always reset your password if you have suspicion of it being compromised.
-- Always keep your passwords in a secure and encrypted location like your password manager (preferred, e.g. ZOHO Vault) or your head. 
+- Always keep your passwords in a secure and encrypted location like your password manager (preferred, e.g. ZOHO Vault) or your head.
 - Never share your passwords with anyone. Credential sharing is not allowed. An exception to this applies if the password is shared by nature.
 
 ### Shared Passwords
@@ -244,7 +244,9 @@ Shared Passwords must:
 - Abide our password policies (complexity, length), unless the target system/use case does not allow this or prescribes a different standard
 - Have one or multiple owners, default owner is the creator of the shared password. In Zoho, this is called “Authorizer” or “Owner”, depending on the screen, kind of annoying...
 - Always be maintained in the central storage system. Do not update passwords and keep an outdated password in ZOHO. ZOHO is single source of truth.
+
 Shared Passwords SHOULD:
+
 - Be put in folders (ZOHO: “Chambers”), with a preconfigured set of persons with access. This makes it easier to manage access control.
 - Not be exported out of Zoho.
 
