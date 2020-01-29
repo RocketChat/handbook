@@ -34,7 +34,7 @@ You can follow the applications visualizing the history and status. Also you can
 
 6. For every period you decide to take off, you must request it no fewer than twice as many business days plus one. For example, assuming someone wants leave from June 1, 2020 until June 12, 2020 they would have to request PTO on or before May 11, 2020 (21 business days before) as this is a total of 10 business days.  Exceptions are listed on Types of Time Off, below.
 7. You are free to take some time off to go to the gym, go grocery shopping, take a nap, do household chores, help someone, etc. If something comes up or takes longer than expected, you have urgent tasks and you're able to communicate, just ensure the rest of the team knows and someone can pick up any of your urgent tasks.
-8. As part of our new policy 2020, Rocket.Chat will give all employees the opportunity from 18/21/2020 to 01/01/2021 to be used as vacation / PTO. In this case the employee may use your 15 days of  vacation entitlement / PTO.
+8. As part of our new policy 2020, Rocket.Chat will give all employees the opportunity from 18/12/2020 to 01/01/2021 to be used as vacation / PTO. In this case the employee may use your 15 days of  vacation entitlement / PTO.
 In the same way we are making available the period from 02/24/2020 to 02/28/2020 for use of 5 days of vacation / PTO.
 9. Being part of a global onsite/remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
 10. Don't forget to always check with your line manager and/or project manager before requesting time off. Operations Team and People Experience will be able to support if needed as well.
