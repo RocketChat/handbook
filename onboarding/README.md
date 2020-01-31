@@ -66,7 +66,7 @@ If you are using your GitHub profile photo instead of uploading a photo skip thi
 - Use the following naming format `firstname-lastname-01.jpg` all lowercase.
 - If you are in the Porto Alegre office and need a photo speak to Arthur.
 - Use a professional looking headshot.
-- Dimensions of 300x300 px.
+- Dimensions of 350x420 px.
 - Save as a JPEG with the `.jpg` extension.
 
 ### Create a pull request
