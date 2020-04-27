@@ -9,6 +9,7 @@ Alternatively, emails sent to one of the email addresses below will reach Zoho D
 - `cloud@rocket.chat`
 - `omni@rocket.chat`
 - `support@rocket.chat`
+- `suporte@rocket.chat`
 - `security@rocket.chat`
 - `gdpr@rocket.chat`
 
