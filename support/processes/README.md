@@ -2,34 +2,16 @@
 
 ## Overview
 
-Tickets can be created by a support agent directly inside Zoho Desk (after every phone call request) or by a customer or community user from external ways: web form, email, social media (Twitter, Facebook) or offline livechat message.
-
-Before we fully migrate to Zoho Desk Helpdesk solutions, customers can create tickets on the [Support Portal](https://support.rocket.chat), provided they have a registered user (also known as a **named contact**. The number of named contacts available for a customer will depend on the support offering associated with the contractual service level). When creating a ticket, the user must select a **Type**, the **Subject**, add a **Text** with the description. Optionally, the user can add an **Attachment** and select the **Priority** level of the issue (if no priority is select, the ticket will be created as a **Low** priority issue). The ticket will be mirrored and handled in Zoho Desk platform with the same fields and values.
-
-There are four possible ticket types:
-
-1. `Question`
-2. `Problem`
-3. `Feature`
-4. `Other`
-
-The default type is **Question**.
-
-There are three priority levels:
-
-1. `High` (e.g., system down, main functions affected, large number of users unable to access, severe performance problems)
-2. `Medium` (e.g., essential functions affected, significant impact to system usage, inconsistent performance)
-3. `Low` (e.g., small impact to functions, low number of users affected, minor bugs, simple questions)
+Rocket.Chat main support platform is [Zoho Desk](https://desk.rocket.chat). Tickets can be created by a support agent directly inside Zoho Desk (in case of internal request) or by a customer or community user from external ways: Zoho Desk Support Portal, Rocket.Chat main website form, e-mail, social media (Twitter, Facebook) or offline livechat message.
 
 Alternatively, emails sent to one of the email addresses below will reach Zoho Desk as well:
 
 - `cloud@rocket.chat`
 - `omni@rocket.chat`
 - `support@rocket.chat`
+- `suporte@rocket.chat`
 - `security@rocket.chat`
 - `gdpr@rocket.chat`
-
-Tickets created by email **do not** have associated SLAs and are considered to be Community requests. Customers entitled to paid support **must** raise tickets on the Support Portal.
 
 ## Working with Zoho Desk
 
@@ -37,21 +19,40 @@ An agent can see whether the ticket was created from a web request or email by c
 
 All tickets can be seen on the [Agent Dashboard](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/q/duedate), on the **Tickets** page.
 
+There are three priority levels:
+
+1. `High` (e.g., system down, main functions affected, large number of users unable to access, severe performance problems)
+2. `Medium` (e.g., essential functions affected, significant impact to system usage, inconsistent performance)
+3. `Low` (e.g., small impact to functions, low number of users affected, minor bugs, simple questions)
+
+Tickets created by email are automatically assigned as "Medium" priority and will have the associated SLAs according to the account information. Customers entitled to paid support **are recommended** to raise tickets on the Support Portal.
+
+The SLAs are defined taking into account the priority, the paid plan/product and the customer account status.
+
+Available plans/products and their respective SLAs-> please go to [Support SLA page](https://rocket.chat/handbook/support/slas/)
+
+Available account status:
+
+1. `Client Paying` -> Paid customers
+2. `Community` -> Rocket.Chat community users, non-paid customers (No SLA applicable)
+3. `Potential Client - VIP` -> this special status is to be used so support can assist on deals which are about to be closed (special pre-sales activities).
+4. `Potential Partners` -> special status to be used to assist potential parters.
+
+The account information from all customer base are in synch with Zoho CRM, and we base our SLA calculation taking into account the information stored on Zoho CRM. Everything is automated and retrieved in the ticket creation.
+
 ## Assigning
 
 There are typical requests that should be assigned to specific departments or employees:
 
-1. `Omni channel API keys requests` are autoassigned to [Jonas Friedmann](https://open.rocket.chat/direct/frdmn)
-2. `Sales requests` are manually assigned to Sales team
+1. `Paid Support` SLA tickets are automatically sent to "Paid Support" queue
+2. `Community`Tickets without SLA automically sent to "Community" queue
 3. `Security and GDPR requests` are automatically assigned to the Security team.
 4. `Support requests` are automatically assigned to Rocket.Chat Support team.
 
-If necessary during analysis, the tickets can be forwarded to a team member who is responsible for the area that the tickets subject refers to.  The agent should assign a new **Owner** to ensure the ticket is visible on the new responsible's dashboard. If no **Owner** is available or the agent is unsure, it should be set to **Rocket.Chat team**.
-
 ## Hotline Support
 
-Phone support is offered within Silver, Pro, Gold and Enterprise plans.
-Phone calls are handled in [Freshdesk system](https://wow24-7.freshcaller.com). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat).
+Phone support is offered within Rocket.Chat paid support plans.
+Phone calls are handled in [Freshcaller tool](https://rocketphone.freshcaller.com/). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat).
 
 ## Replying mobile apps reviews
 
