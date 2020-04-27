@@ -24,7 +24,7 @@ There are three priority levels:
 2. `Medium` (e.g., essential functions affected, significant impact to system usage, inconsistent performance)
 3. `Low` (e.g., small impact to functions, low number of users affected, minor bugs, simple questions)
 
-Tickets created by email are automatically assigned as "Medium" priority and will have the associated SLAs according to the account information. Customers entitled to paid support **are recommended** to raise tickets on the Support Portal. 
+Tickets created by email are automatically assigned as "Medium" priority and will have the associated SLAs according to the account information. Customers entitled to paid support **are recommended** to raise tickets on the Support Portal.
 
 The SLAs are defined taking into account the priority, the paid plan/product and the customer account status.
 
@@ -42,6 +42,7 @@ The account information from all customer base are in synch with Zoho CRM, and w
 ## Assigning
 
 There are typical requests that should be assigned to specific departments or employees:
+
 1. `Paid Support` SLA tickets are automatically sent to "Paid Support" queue
 2. `Community`Tickets without SLA automically sent to "Community" queue
 3. `Security and GDPR requests` are automatically assigned to the Security team.
