@@ -35,7 +35,7 @@ We recommend [Visual Studio Code](https://code.visualstudio.com/) as it has a gr
 
 ### Clone the projects
 
-Clone our projects using [GitHub Desktop](https://services.github.com/on-demand/github-desktop/clone-repository-github-desktop):
+Clone our projects using [GitHub Desktop](https://desktop.github.com) by [following its tutorial](https://help.github.com/en/desktop/contributing-to-projects/adding-and-cloning-repositories) if necessary:
 
 - Website: `https://github.com/RocketChat/rocketchat.github.io.git`
 - Handbook: `https://github.com/RocketChat/handbook.git`
