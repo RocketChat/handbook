@@ -1,5 +1,22 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
-
+- [Onboarding](onboarding/README.md)
+- [Operations](operations/README.md)
+  - [Paid Time Off Policy](operations/paid-time-off-policy.md)
+  - Travel Policy
+  - Security Policy
+- [Product](product/README.md)
+  - [Release Cycle](product/release-cycle.md)
+- [Design](design/README.md)
+- Departments:
+  - Mobile
+  - Security
+- Marketing
+- Summit
+- Support:
+  - Partner Guide
+  - Processes
+  - Reference
+  - SLAs
+  - Systems
+  - Team
