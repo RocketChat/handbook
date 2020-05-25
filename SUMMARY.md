@@ -9,13 +9,10 @@
 - [Operations](operations/README.md)
   - [Incentives](operations/incentives/README.md)
   - [Jobs](operations/jobs/README.md)
-    - Cloud
-      * [Cloud Engineer](operations/jobs/cloud/Cloud-Engineer.md)
-      * [Software Engineer](operations/jobs/cloud/Software-Engineer.md)
-    - Front End
-      * [Technical Leader](operations/jobs/Front-end/Technical-Leader.md)
-    - Hr
-      * [Recruitment Analyst](operations/jobs/hr/Recruitment-Analyst.md)
+      - [Cloud Engineer](operations/jobs/cloud/Cloud-Engineer.md)
+      - [Software Engineer](operations/jobs/cloud/Software-Engineer.md)
+      - [Technical Leader](operations/jobs/Front-end/Technical-Leader.md)
+      - [Recruitment Analyst](operations/jobs/hr/Recruitment-Analyst.md)
     - [Security](operations/jobs/security/README.md)
       - [Engineer](operations/jobs/security/Engineer/README.md)
       - [Leader](operations/jobs/security/Leader/README.md)
@@ -33,6 +30,6 @@
   - [Slas](support/slas/README.md)
   - [Systems](support/systems/README.md)
   - [Team](support/team/README.md)
-* [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
-* [LICENSE](LICENSE.md)
-* [Untitled](untitled.md)
+- [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
+- [LICENSE](LICENSE.md)
+- [Untitled](untitled.md)
