@@ -1,22 +1,40 @@
-# Table of contents
+# Your Book Title
 
+- [Departments](departments/README.md)
+  - [Mobile](departments/mobile/README.md)
+  - [Security](departments/security/README.md)
+- [Design](design/README.md)
+- [Marketing](marketing/README.md)
 - [Onboarding](onboarding/README.md)
 - [Operations](operations/README.md)
-  - [Paid Time Off Policy](operations/paid-time-off-policy.md)
-  - Travel Policy
-  - Security Policy
+  - [Incentives](operations/incentives/README.md)
+  - [Jobs](operations/jobs/README.md)
+    - Administration
+      * [Administrative Assistant](operations/jobs/administration/administrative assistant.md)
+    - Cloud
+      * [Cloud Engineer](operations/jobs/cloud/Cloud-Engineer.md)
+      * [Software Engineer](operations/jobs/cloud/Software-Engineer.md)
+    - Front End
+      * [Technical Leader](operations/jobs/Front-end/Technical-Leader.md)
+    - Hr
+      * [Recruitment Analyst](operations/jobs/hr/Recruitment-Analyst.md)
+    - [Security](operations/jobs/security/README.md)
+      - [Engineer](operations/jobs/security/Engineer/README.md)
+      - [Leader](operations/jobs/security/Leader/README.md)
+  - [Paid Time Off Policy](operations/paid-time-off-policy/README.md)
+  - [Security Policy](operations/security-policy/README.md)
+  - [Travel Policy](operations/travel-policy/README.md)
 - [Product](product/README.md)
-  - [Release Cycle](product/release-cycle.md)
-- [Design](design/README.md)
-- Departments:
-  - Mobile
-  - Security
-- Marketing
-- Summit
-- Support:
-  - Partner Guide
-  - Processes
-  - Reference
-  - SLAs
-  - Systems
-  - Team
+  - [Pages To Update](product/pages-to-update/README.md)
+  - [Release Cycle](product/release-cycle/README.md)
+- [Summit](summit/README.md)
+- [Support](support/README.md)
+  - [Partner Guide](support/partner-guide/README.md)
+  - [Processes](support/processes/README.md)
+  - [Reference](support/reference/README.md)
+  - [Slas](support/slas/README.md)
+  - [Systems](support/systems/README.md)
+  - [Team](support/team/README.md)
+* [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
+* [LICENSE](LICENSE.md)
+* [Untitled](untitled.md)
