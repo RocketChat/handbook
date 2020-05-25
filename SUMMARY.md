@@ -9,8 +9,6 @@
 - [Operations](operations/README.md)
   - [Incentives](operations/incentives/README.md)
   - [Jobs](operations/jobs/README.md)
-    - Administration
-      * [Administrative Assistant](operations/jobs/administration/administrative assistant.md)
     - Cloud
       * [Cloud Engineer](operations/jobs/cloud/Cloud-Engineer.md)
       * [Software Engineer](operations/jobs/cloud/Software-Engineer.md)
