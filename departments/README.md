@@ -1,4 +1,5 @@
 # Departments
 
-- [Mobile](mobile/)
-- [Security](security/)
+* [Mobile](mobile.md)
+* [Security](security.md)
+
