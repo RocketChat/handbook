@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [README](operations/README.md)
+* [Operations](operations/README.md)
   * [Job Descriptions](operations/jobs/README.md)
     * [cloud](operations/jobs/cloud/README.md)
       * [Job Description](operations/jobs/cloud/software-engineer.md)
@@ -20,7 +20,6 @@
   * [Rocket.Chat Incentives Policy](operations/incentives.md)
   * [Paid Time Off Policy](operations/paid-time-off-policy.md)
 * [Onboarding](onboarding.md)
-* [LICENSE](license.md)
 * [Support](support/README.md)
   * [Team](support/team.md)
   * [Processes](support/processes.md)
@@ -38,4 +37,5 @@
 * [Marketing](marketing.md)
 * [Summit](summit.md)
 * [Contributor Covenant Code of Conduct](code_of_conduct.md)
+* [LICENSE](license.md)
 
