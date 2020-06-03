@@ -1,3 +1,4 @@
 # Product
 
-[Release Cycle](release-cycle/)
+[Release Cycle](release-cycle.md)
+
