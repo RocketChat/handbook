@@ -15,10 +15,6 @@
       * [Job Description](operations/jobs/administration/administrative-assistant.md)
     * [Front-end](operations/jobs/front-end/README.md)
       * [Front-end technical leader - Job Description](operations/jobs/front-end/technical-leader.md)
-  * [Security Policy](operations/security-policy.md)
-  * [Travel Policy](operations/travel-policy.md)
-  * [Rocket.Chat Incentives Policy](operations/incentives.md)
-  * [Paid Time Off Policy](operations/paid-time-off-policy.md)
 * [Onboarding](onboarding.md)
 * [Support](support/README.md)
   * [Team](support/team.md)
@@ -31,8 +27,15 @@
 * [Product](product/README.md)
   * [Rocket.Chat Release Planning](product/release-cycle.md)
   * [Places or pages to update](product/pages-to-update.md)
-* [Departments](departments/README.md)
-  * [Security](departments/security.md)
-  * [Mobile Department](departments/mobile.md)
+* [Security](security.md)
+* [Mobile Department](mobile.md)
 * [Marketing](marketing.md)
 * [Summit](summit.md)
+
+## Policies
+
+* [Security Policy](policies/security-policy.md)
+* [Travel Policy](policies/travel-policy.md)
+* [Incentives Policy](policies/incentives.md)
+* [Paid Time Off Policy](policies/paid-time-off-policy.md)
+

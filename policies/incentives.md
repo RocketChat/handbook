@@ -1,4 +1,4 @@
-# Rocket.Chat Incentives Policy
+# Incentives Policy
 
 ## Saving Money for Rocket.Chat
 
