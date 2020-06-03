@@ -36,6 +36,3 @@
   * [Mobile Department](departments/mobile.md)
 * [Marketing](marketing.md)
 * [Summit](summit.md)
-* [Contributor Covenant Code of Conduct](code_of_conduct.md)
-* [LICENSE](license.md)
-
