@@ -1,3 +1,5 @@
+# README
 
-- [Paid Time Off Policy](paid-time-off-policy/)
-- [Travel Policy](travel-policy/)
+* [Paid Time Off Policy](paid-time-off-policy.md)
+* [Travel Policy](travel-policy.md)
+
