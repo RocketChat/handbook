@@ -24,7 +24,7 @@
   * [SLAs](support/slas.md)
   * [Partner Guide](support/partner-guide.md)
 * [Design](design/README.md)
-  * [Design Workflow at Rocket.Chat](design/design-workflow-at-rocket.chat.md)
+  * [Workflow](design/design-workflow-at-rocket.chat.md)
   * [Design Building Pieces](design/design-building-pieces.md)
 * [Product](product/README.md)
   * [Rocket.Chat Release Planning](product/release-cycle.md)

@@ -1,4 +1,4 @@
-# Design Workflow at Rocket.Chat
+# Workflow
 
 Ideate &gt; Prototype &gt; Closed Test &gt; Prototype &gt; Open Test 
 
