@@ -2,7 +2,7 @@
 
 ## Published
 
-Article we have published.
+Articles we have published.
 
 * [Redesigning Threaded Messages at Rocket.Chat](https://medium.muz.li/redesigning-threaded-messages-at-rocket-chat-e3fd6034b1b9)
 
