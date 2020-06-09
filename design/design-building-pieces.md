@@ -44,5 +44,5 @@ Shape blocks of Molecules. Its responsibility is to wrap Molecules and also may 
 
 The finality of the previous component types is to be part of a Template. A user will not use neither an Atom, Molecule nor Organism, rather then this, they will use the Templates, which have the responsibility to help them to accomplish their daily tasks while using the application.
 
-![](../.gitbook/assets/sidebar.png)
+![From Atoms to Templates](../.gitbook/assets/sidebar.png)
 
