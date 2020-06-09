@@ -26,6 +26,7 @@
 * [Design](design/README.md)
   * [Workflow](design/design-workflow-at-rocket.chat.md)
   * [Design Building Pieces](design/design-building-pieces.md)
+  * [Articles](design/articles.md)
 * [Product](product/README.md)
   * [Rocket.Chat Release Planning](product/release-cycle.md)
   * [Places or pages to update](product/pages-to-update.md)
