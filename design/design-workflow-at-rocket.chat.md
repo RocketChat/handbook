@@ -1,6 +1,6 @@
 # Workflow
 
-Ideate &gt; Prototype &gt; Closed Test &gt; Prototype &gt; Open Test 
+Ideate &gt; Prototype &gt; Closed Test &gt; Prototype &gt; Open Test &gt; Hand Off &gt; Metrics
 
 This process is adaptable, each project has its own constraints, so in order to make possible to apply it on any project size, you can make it shorter or dive deep given its needs, however you should still go through all steps.
 
