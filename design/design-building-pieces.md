@@ -32,7 +32,7 @@ Using Contextual Atoms in their respective place makes much more sense, look at 
 
 Are a composition of Atoms, usually shape rows or columns. Often they build items of a list. You can notice in the image below a few Contextual Atoms and Global atoms shaping molecules.
 
-![](../.gitbook/assets/contextual-bar-messages.png)
+![](../.gitbook/assets/contextual-bar-messages%20%281%29.png)
 
 ## Organisms <a id="934609c3-11ed-4ef7-95d3-20cfa2ff1247"></a>
 
