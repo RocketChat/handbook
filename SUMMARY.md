@@ -33,7 +33,7 @@
   * [Rocket.Chat Release Planning](product/release-cycle.md)
   * [Places or pages to update](product/pages-to-update.md)
 * [Security](security.md)
-* [Mobile Department](mobile.md)
+* [Mobile](mobile.md)
 * [Marketing](marketing.md)
 * [Summit](summit.md)
 

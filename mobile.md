@@ -1,11 +1,4 @@
-# Mobile Department
-
-_Note: this document is still in progress, but everything that’s written here is valid starting 9th November, 2018_
-
-## Experts
-
-* [Filipe Brito](https://open.rocket.chat/direct/filipe.brito), Android Engineer
-* [Rafael Kellermann Streit](https://open.rocket.chat/direct/rafael.kellermann), iOS Engineer & Team Leader
+# Mobile
 
 ## Basics
 
