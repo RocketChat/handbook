@@ -1,4 +1,8 @@
-# Front-end technical leader - Job Description
+---
+description: Front-End Technical Leader Job Description
+---
+
+# Technical Leader
 
 ## Identification
 
