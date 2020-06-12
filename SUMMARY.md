@@ -3,7 +3,7 @@
 * [Initial page](README.md)
 * [Operations](operations/README.md)
   * [Job Descriptions](operations/jobs/README.md)
-    * [Back-End](operations/jobs/back-end/README.md)
+    * [Back-end](operations/jobs/back-end/README.md)
       * [Technical Leader](operations/jobs/back-end/technical-leader.md)
     * [Front-end](operations/jobs/front-end/README.md)
       * [Technical Leader](operations/jobs/front-end/technical-leader.md)

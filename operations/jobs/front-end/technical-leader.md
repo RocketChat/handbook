@@ -1,5 +1,5 @@
 ---
-description: Front-End Technical Leader Job Description
+description: Front-end Technical Leader Job Description
 ---
 
 # Technical Leader
