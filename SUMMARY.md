@@ -3,6 +3,8 @@
 * [Initial page](README.md)
 * [Operations](operations/README.md)
   * [Job Descriptions](operations/jobs/README.md)
+    * [Back-End](operations/jobs/back-end.md)
+    * [Technical Leader](operations/jobs/technical-leader.md)
     * [cloud](operations/jobs/cloud/README.md)
       * [Job Description](operations/jobs/cloud/software-engineer.md)
       * [Job Description](operations/jobs/cloud/cloud-engineer.md)
