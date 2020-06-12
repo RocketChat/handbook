@@ -2,6 +2,8 @@
 
 * [Initial page](README.md)
 * [Operations](operations/README.md)
+  * [Tools](operations/tools/README.md)
+    * [Asana](operations/tools/asana.md)
   * [Job Descriptions](operations/jobs/README.md)
     * [Back-end](operations/jobs/back-end/README.md)
       * [Technical Leader](operations/jobs/back-end/technical-leader.md)
