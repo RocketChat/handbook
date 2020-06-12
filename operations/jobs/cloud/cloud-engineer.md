@@ -1,15 +1,17 @@
-# Job Description
+---
+description: Cloud Engineer Job Description
+---
 
-## Cloud Engineer
+# Cloud Engineer
 
-### Identification
+## Identification
 
 * Position: Cloud Engineer
 * Lead: Aaron Ogle
 
-### Definitions
+## Definitions
 
-#### 1. PURPOSE OF THE AREA
+### 1. PURPOSE OF THE AREA
 
 The Cloud team delivers important features for Rocket.Chat users around the world. We are responsible for the easiest way to try and use our Rocket.Chat via the cloud. To access our omnichannel services, gateways and many other critical services. We plan out new services, and build them to run in a highly available way. We plan, manage and secure our infrastructure for our external and internal services. We learn how to best Deploy Rocket.Chat. We use our knowledge to develop solutions for customers to deploy. We strive to make our services run seamlessly with self hosted workspaces and augment their experience. We are tightly related to the success of the company.
 
@@ -21,7 +23,7 @@ Some of the services we build/run are:
 * Statistics Collector
 * Cloud Hosted Workspaces
 
-#### 2. PURPOSE OF THE POSITION
+### 2. PURPOSE OF THE POSITION
 
 This position and the person filling it is a key part of our team. They are responsible for helping plan and implementing infrastructure. Things like improving security, scaling out resources, making sure the services run efficiently. Also for helping us drive forward the ease of deployment everywhere via our cloud deployments and self managed deployment methods.
 
@@ -33,13 +35,13 @@ This position and the person filling it is a key part of our team. They are resp
 * Implementing infrastructure as code
 * Interact with/maintain db clusters
 
-#### 3. CHALLENGES
+### 3. CHALLENGES
 
 * Scaling infrastructure while keeping costs in mind
 * Keeping infrastructure secure
 * Helping make sure we stay compliant with security guidelines
 
-#### 4. KEY ACTIVITIES
+### 4. KEY ACTIVITIES
 
 * Manage infrastructure
 * Develop deployment methods
@@ -48,12 +50,12 @@ This position and the person filling it is a key part of our team. They are resp
 * Manage Mongo clusters
 * Help with escalated support tickets related to infrastructure/services
 
-#### 5. PERFORMANCE STANDARDS
+### 5. PERFORMANCE STANDARDS
 
 * Rocket.Chat Service SLA’s
 * 360 Review
 
-#### 6. KEY SKILLS
+### 6. KEY SKILLS
 
 * Expertise with linux
 * Expertise with orchestration systems \(k8s\)
@@ -65,7 +67,7 @@ This position and the person filling it is a key part of our team. They are resp
 * Ability to take a task and learn and do whats needed to make it happen
 * Ability to communicate efficiently with other teams and customers
 
-#### 7. VALUES AND RULES OF BEHAVIOR
+### 7. VALUES AND RULES OF BEHAVIOR
 
 * Be on the lookout for ways we can improve and not afraid to share them.
 * Complaints should be accompanied by proposed solution to at least get conversation started.

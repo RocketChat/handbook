@@ -1,2 +1,2 @@
-# hr
+# People
 
