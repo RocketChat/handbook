@@ -262,7 +262,16 @@ In terms of authentication methods,  you should always opt for using SSO/SAML au
 
 2-Factor- or Multifactor-Authentication is required before accessing critical assets and will be set as mandatory there.
 
-## Change Management
+## Secure Development & Change Management
+
+Secure engineering basic principles:
+
+Features or changes involving components that could affect overall system security (e.g. authentication, encryption, access control) should consider the following steps:
+
+- have a thoroughly documented PR explaining the change
+- the PR must pass all checks, alerts must be remediated before merging
+- be subject to the regular tests (including security tests) before a release and not be introduced after these tests
+- should check if documentation needs to be updated and if so, update it
 
 Changes to assets should only occur when a change is necessary. All changes must be controlled. All changes related to source code must occur through the authorized version control system (e.g. GitHub). In case a change is urgent, the change control process may be shortened by decision of management, in order to mitigate potential damages to the organization.
 

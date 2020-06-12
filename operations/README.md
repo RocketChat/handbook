@@ -1,3 +1,5 @@
+# Operations
 
-- [Paid Time Off Policy](paid-time-off-policy/)
-- [Travel Policy](travel-policy/)
+* [Paid Time Off Policy](../policies/paid-time-off-policy.md)
+* [Travel Policy](../policies/travel-policy.md)
+
