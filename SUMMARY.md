@@ -2,6 +2,7 @@
 
 * [Initial page](README.md)
 * [Operations](operations/README.md)
+  * [Onboarding](operations/onboarding.md)
   * [Tools](operations/tools/README.md)
     * [Asana](operations/tools/asana.md)
   * [Job Descriptions](operations/jobs/README.md)
@@ -19,7 +20,6 @@
       * [Operations Engineer](operations/jobs/security/engineer.md)
     * [Administration](operations/jobs/administration/README.md)
       * [Administrative Assistant](operations/jobs/administration/administrative-assistant.md)
-* [Onboarding](onboarding.md)
 * [Support](support/README.md)
   * [Team](support/team.md)
   * [Processes](support/processes.md)

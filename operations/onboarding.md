@@ -43,7 +43,7 @@ It is each team member's responsibility to add their own information and photo t
 
 ### Prerequisites
 
-1. Learn how to add content to the [marketing website](marketing.md).
+1. Learn how to add content to the [marketing website](../marketing.md).
 2. Create a branch with an appropriate name `add-firstname-lastname-to-team-page`.
 
 ### Add your profile
