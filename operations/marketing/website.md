@@ -1,4 +1,4 @@
-# Marketing
+# Website
 
 The marketing team is responsible for publishing high quality content that showcases the best of Rocket.Chat to our various channels: website, blog, newsletter, social and through external agencies and publications.
 
