@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Rocket.Chat Handbook](README.md)
 * [Operations](operations/README.md)
   * [Onboarding](operations/onboarding.md)
   * [Tools](operations/tools/README.md)
