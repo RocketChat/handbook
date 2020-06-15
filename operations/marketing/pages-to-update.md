@@ -25,3 +25,7 @@ This is a list to keep RC info consistent around Internet, check and update peri
 * Heroku [https://elements.heroku.com/buttons/rocketchat/rocket.chat](https://elements.heroku.com/buttons/rocketchat/rocket.chat)
 * Not sure who this is but says partner [https://www.fairkom.eu/rocketchat](https://www.fairkom.eu/rocketchat)
 
+## Reviews
+
+[https://www.techradar.com/reviews/rocketchat](https://www.techradar.com/reviews/rocketchat)
+
