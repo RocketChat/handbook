@@ -20,6 +20,7 @@
       * [Operations Engineer](operations/jobs/security/engineer.md)
     * [Administration](operations/jobs/administration/README.md)
       * [Administrative Assistant](operations/jobs/administration/administrative-assistant.md)
+* [Cloud](cloud.md)
 * [Support](support/README.md)
   * [Team](support/team.md)
   * [Processes](support/processes.md)

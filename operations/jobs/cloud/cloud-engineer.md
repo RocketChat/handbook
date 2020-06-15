@@ -11,19 +11,11 @@ description: Cloud Engineer Job Description
 
 ## Definitions
 
-### 1. PURPOSE OF THE AREA
+### Area
 
-The Cloud team delivers important features for Rocket.Chat users around the world. We are responsible for the easiest way to try and use our Rocket.Chat via the cloud. To access our omnichannel services, gateways and many other critical services. We plan out new services, and build them to run in a highly available way. We plan, manage and secure our infrastructure for our external and internal services. We learn how to best Deploy Rocket.Chat. We use our knowledge to develop solutions for customers to deploy. We strive to make our services run seamlessly with self hosted workspaces and augment their experience. We are tightly related to the success of the company.
+{% page-ref page="../../../cloud.md" %}
 
-Some of the services we build/run are:
-
-* Push Gateway
-* Fleetcommand
-* Marketplace
-* Statistics Collector
-* Cloud Hosted Workspaces
-
-### 2. PURPOSE OF THE POSITION
+### Purpose
 
 This position and the person filling it is a key part of our team. They are responsible for helping plan and implementing infrastructure. Things like improving security, scaling out resources, making sure the services run efficiently. Also for helping us drive forward the ease of deployment everywhere via our cloud deployments and self managed deployment methods.
 
@@ -35,13 +27,13 @@ This position and the person filling it is a key part of our team. They are resp
 * Implementing infrastructure as code
 * Interact with/maintain db clusters
 
-### 3. CHALLENGES
+### Challenges
 
 * Scaling infrastructure while keeping costs in mind
 * Keeping infrastructure secure
 * Helping make sure we stay compliant with security guidelines
 
-### 4. KEY ACTIVITIES
+### Key Activities
 
 * Manage infrastructure
 * Develop deployment methods
