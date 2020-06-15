@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Rocket.Chat Handbook](README.md)
+* [Welcome](README.md)
 
 ## Product <a id="product-1"></a>
 
