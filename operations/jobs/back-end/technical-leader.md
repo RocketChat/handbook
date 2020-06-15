@@ -6,9 +6,9 @@ description: Back-end Technical-Leader Job Description
 
 ## Identification
 
-* Position: Back-end Technical-Leader
-* Area: Back-end
-* Responds to: CTO
+* **Position**: Back-end Technical-Leader
+* **Area**: Back-end
+* **Lead**: CTO
 
 ## Definitions
 

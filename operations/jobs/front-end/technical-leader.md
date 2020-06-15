@@ -6,9 +6,9 @@ description: Front-end Technical Leader Job Description
 
 ## Identification
 
-* Position: Front-end technical leader
-* Area: Front-end
-* Responds to: CTO
+* **Position**: Front-end technical leader
+* **Area**: Front-end
+* **Lead**: CTO
 
 ## Definitions
 

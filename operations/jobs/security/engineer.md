@@ -6,7 +6,11 @@ description: Security Operations Engineer Job Description
 
 ### Identification
 
-Position: Security Operations Engineer Area: Security Lead: Markus Kirsch Location: Worldwide, Remote possible Contract Type: Any, part-time possible
+* **Position**: Security Operations Engineer 
+* **Area**: Security 
+* **Lead**: Markus Kirsch 
+* **Location**: Worldwide, Remote possible 
+* **Contract Type:** Any, part-time possible
 
 ### Definitions
 

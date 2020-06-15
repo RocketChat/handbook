@@ -7,9 +7,13 @@
 3. Schedule 1:1 calls with various people in the team to get to know them.
 4. Add yourself to the [team page](https://rocket.chat/team).
 
-## Applications and services
+## Tools
 
 We use the following applications and services on a regular basis.
+
+{% page-ref page="tools/" %}
+
+
 
 * [Google Account](http://mail.google.com) `firstname.surname@rocket.chat`.
 * [GitHub](https://github.com) to contribute to the organization's repos, issues and projects.

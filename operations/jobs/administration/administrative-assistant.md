@@ -6,9 +6,9 @@ description: Administrative Assistant Job Description
 
 ## Identification
 
-* Position: Administrative Assistant
-* Area: Operations
-* Leader: Marcelo Schmidt
+* **Position**: Administrative Assistant
+* **Area**: Operations
+* **Leader**: Marcelo Schmidt
 
 ## Definitions
 

@@ -6,7 +6,11 @@ description: Security Lead Job Description
 
 ### Identification
 
-Position: Security Lead Area: Security Lead: Markus Kirsch Location: Worldwide, Remote possible Contract Type: Any, fulltime
+* **Position**: Security Lead 
+* **Area**: Security 
+* **Lead**: Markus Kirsch 
+* **Location**: Worldwide, Remote possible 
+* **Contract Type**: Any, fulltime
 
 ### Definitions
 

@@ -6,9 +6,9 @@ description: Recruitment Analyst Job Description
 
 ## Identification
 
-* Position: Junior Recruitment Analyst
-* Area: People
-* Leader: Otávio Torres
+* **Position**: Junior Recruitment Analyst
+* **Area**: People
+* **Leader**: Otávio Torres
 
 ## Definitions
 
