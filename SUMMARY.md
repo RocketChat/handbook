@@ -2,15 +2,15 @@
 
 * [Welcome](README.md)
 
-## Product <a id="product-1"></a>
+## Product
 
-* [Design](product-1/design/README.md)
-  * [Workflow](product-1/design/design-workflow-at-rocket.chat.md)
-  * [Design Building Pieces](product-1/design/design-building-pieces.md)
-  * [Articles](product-1/design/articles.md)
-* [Cloud](product-1/cloud.md)
-* [Mobile](product-1/mobile.md)
-* [Release Cycle](product-1/release-cycle.md)
+* [Design](product/design/README.md)
+  * [Workflow](product/design/design-workflow-at-rocket.chat.md)
+  * [Design Building Pieces](product/design/design-building-pieces.md)
+  * [Articles](product/design/articles.md)
+* [Cloud](product/cloud.md)
+* [Mobile](product/mobile.md)
+* [Release Cycle](product/release-cycle.md)
 
 ## Operations
 

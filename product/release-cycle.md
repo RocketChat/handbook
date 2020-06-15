@@ -1,4 +1,4 @@
-# Rocket.Chat Release Planning
+# Release Cycle
 
 This document describes the suggested method by which our teams should plan for releases.
 
