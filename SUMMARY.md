@@ -10,8 +10,7 @@
   * [Articles](product-1/design/articles.md)
 * [Cloud](product-1/cloud.md)
 * [Mobile](product-1/mobile.md)
-* [Product](product-1/product/README.md)
-  * [Rocket.Chat Release Planning](product-1/product/release-cycle.md)
+* [Release Cycle](product-1/release-cycle.md)
 
 ## Operations
 

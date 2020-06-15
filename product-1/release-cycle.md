@@ -1,4 +1,4 @@
-# Rocket.Chat Release Planning
+# Release Cycle
 
 This document describes the suggested method by which our teams should plan for releases.
 
@@ -43,7 +43,7 @@ In general, if it’s a new feature, it’ll be postponed for the next release o
 
 Every month can be a different day between 20th and 27th to plan the next release. The leader of the team will schedule the team and the all team will be able to participate of the planning. At this moment, most of the issues will be assigned to each member of the team. As we can see in the following example \(in April, 2018\):
 
-![chart](../../.gitbook/assets/release-cycle.png)
+![chart](../.gitbook/assets/release-cycle.png)
 
 ## How do we organize a release?
 
