@@ -6,8 +6,8 @@ description: Front-end Junior Developer Job Description
 
 ## Identification
 
-* Position: Junior Front-end Developer
-* Area: Front-end
+* **Position**: Junior Front-end Developer
+* **Area**: Front-end
 * Responds to: Front-end technical leader
 
 ## Definitions

@@ -6,8 +6,8 @@ description: Front-end Senior Developer Job Description
 
 ## Identification
 
-* Position: Senior Front-end Developer
-* Area: Front-end
+* **Position**: Senior Front-end Developer
+* **Area**: Front-end
 * Responds to: Front-end technical leader
 
 ## Definitions

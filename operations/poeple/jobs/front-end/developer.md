@@ -6,8 +6,8 @@ description: Front-end Developer Job Description
 
 ## Identification
 
-* Position: Intermediate Front-end Developer
-* Area: Front-end
+* **Position**: Intermediate Front-end Developer
+* **Area**: Front-end
 * Responds to: Front-end technical leader
 
 ## Definitions
