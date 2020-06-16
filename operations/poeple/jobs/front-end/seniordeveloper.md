@@ -1,4 +1,8 @@
-# Senior Front-end Developer - Job Description
+---
+description: Front-end Senior Developer Job Description
+---
+
+# Senior Developer
 
 ## Identification
 

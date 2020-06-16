@@ -1,4 +1,8 @@
-# Junior Front-end Developer - Job Description
+---
+description: Front-end Junior Developer Job Description
+---
+
+# Junior Developer
 
 ## Identification
 

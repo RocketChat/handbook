@@ -1,4 +1,8 @@
-# Intermediate Front-end Developer - Job Description
+---
+description: Front-end Developer Job Description
+---
+
+# Developer
 
 ## Identification
 
