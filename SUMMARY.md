@@ -5,9 +5,10 @@
 ## Product
 
 * [Design](product/design/README.md)
-  * [Workflow](product/design/design-workflow-at-rocket.chat.md)
-  * [Design Building Pieces](product/design/design-building-pieces.md)
   * [Articles](product/design/articles.md)
+  * [Workflow](product/design/design-workflow-at-rocket.chat.md)
+  * [Tools](product/design/tools.md)
+  * [Design Building Pieces](product/design/design-building-pieces.md)
 * [Cloud](product/cloud.md)
 * [Mobile](product/mobile.md)
 * [Release Cycle](product/release-cycle.md)

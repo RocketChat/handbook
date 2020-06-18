@@ -8,17 +8,17 @@ description: This is the way we build components on the prototypes.
 
 Atoms are the smallest piece of User Interface we can build, some of them must be used just on specific places and other ones can be spread throughout the application. Furthermore, they have been separated in two types.
 
-Be careful when creating and specially when editing Atoms, since they can be applied anywhere in the applications, they have en exponential risk to break things you are not aware.
+Be careful when creating and especially when editing Atoms, since they can be applied anywhere in the applications, they have en exponential risk to break things you are not aware.
 
 ### Global Atoms <a id="4c8952b7-95be-4e6b-8bb0-b07868631820"></a>
 
-Are those Atoms which can be used anywhere in the system, it guarantees consistency and so the ease to learn.
+Global Atoms are those Atoms which can be used anywhere in the system, it guarantees consistency and so the ease to learn.
 
 ![](../../.gitbook/assets/global-atoms.png)
 
 ### Contextual Atoms <a id="df187f85-c33b-4b08-8973-816437f32439"></a>
 
-This type of component is based on its context and responsibilities and must not used in a context or be responsible for something it was not initially created for. In the end, they do not make sense outside of their context, look at the example below:
+This type of component is based on its context and responsibilities and must not be used in a context or be responsible for something it was not initially created for. In the end, they do not make sense outside of their context, look at the example below:
 
 ![Contextual Atoms do not make sense outside their context](../../.gitbook/assets/contextual-atoms.png)
 
