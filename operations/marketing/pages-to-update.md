@@ -1,6 +1,6 @@
 # Product Profiles
 
-This is a list to keep RC info consistent around Internet, check and update periodically: logo, descriptions, screenshots, setup instructions, links not working anymore, other ...
+This is a list to keep info consistent around Internet, check and update periodically: logo, descriptions, screenshots, setup instructions, links not working anymore, other ...
 
 **Official listing, we have complete control to change and approve changes:**
 
@@ -14,11 +14,11 @@ This is a list to keep RC info consistent around Internet, check and update peri
   * [https://hub.docker.com/r/rocketchat/rocket.chat.enterprise](https://hub.docker.com/r/rocketchat/rocket.chat.enterprise)
   * [https://hub.docker.com/\_/rocketchat](https://hub.docker.com/_/rocketchat) - store listing
   * [https://hub.docker.com/\_/rocket-chat](https://hub.docker.com/_/rocket-chat) - Official image
-* RC docs [https://rocket.chat/docs/](https://rocket.chat/docs/)
-* RC website [https://rocket.chat/](https://rocket.chat/)
-* RC gmail \(the signature if logo changes\)
-* RC twitter [https://twitter.com/RocketChat](https://twitter.com/RocketChat)
-* RC github [https://github.com/RocketChat](https://github.com/RocketChat)
+* Docs []()
+* Website [https://rocket.chat/](https://rocket.chat/)
+* Gmail \(the signature if logo changes\)
+* Twitter [https://twitter.com/RocketChat](https://twitter.com/RocketChat)
+* Github [https://github.com/RocketChat](https://github.com/RocketChat)
 
 **3rd parties or partners listings, depending on the case we have to or should push changes, but the partner or 3rd party has to approve them:**
 

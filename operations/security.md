@@ -27,7 +27,7 @@ Mailing lists
 Public
 
 * [Security solutions](https://rocket.chat/security) - summary of security features of the product
-* [Invitation to contribute to security](https://rocket.chat/docs/contributing/security/) - Disclosure policy
+* [Invitation to contribute to security](contributing/security/) - Disclosure policy
 
 ## Policies
 
