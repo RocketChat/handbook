@@ -14,7 +14,7 @@ Be careful when creating and specially when editing Atoms, since they can be app
 
 Are those Atoms which can be used anywhere in the system, it guarantees consistency and so the ease to learn.
 
-![](../../.gitbook/assets/global-atoms%20%281%29.png)
+![](../../.gitbook/assets/global-atoms.png)
 
 ### Contextual Atoms <a id="df187f85-c33b-4b08-8973-816437f32439"></a>
 
@@ -32,7 +32,7 @@ Using Contextual Atoms in their respective place makes much more sense, look at 
 
 Are a composition of Atoms, usually shape rows or columns. Often they build items of a list. You can notice in the image below a few Contextual Atoms and Global atoms shaping molecules.
 
-![](../../.gitbook/assets/contextual-bar-messages%20%281%29.png)
+![](../../.gitbook/assets/contextual-bar-messages.png)
 
 ## Organisms <a id="934609c3-11ed-4ef7-95d3-20cfa2ff1247"></a>
 
