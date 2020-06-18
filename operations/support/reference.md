@@ -4,5 +4,5 @@
 
 The flowchart below shows all possible states and triggers for the notifications, including client, email and push notifications. It is a useful guide to troubleshoot problems related to missing or erroneous notifications, or even to understand what is the expected behavior of the system.
 
-![](../../.gitbook/assets/notification_flowchart%20%281%29.png)
+![](../../.gitbook/assets/notification_flowchart.png)
 
