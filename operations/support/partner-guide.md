@@ -62,7 +62,7 @@ Broadcast channels are 1-to-many; for example, they can be used for general anno
 
 #### Conferencing Server
 
-Rocket.Chat allows the integration of dedicated conference servers. The steps to do so are explained at [administrator-guides/setting-up-video-conferencing](administrator-guides/setting-up-video-conferencing).
+Rocket.Chat allows the integration of dedicated conference servers. The steps to do so are explained at [administrator-guides/setting-up-video-conferencing](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/setting-up-video-conferencing/README.md).
 
 The Community, Bronze and Silver editions use a shared server hosted by Rocket.Chat. Gold users have a dedicated server.
 
@@ -72,13 +72,13 @@ Bronze users are entitled to 1 terabyte of storage space. Silver and Gold are en
 
 #### Integrations
 
-Rocket.Chat on-premise allows unlimited integrations. An upcoming app marketplace will be the main repository for easy-to-install integrations. In the meantime, a list of possible integrations is available \(alongside instructions for deployment\) at [administrator-guides/integrations](administrator-guides/integrations).
+Rocket.Chat on-premise allows unlimited integrations. An upcoming app marketplace will be the main repository for easy-to-install integrations. In the meantime, a list of possible integrations is available \(alongside instructions for deployment\) at [administrator-guides/integrations](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/integrations/README.md).
 
 Rocket.Chat Cloud has a limit on integrations. For Bronze users, 5 integrations are the limit. For Silver and Gold, the limits are 100 and 1000 integrations, respectively.
 
 #### Multi-language Interface
 
-Rocket.Chat is available in more than 30 languages already. The translation effort is public and open, and anyone can help by joining our Lingohub page: [contributing/translating](contributing/translating).
+Rocket.Chat is available in more than 30 languages already. The translation effort is public and open, and anyone can help by joining our Lingohub page: [contributing/translating](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/contributing/translating/README.md).
 
 #### Desktop Apps
 
@@ -102,11 +102,11 @@ All versions of Rocket.Chat support our first version of the live chat feature. 
 
 #### Live Streaming
 
-Rocket.Chat can be integrated with YouTube for live streaming. This is explained on [administrator-guides/youtube-broadcasting](administrator-guides/youtube-broadcasting).
+Rocket.Chat can be integrated with YouTube for live streaming. This is explained on [administrator-guides/youtube-broadcasting](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/youtube-broadcasting/README.md).
 
 #### Read Receipt
 
-Customers can use the REST API to get read receipts of messages. This is explained on [developer-guides/rest-api/chat/getmessagereadreceipts](developer-guides/rest-api/chat/getmessagereadreceipts).
+Customers can use the REST API to get read receipts of messages. This is explained on [developer-guides/rest-api/chat/getmessagereadreceipts](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/developer-guides/rest-api/chat/getmessagereadreceipts/README.md).
 
 #### Message Auditing Panel
 
@@ -120,13 +120,13 @@ We provide pre-configured push notifications gateways. Customers using the commu
 
 Separate packages are available for customers of the Community and Pro versions who do not want or need to move to the Enterprise version.
 
-Additionally, customers who don't want to pay for the package can configure their own gateways by following the instructions at [administrator-guides/notifications/push-notifications](administrator-guides/notifications/push-notifications).
+Additionally, customers who don't want to pay for the package can configure their own gateways by following the instructions at [administrator-guides/notifications/push-notifications](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/notifications/push-notifications/README.md).
 
 On the Cloud, push notifications are unlimited for all three versions.
 
 #### Social Network Login
 
-Rocket.Chat supports OAuth authentication, enabling customers to hook up their system to the social network logins. This is explained at [administrator-guides/authentication/oauth](administrator-guides/authentication/oauth).
+Rocket.Chat supports OAuth authentication, enabling customers to hook up their system to the social network logins. This is explained at [administrator-guides/authentication/oauth](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/authentication/oauth/README.md).
 
 #### OmniChannel Integrations
 
@@ -134,7 +134,7 @@ Customers can contact our support team to gain an API key and token, allowing th
 
 #### Real-time Translation
 
-Pro and Enterprise customers can integrate Rocket.Chat with the Google translation API. This is explained on [administrator-guides/google-cloud/auto-translate](administrator-guides/google-cloud/auto-translate), but please notice that the customers will have to purchase their own access to the API first.
+Pro and Enterprise customers can integrate Rocket.Chat with the Google translation API. This is explained on [administrator-guides/google-cloud/auto-translate](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/google-cloud/auto-translate/README.md), but please notice that the customers will have to purchase their own access to the API first.
 
 #### Audio to Text Conversion
 
@@ -152,11 +152,11 @@ All users can enable Two Factor Authentication. This will require the user to ge
 
 #### Customizable User Permission
 
-Rocket.Chat allows the definition of a rich amount of roles and permissions to fine-tune access depending on each company's needs. This is explained in detail on [administrator-guides/permissions](administrator-guides/permissions).
+Rocket.Chat allows the definition of a rich amount of roles and permissions to fine-tune access depending on each company's needs. This is explained in detail on [administrator-guides/permissions](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/permissions/README.md).
 
 #### LDAP / Active Directory
 
-Community users have the ability to use basic LDAP authentication as detailed on [administrator-guides/authentication/ldap](administrator-guides/authentication/ldap).
+Community users have the ability to use basic LDAP authentication as detailed on [administrator-guides/authentication/ldap](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/support/administrator-guides/authentication/ldap/README.md).
 
 Pro and Enterprise users will soon have access to a feature-rich LDAP integration.
 
