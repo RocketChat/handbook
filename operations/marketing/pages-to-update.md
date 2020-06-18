@@ -12,9 +12,9 @@ This is a list to keep info consistent around Internet, check and update periodi
 * DockerHub
   * [https://hub.docker.com/r/rocketchat/rocket.chat](https://hub.docker.com/r/rocketchat/rocket.chat)
   * [https://hub.docker.com/r/rocketchat/rocket.chat.enterprise](https://hub.docker.com/r/rocketchat/rocket.chat.enterprise)
-  * [https://hub.docker.com/\_/rocketchat](https://hub.docker.com/_/rocketchat) - store listing
+  * [https://hub.docker.com/\_/rocketchat](https://hub.docker.com/_/rocketchat) - Store listing
   * [https://hub.docker.com/\_/rocket-chat](https://hub.docker.com/_/rocket-chat) - Official image
-* Docs 
+* Docs [https://docs.rocket.chat/](https://docs.rocket.chat/)
 * Website [https://rocket.chat/](https://rocket.chat/)
 * Gmail \(the signature if logo changes\)
 * Twitter [https://twitter.com/RocketChat](https://twitter.com/RocketChat)
