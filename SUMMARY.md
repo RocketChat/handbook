@@ -12,6 +12,9 @@
 * [Cloud](product/cloud.md)
 * [Mobile](product/mobile.md)
 * [Release Cycle](product/release-cycle.md)
+* [Development](product/development/README.md)
+  * [Development Guidelines](product/development/development-guidelines.md)
+  * [Review Guidelines](product/development/review-guidelines.md)
 
 ## Operations
 

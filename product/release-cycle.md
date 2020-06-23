@@ -1,7 +1,5 @@
 # Release Cycle
 
-This document describes the suggested method by which our teams should plan for releases.
-
 ## What’s a release?
 
 The release is every version of the app that’s sent to the store as a production release. The release is always a major/minor update, like from \(1.0.0 to 1.1.0 or to 2.0.0\). Patch releases \(from 1.0.0 to 1.0.1\) won’t follow this steps and are considered hotfixes releases. Our versioning is following the [Semantic Versioning 2.0.0](https://semver.org/) guide.
@@ -89,29 +87,11 @@ A Hotfix release will happen when a critical bug or crash is found in the produc
 
 Simply open an issue on GitHub describing the issue, the issue is usually closed from a pull-request getting merged and a new milestone is created with the minor update, including all PRs required to the hotfix be completed. Once the milestone is completed, it can be closed and the release tag can be created.
 
-## Review Guidelines
+## Check more
 
-Review \(PR related items\)
+{% page-ref page="development/review-guidelines.md" %}
 
-* Milestone and Project are correct
-* Related issues to be closed have the correct Milestone and Project
-* Related issues to be closed are written correct \(one per line\)
-* Title is correct and will be understandable when read in change log
-* Documentation is present, at the docs repository or in issue description \(when applicable\)
-* Description is good and could be used in a blogpost \(when applicable\)
-* There are images showing the changes from before and after, in English and in good resolution \(when there are UI changes\)
+{% page-ref page="development/development-guidelines.md" %}
 
-Review \(Code related items\)
 
-* There are no irrelevant changes, they could make the review complex
-* Data structure was change and there are migrations to convert the current data \(CTO should be notified about structure changes\)
-* There are no performance issues, especially in migrations \(when applicable, contact the performance team if you aren’t sure\)
-* There are no strings missing translations
-* There are no translated strings without translation in `en.i18n.json`
-
-Server Review
-
-* Run a server and tests the changes \(heroku deployment is an option\)
-* The `package-lock.json` was not changed without changes in `package.json`
-* The `package.json` has no irrelevant changes
 
