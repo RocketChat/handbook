@@ -21,7 +21,7 @@
 * [Tools](operations/tools/README.md)
   * [Asana](operations/tools/asana.md)
   * [Google G Suite](operations/tools/google-g-suite.md)
-* [Poeple](operations/poeple/README.md)
+* [People](operations/poeple/README.md)
   * [Onboarding](operations/poeple/onboarding.md)
   * [Job Descriptions](operations/poeple/jobs/README.md)
     * [Back-end](operations/poeple/jobs/back-end/README.md)
