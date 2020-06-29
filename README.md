@@ -1,3 +1,7 @@
+---
+description: All the information on how we run the company
+---
+
 # Welcome
 
 Rocket.Chat Handbook contains all the information on how we run the company, our core values, employee onboarding, our policies and much more.
