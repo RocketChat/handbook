@@ -49,6 +49,7 @@
   * [Reference](operations/support/reference.md)
   * [SLAs](operations/support/slas.md)
   * [Partner Guide](operations/support/partner-guide.md)
+  * [GitHub Issues](operations/support/github-issues.md)
 * [Marketing](operations/marketing/README.md)
   * [Product Profiles](operations/marketing/pages-to-update.md)
   * [Website](operations/marketing/website.md)
