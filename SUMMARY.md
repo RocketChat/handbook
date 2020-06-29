@@ -23,6 +23,10 @@
   * [Google G Suite](operations/tools/google-g-suite.md)
 * [People](operations/poeple/README.md)
   * [Onboarding](operations/poeple/onboarding.md)
+  * [Annual Summit](operations/poeple/summit.md)
+  * [Incentives Policy](operations/poeple/incentives.md)
+  * [Paid Time Off Policy](operations/poeple/paid-time-off-policy.md)
+  * [Travel Policy](operations/poeple/travel-policy.md)
   * [Job Descriptions](operations/poeple/jobs/README.md)
     * [Back-end](operations/poeple/jobs/back-end/README.md)
       * [Technical Leader](operations/poeple/jobs/back-end/technical-leader.md)
@@ -41,7 +45,8 @@
       * [Operations Engineer](operations/poeple/jobs/security/engineer.md)
     * [Operations](operations/poeple/jobs/operations/README.md)
       * [Administrative Assistant](operations/poeple/jobs/operations/administrative-assistant.md)
-* [Security](operations/security.md)
+* [Security](operations/security/README.md)
+  * [Security Policy](operations/security/security-policy.md)
 * [Support](operations/support/README.md)
   * [Team](operations/support/team.md)
   * [Processes](operations/support/processes.md)
@@ -53,12 +58,4 @@
 * [Marketing](operations/marketing/README.md)
   * [Product Profiles](operations/marketing/pages-to-update.md)
   * [Website](operations/marketing/website.md)
-
-## Policies
-
-* [Annual Summit](policies/summit.md)
-* [Incentives Policy](policies/incentives.md)
-* [Paid Time Off Policy](policies/paid-time-off-policy.md)
-* [Security Policy](policies/security-policy.md)
-* [Travel Policy](policies/travel-policy.md)
 

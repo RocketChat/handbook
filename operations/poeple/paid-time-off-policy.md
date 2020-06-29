@@ -19,21 +19,21 @@ Rocket.Chat encourages everyone to take some paid time off \(PTO\) off whenever 
 
 Access your [Zoho People Dashboard](https://people.zoho.com/rocketchat/zp#home/dashboard) and click on Apply Leave \(top-right\):
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 Choose the Leave type \(see below\) from the available options:
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 Some types will offer you an option to choose between days or hours you're taking off. After selecting the type, you'll need to enter the Dates for your application and the Reason for leave.
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 The reason is a courtesy of yours to help your manager tell others why you are in PTO.
 
 Remember that balances are a **suggestion** by the company. You are allowed to use more or less than your balance during the year. **Balances reset on your joining date.** You can check how your leave request affects your balance by looking at the right side of your request page:
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 Finish your request by clicking on the blue Submit button, in the page footer. Your manager gets an e-mail to approve your request. If he/she doesn't approve in a couple of days, don't hesitate to contact them directly.
 
