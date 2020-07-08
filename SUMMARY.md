@@ -1,20 +1,21 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [How to use our Handbook](how-to-use-our-handbook.md)
 
 ## Product
 
+* [Release Cycle](product/release-cycle.md)
+* [Cloud](product/cloud.md)
 * [Design](product/design/README.md)
   * [Articles](product/design/articles.md)
   * [Workflow](product/design/design-workflow-at-rocket.chat.md)
   * [Tools](product/design/tools.md)
   * [Design Building Pieces](product/design/design-building-pieces.md)
-* [Cloud](product/cloud.md)
-* [Mobile](product/mobile.md)
-* [Release Cycle](product/release-cycle.md)
 * [Development](product/development/README.md)
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
+* [Mobile](product/mobile.md)
 
 ## Operations
 
