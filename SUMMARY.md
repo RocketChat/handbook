@@ -57,6 +57,7 @@
   * [Partner Guide](operations/support/partner-guide.md)
   * [GitHub Issues](operations/support/github-issues.md)
 * [Marketing](operations/marketing/README.md)
+  * [Webinar’s Process](operations/marketing/webinars-process.md)
   * [Product Profiles](operations/marketing/pages-to-update.md)
   * [Website](operations/marketing/website.md)
 
