@@ -86,7 +86,7 @@ While any user can join the instance by using the web client, native desktop app
 
 #### Mobile Apps
 
-Mobile apps for Android and iOS are available on the respective app stores. An experimental app based on [React Native](https://facebook.github.io/react-native/) is also available. More information about it can be found on [https://rocket.chat/2018/11/13/reactive-native-update](https://rocket.chat/2018/11/13/reactive-native-update).
+Mobile apps for Android and iOS are available on the respective app stores. They are built using [React Native](https://reactnative.dev/) framework.
 
 #### Custom Domains
 
