@@ -23,6 +23,8 @@
   * [Asana](operations/tools/asana.md)
   * [Google G Suite](operations/tools/google-g-suite.md)
 * [People](operations/poeple/README.md)
+  * [Development Check-in](operations/poeple/development-check-in.md)
+  * [Our Culture](operations/poeple/our-culture.md)
   * [Onboarding](operations/poeple/onboarding.md)
   * [Annual Summit](operations/poeple/summit.md)
   * [Incentives Policy](operations/poeple/incentives.md)
