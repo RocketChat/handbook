@@ -43,45 +43,45 @@ _Performed by the Marketing Team_
 
 `<div class="forms-rocket">`
 
- `[hidden Lead_Source default:"Webinar"]`
+`[hidden Lead_Source default:"Webinar"]`
 
- `[hidden Website_Form default:"Webinar"]`
+`[hidden Website_Form default:"Webinar"]`
 
- `[hidden Lead_Status default:"Not Qualified"]`
+`[hidden Lead_Status default:"Not Qualified"]`
 
- `<label for="firstName">FIRST NAME`
+`<label for="firstName">FIRST NAME`
 
- `[text* First_Name id:firstName class:inputrocket placeholder"Type your first name"]`
+`[text* First_Name id:firstName class:inputrocket placeholder"Type your first name"]`
 
- `</label>`
+`</label>`
 
- `<label for="lastname">LAST NAME`
+`<label for="lastname">LAST NAME`
 
- `[text* Last_Name id:last_name class:inputrocket placeholder"Type your last name"]`
+`[text* Last_Name id:last_name class:inputrocket placeholder"Type your last name"]`
 
- `</label>`
+`</label>`
 
- `<label for="email">EMAIL ADDRESS`
+`<label for="email">EMAIL ADDRESS`
 
- `[email* Email id:email class:inputrocket placeholder"Type your email address"]`
+`[email* Email id:email class:inputrocket placeholder"Type your email address"]`
 
- `</label>`
+`</label>`
 
- `<label for="Phone">PHONE</label>`
+`<label for="Phone">PHONE</label>`
 
- `[intl_tel Phone id:phone class:inputrocket]`
+`[intl_tel Phone id:phone class:inputrocket]`
 
- `<label for="company">COMPANY`
+`<label for="company">COMPANY`
 
- `[text Company id:company class:inputrocket placeholder"Type your company name"]`
+`[text Company id:company class:inputrocket placeholder"Type your company name"]`
 
- `</label>`
+`</label>`
 
- `[hidden g-recaptcha-shared default:"c0d27634-5093-4c80-908d-b629abe71662"]`
+`[hidden g-recaptcha-shared default:"c0d27634-5093-4c80-908d-b629abe71662"]`
 
 `<span class="texto-form-webinar">By submitting this form, you are confirming you have read and agree to our <a href="/terms/"><b>Terms</b></a> and <a href="/privacy/"><b>Privacy Statement</b><a/>.</span>`
 
- `[submit id:formsubmit class:btnrocket "Register"]`
+`[submit id:formsubmit class:btnrocket "Register"]`
 
 `</div>`
 

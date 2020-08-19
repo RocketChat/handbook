@@ -1,6 +1,6 @@
 # Development Guidelines
 
-### Setup
+## Setup
 
 Your development workstation needs to have at least 8GB RAM or more to be able to build the Rocket.Chat's source code.
 
@@ -16,25 +16,25 @@ It's not necessary to install Nodejs or NPM, every time you need to use them you
 
 It's important to always run the NPM commands using `meteor npm` to ensure that you are installing the modules using the right Nodejs version.
 
-### Coding
+## Coding
 
-We provide a [.editorconfig](../.editorconfig) file that will help you to keep some standards in place.
+We provide a [.editorconfig](https://github.com/RocketChat/handbook/tree/71331f3208a6cd50680d675c79c657b8aa39e7e3/product/.editorconfig/README.md) file that will help you to keep some standards in place.
 
-#### ECMAScript vs TypeScript
+### ECMAScript vs TypeScript
 
 We are currently adopting TypeScript as the default language on our projects, the current codebase will be migrated incrementally from JavaScript to TypeScript.
 
 While we still have a lot of JavaScript files you should not create new ones. As much as possible new code contributions should be in **TypeScript**.
 
-#### Blaze vs React
+### Blaze vs React
 
 We are currently adopting React over Blaze as our UI engine, the current codebase is under migration and will continue. You will still find Blaze templates in our code. Code changes or contributions may need to be made in Blaze while we continue to evolve our components library.
 
 The [Fuselage](https://github.com/RocketChat/Rocket.Chat.Fuselage) is our component library based on React, check it out when contributing to the Rocket.Chat UI and feel free to contribute new components or fixes.
 
-#### Standards
+### Standards
 
-Most of the coding standards are covered by ESLint configured at [.eslintrc](../.eslintrc), and most of them came from our own [ESLint Config Package](https://github.com/RocketChat/eslint-config-rocketchat).
+Most of the coding standards are covered by ESLint configured at [.eslintrc](https://github.com/RocketChat/handbook/tree/71331f3208a6cd50680d675c79c657b8aa39e7e3/product/.eslintrc/README.md), and most of them came from our own [ESLint Config Package](https://github.com/RocketChat/eslint-config-rocketchat).
 
 Things not covered by `eslint`:
 
@@ -53,7 +53,7 @@ Things not covered by `eslint`:
 
 * Import the HTML file from it's sibling JS/TS file
 
-#### Syntax check
+### Syntax check
 
 Before submitting a PR you should get no errors on `eslint`.
 
@@ -63,11 +63,11 @@ To check your files run:
 meteor npm run lint
 ```
 
-### Tests
+## Tests
 
 There are 2 types of tests we run on Rocket.Chat, **Unit** tests and **End to End** tests. The major difference is that End to End tests require a Rocket.Chat instance running to execute the API and UI checks.
 
-#### End to End Tests
+### End to End Tests
 
 First, you need to run a Rocket.Chat server on **Test Mode** and on an **Empty Database**:
 
@@ -87,7 +87,7 @@ Now you can run the tests:
 meteor npm test
 ```
 
-#### Unit Tests
+### Unit Tests
 
 Unit tests are simpler to set up and run. They do not require a working Rocket.Chat instance.
 
@@ -101,13 +101,13 @@ It's possible to run on watch mode as well:
 meteor npm run testunit-watch
 ```
 
-### Before Push your code
+## Before Push your code
 
 It's important to run the lint and tests before push your code or submit a Pull Request, otherwise, your contribution may fail quickly on the CI. Reviewers are forced to demand fixes and the review of your contribution will be further delayed.
 
 Rocket.Chat uses [husky](https://www.npmjs.com/package/husky) to run the **lint** and **unit tests** before proceeding to the code push process, so you may notice a delay when pushing your code to your repository.
 
-### Choosing a good PR title
+## Choosing a good PR title
 
 It is very important to note that we use PR titles when creating our changelog. Keep this in mind when you title your PR. Make sure the title makes sense to a person reading a releases' changelog!
 
@@ -125,11 +125,11 @@ Even it's being something new in the code the users already expect the filter to
 [FIX] Permissions' search doesn't filter base on presented translation, only on internal ids
 ```
 
-### Choosing the right PR tag
+## Choosing the right PR tag
 
 You can use several tags do describe your PR, i.e.: `[FIX]`, `[NEW]`, etc. You can use the descriptions below to better understand the meaning of each one, and decide which one you should use:
 
-#### `[NEW]`
+### `[NEW]`
 
 **When**
 
@@ -157,7 +157,7 @@ Example of **good** PR titles:
 [NEW] Color variable to left sidebar
 ```
 
-#### `[FIX]`
+### `[FIX]`
 
 **When**
 
@@ -179,7 +179,7 @@ Example of a **good** PR title:
 [FIX] Missing Content-Type header for public files with JWT
 ```
 
-#### `[IMPROVE]`
+### `[IMPROVE]`
 
 **When**
 
@@ -195,7 +195,7 @@ Example of **good** PR title:
 [IMPROVE] Displays Nothing found on admin sidebar when search returns nothing
 ```
 
-#### `[BREAK]`
+### `[BREAK]`
 
 **When**
 
@@ -210,11 +210,11 @@ Example of **good** PR title:
 
 * When the change limits \(format, size, etc\) or removes the ability to read or change the data \(when the limitation was not caused by the back-end\)
 
-#### Second tag e.g. `[NEW][ENTERPRISE]`
+### Second tag e.g. `[NEW][ENTERPRISE]`
 
 Use a second tag to group entries on the changelog, we currently use it only for the Enterprise items but we are going to expand it's usage soon, please do not use it until we create a pattern for it.
 
-#### Minor Changes
+### Minor Changes
 
 For those PRs that aren't important for the end-user, we are working on a better pattern, but for now please use the same tags, use them without the brackets and in camel case:
 
@@ -224,7 +224,7 @@ Fix: Missing Content-Type header for public files with JWT
 
 All those PRs will be grouped under the `Minor changes` section which is collapsed, so users can expand it to check for those minor things but they are not visible directly on the changelog.
 
-### Security Best Practices
+## Security Best Practices
 
 * Never expose unnecessary data to the APIs' responses
 * Always check for permissions or create new ones when you must expose sensitive data
@@ -233,7 +233,7 @@ All those PRs will be grouped under the `Minor changes` section which is collaps
 * Always limit the user's input size on the server-side
 * Always execute the validations on the server-side even when executing on the client-side as well
 
-### Performance Best Practices
+## Performance Best Practices
 
 * Prefer to inform the fields you want, and only the necessary ones, when querying data from the database over query the full documents
 * Limit the number of returned records to a reasonable value
@@ -242,7 +242,7 @@ All those PRs will be grouped under the `Minor changes` section which is collaps
 * Create new metrics to measure things whenever possible
 * Cache data and returns whenever possible
 
-### Contributor License Agreement
+## Contributor License Agreement
 
 To have your contribution accepted you must sign our [Contributor License Agreement](https://cla-assistant.io/RocketChat/Rocket.Chat). In case you submit a Pull Request before sign the CLA GitHub will alert you with a new comment asking you to sign and will block the Pull Request from be merged by us.
 
