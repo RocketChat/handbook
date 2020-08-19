@@ -1,6 +1,6 @@
 # Review Guidelines
 
-### Review \(PR related items\)
+## Review \(PR related items\)
 
 * Milestone and Project are correct
 * Related issues to be closed have the correct Milestone and Project
@@ -10,7 +10,7 @@
 * The description is good and could be used in a blogpost \(when applicable\)
 * There are images showing the changes from before and after, in English and in good resolution \(when there are UI changes\)
 
-### Review \(Code related items\)
+## Review \(Code related items\)
 
 * There are no irrelevant changes, they could make the review complex
 * The data structure was change and there are migrations to convert the current data \(CTO should be notified about structure changes\)
@@ -18,7 +18,7 @@
 * There are no strings missing translations
 * There are no translated strings without translation in `en.i18n.json`
 
-### Server Review
+## Server Review
 
 * The `package-lock.json` was not changed without changes in `package.json`
 * The `package.json` has no irrelevant changes

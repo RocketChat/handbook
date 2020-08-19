@@ -6,5 +6,3 @@
 * [Karina Monarkh](https://open.rocket.chat/direct/karina.monarkh) - Support Analyst
 * [Andres Arrieta ](https://open.rocket.chat/direct/andres.mauricio)- Support Analyst
 
-
-
