@@ -1,4 +1,4 @@
-# Onboarding
+# Onboarding\*
 
 ## Your first week at Rocket.Chat
 
