@@ -19,7 +19,7 @@ An agent can see whether the ticket was created from a web request or email by c
 
 All tickets can be seen on the [Agent Dashboard](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/q/duedate), on the **Tickets** page.
 
-#### Ticket Priorities
+### Ticket Priorities
 
 There are three priority levels:
 
@@ -33,27 +33,26 @@ The SLAs are defined taking into account the priority, the paid plan/product and
 
 Available plans/products and their respective SLAs-&gt; please go to [Support SLA page](https://rocket.chat/handbook/support/slas/)
 
-Available account status:
+**The account information from all customer base are in synch with Zoho CRM, and we base our SLA calculation taking into account the information stored on Zoho CRM. Everything is automated and retrieved in the ticket creation.**
 
-1. `Client Paying` -&gt; Paid customers
-2. `Community` -&gt; Rocket.Chat community users, non-paid customers \(No SLA applicable\)
-3. `Potential Client - VIP` -&gt; this special status is to be used so support can assist on deals which are about to be closed \(special pre-sales activities\).
-4. `Potential Partners` -&gt; special status to be used to assist potential parters.
+### Zoho Desk Departments
 
-The account information from all customer base are in synch with Zoho CRM, and we base our SLA calculation taking into account the information stored on Zoho CRM. Everything is automated and retrieved in the ticket creation.
+Currently Zoho Desk is divided in three different departments:
 
-## Assigning
+* **Paid Support -&gt;** All tickets with contractual SLAs \(paid customers\)
+* **Community -&gt;** Tickets related to the community users \(no deals/contracts or active trials\)
+* **Trials -&gt;** Tickets related to the following customers/users
+  * Active SaaS trial customers
+  * Potential customers
+  * Potential - VIP customers
 
-There are typical requests that should be assigned to specific departments or employees:
-
-1. `Paid Support` SLA tickets are automatically sent to "Paid Support" queue
-2. `Community`Tickets without SLA automically sent to "Community" queue
-3. `Security and GDPR requests` are automatically assigned to the Security team.
-4. `Support requests` are automatically assigned to Rocket.Chat Support team.
+Currently all agents are assigned to all departments. The ticket routing between the departments is done automatically via scripting.
 
 ## Hotline Support
 
-Phone support is offered within Rocket.Chat paid support plans. Phone calls are handled in [Freshcaller tool](https://rocketphone.freshcaller.com/). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat).
+24x7 phone hotline support is offered within Rocket.Chat paid support plans. 
+
+Phone calls are handled in [Freshcaller tool](https://rocketphone.freshcaller.com/). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat). All support agents should be connected to Freshcaller during their shift.
 
 ## Replying mobile apps reviews
 
