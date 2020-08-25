@@ -38,5 +38,5 @@ For the oncalls, we will have a specific channel \(rocketchat-oncall\) which wil
 
 ## Holidays
 
-In the support team we will follow the holidays taking into consideration the agent's location. Minimum coverage per shift is mandatory \(24x7 on weekdays\).
+In the support team we will follow the holidays taking into consideration the agent's location. Minimum coverage per shift is mandatory \(24x7 regime\).
 
