@@ -75,3 +75,14 @@ When following up on a closed ticket, ask the following questions:
 2. Is the problem related to a known or new bug?
 3. Is the problem related to a missing feature? Can a feature request be created?
 
+## Daily work systems/tools
+
+* [Zoho Desk](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases) -&gt; Ticket system
+* [Zoho CRM](https://crm.zoho.com/crm/org660081933/tab/Home/begin) -&gt; Customer Relationship Management system
+* [ClickUp](https://app.clickup.com/4207297/v/l/li/31350041?pr=3057758) -&gt; Project/task management tool
+* [Omnichannel KeyGen](https://rocketchat-omnichannel-mgmt.frd.mn/) -&gt; Omnichannel/Facebook token generator
+* [Rocket.Chat GitHub Repositories](https://github.com/RocketChat)
+* [Fleetcommand / Cloud Admin](https://cloud.rocket.chat/admin)
+
+
+

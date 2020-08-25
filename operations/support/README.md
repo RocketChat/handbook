@@ -6,9 +6,9 @@ We remove obstacles and solve problems to ensure our customers can focus on what
 
 ## Summary
 
-* [Partner Guide](partner-guide.md)
+* [Partner Guide](old-docs-guides/partner-guide.md)
 * [Processes](processes/)
-* [Reference](reference.md)
+* [Reference](old-docs-guides/reference.md)
 * [SLAs](processes/slas.md)
 * [Systems](systems.md)
 * [Team](team.md)
