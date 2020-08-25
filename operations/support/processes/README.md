@@ -19,6 +19,8 @@ An agent can see whether the ticket was created from a web request or email by c
 
 All tickets can be seen on the [Agent Dashboard](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Cases/q/duedate), on the **Tickets** page.
 
+#### Ticket Priorities
+
 There are three priority levels:
 
 1. `High` \(e.g., system down, main functions affected, large number of users unable to access, severe performance problems\)
