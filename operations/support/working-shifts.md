@@ -36,3 +36,7 @@ For the oncalls, we will have a specific channel \(rocketchat-oncall\) which wil
 
 **IMPORTANT: The shift schedule will be posted and saved on** [**Zoho People Shift Calendar tool**](https://people.zoho.com/rocketchat/zp#attendance/shiftmapping/calview)**.**
 
+## Holidays
+
+In the support team we will follow the holidays taking into consideration the agent's location. Minimum coverage per shift is mandatory \(24x7 on weekdays\).
+
