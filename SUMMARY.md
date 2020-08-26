@@ -54,6 +54,8 @@
       * [Operations Engineer](operations/people/jobs/security/engineer.md)
     * [Operations](operations/people/jobs/operations/README.md)
       * [Administrative Assistant](operations/people/jobs/operations/administrative-assistant.md)
+      * [Sales Ops](operations/people/jobs/operations/sales-ops.md)
+      * [Financial Analyst](operations/people/jobs/operations/junior-financial-analyst.md)
 * [Security](operations/security/README.md)
   * [Security Policy](operations/security/security-policy.md)
 * [Support](operations/support/README.md)
