@@ -20,6 +20,7 @@
 ## Operations
 
 * [Tools](operations/tools/README.md)
+  * [Rocket.Chat](operations/tools/rocket.chat.md)
   * [Asana](operations/tools/asana.md)
   * [Google G Suite](operations/tools/google-g-suite.md)
 * [People](operations/people/README.md)
