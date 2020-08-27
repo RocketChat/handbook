@@ -4,7 +4,7 @@ description: >-
   only one side has access to the streaming of content.
 ---
 
-# Webinar’s Process
+# Webinar Process
 
 Any Rocket.Chat team member can host a webinar with the Marketing Team help, but the definition of dates and availability is in charge of the marketing team. After approval, from that date to the webinar, four weeks of preparation are requested.
 
