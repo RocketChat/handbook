@@ -11,7 +11,7 @@ The Remote work benefit comes as a way of helping our Rocketeers work comfortabl
 * Pay for internet bills
 * Pay for coworking fees
 
-The monthly amount varies according to your location and the benefit works through reimbursement of the spent value. You can see the whole explanation on how to use it in [here](https://docs.google.com/document/d/1CNLIR0KP2bKmKsfniOa2lvpdSxsNMzqdX-jxFEyf5xg/edit#).
+The monthly amount varies according to your location and the benefit works through reimbursement of the spent value. You can see the whole explanation on how to use it in [here](https://docs.google.com/document/d/1CNLIR0KP2bKmKsfniOa2lvpdSxsNMzqdX-jxFEyf5xg/export?format=pdf).
 
 
 

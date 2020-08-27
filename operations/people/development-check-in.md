@@ -18,6 +18,5 @@ The Check-in happens every quarter and has 3 phases:
 
 * [Tips for a great feedback](https://drive.google.com/file/d/1ueHTzDSsQXe9oBs5vDek8-x3AJ0n1kGB/view?usp=sharing)
 * [What to consider when completing my self evaluation?](https://docs.google.com/document/d/1qKf6xQAKg7C3GCxw2dlcxRgQEHIvwtMizhmo4zWDCe4/edit?usp=sharing)
-* [What to consider when completing my team's evaluations?](https://docs.google.com/document/d/1s63JT9eYLlhxoxvi3FjPPZUzlNxjlR1db7unSGO13BM/edit?usp=sharing)
 * [What to expect during the Check-in talks](https://docs.google.com/document/d/1_2OGwNdv4HjiLuOGxOHDTE7_Bmmor6VaeBFfrsHCxKM/edit?usp=sharing)
 
