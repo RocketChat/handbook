@@ -26,7 +26,7 @@
 * [People](operations/people/README.md)
   * [Our Culture](operations/people/our-culture.md)
   * [Benefits](operations/people/benefits/README.md)
-    * [Stock options\*](operations/people/benefits/stock-options.md)
+    * [Stock options](operations/people/benefits/stock-options.md)
     * [Remote Benefit](operations/people/benefits/remote-benefit.md)
   * [Onboarding\*](operations/people/onboarding/README.md)
     * [Platforms and Systems](operations/people/onboarding/platforms-and-systems.md)
