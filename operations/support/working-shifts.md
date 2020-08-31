@@ -15,7 +15,7 @@ Rocket.Chat offers 24/7 coverage for our customers. To keep the operation runnin
 | A \(Europe Early Shift\) | 12 AM - 9 AM | 3 AM - 12 PM | 6 AM - 3 PM |
 | B \(Europe Mid Shift\) | 6 AM - 3 PM | 9 AM - 6 PM | 12 PM - 9 PM |
 | C \(Americas Day Shift\) | 9 AM - 6 PM | 12 PM - 9 PM | 3 PM - 12 AM |
-| D \(Americas Mid Shift\) | 12 PM - 9 PM | 3 PM - 12 AM | 6 PM - 3 AM |
+| D \(Americas Mid Shift\) | 1 PM - 10 PM | 4 PM - 1 AM | 7 PM - 4 AM |
 | E \(Americas Late Shift\) | 3 PM - 12 AM | 6 PM - 3 AM | 9 PM - 6 AM |
 
 ## Weekends
