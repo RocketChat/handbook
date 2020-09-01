@@ -16,12 +16,12 @@ This project contains the main backlog of the main features we are working on.
 
 We use some standard sections across the projects that will help manage and sync the projects.
 
-These sections are designed to work well on the Kanban **Board** view.
+These sections are designed to work well with the Kanban **Board** view.
 
 | Section | Description |
 | :--- | :--- |
 | **Inbox** | This should be the top sections, and new tasks created by colleagues will be automatically be added there to be triaged. |
-| **Sprint** | This is whats is being worked on during the current sprint, usually a week. |
+| **Sprint** | This is what is being worked on during the current sprint, usually a week. |
 | **Backlog** | Tasks that are ready to be developed.  |
 | **Done** | All the completed tasks should be moved here. |
 
