@@ -12,6 +12,7 @@
   * [Workflow](product/design/design-workflow-at-rocket.chat.md)
   * [Tools](product/design/tools.md)
   * [Design Building Pieces](product/design/design-building-pieces.md)
+  * [Principles](product/design/principles.md)
 * [Development](product/development/README.md)
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
