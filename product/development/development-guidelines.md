@@ -41,7 +41,7 @@ Things not covered by `eslint`:
 * Prefer longer/descriptive variable names, e.g. `error` vs `err`, unless dealing with common record properties already shortened, e.g. `rid` and `uid`
 * Use return early pattern. [See more](https://blog.timoxley.com/post/47041269194/avoid-else-return-early)
 * Prefer `Promise` over `callbacks`
-* Prefer `await` over `then/catch`
+* Prefer `await` over `then/catch` (also valid for unit/e2e test callbacks)
 * Don't create queries outside models, the query description should be inside the model class.
 * Don't hardcode fields inside models. the same method can be used for different purposes, using different fields.
 * Prefer to create REST endpoints over Meteor methods
