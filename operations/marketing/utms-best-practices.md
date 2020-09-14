@@ -46,7 +46,7 @@ _Example: google, bing, github, facebook, twitter, instagram, linkedin, newslett
 
 The medium is the way that the user, that was previously on another website, came to Rocket.Chat. It should answer the question: _how did the user get here? / what was the medium that brought the user here?_
 
-_Example: social, paid-social, cpc/paid-search, email, display, banner, referral._
+_Example: organic, paid, cpc/paid-search, email, display, banner, referral._
 
 ### **Campaign**
 
@@ -73,12 +73,12 @@ _To see this parameter on Google Analytics, you need to use the Keyword dimensio
 * Create the UTM URL by filling up the blanks on the [URL Campaign Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/). 
 * Use lowercase letters at all times. \(✅ `utm_medium=paid-search` ❌`utm_medium=Paid-Search`\). 
 * Use hyphens to separate the words, not underscores. 
-* Avoid redundancy: if a term is already on the UTM, it shouldn’t appear again \(i.e.: `utm_source=facebook&utm_medium=facebook-post`\) 
+* Avoid redundancy: if a term is already on the UTM, it shouldn’t appear again \(i.e.: `utm_source=facebook&utm_medium=facebook-organic`\) 
 * Watch out for what’s been previously done and follow the pattern. If the UTM that’s usually used is `utm_medium=social`, don’t create a new one with `utm_medium=social-media`.
 
 ### Examples of UTMs:
 
-Post on LinkedIn: _utm\_source=linkedin&utm\_medium=social&utm\_campaign=omnichanne_l 
+Post on LinkedIn: _utm\_source=linkedin&utm\_medium=organic&utm\_campaign=social_
 
 LinkedIn Ad: _utm\_source=linkedin&utm\_medium=ads&utm\_campaign=09-09-20-webinar-smb-omnichannel_ 
 
