@@ -2,47 +2,15 @@
 description: This is the way we build components on the prototypes.
 ---
 
-# Design Building Blocks
+# Building Blocks
 
-## Atoms <a id="a1e95e87-2666-4415-96a9-10ba7c850d11"></a>
+While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks](design-building-pieces.md) of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
 
-Atoms are the smallest piece of User Interface we can build, some of them must be used just on specific places and other ones can be spread throughout the application. Furthermore, they have been separated in two types.
+#### Validation Guide
 
-Be careful when creating and especially when editing Atoms, since they can be applied anywhere in the applications, they have en exponential risk to break things you are not aware.
-
-### Global Atoms <a id="4c8952b7-95be-4e6b-8bb0-b07868631820"></a>
-
-Global Atoms are those Atoms which can be used anywhere in the system, it guarantees consistency and so the ease to learn.
-
-![](../../../.gitbook/assets/global-atoms.png)
-
-### Contextual Atoms <a id="df187f85-c33b-4b08-8973-816437f32439"></a>
-
-This type of component is based on its context and responsibilities and must not be used in a context or be responsible for something it was not initially created for. In the end, they do not make sense outside of their context, look at the example below:
-
-![Contextual Atoms do not make sense outside their context](../../../.gitbook/assets/contextual-atoms.png)
-
-The design of each component is based on their meaning so using a component for something it was not initially created increases the probability of breaking the design somewhere else.
-
-Using Contextual Atoms in their respective place makes much more sense, look at the example below:
-
-![](../../../.gitbook/assets/atom-in-their-context.png)
-
-## Molecules <a id="67a183d7-2f91-4005-a7aa-0a48954ef3b7"></a>
-
-Are a composition of Atoms, usually shape rows or columns. Often they build items of a list. You can notice in the image below a few Contextual Atoms and Global atoms shaping molecules.
-
-![](../../../.gitbook/assets/contextual-bar-messages.png)
-
-## Organisms <a id="934609c3-11ed-4ef7-95d3-20cfa2ff1247"></a>
-
-Shape blocks of Molecules. Its responsibility is to wrap Molecules and also may add a few other Atoms around it.
-
-![From Atoms to Organisms](../../../.gitbook/assets/menus.png)
-
-## Templates <a id="556c4236-8ac3-4239-947c-608785a8f497"></a>
-
-The finality of the previous component types is to be part of a Template. A user will not use neither an Atom, Molecule nor Organism, rather then this, they will use the Templates, which have the responsibility to help them to accomplish their daily tasks while using the application.
-
-![From Atoms to Templates](../../../.gitbook/assets/sidebar.png)
+* Are we using components from our library?
+* Should this component perform this type of action?
+* Is this a Global Component or Contextual Component? Are you using it in the right context?
+* A component instance must not contain modifications on typography, color or inner elements' size, if that is necessary, you must add this new variation to our library as a new component;
+* If changes are required, will they possibly break other parts of the platform? They may change the component's meaning or push surrounding ones, breaking the UI.
 
