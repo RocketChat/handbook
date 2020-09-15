@@ -6,7 +6,7 @@ description: Provide the team standards for built and evaluation.
 
 ### Building Blocks
 
-While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks]() of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
+While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks](rules/building-blocks-framework.md) of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
 
 #### Validation Guide
 
