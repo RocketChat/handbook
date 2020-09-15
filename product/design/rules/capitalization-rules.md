@@ -14,5 +14,5 @@ Capitalize every word except articles, coordinating conjunctions, and prepositio
 
 ### Keep titles short
 
-Follow the principle of [Minimalism](../principles/#minimalism). Overly long text can crowd your interface and may get truncated on smaller screens.
+Follow the principle of [Minimalism](../principles.md#minimalism). Overly long text can crowd your interface and may get truncated on smaller screens.
 
