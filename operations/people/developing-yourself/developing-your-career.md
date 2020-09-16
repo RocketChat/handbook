@@ -1,14 +1,13 @@
-# Developing your career\*
+# Developing your career
 
- Mantenha com seu gestor reuniões de acompanhamento de resultados.
+At Rocket.Chat you are invited to think about your own path:
 
-FERRAMENTAS: 1:1, Papo de Alinhamento.
+* What do you want to achieve?
+* What can you do and what have you been doing to achieve these goals?
 
-3. Faça sua autoavaliação e solicite ao seu gestor Mensurar os resultados apresentados por você no período acordado.
+After you know your goals we'll offer the tools to support your development and the achievement of those. These tools are the Development Check-ins together with the 1:1s.
 
-FERRAMENTAS: avaliação da cultura e entrega/resultado.
-
-4.Entenda seus pontos fortes e planeje seu desenvolvimento
-
-Converse com o seu FERRAMENTAS: 1-1, Mapa de Desenvolvimento.
+During the Check-ins you'll have the process leading you to talk about your career development, but during the rest of the quarter after the Check-in, you shouldn't lose focus on that and use the 1:1s to continue the talk!  
+  
+Remember you are an active player in your development! So use all the tools you have to find your strengths and plan your future!
 
