@@ -13,8 +13,6 @@ We use the following applications and services on a regular basis.
 
 {% page-ref page="../../tools/" %}
 
-
-
 * [Google Account](http://mail.google.com) `firstname.surname@rocket.chat`.
 * [GitHub](https://github.com) to contribute to the organization's repos, issues and projects.
 * [BambooHR](https://www.bamboohr.com) for HR.

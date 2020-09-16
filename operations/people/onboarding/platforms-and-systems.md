@@ -14,5 +14,5 @@ In our daily basis we use different platforms and systems, here you'll find a li
   * **CRM**: It’s where we have the company's sales information.
   * **Campaigns**: Also for creating campaigns.
 
-Different areas also use other specific platforms and you'll slowly get familiar with all of those too!  
+Different areas also use other specific platforms and you'll slowly get familiar with all of those too!
 

@@ -80,9 +80,9 @@ _To see this parameter on Google Analytics, you need to use the Keyword dimensio
 
 Post on LinkedIn: _utm\_source=linkedin&utm\_medium=organic&utm\_campaign=social_
 
-LinkedIn Ad: _utm\_source=linkedin&utm\_medium=ads&utm\_campaign=09-09-20-webinar-smb-omnichannel_ 
+LinkedIn Ad: _utm\_source=linkedin&utm\_medium=ads&utm\_campaign=09-09-20-webinar-smb-omnichannel_
 
-Capterra PPC: _utm\_source=capterra&utm\_medium=ppc&utm\_campaign=review-platforms-paid_ 
+Capterra PPC: _utm\_source=capterra&utm\_medium=ppc&utm\_campaign=review-platforms-paid_
 
 Newsletter: _utm\_source=newsletter&utm\_medium=email&utm\_campaign=newsletter-september_
 

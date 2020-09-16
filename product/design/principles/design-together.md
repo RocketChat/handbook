@@ -1,8 +1,8 @@
 # Design Together
 
-Design is made by the collaboration of different people, with different backgrounds. 
+Design is made by the collaboration of different people, with different backgrounds.
 
-#### Validation Guide
+## Validation Guide
 
 * Are we asking feedback for players on different teams?
 * Are we looking into the community feedback?

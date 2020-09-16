@@ -1,16 +1,14 @@
 # Animation Curve and Timing
 
-### Timing
+## Timing
 
 ```text
 0.18s
 ```
 
-### Curve
+## Curve
 
 ```text
 cubic-bezier(0.76, 0, 0.24, 1)
 ```
-
-
 

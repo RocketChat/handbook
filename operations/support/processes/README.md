@@ -50,7 +50,7 @@ Currently all agents are assigned to all departments. The ticket routing between
 
 ## Hotline Support
 
-24x7 phone hotline support is offered within Rocket.Chat paid support plans. 
+24x7 phone hotline support is offered within Rocket.Chat paid support plans.
 
 Phone calls are handled in [Freshcaller tool](https://rocketphone.freshcaller.com/). Each call results in a ticket that is created in Zoho Desk and sent to the customer as a short follow-up. If the issue addressed via hotline needs to be escalated to the developers or sales team, the support staff assigns the ticket accordingly and notifies the responsible team member in [Open Server](https://open.rocket.chat). All support agents should be connected to Freshcaller during their shift.
 
@@ -83,6 +83,4 @@ When following up on a closed ticket, ask the following questions:
 * [Omnichannel KeyGen](https://rocketchat-omnichannel-mgmt.frd.mn/) -&gt; Omnichannel/Facebook token generator
 * [Rocket.Chat GitHub Repositories](https://github.com/RocketChat)
 * [Fleetcommand / Cloud Admin](https://cloud.rocket.chat/admin)
-
-
 

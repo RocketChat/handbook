@@ -27,5 +27,3 @@ For Rocketeers in other countries we offer the benefit of support to Remote work
 
 We're constantly looking for new possibilities and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedbacks can be directed to the People Experience team, who's glad to receive them!
 
-
-

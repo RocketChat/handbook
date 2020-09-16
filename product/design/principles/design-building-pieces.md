@@ -6,7 +6,7 @@ description: This is the way we build components on the prototypes.
 
 While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks](design-building-pieces.md) of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
 
-#### Validation Guide
+## Validation Guide
 
 * Are we using components from our library?
 * Should this component perform this type of action?

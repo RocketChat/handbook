@@ -4,7 +4,7 @@ description: What is the marketing team role and goals
 
 # Marketing
 
-The marketing team is responsible for promoting Rocket.Chat's business for a diverse and global audience, aiming to reinforce its brand positioning and benefits, driving sales of its products and services. 
+The marketing team is responsible for promoting Rocket.Chat's business for a diverse and global audience, aiming to reinforce its brand positioning and benefits, driving sales of its products and services.
 
 **Goals**
 
@@ -28,6 +28,4 @@ The marketing team is responsible for promoting Rocket.Chat's business for a div
 * Campaign Management
 * Email marketing
 * Content management
-
-## 
 

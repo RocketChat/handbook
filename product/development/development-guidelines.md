@@ -18,7 +18,7 @@ It's important to always run the NPM commands using `meteor npm` to ensure that 
 
 ## Coding
 
-We provide a [.editorconfig](https://github.com/RocketChat/handbook/tree/d83129860783e026ac41ca3c8cf8cf0f4b3dd1f2/product/.editorconfig/README.md) file that will help you to keep some standards in place.
+We provide a [.editorconfig](https://github.com/RocketChat/handbook/tree/0a5f5d941de77cc1c83a2bf26293127fc3cdd7d2/product/.editorconfig/README.md) file that will help you to keep some standards in place.
 
 ### ECMAScript vs TypeScript
 
@@ -34,7 +34,7 @@ The [Fuselage](https://github.com/RocketChat/Rocket.Chat.Fuselage) is our compon
 
 ### Standards
 
-Most of the coding standards are covered by ESLint configured at [.eslintrc](https://github.com/RocketChat/handbook/tree/d83129860783e026ac41ca3c8cf8cf0f4b3dd1f2/product/.eslintrc/README.md), and most of them came from our own [ESLint Config Package](https://github.com/RocketChat/eslint-config-rocketchat).
+Most of the coding standards are covered by ESLint configured at [.eslintrc](https://github.com/RocketChat/handbook/tree/0a5f5d941de77cc1c83a2bf26293127fc3cdd7d2/product/.eslintrc/README.md), and most of them came from our own [ESLint Config Package](https://github.com/RocketChat/eslint-config-rocketchat).
 
 Things not covered by `eslint`:
 

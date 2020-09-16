@@ -8,9 +8,9 @@ Considering how dynamic the world we live in is - specially being inside a techn
 
 ## How it works
 
-The Check-in happens every quarter and has 3 phases: 
+The Check-in happens every quarter and has 3 phases:
 
-1.  **Self-reviews, leader-team and team-leader reviews**: In this step you'll answer a forms about yourself, another about your leader and if you're a leader one for each of your team members. The questions are related to our values and focused on feedforwards \(meaning how can I perform better from now on\).
+1. **Self-reviews, leader-team and team-leader reviews**: In this step you'll answer a forms about yourself, another about your leader and if you're a leader one for each of your team members. The questions are related to our values and focused on feedforwards \(meaning how can I perform better from now on\).
 2. **The Check-in Talks**: After all forms are answered all leaders have a talk with each team member to discuss and compare answers, give and receive feedbacks, and based on them create a plan of objectives of personal and career development to keep track of during the quarter. 
 3. **The final round of feedbacks**: The People Experience team talks with each leader to gather perceptions about the process, the team development and to guide on future actions. The Check-in was created to be the closure of a cycle of 1:1s. The objectives for the team's development are created during the Check-in talks and during the quarter's 1:1s the leader mentors on how to achieve them, also being able to create new objectives and eliminate the ones that no longer make sense for the Rocketeer.
 

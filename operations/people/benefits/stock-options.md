@@ -18,11 +18,11 @@ For your stock options to be meaningful three things must happen:
 * You must stay until we have a liquidation event \(and in case we have an IPO the lock-up period passes\) or you have the cash to exercise your stock after termination.
 * We must make the company worth more than the liquidation preference.
 
-Now let's go over what these mean! 
+Now let's go over what these mean!
 
 ## Vesting the stock
 
- This means that you have to remain employed by, or are a service provider to, Rocket.Chat for a certain period of time before you can fully own the stock under your stock option, meaning that you get to own the stock under your stock option in increments over time and this process is called vesting! Different companies offer vesting schedules of different lengths, around here the standard is a four year vesting schedule, so you would own a quarter of your stock after 12 months, half of your stock after two years, and all of it after 4 years. Vesting happens on a monthly basis, but there's something called a cliff.
+This means that you have to remain employed by, or are a service provider to, Rocket.Chat for a certain period of time before you can fully own the stock under your stock option, meaning that you get to own the stock under your stock option in increments over time and this process is called vesting! Different companies offer vesting schedules of different lengths, around here the standard is a four year vesting schedule, so you would own a quarter of your stock after 12 months, half of your stock after two years, and all of it after 4 years. Vesting happens on a monthly basis, but there's something called a cliff.
 
 ## The cliff
 
@@ -34,7 +34,7 @@ Until the post IPO lockup period has expired \(or we are bought\) company stock 
 
 ## How to exercise my options
 
-Options are approved by the Board of Directors at regularly scheduled quarterly board meetings. After your grant has been approved by the Board you will receive a grant notice by email from Carta containing all information about the grant such as the number of shares, exercise price, vesting period and other key terms. When you are ready to exercise your vested options, these will be the steps: 
+Options are approved by the Board of Directors at regularly scheduled quarterly board meetings. After your grant has been approved by the Board you will receive a grant notice by email from Carta containing all information about the grant such as the number of shares, exercise price, vesting period and other key terms. When you are ready to exercise your vested options, these will be the steps:
 
 1. Contact Rocket.Chat's COO and complete a "Notice of Share Option Exercise \(Installment Excercise\)" that he'll send you, sign it and return as PDF. 
 2. Send payment in US dollars by wire transfer. You will be provided wire info. 
@@ -53,8 +53,6 @@ _Please find enclosed two copies of the 83-b election in connection with my purc
 _Yours Truly,_
 
 _//signature_
-
-
 
 Remember this was a quick walkthrough on Stock Options, and for more information about dilution, option expiration, exercise prices and 409A Valuations, and taxes, please check this [link](https://github.com/RocketChat/Rocket.Chat.Operations.Internal/blob/master/source/HR/Stock%20Options.md) \(for a view with simpler terms\), the full Rocket.Chat Holdings, Ltd. 2016 Share Plan \(the "2016 Share Plan"\) or your stock option agreement \(both for the full legal terms\)!
 

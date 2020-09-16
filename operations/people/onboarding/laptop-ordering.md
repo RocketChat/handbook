@@ -4,8 +4,8 @@ description: How to get your company laptop when joining Rocket.Chat.
 
 # Laptop Ordering
 
-The following instructions for laptop ordering apply to employees in any country.  
-  
+The following instructions for laptop ordering apply to employees in any country.
+
 The laptop ordering process starts as soon as all documents for registration of a candidate as employee are received, after the Welcome email is sent by the People Experience team - two to one weeks prior to the first day of the employee - so there's enough time for him/her to order and receive the laptop before having to start working.
 
 One of the first steps joining Rocket.Chat is to procure your own laptop and submit for reimbursement. We follow this kind of process for a couple of reasons:
