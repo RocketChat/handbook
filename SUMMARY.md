@@ -8,14 +8,21 @@
 * [Release Cycle](product/release-cycle.md)
 * [Cloud](product/cloud.md)
 * [Design](product/design/README.md)
+  * [Principles](product/design/principles.md)
+  * [Rules](product/design/rules/README.md)
+    * [Building Blocks Framework](product/design/rules/building-blocks-framework.md)
+    * [Capitalization Rules](product/design/rules/capitalization-rules.md)
+    * [Iconography](product/design/rules/iconography.md)
+    * [Animation Curve and Timing](product/design/rules/animation-curve-and-timing.md)
+  * [Validation Guide](product/design/validation-guide.md)
   * [Articles](product/design/articles.md)
   * [Workflow](product/design/design-workflow-at-rocket.chat.md)
   * [Tools](product/design/tools.md)
-  * [Design Building Pieces](product/design/design-building-pieces.md)
 * [Development](product/development/README.md)
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
 * [Mobile](product/mobile.md)
+* [Apps-Engine](product/apps-engine.md)
 
 ## Operations
 
@@ -80,4 +87,5 @@
   * [Social Media](operations/marketing/social-media.md)
   * [Email Marketing](operations/marketing/email-marketing.md)
   * [Product Profiles](operations/marketing/pages-to-update.md)
+  * [UTM's Best Practices](operations/marketing/utms-best-practices.md)
 
