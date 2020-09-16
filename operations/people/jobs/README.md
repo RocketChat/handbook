@@ -35,7 +35,7 @@ Please inform Job Role Name, Area, Leader.
 
 #### 2. PURPOSE OF THE POSITION
 
-* How can he/she\(and will\) contribute to the challenges of the area?
+* How/Whether he/she can contribute to the challenges of the area.
 
 #### 3. CHALLENGES
 
@@ -49,7 +49,7 @@ Please inform Job Role Name, Area, Leader.
 #### 5. PERFORMANCE STANDARDS
 
 * What do I expect in terms of performance? Metrics, Deliveries
-* Suggest: Fill up with "macro"goals. Use the 1:1 tool to do the follow up of all metrics, projects, deliveries, and area goals.
+* Suggest: Fill up with "macro" goals. Use the 1:1 tool to do the follow up of all metrics, projects, deliveries, and area goals.
 * Remember: For the safety and strategic decisions, we do not want to show to all world ours main KPIs \(key performance indicator\) and KRA \(key results area\).
 
 #### 6. KEY SKILLS
