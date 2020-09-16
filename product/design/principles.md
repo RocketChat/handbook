@@ -6,6 +6,30 @@ description: Provide the team standards for built and evaluation.
 
 ### Building Blocks
 
+* Benchmark
+  * How do competitors do this?
+  * Is there already a mental model in another product?
+* Consistent
+  * Does this mental model already exist within our product?
+  * Are we using components of our framework?
+  * Does it reflect our personality?
+* Simplicity
+  * Was it written with the fewest words?
+  * Did you use an icon instead of words where you could?
+  * Did you use words already used in the system?
+  * Did it use the fewest number of steps?
+* Extensible
+  * How is it extensible?
+  * How can it be used in more use cases?
+  * Can it be a building block for another feature?
+* Memory Load:
+  * Is it necessary to recall an information that is not available to the user?
+  * Do we use recognition to activate the information available on the user's memory?
+* Vision
+  * How does this relate to "Federation"?
+  * How does this relate to "Replace Email"?
+  * How does this relate to "Omnichannel"?
+
 While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks](rules/building-blocks-framework.md) of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
 
 #### Validation Guide
