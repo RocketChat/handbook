@@ -1,11 +1,13 @@
 ---
 description: >-
-  UTMs are the way we track users coming to our website from external
-  sources.They are a set of parameters that can be added to the url to have a
-  clear tracking of the user.
+  UTMs are the way we track users coming to our website from external sources.
+  They are a set of parameters that can be added to the URL to have a clear
+  tracking of the user.
 ---
 
 # UTM's Best Practices
+
+## When to use UTMs
 
 Every time an external source of traffic is referred to our website. That includes \(but is not limited to\):
 
@@ -16,9 +18,11 @@ Every time an external source of traffic is referred to our website. That includ
 
 And so on.
 
-### When **not** to use UTMs?
+#### When **not** to use UTMs?
 
 UTMs should not be used on links inside our website \(i.e. a CTA in one of our product pages\).
+
+## Parameters
 
 **There are 5 elements that can be added to the UTM in order to tag the user:**
 
