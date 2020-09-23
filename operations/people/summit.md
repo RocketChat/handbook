@@ -6,6 +6,12 @@ Rocket.Chat yearly holds a Summit, it is the most anticipated point of contact o
 * Meet new remote team members in person.
 * Develop and strengthen relationships.
 * Get a deeper understanding of our team's strengths and weaknesses.
-* Align projects with the executive team's short, medium and long term objectives and vision.
-* Participate in team building moments and discussions about the company's plans.
+* Align projects with the executive team's short, medium, and long term objectives and vision.
+* Participate in team-building moments and discussions about the company's plans.
+
+{% embed url="https://www.youtube.com/watch?v=Tpm2K1E5Ev8" %}
+
+{% embed url="https://www.youtube.com/watch?v=RKDwl2xZH5g" %}
+
+
 
