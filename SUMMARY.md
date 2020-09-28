@@ -36,7 +36,7 @@
     * [Onboarding](operations/people/entering-rocket.chat/onboarding/README.md)
       * [Platforms and Systems](operations/people/entering-rocket.chat/onboarding/platforms-and-systems.md)
       * [Monthly payment](operations/people/entering-rocket.chat/onboarding/monthly-payment.md)
-      * [Laptop Ordering](operations/people/entering-rocket.chat/onboarding/laptop-ordering.md)
+      * [Getting your company laptop](operations/people/entering-rocket.chat/onboarding/laptop-ordering.md)
       * [Getting the email signature](operations/people/entering-rocket.chat/onboarding/getting-the-email-signature.md)
     * [Benefits](operations/people/entering-rocket.chat/benefits/README.md)
       * [Stock options](operations/people/entering-rocket.chat/benefits/stock-options.md)

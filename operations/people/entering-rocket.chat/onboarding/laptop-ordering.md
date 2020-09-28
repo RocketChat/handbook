@@ -2,9 +2,11 @@
 description: How to get your company laptop when joining Rocket.Chat.
 ---
 
-# Laptop Ordering
+# Getting your company laptop
 
-The following instructions for laptop ordering apply to employees in any country.  
+The following instructions for laptop ordering apply to employees in any country, except Brazil.
+
+For Brazilian Rocketeers we'll send you your laptop through Correios as soon as we start your admission process, so don't worry about this process!   
   
 The laptop ordering process starts as soon as all documents for registration of a candidate as employee are received, after the Welcome email is sent by the People Experience team - two to one weeks prior to the first day of the employee - so there's enough time for him/her to order and receive the laptop before having to start working.
 
