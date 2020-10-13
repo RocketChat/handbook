@@ -10,6 +10,7 @@ In this section you'll find out more about:
 
 * 1:1s
 * PTO Policy
+* Vacations Policy
 * Travel Policy
 
 

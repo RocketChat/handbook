@@ -44,6 +44,7 @@
   * [The daily life](operations/people/the-daily-life/README.md)
     * [1:1s](operations/people/the-daily-life/1-1s.md)
     * [Paid Time Off Policy](operations/people/the-daily-life/paid-time-off-policy.md)
+    * [Vacations Policy](operations/people/the-daily-life/vacations-policy.md)
     * [Travel Policy](operations/people/the-daily-life/travel-policy.md)
   * [Developing yourself](operations/people/developing-yourself/README.md)
     * [Development Check-in](operations/people/developing-yourself/development-check-in.md)
