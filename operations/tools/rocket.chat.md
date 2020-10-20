@@ -30,5 +30,5 @@ When you ask someone to help you with something, but this person takes too long 
 
 ### Use mentions
 
-Even on DMs, if you need someone's attention immediately, mention them so they will see a red badge besides the room name.
+Even on DMs, if you need someone's attention immediately, mention them so they will see a red badge besides the room name. Don't overuse it, though. Mentioning people in every DM will make it useless and people may start ignoring it at all.
 
