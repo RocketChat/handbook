@@ -37,7 +37,7 @@ Any Rocket.Chat team member can host a webinar with the Marketing Team help, but
 _Performed by the Marketing Team_
 
 1. Create a list for attendee subscription in Zoho Campaigns
-2. Create a [new contact form](https://rocket.chat/wp-admin/admin.php?page=wpcf7%5D) in Wordpress with “Webinar + Name” in the title
+2. Create a [new contact form](https://rocket.chat/wp-admin/admin.php?page=wpcf7%5D) in WordPress with “Webinar + Name” in the title
 
 **a. Form:**
 
