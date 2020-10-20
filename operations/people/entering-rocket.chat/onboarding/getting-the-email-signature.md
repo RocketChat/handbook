@@ -2,7 +2,7 @@
 
 Here is the step-by-step on how to get the Rocket.Chat email signature for your Gsuite account: 
 
-* Download [this](https://drive.google.com/file/d/1KX7ww45rWidkj_1942VlIZ4zvt_fghi7/view?usp=sharing) HTML template signature.
+* Download [this](https://drive.google.com/file/d/1k4H3ocqLvrmZtRkIAabfPzU2IgEnBt1d/view?usp=sharing) HTML template signature.
 * Open the HTML file you downloaded with your browser and copy it.
 * Paste the template in the signature settings of your email.
 * Change the texts with your infos \(don't forget to change both, text displays and links\).
