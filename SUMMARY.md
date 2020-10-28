@@ -88,10 +88,6 @@
   * [Team](operations/marketing/team.md)
   * [Website](operations/marketing/website.md)
   * [Webinar Process](operations/marketing/webinar-process.md)
-  * [Content Creation](operations/marketing/content-creation.md)
-  * [Partnerships](operations/marketing/partnerships.md)
-  * [Social Media](operations/marketing/social-media.md)
-  * [Email Marketing](operations/marketing/email-marketing.md)
   * [Product Profiles](operations/marketing/pages-to-update.md)
   * [UTM's Best Practices](operations/marketing/utms-best-practices.md)
 
