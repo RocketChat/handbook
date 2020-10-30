@@ -67,6 +67,7 @@
       * [Security Lead](operations/people/jobs/security/leader.md)
       * [Operations Engineer](operations/people/jobs/security/engineer.md)
     * [Operations](operations/people/jobs/operations/README.md)
+      * [Data Analyst \(BI\)](operations/people/jobs/operations/data-analyst-bi.md)
       * [Administrative Assistant](operations/people/jobs/operations/administrative-assistant.md)
       * [Sales Ops](operations/people/jobs/operations/sales-ops.md)
       * [Financial Analyst](operations/people/jobs/operations/junior-financial-analyst.md)
