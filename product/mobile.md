@@ -28,7 +28,7 @@ It's also expected that you reply to the invitations you are invited for with ye
 
 ### Emails
 
-There are three emails that we can use to communicate internally: `mobile@rocket.chat`, `ios@rocket.chat` and `android@rocket.chat`. If you want to communicate the whole team you can reach `team@rocket.chat`.
+There are three emails that we can use to communicate internally: `mobile@rocket.chat`, `ios@rocket.chat` and `android@rocket.chat`.
 
 It’s expected that you check your email at least twice a day \(morning and afternoon\) for new invitations, annoucements, etc.
 
