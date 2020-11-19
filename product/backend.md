@@ -10,7 +10,7 @@ We have some recurring calls to talk about our work:
 
 * **Planning** *\(Mondays 10am BRT\)*
   * We have a quick update in our progress and plan out the activities for the week
-* **Retrospective** *\(Fridays 10am BRT\)*
+* **Retrospective** *\(Every other Friday 10am BRT\)*
   * It happens once every two weeks, we go over our workflow for the last two weeks and identify what we did well, what didn't go so well, and define action items on how we can improve those points
 
 ## Dailies
