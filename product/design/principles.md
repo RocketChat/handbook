@@ -64,7 +64,7 @@ Bias influences our worldview, we must keep the awareness of how other digital p
 * How do competitors approach this?
 * Is there already a similar mental model in another product? 
 
-### Polyglot-first
+### Multi-language First
 
 The product is worldwide used. Always when designing a piece of the software, you must think about its many languages variations.
 
