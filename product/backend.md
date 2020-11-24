@@ -15,7 +15,7 @@ We have some recurring calls to talk about our work:
 
 ## Dailies
 
-Our dailies are not synchronous; instead we fill out a doc in [ClickUp](https://app.clickup.com/4207297/v/dc/40cp1-5617/40cp1-1620). Some best practices when writing up your daily sync:
+Our dailies are not synchronous; instead we fill out a doc in [ClickUp](https://app.clickup.com/4207297/docs/40cp1-5722/40cp1-1725). Some best practices when writing up your daily sync:
 
 * **Describe how you progressed in the last day**
 
