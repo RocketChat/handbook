@@ -42,13 +42,15 @@ Playbooks help us to standardize certain processes around security and enable tr
 We follow the following incident management process:
 
 1. Identification: A security incident is every event that could potentially impact the confidentiality, integrity or availability of our information assets. Examples include: improper access control, lost devices, service outage.
-2. Logging: Once we have identified a potential security incident \(e.g. by an alert, by an issue or a customer complaint\), we log it in our task-tracking tool. Teams can decide to use different tools to track their incidents as long as the following steps are adhered to. We have the following options: Asana, ZOHO, GitHub private repos. You should link to background information, e.g. a support ticket if you put the incident in Asana.
+2. Logging: Once we have identified a potential security incident \(e.g. by an alert, by an issue or a customer complaint\), we log it in our task-tracking tool. Teams can decide to use different tools to track their incidents as long as the following steps are adhered to. We have the following options: Clickup, ZOHO, GitHub private repos. You should link to background information, e.g. a support ticket if you put the incident in Clickup.
 3. Assignment: As a next step it must be assigned to the proper team and added to the project “Incidents & Vulnerabilities”. Also add the source of the incident as a tag \(e.g. "support"\), if possible. If you are unsure to whom to assign it to, assign it to the security lead. Make sure the assignee can access all relevant information. Common assignees are: Cloud team for all cloud-related incidents, support team for supporting Enterprise customers, security team for all other incidents \(e.g. application vulnerabilities reported\).
 4. Categorization: As a next step, the incident is triaged, meaning: it gets evaluated for its priority: low, medium or high. This classification [link](https://www.first.org/resources/guides/csirt_case_classification.html) can be used as a guideline, S1 means "high", S3 means "low". Also set a proper due date for the incident to be resolved. We want to resolve incidents as quickly as possible, but to manage risks effectively, we focus on high priority incidents first. External criteria like customer specifications of priority or CVSS-levels are taken into consideration in the triage process, but can be modified where the context allows. Triaging may also result in the finding that no incident exists. If the incident cannot be resolved at this stage, it must be re-assigned and potentially escalated. Interested internal parties should be added as “followers”, so they get notified.
 5. Investigation: Once in a stage where the right person is assigned to the incident, it gets investigated and search for possible solutions begins. Solutions should always target the root cause, but sometimes finding a quick hotfix and solving the deeper, complicated root cause afterwards may be the appropriate action. Other teams and management can be involved by the person responsible to investigate the incident. Keep a record of the investigation process.
 6. Resolution: Resolution includes implementation, testing, and recovery as well as reaching out to other parties necessary, e.g. in case of a privacy incident to the authorities. We have a list of notification and who notifies them [here.](https://docs.google.com/spreadsheets/d/16NQhhRre_WqRhQW6KKle12UbkH46bZMiw3_2etg_EK0/edit?usp=sharing) Before advancing, the affected user or customer must also be in agreement that the incident has been resolved.
 7. Closing: Now the incident can be closed. The assignee should ensure that the initial classification details are accurate for future reference and reporting. If the incident was about a vulnerability, follow up with vulnerability disclosure \(see below\).
-8. Lessons Learned: Re-occuring incidents or those indicating a deeper, critical root cause, may be analyzed as part of a problem management process. To start problem management, create a task in Asana or the tracking tool of your choice. For lessons learned, to get more detailed log information on the services we run, contact the cloud team for access.
+8. Lessons Learned: Re-occuring incidents or those indicating a deeper, critical root cause, may be analyzed as part of a problem management process. To start problem management, create a task in Clickup
+
+   or the tracking tool of your choice. For lessons learned, to get more detailed log information on the services we run, contact the cloud team for access.
 
 Our SLA for incidents is as follows:
 
@@ -56,17 +58,17 @@ Time to first response: maximum 5 days, 1 day for critical incidents Time to tri
 
 ## BugBounty / Hackerone
 
-HackerOne is a service that allows us to interact with external parties \(e.g. white hat hackers\) to collect, manage and disclose vulnerabilities that are discovered by them. HackerOne is managed by the security team. All members of Rocket.Chat can request access if they want or should collaborate directly with the 3rd party. HackerOne allows to export the current issues, but there is no direct integration between Asana and HackerOne. Currently the amount of reports does not warrant that we setup a full automated sync between Asana and HackerOne, but this may change.
+HackerOne is a service that allows us to interact with external parties \(e.g. white hat hackers\) to collect, manage and disclose vulnerabilities that are discovered by them. HackerOne is managed by the security team. All members of Rocket.Chat can request access if they want or should collaborate directly with the 3rd party. HackerOne allows to export the current issues, but there is no direct integration between Clickup and HackerOne. Currently the amount of reports does not warrant that we setup a full automated sync between Clickup and HackerOne, but this may change.
 
 The process is as follows:
 
 * Once a new report is submitted, the security team analyzes it.
 * If the report is not valid, it is closed directly with a message to the
 * If a report is valid, it is triaged and a message sent to the 3rd party acknowledging the validity of the report. The triage default values of HackerOne are generally acceptable, but you can modify them if they are not fitting to the case.
-* Then create an Asana task to have all the internal discussions and roadmap planning done there. Give the task the tag "hackerone" and set the priority according to the criticality. Assign it to the right internal team and set the due date according to our incident metrics. The report can also be triaged directly into GitHub. HackerOne only supports integration into a single GitHub repository per program, so we chose the Enterprise repository of Rocket.Chat because it is confidential. So if you want you can duplicate the issue into GitHub, but it is not recommended. Better to use Asana only.
-* For external discussions with the 3rd party, use HackerOne, but try to mirror all discussions in Asana \(e.g. copy and paste\).
+* Then create an Clickup task to have all the internal discussions and roadmap planning done there. Give the task the tag "hackerone" and set the priority according to the criticality. Assign it to the right internal team and set the due date according to our incident metrics. The report can also be triaged directly into GitHub. HackerOne only supports integration into a single GitHub repository per program, so we chose the Enterprise repository of Rocket.Chat because it is confidential. So if you want you can duplicate the issue into GitHub, but it is not recommended. Better to use Clickup only.
+* For external discussions with the 3rd party, use HackerOne, but try to mirror all discussions in Clickup \(e.g. copy and paste\).
 * Once the vulnerability has been fixed, decide if you want to verify with the external party to double check or continue to close the issue right away.
-* To close the issue, close both the task in Asana and in HackerOne. Ask the external party if they want the vulnerability disclosed. If yes, continue with the playbook for Vulnerability Disclosure.
+* To close the issue, close both the task in Clickup and in HackerOne. Ask the external party if they want the vulnerability disclosed. If yes, continue with the playbook for Vulnerability Disclosure.
 
 On a quarterly basis, the security team reviews the scope and the settings of the hackerone program. Our incident metrics are mirrored in HackerOne.
 
@@ -78,7 +80,7 @@ We differentiate if the code affected is open-source or closed-source. When a di
 
 Start this workflow once a vulnerability has been fixed and merged.
 
-1. Create a vulnerability disclosure task in Asana, link it to the vulnerability task if needed.
+1. Create a vulnerability disclosure task in Clickup, link it to the vulnerability task if needed.
 2. First phase - on the release day or upcoming days
 3. Update our hosting \(cloud\) client's servers
 4. Enterprise clients
@@ -93,7 +95,7 @@ Start this workflow once a vulnerability has been fixed and merged.
 13. Inform/Allow the disclosure of the breach details by the external reporter. We currently do not use CVE-numbers, but maybe the reporter does.
 14. Give credit on HackerOne and on WhiteHat List on our Website
 15. Send bounty/gift to Hacker. The list with the codes is stored in GDrive. Our policy is to award a $50 gift certificate for every new hacker that reported a new vulnerability to us that has at least the criticality of medium. Exceptions to this policy can be made by the security team where warranted \(e.g. award a second certificate for a hacker that demonstrated exceptional committment\).
-16. Close task in Asana \(and HackerOne if applicable\)
+16. Close task in Clickup \(and HackerOne if applicable\)
 
 ### Open Source Vulnerability
 
@@ -122,23 +124,23 @@ We use the following process:
 * Create a PDF export and an HTML exports of the alerts. The PDF export is easier to read and open, but does not contain all fields. This is a problem with ZAP.
 * Export the current session of OWASP. Watch out, the file size can be several GB.
 * Store both reports in GDrive with an indicator of the date the scans were performed.
-* Go into Asana and check all findings \(except informative ones\) against existing or past Asana tasks. Search for the tag "pentest".
-* Add new tasks for new findings. Re-open closed tasks for findings that keep re-occuring even though they were closed in Asana already. Do not open a new task for closed tasks that have a comment regarding acceptance of the vulnerability.
+* Go into Clickup and check all findings \(except informative ones\) against existing or past Clickup tasks. Search for the tag "pentest".
+* Add new tasks for new findings. Re-open closed tasks for findings that keep re-occuring even though they were closed in Clickup already. Do not open a new task for closed tasks that have a comment regarding acceptance of the vulnerability.
 * Provide an overview of the recent scan in the \#security channel in RC.
 
 ## Reporting
 
-On a monthly basis, the security team provides a metric sheet to management and presents in the all-hands meeting. The sheet can be found in [GDrive](https://docs.google.com/spreadsheets/d/1J6VGHN5znUa07lG7r7wfqa4ewxb8_AJd-Z7irQEfUXc/edit?usp=sharing). On a weekly basis, the security team reports the status of the current tasks and issues in the all-hands meeting as per an Asana export and addition to the newsletter.
+On a monthly basis, the security team provides a metric sheet to management and presents in the all-hands meeting. The sheet can be found in [GDrive](https://docs.google.com/spreadsheets/d/1J6VGHN5znUa07lG7r7wfqa4ewxb8_AJd-Z7irQEfUXc/edit?usp=sharing). On a weekly basis, the security team reports the status of the current tasks and issues in the all-hands meeting as per an Clickup export and addition to the newsletter.
 
 ## Task & Project Management
 
-Task and Project Management for Security occur in Asana. Security uses three projects:
+Task and Project Management for Security occur in Clickup . Security uses three projects:
 
 * Product Security: contains tasks that deal with the overall features and improvements of our products and services, e.g.: new features
 * Security Management System: contains tasks that deal with our internal management processes of security, e.g.: policies, reoccurring audit tasks
 * Incidents & Vulnerabilities: containts tasks that deal with the said, e.g.: hackerone reports, github issues pointing out a flaw
 
-Important security milestones are mirrored in the "Milestones" project of the company. Proper Tags should be added, especially to vulnerabilities. We mostly use the tags: hackerone, github, pentest Tasks involving security are often cross-referenced in other projects in Asana. Other teams requesting resources of the security team can simply create a task in Asana and assign it to one of the security members.
+Important security milestones are mirrored in the "Milestones" project of the company. Proper Tags should be added, especially to vulnerabilities. We mostly use the tags: hackerone, github, pentest Tasks involving security are often cross-referenced in other projects in Clickup. Other teams requesting resources of the security team can simply create a task in Clickup and assign it to one of the security members.
 
 ## Static Code Analysis
 
