@@ -8,16 +8,17 @@ The Backend Team is responsible for Rocket.Chat's core development, being respon
 
 We have some recurring calls to talk about our work:
 
-* **Planning** *\(Mondays 10am BRT\)*
+* **Planning** _\(Mondays 10am BRT\)_
   * We have a quick update in our progress and plan out the activities for the week
-* **Retrospective** *\(Every other Friday 10am BRT\)*
+* **Retrospective** _\(Every other Friday 10am BRT\)_
   * It happens once every two weeks, we go over our workflow for the last two weeks and identify what we did well, what didn't go so well, and define action items on how we can improve those points
 
 ## Dailies
 
-Our dailies are not synchronous; instead we fill out a doc in [ClickUp](https://app.clickup.com/4207297/docs/40cp1-3853/40cp1-430). Some best practices when writing up your daily sync:
+Our dailies are not synchronous; instead we fill out a doc in [ClickUp](https://app.clickup.com/4207297/v/dc/40cp1-5617/40cp1-1620). Some best practices when writing up your daily sync:
 
 * **Describe how you progressed in the last day**
+
   * This does not necessarily mean "code you've written" - it can be any type of progress:
     * an **RFC** you've drafted;
     * a flowchart you've sketched in your notebook;
@@ -25,6 +26,7 @@ Our dailies are not synchronous; instead we fill out a doc in [ClickUp](https://
     * Anything, really!
 
   You should not say the tasks you're working on, but instead say what you've been doing to finish the task. A bit of context is important here, but not too much is required, as we should have discussed the task in detail in the planning previous to it;
+
 * **Highlight any items that look like a blocker**
   * This is really important - if you've identified anything that hasn't been brought to light during the planning, share it. If you got into some code you've found  confusing, share it. If you don't feel confident in the approach you're following now, definitely share it. This way the team will be able to help you out and the blockers will be clear to everyone.
 
