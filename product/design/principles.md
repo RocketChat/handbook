@@ -29,7 +29,7 @@ Do not overload the user's memory, add visual cues through their journey so they
 
 ## Focus
 
-Its purpose is to direct the audience's attention, as fewer Spotlight areas we have at the same time, as focused the users will be on their current task. 
+Its purpose is to direct the audience's attention, as fewer spotlight areas we have at the same time, as focused the users will be on their current task. 
 
 #### Validation Guide
 
