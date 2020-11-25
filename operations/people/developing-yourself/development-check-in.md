@@ -8,9 +8,9 @@ Considering how dynamic the world we live in is - specially being inside a techn
 
 ## How it works
 
-The Check-in happens every quarter and has 3 phases: 
+The Check-in happens every quarter and has 3 phases:
 
-1.  **Self-reviews, leader-team and team-leader reviews**: In this step you'll answer a forms about yourself, another about your leader and if you're a leader one for each of your team members. The questions are related to our culture, your priorities/goals for the quarter, and your performance, while focusing on feedforwards \(meaning how can I perform better from now on\).
+1. **Self-reviews, leader-team and team-leader reviews**: In this step you'll answer a forms about yourself, another about your leader and if you're a leader one for each of your team members. The questions are related to our culture, your priorities/goals for the quarter, and your performance, while focusing on feedforwards \(meaning how can I perform better from now on\).
 2. **The Check-in Talks**: After all forms are answered all leaders have a talk with each team member to discuss and compare answers, give and receive feedbacks, and based on them create a plan of objectives of personal and career development to keep track of during the quarter. 
 3. **The final round of feedbacks**: The People Experience team talks with each leader and surveys the team to gather perceptions about the process, the team development and to guide on future actions. 
 

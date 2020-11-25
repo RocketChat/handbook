@@ -40,5 +40,3 @@ Shape blocks of Molecules. Its responsibility is to wrap Molecules and also may 
 
 ![From Atoms to Organisms](../../../.gitbook/assets/menus.png)
 
-##  <a id="556c4236-8ac3-4239-947c-608785a8f497"></a>
-

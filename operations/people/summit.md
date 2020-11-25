@@ -9,9 +9,7 @@ Rocket.Chat yearly holds a Summit, it is the most anticipated point of contact o
 * Align projects with the executive team's short, medium, and long term objectives and vision.
 * Participate in team-building moments and discussions about the company's plans.
 
-{% embed url="https://www.youtube.com/watch?v=Tpm2K1E5Ev8" %}
+{% embed url="https://www.youtube.com/watch?v=Tpm2K1E5Ev8" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=RKDwl2xZH5g" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=RKDwl2xZH5g" caption="" %}
 

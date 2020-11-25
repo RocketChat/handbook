@@ -12,7 +12,7 @@ We use Rocket.Chat in our daily routine. We expect you to use it while you are w
 
 ## Best practices
 
-### No Hello \([https://nohello.com](https://nohello.com\)\)
+### No Hello \([https://nohello.com](https://nohello.com%29\)
 
 Please _do not_ say just "Hello" in chat. It is as if you called someone on the phone and said "Hi!" and then put them on hold!
 
@@ -22,7 +22,7 @@ Asking your question before getting a reply allows for asynchronous communicatio
 
 ### Don't overuse audios
 
-Audios are not searchable. Make sure that when you use audio it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break an audio into multiple pieces if you need to refer back to a specific point in time. 
+Audios are not searchable. Make sure that when you use audio it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break an audio into multiple pieces if you need to refer back to a specific point in time.
 
 ### Keep people updated
 
