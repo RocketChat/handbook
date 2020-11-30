@@ -26,6 +26,9 @@
 * [Quality Assurance](product/quality-assurance/README.md)
   * [Purpose](product/quality-assurance/purpose.md)
   * [Industry Standards](product/quality-assurance/industry-standards.md)
+  * [QA Team Roles and Responsibilities](product/quality-assurance/qa-team-roles-and-responsibilities/README.md)
+    * [QA Engineer/Analyst](product/quality-assurance/qa-team-roles-and-responsibilities/qa-engineer-analyst.md)
+    * [QA Manager](product/quality-assurance/qa-team-roles-and-responsibilities/qa-manager.md)
 * [Backend](product/backend.md)
 
 ## Operations
