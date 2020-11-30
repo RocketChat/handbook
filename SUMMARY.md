@@ -29,6 +29,13 @@
   * [QA Team Roles and Responsibilities](product/quality-assurance/qa-team-roles-and-responsibilities/README.md)
     * [QA Engineer/Analyst](product/quality-assurance/qa-team-roles-and-responsibilities/qa-engineer-analyst.md)
     * [QA Manager](product/quality-assurance/qa-team-roles-and-responsibilities/qa-manager.md)
+  * [QA Process](product/quality-assurance/qa-process/README.md)
+    * [Software testing](product/quality-assurance/qa-process/software-testing.md)
+    * [QA integration](product/quality-assurance/qa-process/qa-integration.md)
+    * [QA monitoring](product/quality-assurance/qa-process/qa-monitoring.md)
+    * [QA scope](product/quality-assurance/qa-process/qa-scope.md)
+  * [Technology](product/quality-assurance/technology/README.md)
+    * [Endorsed testing tools](product/quality-assurance/technology/endorsed-testing-tools.md)
 * [Backend](product/backend.md)
 
 ## Operations
