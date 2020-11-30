@@ -4,8 +4,8 @@ Rocket.Chat encourages everyone to take some paid time off \(PTO\) off whenever 
 
 ## PTO Guide
 
-1. You may take as many days off as you want, as long as your work is organized and in order, i.e. that your work or responsibilities are not compromised by your absence.
-2. We suggest between 10 and 30 days of vacation per year.
+1. You may take as many days off as you want, but remember: From 0 to 4 days it counts as Casual PTO, from 5 days on it counts as Vacations.
+2. We suggest between 10 and 30 days of Vacation per year, you can distribute it through the year however you prefer.
 3. We care about your results, not for how long you work. Your time off shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.
 4. We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.
 5. Emergencies, by definition are unexpected. They can range from natural disasters, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager by any means possible, and as soon as possible, if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. 
