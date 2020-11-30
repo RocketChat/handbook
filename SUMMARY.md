@@ -23,7 +23,9 @@
   * [Review Guidelines](product/development/review-guidelines.md)
 * [Mobile](product/mobile.md)
 * [Apps-Engine](product/apps-engine.md)
-* [Quality Assurance](product/quality-assurance.md)
+* [Quality Assurance](product/quality-assurance/README.md)
+  * [Purpose](product/quality-assurance/purpose.md)
+  * [Industry Standards](product/quality-assurance/industry-standards.md)
 * [Backend](product/backend.md)
 
 ## Operations
