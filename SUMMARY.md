@@ -13,6 +13,7 @@
     * [Building Blocks Framework](product/design/rules/building-blocks-framework.md)
     * [Capitalization Rules](product/design/rules/capitalization-rules.md)
     * [Iconography](product/design/rules/iconography.md)
+    * [Iconography v2](product/design/rules/iconography-v2.md)
     * [Animation Curve and Timing](product/design/rules/animation-curve-and-timing.md)
   * [Validation Guide](product/design/validation-guide.md)
   * [Articles](product/design/articles.md)
