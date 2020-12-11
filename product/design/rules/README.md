@@ -1,2 +1,2 @@
-# Rules
+# Design System
 
