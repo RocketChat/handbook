@@ -44,7 +44,7 @@ Finish your request by clicking on the blue Submit button, in the page footer. Y
 3. **Half-day**: for when you know you'll be available / unavailable for just a few hours
 4. **Sick / Doctor's Order**: whenever you're sick or following doctor's orders
 5. **Maternity**: duh, paternity as well :\)
-6. **Casual**: whenever you feel you need some time-off, up to 5 days in a row; for more than 5 days, use **vacation** type**.**
+6. **Casual**: whenever you feel you need some time-off, up to 4 days in a row; for more than 4 days, use **vacation** type**.**
 7. **Vacation**: for periods longer than 5 days in a row and not in any other category above.
 
 ## Recognizing Burnout
