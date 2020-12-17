@@ -6,7 +6,7 @@ description: The Development Check-in is a new take on quarterly performance rev
 
 Considering how dynamic the world we live in is - specially being inside a technology start-up - talking about development and performance only yearly is almost a risk for the growth of the company and its members. This scenario needs continuous feedbacks combined with in depth reviews targeting the development of the team member. That is why the Development Check-in comes as an optimization of performance reviews that focuses on the improvement of each Rocketeer's performance.
 
-## How it works
+##  works
 
 The Check-in happens every quarter and has 3 phases: 
 
