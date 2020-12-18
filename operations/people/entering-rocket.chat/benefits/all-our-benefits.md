@@ -17,9 +17,10 @@ All Rocketeers receive the following benefits since day 1:
 
 Because of Brazil's legislation for workers, our Brazilian Rocketeers also receive the following:
 
-* VR
-* VT
+* Meal voucher
+* Transportation card
 * Gympass
+* Healthcare plan \(with odontological\)
 
 
 
