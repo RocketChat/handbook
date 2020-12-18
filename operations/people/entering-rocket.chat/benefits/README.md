@@ -1,29 +1,26 @@
 ---
-description: Our benefits vary according to the location of the Rocketeer.
+description: In here you'll find every benefit Rocket.Chat offers!
 ---
 
-# Benefits
+# Our benefits
 
-## Brazilian Rocketeers
+Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable, exciting and comfortable, so if you are remote or working from our office in Porto Alegre you’ll receive a set of benefits to improve your work experience! 
 
-In Brazil, everyone is hired as a CLT employee and receives the mandatory benefits:
+**All** Rocketeers receive the following benefits since day 1:
 
-* Meal ticket of R$25/day. 
+* [Unlimited PTO](https://handbook.rocket.chat/operations/people/the-daily-life/paid-time-off-policy) 
+* [Company laptop and headphone](https://handbook.rocket.chat/operations/people/entering-rocket.chat/onboarding/laptop-ordering)
+* [Remote benefit](https://handbook.rocket.chat/operations/people/entering-rocket.chat/benefits/remote-benefit) 
+* [Italki](https://handbook.rocket.chat/operations/people/developing-yourself/taking-courses) 
+* [Courses and books](https://handbook.rocket.chat/operations/people/developing-yourself/taking-courses)
+* [Stock options](https://handbook.rocket.chat/operations/people/entering-rocket.chat/benefits/stock-options)
+
+Because of Brazil's legislation for workers, our Brazilian Rocketeers also receive the following:
+
+* Meal voucher of R$25/day
 * Transportation card \(For those in the Porto Alegre region\)
-* Health plan \(Unimed or Amil\)
-
-The benefit package for Brazilians also includes:
-
 * Gympass
-* Remote Work benefit
-
-## Rocketeers in other countries
-
-For Rocketeers in other countries, we offer the benefit of support to Remote work, a monthly amount of money you accumulate every month and that you can spend in:
-
-* Infrastructure for your home office
-* Body and mental health
-* Internet bills
+* Healthcare plan \(with odontological\)
 
 We are constantly looking for new possibilities, and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedbacks can be directed to the People Experience team, who will glad to receive them!
 
