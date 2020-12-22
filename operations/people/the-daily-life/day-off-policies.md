@@ -12,11 +12,11 @@ You don't have to worry about submitting a request for it on Zoho People. Simply
 
 ## Holidays
 
-The Zorro app has a list of holidays it uses to send the notifications on our \#important channel. You can check the list for your country on the following link by changing the final letters for the correct abbreviation of your country's name: [https://date.nager.at/api/v2/publicholidays/2020/br](https://date.nager.at/api/v2/public%3Cmark%3Eholiday%3C/mark%3Es/2020/br)  
+We have a set list of National Holidays on Zoho People, these holidays are used to send the Zorro app notifications on our \#important channel.   
+In [here](https://people.zoho.com/rocketchat/zp#leavetracker/holiday/list) you can check the full list. If you have a Regional Holiday coming up and it is **not on the list**, please follow these steps:  
   
-Whenever you have a local holiday coming up and it is **not** on the list you can either:   
-1. Call someone from the People team to announce the Holiday on \#important  
-2. Just post a message complementing the automatic one that Zorro sends on important on the holiday, saying what is the holiday and where it applies to.
+1. Send the People team the following information about the Holiday: **Name, Date, To which locations does it apply.**  
+2. If you're sending the message on the date of the Holiday already: Just post a message complementing the automatic one that Zorro sends on important on the holiday, saying what is the holiday and where it applies to, but also do step 1 so the People team can create your holiday on Zoho.
 
 ## Vacations
 
