@@ -210,6 +210,19 @@ Example of **good** PR title:
 
 * When the change limits \(format, size, etc\) or removes the ability to read or change the data \(when the limitation was not caused by the back-end\)
 
+### `Regression`
+
+**When**
+
+* When changes are made during release candidate cycle to in order to add something missing or fix something broken during the last development cycle and _not published to a final release yet_.
+
+Example of **good** PR titles:
+
+```text
+Regression: Fix not being able to mark room as read 
+Regression: Add missing field to `users` endpoint
+```
+
 ### Second tag e.g. `[NEW][ENTERPRISE]`
 
 Use a second tag to group entries on the changelog, we currently use it only for the Enterprise items but we are going to expand it's usage soon, please do not use it until we create a pattern for it.
