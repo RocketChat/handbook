@@ -214,7 +214,7 @@ Example of **good** PR title:
 
 **When**
 
-* When changes are made during release candidate cycle to in order to add something missing or fix something added during the last development cycle and _not published to a final release yet_.
+* When changes are made during release candidate cycle to in order to add something missing or fix something broken during the last development cycle and _not published to a final release yet_.
 
 Example of **good** PR titles:
 
