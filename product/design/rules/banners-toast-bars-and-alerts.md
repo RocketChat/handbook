@@ -17,7 +17,7 @@ There are two notifications' levels:
 
 #### Toast Bar
 
-![](../../../.gitbook/assets/warning%20%286%29.png)
+![](../../../.gitbook/assets/warning%20%288%29%20%281%29.png)
 
 #### Inline Alert
 
@@ -93,7 +93,7 @@ Example:
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%2810%29.png)
+![](../../../.gitbook/assets/warning%20%285%29%20%281%29.png)
 
 Examples:
 
@@ -135,7 +135,7 @@ They are time-based, it means that Toast Bars should disappear after a minimum o
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%288%29.png)
+![](../../../.gitbook/assets/warning%20%288%29%20%282%29.png)
 {% endtab %}
 
 {% tab title="Error" %}
@@ -157,7 +157,7 @@ The Inline Alerts' goal is to help users shaping their mental modal of the curre
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/waiting-or-warning.png)
+![](../../../.gitbook/assets/warning%20%282%29%20%281%29.png)
 {% endtab %}
 
 {% tab title="Error" %}

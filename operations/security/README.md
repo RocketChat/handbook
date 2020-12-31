@@ -56,54 +56,84 @@ Our SLA for incidents is as follows:
 
 Time to first response: maximum 5 days, 1 day for critical incidents Time to triage: 10 days Time to resolution: High - 30 days, Medium - 60 days, Low - 90 days
 
-## BugBounty / Hackerone
+## Bug Bounty / Hackerone
 
-HackerOne is a service that allows us to interact with external parties \(e.g. white hat hackers\) to collect, manage and disclose vulnerabilities that are discovered by them. HackerOne is managed by the security team. All members of Rocket.Chat can request access if they want or should collaborate directly with the 3rd party. HackerOne allows to export the current issues, but there is no direct integration between Clickup and HackerOne. Currently the amount of reports does not warrant that we setup a full automated sync between Clickup and HackerOne, but this may change.
+HackerOne is a service that allows us to interact with **external** parties \(e.g. white hat hackers\) to collect, manage and disclose vulnerabilities that are discovered by them. HackerOne is managed by the security team. All members of Rocket.Chat can request access if they want or should collaborate directly with the external party. Hackerone runs parallel to Clickup, which is used for **internal** collaboration.
 
-The process is as follows:
+## Vulnerability Reports & Disclosure
 
-* Once a new report is submitted, the security team analyzes it.
-* If the report is not valid, it is closed directly with a message to the
-* If a report is valid, it is triaged and a message sent to the 3rd party acknowledging the validity of the report. The triage default values of HackerOne are generally acceptable, but you can modify them if they are not fitting to the case.
-* Then create an Clickup task to have all the internal discussions and roadmap planning done there. Give the task the tag "hackerone" and set the priority according to the criticality. Assign it to the right internal team and set the due date according to our incident metrics. The report can also be triaged directly into GitHub. HackerOne only supports integration into a single GitHub repository per program, so we chose the Enterprise repository of Rocket.Chat because it is confidential. So if you want you can duplicate the issue into GitHub, but it is not recommended. Better to use Clickup only.
-* For external discussions with the 3rd party, use HackerOne, but try to mirror all discussions in Clickup \(e.g. copy and paste\).
-* Once the vulnerability has been fixed, decide if you want to verify with the external party to double check or continue to close the issue right away.
-* To close the issue, close both the task in Clickup and in HackerOne. Ask the external party if they want the vulnerability disclosed. If yes, continue with the playbook for Vulnerability Disclosure.
+We receive vulnerability reports by various pathways, including the primary and preferred channels:
 
-On a quarterly basis, the security team reviews the scope and the settings of the hackerone program. Our incident metrics are mirrored in HackerOne.
+* HackerOne bug bounty program
+* email to: `security@rocket.chat`
 
-## Vulnerability Disclosure
+Secondary channels are:
 
-We differentiate if the code affected is open-source or closed-source. When a disclosure happens, we should assume that attacking starts immediately.
+* Reports or questions come in from customers through our Support Desk or other direct channel.
+* Issues opened on the public issue trackers. The security team can not review all new issues and relies on everyone in the company to identify and label issues as `~security` and mention security team members issues.
+* Issues reported by automated security scanning tools
 
-### Closed Source Vulnerability
+For reported vulnerabilities:
 
-Start this workflow once a vulnerability has been fixed and merged.
+* Open a task in Clickup on the `vulnerabilities` board as soon as a report is verified and reference the original report. 
+  * If the vulnerability was reported via a public issue on Github, remove it and refer the reporter to our email adress or hackerone. Still open a clickup task, in case the reporter does not respond.
+* An initial determination is done by the security team as to severity and impact. Never dismiss a security report outright. Instead, follow up with the reporter, asking clarifying questions.
+* Remember to prepare patches, blog posts, email templates, etc. on or in other non-public ways even if there is a reason to believe that the vulnerability is already out in the public domain \(e.g. the original report was made in a public issue that was later made confidential\).
 
-1. Create a vulnerability disclosure task in Clickup, link it to the vulnerability task if needed.
-2. First phase - on the release day or upcoming days
-3. Update our hosting \(cloud\) client's servers
-4. Enterprise clients
-5. Second phase - latest 14 days after the release
-6. Include a phrase in our release blog post \(more details\)
-7. Notify our support clients and partners. Create a message for the support team and link to the blog post.
-8. Third phase - latest 30 days after the release
-9. In case the instance was not updated: Notify the administrator via banner system
-10. In case the app was not updated: notify the user via banner system
-11. Add the fix to our page of security fixes \(to be added\)
-12. Fourth phase - latest 90 days after the release
-13. Inform/Allow the disclosure of the breach details by the external reporter. We currently do not use CVE-numbers, but maybe the reporter does.
-14. Give credit on HackerOne and on WhiteHat List on our Website
-15. Send bounty/gift to Hacker. The list with the codes is stored in GDrive. Our policy is to award a $50 gift certificate for every new hacker that reported a new vulnerability to us that has at least the criticality of medium. Exceptions to this policy can be made by the security team where warranted \(e.g. award a second certificate for a hacker that demonstrated exceptional committment\).
-16. Close task in Clickup \(and HackerOne if applicable\)
+### To prepare a Security Fix
 
-### Open Source Vulnerability
+Security Fixes are developed by the proper dev teams. 
 
-The same process as Closed Source Vulnerabilities, except:
+{% hint style="info" %}
+**For our development teams:** A dedicated step-by-step guideline of the policy aspects relevant for you can be found [here](https://docs.google.com/document/d/1Lsc8INA6jDwp8sTDvLR7O7v7PLEt967ubv8BG4yyV14/edit?usp=sharing).
+{% endhint %}
 
-1. Phrase the PullRequests in a non-sensitive and technology-focussed way that explains what was changed
-2. Do not include keywords like "XSS", "hacker", "exploit" in the PR
-3. The merged PR will show in the release notes in GitHub \(this happens automatically\)
+Fixes must be made available as per our [support policy](https://docs.rocket.chat/getting-support).
+
+Security Fixes must not contain keywords such as "exploit", "hack", or similar and should be phrased technology-neutral. We want to explain what has changed, not describe exploit techniques.
+
+Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories. If the dev team has the reasonable assumption that the vulnerability is not likely to be able to be exploited until patch day \(especially for low or medium fixes\), a PR can - as an exception - be added to the open repositories to allow for better pre-release testing.
+
+#### **CVE IDs**
+
+We use CVE IDs to uniquely identify and publicly define vulnerabilities in our products. Since we publicly disclose all security vulnerabilities 30 days after a patch is released, CVE IDs must be obtained for each vulnerability to be fixed. The earlier obtained the better, and it should be requested either during or immediately after a fix is prepared.
+
+The security team currently requests CVEs either through the HackerOne form \(preferred\) or directly through MITRE's [webform](https://cveform.mitre.org/). 
+
+Keep in mind that some of our security releases contain _security related_ enhancements which may not have an associated [CWE](https://cwe.mitre.org/) or vulnerability. These particular issues are not required to obtain a CVE since there's no associated vulnerability. CVE IDs obtained via the webform must be manually referenced in the HackerOne issue.
+
+### When a Fix is Ready
+
+When a patch has been developed, tested, approved, and a new release is being prepared, the dev team updates the clickup task with a reference to the PR\(s\).
+
+Security then informs the researcher via HackerOne. Post a comment on the HackerOne issue to all parties informing them that a patch is ready and will be included with the next release. Provide release dates, if available, but try not to promise a release on a specific date if you are unsure. You may also share relevant code snippets with the researcher for him to comment on or verify the fix.
+
+This is also a good time to ask if the researcher would like public credit in our release blog post and on our vulnerability acknowledgements page for the finding. We will link their name or alias to their HackerOne profile, Twitter handle, Facebook profile, company website, or URL of their choosing. Also ask if they would like the HackerOne report to be made public after the responsible disclosure period counting from the release. It is always preferable to publicly disclose reports unless the researcher has an objection. 
+
+For **critical** security issues, prepare a message for Rocket.Cat to be sent out on release day.
+
+#### On Release Day <a id="on-release-day"></a>
+
+On the day of the security release several things happen in order:
+
+* All security patches are pushed to the public repository \(unless they are not already in there\).
+* The new Rocket.Chat version is published.
+* For **critical** security fixes, an additional Rocket.Cat message is sent to all registered workspaces.
+* The update process of the hosted workspaces is started by the infrastructure team
+* The public is notified via the Rocket.Chat blog release post.
+* The security updates page and the White Hat Hall of Fame are updated with appropriate credits to the reporting researchers.
+
+Once all of these things have happened notify the HackerOne researcher that the vulnerability and patch are now public. The Clickup issue should be closed and the HackerOne report should be closed as "Resolved". Public disclosure should occur if the Hacker has requested it and the responsible disclosure period is started. Any sensitive information contained in the HackerOne report should be sanitized before disclosure.
+
+### After release day
+
+#### Swag for Reports <a id="swag-for-reports"></a>
+
+We award swag on a case by case basis. Details are in our responsible disclosure policy on HackerOne. When a report is closed, ask the reporter if they would like a swag code for free Rocket.Chat clothing or accessories. Swag codes are available by request from the operations team.
+
+#### Responsible disclosure period ended
+
+After the responsible disclosure period has ended, HackerOne will automatically release the report. Upon notification of the report release, update the CVE entry via the webform if it had been requested via the webform. Otherwise HackerOne will automatically update the CVE entry.
 
 ## Pentesting \(internal\)
 
@@ -144,7 +174,7 @@ Important security milestones are mirrored in the "Milestones" project of the co
 
 ## Static Code Analysis
 
-Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories. We have decided not to purchase a license for our closed repos. For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
+Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories.  For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
 
 * LGTM is enabled for all public repos
 * To enable LGTM for a repo, you must be admin
@@ -179,7 +209,7 @@ Goal: Provide all rocket.chat members with the security skills fitting to their 
 We are not a large size organization and often dont have strict organizational boundaries. Therefore members of different teams often need skills of another team, this goes for security as well. We are also a product centric company with a growing footprint providing services \(e.g. cloud offering\). We use the following measures:
 
 * Every new member gets a personal introduction into our security policies as part of his onboarding
-* All trainings provided are recorded and available on request
+* All trainings provided should be recorded and available on request
 * All trainings should accomodate for remote participation
 * Trainings should focus on on-demand topics and have a workshop character rather than classroom training. Team Leads can contact the security team to provide a training for specific areas.
 * We aim to provide one training half a year.
