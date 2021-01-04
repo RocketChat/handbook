@@ -92,7 +92,7 @@ Fixes must be made available as per our [support policy](https://docs.rocket.cha
 
 Security Fixes must not contain keywords such as "exploit", "hack", or similar and should be phrased technology-neutral. We want to explain what has changed, not describe exploit techniques.
 
-Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories. If the dev team has the reasonable assumption that the vulnerability is not likely to be able to be exploited until patch day \(especially for low or medium fixes\), a PR can - as an exception - be added to the open repositories to allow for better pre-release testing.
+Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories. 
 
 #### **CVE IDs**
 
