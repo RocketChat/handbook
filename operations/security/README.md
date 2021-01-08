@@ -158,6 +158,12 @@ We use the following process:
 * Add new tasks for new findings. Re-open closed tasks for findings that keep re-occuring even though they were closed in Clickup already. Do not open a new task for closed tasks that have a comment regarding acceptance of the vulnerability.
 * Provide an overview of the recent scan in the \#security channel in RC.
 
+## Server investigation
+
+When contacted about a potentially rogue server, i.e. a server used for criminal purposes, we follow our internal SOP [here](https://docs.google.com/document/d/180rtyc50riGGZAzw8WP4r0EFYEP6FxMWcMbAK5I3V3k/edit?usp=sharing).
+
+Law enforcement inquiries are subject to our [law enforcement guidelines](https://docs.rocket.chat/legal/guidelines-for-law-enforcement).
+
 ## Reporting
 
 On a monthly basis, the security team provides a metric sheet to management and presents in the all-hands meeting. The sheet can be found in [GDrive](https://docs.google.com/spreadsheets/d/1J6VGHN5znUa07lG7r7wfqa4ewxb8_AJd-Z7irQEfUXc/edit?usp=sharing). On a weekly basis, the security team reports the status of the current tasks and issues in the all-hands meeting as per an Clickup export and addition to the newsletter.
