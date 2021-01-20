@@ -31,8 +31,9 @@ But keep in mind that up to a price of $2000 you can choose from whichever brand
   
 For the **headphone** we usually recommend the Logitech H800 Headset, but this is also not mandatory and you can choose from the model you prefer! However, just like with the laptop, if the price goes over $150, we'll also evaluate the quotes sent.  
 
-1. **Email marcelo.schmidt@rocket.chat with the quotes** attached and informing if you will need the money in advance or pay and get reimbursed later. He will then indicate you which one to purchase and forward his approval to Accounting for final approval and dispensation. **Once approved you’ll receive a term of Agreement to Use Company Assets**.
-2. You can either order **as soon as you receive the approval** from Accounting \(considering you have enough credit card limit for the purchase\) or **you can wait for the advance** to reach your account. Either way, as soon as you place your order you need to **send the** **receipt to accounting@rocket.chat**.
+    2. **Email marcelo.schmidt@rocket.chat with the quotes** attached and informing if you will need the money in advance or pay and get reimbursed later. He will then indicate you which one to purchase and forward his approval to Accounting for final approval and dispensation. **Once approved you’ll receive a term of Agreement to Use Company Assets**.
+
+    3. You can either order **as soon as you receive the approval** from Accounting \(considering you have enough credit card limit for the purchase\) or **you can wait for the advance** to reach your account. Either way, as soon as you place your order you need to **send the** **receipt to accounting@rocket.chat**.
 
 ## After the delivery
 
