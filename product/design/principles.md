@@ -6,7 +6,7 @@ description: Provide the team standards for built and evaluation.
 
 ## Building Blocks
 
-While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks](rules/building-blocks-framework.md) of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
+While designing an interface, take a step back and analyze the overall possibilities of using existing [Building Blocks](design-system/building-blocks-framework.md) of our framework. Ultimately, as more the user interacts with the same component, as smooth the learning curve of other UI using this component will be.
 
 ## Validation Guide
 
@@ -43,7 +43,7 @@ Real-world is not static so the product either. However, the motion must be cons
 #### Validation Guide
 
 * All means of interaction must be represented by a visual cue, you may use motion in most of these cases;
-* All short CSS transitions, animations and transforms must follow our [animation curve base ](rules/animation-curve-and-timing.md)and its timing.
+* All short CSS transitions, animations and transforms must follow our [animation curve base ](design-system/animation-curve-and-timing.md)and its timing.
 
 ## Design Together
 
