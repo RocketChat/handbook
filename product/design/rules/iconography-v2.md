@@ -1,4 +1,4 @@
-# Iconography v2
+# Iconography
 
 ## Icons
 
