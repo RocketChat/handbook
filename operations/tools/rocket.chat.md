@@ -22,9 +22,9 @@ Asking your question before getting a reply allows for asynchronous communicatio
 
 {% embed url="https://nohello.com" %}
 
-### Don't overuse audios
+### Don't overuse audio
 
-Audios are not searchable. Make sure that when you use audio it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break audio into multiple pieces if you need to refer back to a specific point in time. 
+Audios are not searchable. Ensure that when you use audio, it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break audio into multiple pieces if you need to refer back to a specific point in time. 
 
 ### Don't overuse multiuser DMs
 
@@ -32,9 +32,9 @@ Audios are not searchable. Make sure that when you use audio it's short and give
 
 ### Keep people updated
 
-When you ask someone to help you with something, but this person takes too long to answer, and you end up finding a solution somewhere else, let them know. Many times the person didn't answer right away and will try to find the solution before they tell you they are looking for one, so they can give you a complete answer \(and an asynchronous one\). So as a gratitude token towards them possibly finding a solution, let them know they don't need to worry about it anymore.
+When you ask someone to help you with something, but this person takes too long to answer, and you end up finding a solution somewhere else, let them know. Often the person didn't answer right away and will try to find the solution before they tell you they are looking for one, so they can give you a complete answer \(and an asynchronous one\). As a gratitude token towards them possibly finding a solution, let them know they don't need to worry about it anymore.
 
 ### Use mentions
 
-Even on DMs, if you need someone's attention immediately, mention them so they will see a red badge beside the room name. Don't overuse it, though. Mentioning people in every DM will make it useless and people may start ignoring it at all.
+Even on DMs, if you need someone's attention immediately, mention them so they will see a red badge beside the room name. Don't overuse it, though. Mentioning people in every DM will make it useless, and people may start ignoring it at all.
 
