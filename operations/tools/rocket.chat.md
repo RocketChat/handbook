@@ -12,17 +12,19 @@ We use Rocket.Chat in our daily routine. We expect you to use it while you are w
 
 ## Best practices
 
-### No Hello \([https://nohello.com](https://nohello.com\)\)
+### No Hello
 
 Please _do not_ say just "Hello" in chat. It is as if you called someone on the phone and said "Hi!" and then put them on hold!
 
-You are trying to be polite by not jumping right into the request, like you would do in person or on the phone. But Chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
+You are trying to be polite by not jumping right into the request, as you would do in person or on the phone, but chat is neither of those things. Typing is much slower than talking. Instead of being polite, you are just making the other person wait for you to phrase your question, which is lost productivity.
 
 Asking your question before getting a reply allows for asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
+{% embed url="https://nohello.com" %}
+
 ### Don't overuse audios
 
-Audios are not searchable. Make sure that when you use audio it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break an audio into multiple pieces if you need to refer back to a specific point in time. 
+Audios are not searchable. Make sure that when you use audio it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break audio into multiple pieces if you need to refer back to a specific point in time. 
 
 ### Keep people updated
 
