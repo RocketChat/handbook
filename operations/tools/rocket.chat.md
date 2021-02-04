@@ -8,7 +8,7 @@ description: >-
 
 ## Using Rocket.Chat daily
 
-We use Rocket.Chat in our daily routine. We expect you to use it while you are working. Make sure to add `#important` to your favorites, or check it regularly. Company announcements are usually made there.
+We use Rocket.Chat in our daily routine. We expect you to use it while you are working. Make sure to add the channel `#important` to your favorites, or check it regularly. Company announcements are usually made there.
 
 ## Best practices
 
@@ -32,7 +32,7 @@ Audios are not searchable. Ensure that when you use audio, it's short and given 
 
 ### Keep people updated
 
-When you ask someone to help you with something, but this person takes too long to answer, and you end up finding a solution somewhere else, let them know. Often the person didn't answer right away and will try to find the solution before they tell you they are looking for one, so they can give you a complete answer \(and an asynchronous one\). As a gratitude token towards them possibly finding a solution, let them know they don't need to worry about it anymore.
+When you ask someone to help you with something, but this person takes too long to answer, and you end up finding a solution somewhere else, let them know. Often the person didn't answer right away and will try to find the solution before telling you they are looking for one to give you a complete answer \(and an asynchronous one\). As a gratitude token towards them possibly finding a solution, let them know they don't need to worry about it anymore.
 
 ### Use mentions
 
