@@ -28,7 +28,7 @@ Audios are not searchable. Ensure that when you use audio, it's short and given 
 
 ### Don't overuse multiuser DMs
 
-
+The DMs with multiple users are by design forever limited to the original members. You will never be able to add or remove any member to the conversation, even if they leave the company. This type of channel was designed for personal conversations with a defined and limited audience. If you are going to discuss any nonpersonal topic, please consider creating a channel or a discussion.
 
 ### Keep people updated
 
