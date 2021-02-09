@@ -26,3 +26,18 @@ Team members should fill out the doc in ClickUp when they start working. At **10
 * You SHOULD check Rocket.Chat for announcements or to answer any pending questions when you start working and before you finish your shift **at least**. You are, of course, encouraged to engage in any conversation on your channels whenever you like. Please note you are not expected to be _always_ active in chat. Everyone needs time to focus on the task at hand, this is just a rule of thumb so you don't miss out or leave anyone hanging/blocked.
 * You SHOULD push your code to the _upstream_ before you finish your working hours. This way, if anything critical happens, someone else can take over the task you were working on if needed.
 
+## Contribution Workflow
+
+### Github
+
+New contributions will most likely start with a new git branch. We don't have strict rules for naming a branch, but here are some suggestions:
+
+* `feat/*` ****if you'll be working in new feature
+* `fix/*` if you'll be working on a fix
+* `regression/*` if you'll be working on a regression in the current release
+* just use a custom name, without the "folder format", if it doesn't fit the suggestions above
+
+
+
+
+
