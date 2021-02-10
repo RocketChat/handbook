@@ -109,4 +109,5 @@
   * [Webinar Process](operations/marketing/webinar-process.md)
   * [Product Profiles](operations/marketing/pages-to-update.md)
   * [UTM's Best Practices](operations/marketing/utms-best-practices.md)
+  * [Social Media Content: How To Contribute](operations/marketing/social-media-content-how-to-contribute.md)
 
