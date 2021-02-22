@@ -66,6 +66,7 @@
     * [Development Check-in](operations/people/developing-yourself/development-check-in.md)
     * [Developing your career](operations/people/developing-yourself/developing-your-career.md)
     * [Learning things](operations/people/developing-yourself/taking-courses.md)
+    * [The Book Club](operations/people/developing-yourself/the-book-club.md)
   * [The Summit](operations/people/summit.md)
   * [Disciplinary Actions Policy](operations/people/disciplinary-actions-policy/README.md)
     * [Appendix: No retaliation policy](operations/people/disciplinary-actions-policy/appendix-no-retaliation-policy.md)
