@@ -4,7 +4,9 @@
 
 Our Disciplinary Action policy explains how we address our employees’ misconduct, offensive behaviors or information security breaches.
 
-This policy is designed to help and encourage you to identify and speak up about any of these situations and outlines the process that will be used if Rocketeers fail to achieve and maintain the required standards.  
+This policy is designed to help and encourage you to identify and speak up about any of these situations and outlines the process that will be used if Rocketeers fail to achieve and maintain the required standards.
+
+We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and in the workplace violence policy, so we're here opening a [Hearing Channel forms](https://forms.gle/TzM5ZZMdTXbu9Wtq8) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.  
 
 
 ## Scope
@@ -38,7 +40,7 @@ Suspension is more severe, therefore it should be applied in case of offenses of
 
 **3. Termination of contract**
 
-The most severe action is the dismissal or termination of contract. This is applied solely when there is robust comprovation of the offense, and to apply it the offense must be serious enough to make the continuity of the employment impossible due to loss of trust between the company and the employee.
+The most severe action is the dismissal or termination of contract. This is applied solely when there is robust comprobation of the offense, and to apply it the offense must be serious enough to make the continuity of the employment impossible due to loss of trust between the company and the employee.
 
 ## Types of offenses
 
