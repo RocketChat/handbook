@@ -8,5 +8,5 @@ So keep in mind that everything you see in our Culture Code was once mentioned b
   
 Check it out fully clicking [here](https://docs.google.com/presentation/d/1RxxZk7briP2b1NncK2IpHQYSuPQCrlWoOv7EcC0yHtE/present?includes_info_params=1&eisi=CPTI5Mzfu-sCFZmjTwkdW4UBmQ#slide=id.g6d8aa3920f_0_0).
 
-![](../../../.gitbook/assets/image%20%286%29.png)
+![](../../../../.gitbook/assets/image%20%286%29.png)
 
