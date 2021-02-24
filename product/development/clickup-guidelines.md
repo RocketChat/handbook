@@ -15,11 +15,12 @@ As soon as you get something to work on, you should change the task's status to 
 
 If, during your development, you find something that you cannot workaround or you have an important question, you should update the status to `BLOCKED`.
 
-* When doing this, remember to \*\*leave a comment\*\* with the reason for the block or with the questions you have
+* When doing this, remember to **leave a comment** with the reason for the block or with the questions you have
 
 When you finish the development, you should move it to `WAITING REVIEW`.
 
-* Please, notify the reviewer via DM or email, or adding him/her as a reviewer in `GitHub`.
+* Don't forget to set the task owner or the team leader as a reviewer in GitHub
+* If you're not sure to whom to request a review make sure to add a comment on the task linking the PR.
 
 When you are reviewing a task from someone else \(doing code review\), you should change the status to `IN REVIEW`.
 
