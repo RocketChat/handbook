@@ -5,7 +5,7 @@ description: >-
   conversations
 ---
 
-# Clickup Guidelines
+# ClickUp Guidelines
 
 ## Backend
 
@@ -20,10 +20,12 @@ If, during your development, you find something that you cannot workaround or yo
 When you finish the development, you should move it to `WAITING REVIEW`.
 
 * Don't forget to set the task owner or the team leader as a reviewer in GitHub
-* If you're not sure to whom to request a review make sure to add a comment on the task linking the PR.
+* If you're not sure to whom to request a review, make sure to add a comment on the task linking the PR.
 
 When you are reviewing a task from someone else \(doing code review\), you should change the status to `IN REVIEW`.
 
 * If the review is OK \(no comments or questions, and everything is working out properly\), you can now move the task to `DONE`.
-* Else, notify the developer and move the task back to `IN PROGRESS` so the dev can work on your review.
+* Else, notify the developer and move the task to `CHANGES REQUESTED` . The dev should then move it to `IN PROGRESS` when they restart work on it.
+
+
 

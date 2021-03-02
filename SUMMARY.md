@@ -20,7 +20,7 @@
   * [Workflow](product/design/design-workflow-at-rocket.chat.md)
   * [Tools](product/design/tools.md)
 * [Development](product/development/README.md)
-  * [Clickup Guidelines](product/development/clickup-guidelines.md)
+  * [ClickUp Guidelines](product/development/clickup-guidelines.md)
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
 * [Mobile](product/mobile.md)
