@@ -22,6 +22,7 @@ If you are in any country that is not Brazil, your payment is done through invoi
 8. "Due date" is also current date.
 9. "Item": _Rocket.Chat Services_ "Quantity": 1 "Rate": Your salary in USD
    1. On your first invoice, you'll need to send a pro-rata adjusted invoice. Divide your total amount by 30 and multiply by the number of days since you started at the company.
+   2. If you have remote benefits to be paid, add another item with the remote benefit total amount in USD.
 10. On "Notes" you will need to write down your bank information, including: bank name, bank address, account number, routing number and swift code. Those informations are required to make international payments. If you don't know them, consult your bank.
 11. Just **send** the invoice to accounting@rocket.chat.
 
