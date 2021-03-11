@@ -1,11 +1,5 @@
 # Iconography
 
-## Icons
-
-Rocket.Chat icons are used to help our customers get the job done. Our icons are clear, readable, and informative.
-
-Our goal is to make creating and using the icon consistent across different platforms. A consistent way of using the icon helps reduce the learning curve of our product and increase our customers' productivity.
-
 ## Design principles
 
 1. Simple — Our icons are geometric, recognizable on small screens, and have minimal form.
@@ -20,9 +14,9 @@ The icons are displayed most of time as 20x20px and 24x24px. However, by default
 
 ### Grid and Keylines
 
-The icons are exported on a 32px canvas and must follow the grid below. We have predefined keylines on the grid that help to design icons more consistent and harmonic.
+Rocket.Chat icons are drawn on a pixel-based grid of 32px x 32px and scaled down to different sizes. Use the grid's keylines to shape the main structure.
 
-![](../../../.gitbook/assets/grid-and-keylines.png)
+![](../../../.gitbook/assets/image-1%20%281%29.png)
 
 ### Stroke
 
