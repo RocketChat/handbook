@@ -75,7 +75,7 @@ Use tooltips for unlabeled icons — include a label or a short description. Thi
 
 A tooltip and a icon \(or a button which contains a icon\) must be 4px distance between both elements' canvas and have a centered alignment.
 
-![](../../../.gitbook/assets/tooltip-position.png)
+![](../../../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
 Consult a designer when you have a question, suggestion or you're requesting a new icon.
