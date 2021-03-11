@@ -13,7 +13,7 @@
     * [Building Blocks Framework](product/design/design-system/building-blocks-framework.md)
     * [Capitalization Rules](product/design/design-system/capitalization-rules.md)
     * [Banners, Toast Bars and Inline Alerts](product/design/design-system/banners-toast-bars-and-alerts.md)
-    * [Iconography](product/design/design-system/iconography-v2.md)
+    * [Iconography](product/design/design-system/iconography.md)
     * [Animation Curve and Timing](product/design/design-system/animation-curve-and-timing.md)
   * [Validation Guide](product/design/validation-guide.md)
   * [Articles](product/design/articles.md)
