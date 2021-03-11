@@ -1,12 +1,12 @@
 # Iconography
 
-## Design principles
+## Design Principles
 
 1. Simple — Our icons are geometric, recognizable on small screens, and have minimal form.
 2. Literal — Whenever possible use symbols that represent the most basic representation of what it stands for.
 3. Consistent — In style, detail, perspective, stroke weight, and the way it is used. Don't recreate established and standard icons.
 
-## Creating icons
+## Creating Icons
 
 ### Canvas Size
 
@@ -43,7 +43,7 @@ Corner radius must be 1px by default. Interior corners should be squared, not ro
 
 ![](../../../.gitbook/assets/perspective%20%281%29.png)
 
-### Naming icon
+### Naming Icon
 
 We follow this naming pattern for icons: `Glyph / iconname-typename`.
 
@@ -53,30 +53,29 @@ We follow this naming pattern for icons: `Glyph / iconname-typename`.
 
 ## Using icons
 
-Only use icons from our [official released set](https://www.figma.com/file/gC0Y4IH5uthUymNW85If7EA2/Styleguide?node-id=110%3A41).
-
-### Icons are commonly used in
-
-* primary navigation
-* page headers and section titles
-* banners to bring attention to a specific theme \(such as a success or an error\)
-* combination with text to add clarity
-
 ### Cross-platform adaptations
 
 Icons like Share and Back has a different icon for Android and iOS. We follow their specific guidelines to make our product more familiar and easier to learn.
 
 ![](../../../.gitbook/assets/platform.png)
 
-### Labeling Icon
+### Meaningful and Minimalist
 
-Use meaningful icons instead of words where you could. Add a label to reduce the ambiguity of the icon's purpose when the context allows.
+Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalim](../principles.md#minimalism). 
 
-![](../../../.gitbook/assets/included-label.png)
+### Labels
 
-Use tooltips for unlabeled icons — include a text label or a short description of what the icon means. This reduces the effort of learning unfamiliar icons.
+Add a label to reduce the ambiguity of the icon's purpose when the context allows. The label must follow the [Capitalization Rules](capitalization-rules.md).
 
-![](../../../.gitbook/assets/unlabeled-icon.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
+
+### Tooltips
+
+Use tooltips for unlabeled icons — include a label or a short description. This reduces the cognitive load while learning the applications' concepts.
+
+A tooltip and a icon \(or a button which contains a icon\) must be 4px distance between both elements' canvas and have a centered alignment.
+
+![](../../../.gitbook/assets/tooltip-position.png)
 
 {% hint style="info" %}
 Consult a designer when you have a question, suggestion or you're requesting a new icon.
