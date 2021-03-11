@@ -10,7 +10,7 @@
 
 ### Canvas Size
 
-The icons are displayed most of time as 20x20px and 24x24px. However, by default, the icon must be draw using 32x32px format and 2px stroke so we can convert it easily to 1.5px on 24x24px usage.
+The icons are displayed most of time as 20x20px and 24x24px. However, by default, the icon must be drawn using the 32x32px grid.
 
 ### Grid and Keylines
 
