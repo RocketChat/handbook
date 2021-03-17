@@ -4,24 +4,23 @@
 
 The Rocket.Chat Apps Team is responsible for the Apps-Engine framework, which allows developers to make plugins \(apps\) to extend Rocket.Chat's functionality without having to deep dive into the core codebase. Along with the framework itself, we work on official integrations through the Apps-Engine, maintain the tooling around it and integrate Rocket.Chat with our Marketplace.
 
-## Calls
+## Processes
 
-We have some recurring calls to talk about our work:
+We're running some experiments on how to run your development processes, based on some practices from the Agile methodologies. 
 
-* **Mondays 10am \(BRT\)** **- Planning -** We have a quick update in our progress and plan out the activities for the week
-* **Wednesdays 10am \(BRT\) - Docs Review / Issue Triage -** We alternate between these two meetings each week. **Docs Review** we review our progress with documenting the framework and delegate new pages to work on if we have the bandwidth; **Issue Triage** is where we go through some of our repo's issues, responding and prioritising as possible
-* **Fridays 10am \(BRT\) - Retrospective -** It happens once every two weeks, we go over our workflow for the last two weeks and identify what we did well, what didn't go so well, and define action items on how we can improve those points
+Currently, we have a 2-week sprint - within which we have a **Planning**, a **Retrospective**, and **Daily** sessions.
 
-## Dailies
+* **Planning - Mondays at** [**10am \(BRT\)**](http://mytime.io/10am/BRT) **-** In the first Monday of the sprint we go over our ClickUp backlog, selecting what we think fits into our Sprint. In the _second_ Monday of the sprint, we just have a check-in for the overall progress and try to identify any point we might need to pivot.
+* **Dailies - Every day at** [**9:45am \(BRT\)**](http://mytime.io/9:45am/BRT) **-** We follow the "standard" format of the Scrum Daily ceremony. Every team member shares the progress they had in their tasks in the previous day, the plans for advancing in the current day, and if there are any blockers. **NOTE:** Whenever the daily "conflicts" with any other call we have, we'll just merge it into the other call.
+* **Retrospective - Every other Friday at** [**10am \(BRT\)**](http://mytime.io/10am/BRT) **-** We do it at the end of every Sprint. We go over the accomplishments of that specific Sprint, and then discuss what has worked and what can be improved in the process, coming up with action items we need to achieve those improvements.
 
-Our dailies are not synchronous; instead we fill out a doc in [ClickUp](https://app.clickup.com/4207297/docs/40cp1-3853/40cp1-430). Some best practices when writing up your daily sync: 
+### Other Calls
 
-* **Describe how you progressed in the last day -** This does not necessarily mean "code you've written" - it can be any type of progress: an **RFC** you've drafted; a flowchart you've sketched in your notebook; new sub-tasks you've realised are going to be needed for you current task. Anything, really! A bit of context is important here, but not too much is required, as we should have discussed the task in detail in the planning previous to it;
-* **Highlight any items that look like a blocker -** This is really important - if you've identified anything that hasn't been brought to light during the planning, share it. If you got into some code you've found  confusing, share it. If you don't feel confident in the approach you're following now, definitely share it. This way the team will be able to help you out and the blockers will be clear to everyone.
+We have some things that are not in Agile methodologies:
 
-Team members should fill out the doc in ClickUp when they start working. At **10:30am \(BRT\)** the full excerpt for the day will be shared in our internal channel in the Open server, at which time all members should review what others have written and start any applicable discussion.
+* **Tuesdays** [**09:45am \(BRT\)**](http://mytime.io/09:45am/BRT) **- Engineering Session -** Topics discussed here can vary. Firstly we discuss the approaches we're going with when dealing with tasks/investigations. Then, we can move to discussing proposals of new APIs, automations, plans for the future, etc. Anything Engineering.
 
-## **Other Activities**
+### **Important notes**
 
 * You SHOULD check Rocket.Chat for announcements or to answer any pending questions when you start working and before you finish your shift **at least**. You are, of course, encouraged to engage in any conversation on your channels whenever you like. Please note you are not expected to be _always_ active in chat. Everyone needs time to focus on the task at hand, this is just a rule of thumb so you don't miss out or leave anyone hanging/blocked.
 * You SHOULD push your code to the _upstream_ before you finish your working hours. This way, if anything critical happens, someone else can take over the task you were working on if needed.
@@ -36,6 +35,8 @@ New contributions will most likely start with a new git branch. We don't have st
 * `fix/*` if you'll be working on a fix
 * `regression/*` if you'll be working on a regression in the current release
 * just use a custom name, without the "folder format", if it doesn't fit the suggestions above
+
+When opening a PR, please follow the guidelines in [Development Guidelines](development/development-guidelines.md#choosing-a-good-pr-title).
 
 
 
