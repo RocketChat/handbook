@@ -38,6 +38,12 @@ New contributions will most likely start with a new git branch. We don't have st
 
 When opening a PR, please follow the guidelines in [Development Guidelines](development/development-guidelines.md#choosing-a-good-pr-title).
 
+### Multiple Repos
+
+Often we'll need to open a PR in more than one of the Org's repos when introducing a new feature. That happens because the Apps-Engine hooks itself into many points in Rocket.Chat so they can provide Rocket.Chat Apps with functionalities. 
+
+When that's the case, make sure to link all the PRs by adding all their related URLs in the description of each one.
+
 
 
 
