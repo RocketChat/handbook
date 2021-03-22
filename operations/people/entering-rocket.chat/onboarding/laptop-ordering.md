@@ -8,6 +8,8 @@ The following instructions for laptop and headphone ordering apply to employees 
 
 For Brazilian Rocketeers **we'll send you both** through Correios as soon as we start your admission process.
 
+When you receive the packages, you also have to complete the "After the delivery" steps described below! 
+
 ## Rocketeers outside Brazil
 
 The equipment ordering process starts as soon as all documents for registration of a candidate as employee are received, after the Welcome email is sent by the People Experience team - two to one weeks prior to the first day of the employee - so there's enough time for them to order and receive the equipment before having to start working.
