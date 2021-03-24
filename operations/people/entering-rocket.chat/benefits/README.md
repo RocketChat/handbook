@@ -22,5 +22,7 @@ Because of Brazil's legislation for workers, our Brazilian Rocketeers also recei
 * Gympass
 * Healthcare plan \(with odontological\)
 
+You can have access to a full explanation about the CLT benefits like the types of plans, values received and the dates that you receive them by accessing [bit.ly/CLTbenefits](https://bit.ly/CLTbenefits%20).
+
 We are constantly looking for new possibilities, and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedbacks can be directed to the People Experience team, who will glad to receive them!
 
