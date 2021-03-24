@@ -77,6 +77,9 @@ For reported vulnerabilities:
 
 * Open a task in Clickup on the `vulnerabilities` board as soon as a report is verified and reference the original report. 
   * If the vulnerability was reported via a public issue on Github, remove it and refer the reporter to our email adress or hackerone. Still open a clickup task, in case the reporter does not respond.
+* With the ClickUp task opened, copy the task ID \(the final part of the URL: app.clickup.com/t/&lt;taskid&gt;\) and add it as a reference on the HackerOne report. 
+  * On the top part of the report, click on the Edit button in front of the References field 
+  * Select Create Issue, Manual Integration, and paste the Task ID in the Ref ID field.
 * An initial determination is done by the security team as to severity and impact. Never dismiss a security report outright. Instead, follow up with the reporter, asking clarifying questions.
 * Remember to prepare patches, blog posts, email templates, etc. on or in other non-public ways even if there is a reason to believe that the vulnerability is already out in the public domain \(e.g. the original report was made in a public issue that was later made confidential\).
 
