@@ -86,6 +86,7 @@
   * [Old Docs / Guides](operations/support/old-docs-guides/README.md)
     * [Partner Guide](operations/support/old-docs-guides/partner-guide.md)
     * [Reference](operations/support/old-docs-guides/reference.md)
+* [Sales](operations/sales.md)
 * [Marketing](operations/marketing/README.md)
   * [Team](operations/marketing/team/README.md)
     * [On Boarding Overview](operations/marketing/team/on-boarding-overview/README.md)
@@ -95,8 +96,4 @@
   * [Product Profiles](operations/marketing/pages-to-update.md)
   * [UTM's Best Practices](operations/marketing/utms-best-practices.md)
   * [Social Media Content: How To Contribute](operations/marketing/social-media-content-how-to-contribute.md)
-
----
-
-* [Sales](sales.md)
 
