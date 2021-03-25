@@ -225,7 +225,7 @@ Regression: Add missing field to `users` endpoint
 
 ### Second tag e.g. `[NEW][ENTERPRISE]`
 
-Use a second tag to group entries on the changelog, we currently use it only for the Enterprise items but we are going to expand it's usage soon, please do not use it until we create a pattern for it.
+Use a second tag to group entries on the changelog. We currently use it only for Enterprise and Apps items, but we are going to expand its usage soon. If you're not sure about which one to use, you most likely _do not need to use a second tag._ We're still coming up with a pattern for it.
 
 ### Minor Changes
 
