@@ -196,8 +196,7 @@ To extend the mindset of generating new business to all departments of the organ
         Day, Customer Day, Blend In and others.Secondary function</td>
     </tr>
     <tr>
-      <td style="text-align:left">Being an advisor and facilitator for the team to provide feedback and
-        complaints.</td>
+      <td style="text-align:left">Secondary function</td>
       <td style="text-align:left">Develop bots for interacting with employees and gathering feedback and
         participation in culture initiatives.</td>
     </tr>
