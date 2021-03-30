@@ -1,11 +1,23 @@
 # Security
 
-Security is very important for Rocket.Chat. Not only for our product but we ourselves have to stick to good security practices to keep our information secure. Also our customers and community expect that we keep their information secure.
+### Purpose
 
-## Contacts
+The purpose of the Security team is to define which risks the company is exposed to and mitigate them to a business acceptable level.
 
-* [Markus Kirsch](https://open.rocket.chat/direct/markus.kirsch), Lead Security Engineer & Researcher, Data Protection Officer
-* [Rodrigo Nascimento](https://open.rocket.chat/direct/rodrigo.nascimento), CTO - in case of emergencies
+We need to make sure the security best practices are being applied and guarantee the security of our applications and find and respond to new vulnerabilities and incidents, ensuring the confidentiality, integrity, and availability of our services.
+
+### Members and functions
+
+* [Markus Kirsch](https://open.rocket.chat/direct/markus.kirsch): Security Lead
+* [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Security Engineer
+
+### Top OKRs, relevant for Security function, built by stakeholder input
+
+1. Company Scale - Scale and build a strong \(Security\) Team, \(while: Securing other teams´ growth\)
+2. Revenue Stream - Grow the business, driving $10 mio ARR
+3. Customer Centric - Productize internal services or processes, applying a CC-attitude
+4. Enterprise Product - Establish industry leadership as B2B comms platform
+5. Community Engagement - Increase dev relationships \(incl. White hats\)
 
 ## Main Tasks
 
