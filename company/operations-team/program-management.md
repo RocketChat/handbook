@@ -225,5 +225,116 @@ To extend the mindset of generating new business to all departments of the organ
 {% endtab %}
 {% endtabs %}
 
+### Initiatives, Leads and Milestones
 
+{% tabs %}
+{% tab title="OpenLMS setup" %}
+#### Function
+
+Sales
+
+#### Lead
+
+Marcelo
+
+#### Business Impact
+
+Capacitate our sales personnel and partners on the knowledge necessary for identifying Rocket.Chat users who have a pressing need for enhanced capabilities, before making contact.
+
+#### **OKR Connection**
+
+Level 1:
+
+* CP-KR 2.1: Achieve $10M ARR Target
+* CP-KR 2.4b: Increase average win rate by 15%
+
+Level 2:
+
+* OP-KR 3.2: Increase sales team productivity by 30% 
+* OP-KR 3.3: Reach 6% conversion rate from trial to paid
+* OP-KR 3.4: Decrease sales cycle \(duration\) by 20%
+
+#### **Biggest Deliverable \(or\) Value Milestone**
+
+* March 19: OpenLMS setup ready for launch.
+* TBD: First round of evaluation on the effectiveness of the course
+{% endtab %}
+
+{% tab title="Zoho.Bridge / Fleetcommand Sync" %}
+#### Function
+
+Operations
+
+#### Lead
+
+Marcelo
+
+#### Business Impact
+
+Keep our data synced between our multiple platforms: FleetCommand, CRM, Desk, Hubspot
+
+#### **OKR Connection**
+
+Level 1:
+
+* CP-KR 2.3b: Drive 3,000 SQL’s
+* CP-KR 3.5: Reduce Gross MRR Churn Rate by 50%
+
+Level 2:
+
+* OP-KR 3.2: Increase sales team productivity by 30%
+* OP-KR 4.3: Properly address support SLA
+
+#### **Biggest Deliverable \(or\) Value Milestone**
+
+* Matching records on different systems must not have different data
+* Data can flow from any system to any other system
+{% endtab %}
+
+{% tab title="Culture Guardian" %}
+#### Function
+
+Company Culture
+
+#### Lead
+
+Marcelo
+
+#### Business Impact
+
+Create a trust mechanism for employees to get support to their demands and complaints.
+
+#### **OKR Connection**
+
+Level 1:
+
+* CP-KR 1.2: Average 94% “favorability” rating
+
+Level 2:
+
+* OP-KR 2.5: Establish and maintain a strong Culture “Guardian”
+
+#### **Biggest Deliverable \(or\) Value Milestone**
+
+* Employees can safely report their concerns
+{% endtab %}
+
+{% tab title="IT System Plan" %}
+#### Function
+
+Operations
+
+#### Lead
+
+Marcelo
+
+#### Business Impact
+
+To handle the planning and execution of key IT systems for Rocket.Chat, including Zoho suite, Fleetcommand, Hubdoc and others
+
+#### **Biggest Deliverable \(or\) Value Milestone**
+
+* Systems communicate and are reliable
+{% endtab %}
+{% endtabs %}
 
