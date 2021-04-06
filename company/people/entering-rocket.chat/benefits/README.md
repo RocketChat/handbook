@@ -15,6 +15,10 @@ Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable,
 * [Courses and books](https://handbook.rocket.chat/operations/people/developing-yourself/taking-courses)
 * [Stock options](https://handbook.rocket.chat/operations/people/entering-rocket.chat/benefits/stock-options)
 
+We are constantly looking for new possibilities, and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedbacks can be directed to the People Experience team, who will glad to receive them!
+
+## If you're in Brazil
+
 Because of Brazil's legislation for workers, our Brazilian Rocketeers also receive the following:
 
 * Meal voucher of R$25/day
@@ -24,5 +28,24 @@ Because of Brazil's legislation for workers, our Brazilian Rocketeers also recei
 
 You can have access to a full explanation about the CLT benefits like the types of plans, values received and the dates that you receive them by accessing [http://bit.ly/BR-benefits](http://bit.ly/BR-benefits).
 
-We are constantly looking for new possibilities, and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedbacks can be directed to the People Experience team, who will glad to receive them!
+## If you're in the US
+
+Besides processing payroll, through TriNet you'll also be able to opt for a healthcare plan. For each plan there is a part that is the company's contribution and another that is responsibility of the employee, you can choose the plan you prefer, but the values will vary according to the plan and if you have dependents. You will have access to pricing details of each plan and will choose when you're completing your register in TriNet, but you can see an overview of your options below:
+
+**Medical**: 243 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Kaiser CO, Kaiser GA, Tufts Freedom, Kaiser WA, Kaiser MD, UHC HI, Kaiser HI, Tufts, Blue Shield of CA, Kaiser, Aetna 
+
+* Maximum company contribution: $1300
+* Maximum employee contribution: $4069
+
+**Dental**: 35 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Delta, Guardian, Metlife, Aetna; 
+
+* Maximum company contribution: $70.83 
+* Maximum employee contribution: $167.75
+
+**Vision**: 14 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: EyeMed, VSP 
+
+* Maximum company contribution: $8.24 
+* Maximum employee contribution: $23.18
+
+   
 

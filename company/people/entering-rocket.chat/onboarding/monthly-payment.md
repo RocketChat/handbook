@@ -8,9 +8,13 @@ If you haven't received it yet, the team in charge of filling your admission wil
 
 The payment gets to you in the last day of each month.
 
+## Rocketeers in the US
+
+Your payment is done through [TriNet](https://www.trinet.com/). You don't have to create invoices, the platform will take care of all the processing for you. In TriNet the payment is done every 15 days, so half and half of your monthly salary is sent each time.
+
 ## Rocketeers in other countries
 
-If you are in any country that is not Brazil, your payment is done through invoices. So for us to pay you we need you to send Rocket.Chat an invoice each month, below you will find a little tutorial on how to create and send them, it is very simple!
+If you are in any country that is not Brazil or the US, your payment is done through invoices. So for us to pay you we need you to send Rocket.Chat an invoice each month, below you will find a little tutorial on how to create and send them, it is very simple!
 
 1. You can generate the invoice through any platform you prefer, but we always recommend [invoice-generator.com](http://invoice-generator.com/), since it is free and has almost all functionalities you will need.
 2. Go to [invoice-generator.com](http://invoice-generator.com/), fill out your full name and address on "Who is this invoice from".
