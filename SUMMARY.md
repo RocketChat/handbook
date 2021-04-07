@@ -74,7 +74,7 @@
   * [Developing yourself](company/people/developing-yourself/README.md)
     * [Development Check-in](company/people/developing-yourself/development-check-in.md)
     * [Developing your career](company/people/developing-yourself/developing-your-career.md)
-    * [Learning things](company/people/developing-yourself/taking-courses.md)
+    * [Learning things](company/people/developing-yourself/learning-things.md)
     * [The Book Club](company/people/developing-yourself/the-book-club.md)
   * [The Summit](company/people/summit.md)
   * [The Rocket.Wishlist](company/people/the-rocket.wishlist.md)
