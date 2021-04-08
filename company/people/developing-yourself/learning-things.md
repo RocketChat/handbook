@@ -17,7 +17,7 @@ We have a few options in this case:
 * **For simple courses and/or technical books with low cost:** Rocket.Chat pays for the full price of this segment. 
 * **For more complex courses and/or books with a higher cost:** In this case we use the 70/30 rule, in which the company pays for the 70% of the price and the Rocketeer 30%.
 
-Anytime you want or need any of these to improve your technical skills, feel more than free to reach out to the People team so we ca evaluate your request and give you an answer about which segment your course fits into. When approved, you can buy the course and send the request for reimbursement in [this forms](https://forms.gle/EUfiZiqyjVjpjU1BA).
+Anytime you want or need any of these to improve your technical skills, feel more than free to reach out to the People team so we ca evaluate your request and give you an answer about which segment your course fits into. When approved, you can buy the course and send the request for reimbursement in [this Zoho page](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003).
 
 There are only a few exceptions to this policy, and they are:
 
