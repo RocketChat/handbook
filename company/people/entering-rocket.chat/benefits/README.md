@@ -22,9 +22,9 @@ We are constantly looking for new possibilities, and trying to bring a better se
 Because of Brazil's legislation for workers, our Brazilian Rocketeers also receive the following:
 
 * Meal voucher of R$25/day
-* Transportation card \(For those in the Porto Alegre region\)
+* Transportation card \(for those in the Porto Alegre region\)
 * Gympass
-* Healthcare plan \(with odontological\)
+* Healthcare plan \(with dental\)
 
 You can have access to a full explanation about the CLT benefits like the types of plans, values received and the dates that you receive them by accessing [http://bit.ly/BR-benefits](http://bit.ly/BR-benefits).
 
