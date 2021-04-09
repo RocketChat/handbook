@@ -34,18 +34,26 @@ Besides processing payroll, through TriNet you'll also be able to opt for a heal
 
 **Medical**: 243 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Kaiser CO, Kaiser GA, Tufts Freedom, Kaiser WA, Kaiser MD, UHC HI, Kaiser HI, Tufts, Blue Shield of CA, Kaiser, Aetna 
 
-* Maximum company contribution: $1300
-* Maximum employee contribution: $4069
+* Employee only: 100% up to $600
+* Employee + Spouse: 50% up to $900
+* Employee + Children: 50% up to $800
+* Family: 50% up to $1,300
 
 **Dental**: 35 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Delta, Guardian, Metlife, Aetna; 
 
-* Maximum company contribution: $70.83 
-* Maximum employee contribution: $167.75
+* Employee: 100%
+* Spouse: 50%
+* Children: 50%
+* Family: 50%
 
 **Vision**: 14 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: EyeMed, VSP 
 
-* Maximum company contribution: $8.24 
-* Maximum employee contribution: $23.18
+* Employee: 100%
+* Spouse: 50%
+* Children: 50%
+* Family: 50%
 
-   
+**Life Insurance**: $20,000 Basic Life & AD&D
+
+**Disability:** STD & LTD Employee Paid
 
