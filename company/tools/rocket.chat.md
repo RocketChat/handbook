@@ -38,3 +38,7 @@ When you ask someone to help you with something, but this person takes too long 
 
 Even on DMs, if you need someone's attention immediately, mention them so they will see a red badge beside the room name. Don't overuse it, though. Mentioning people in every DM will make it useless, and people may start ignoring it at all.
 
+### Share passwords responsibly
+
+In certain, limited cases, a password or other secret needs to be shared between multiple people. Never share passwords in plaintext \(such as a normal Rocket.Chat message or email\), but always use a password sharing tool like Zoho Vault, to which the other person has access to.
+
