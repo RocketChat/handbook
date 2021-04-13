@@ -42,6 +42,7 @@
 
 ## Company
 
+* [Glossary](company/glossary.md)
 * [Tools](company/tools/README.md)
   * [Rocket.Chat](company/tools/rocket.chat.md)
   * [Google G Suite](company/tools/google-g-suite.md)
