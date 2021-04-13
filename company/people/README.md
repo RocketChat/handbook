@@ -1,4 +1,4 @@
-# People
+# People Experience
 
 Becoming a Rocketeer brings the responsibility of practicing our values everyday, taking care of the company and our clients - both internal and external -, believing and trusting our team and our purpose. 
 

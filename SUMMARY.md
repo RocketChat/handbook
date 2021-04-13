@@ -57,7 +57,7 @@
   * [Product Profiles](company/marketing/pages-to-update.md)
   * [UTM's Best Practices](company/marketing/utms-best-practices.md)
   * [Social Media Content: How To Contribute](company/marketing/social-media-content-how-to-contribute.md)
-* [People](company/people/README.md)
+* [People Experience](company/people/README.md)
   * [Entering Rocket.Chat](company/people/entering-rocket.chat/README.md)
     * [Onboarding](company/people/entering-rocket.chat/onboarding/README.md)
       * [Platforms and Systems](company/people/entering-rocket.chat/onboarding/platforms-and-systems.md)
