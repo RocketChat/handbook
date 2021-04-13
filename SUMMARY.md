@@ -37,6 +37,7 @@
     * [QA scope](product/quality-assurance/qa-process/qa-scope.md)
   * [Technology](product/quality-assurance/technology/README.md)
     * [Endorsed testing tools](product/quality-assurance/technology/endorsed-testing-tools.md)
+* [Technical Writing](product/technical-writing.md)
 * [Backend](product/backend.md)
 
 ## Company
