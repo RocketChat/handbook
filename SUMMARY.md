@@ -98,7 +98,7 @@
   * [Old Docs / Guides](company/support/old-docs-guides/README.md)
     * [Partner Guide](company/support/old-docs-guides/partner-guide.md)
     * [Reference](company/support/old-docs-guides/reference.md)
-* [Operations Team](company/operations-team/README.md)
+* [Operations](company/operations-team/README.md)
   * [Data & Analytics](company/operations-team/data-and-analytics.md)
   * [Finance](company/operations-team/finance.md)
   * [Program Management](company/operations-team/program-management.md)

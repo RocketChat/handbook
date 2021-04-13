@@ -1,4 +1,4 @@
-# Operations Team
+# Operations
 
 The Operations Team is comprised of the following teams:
 
