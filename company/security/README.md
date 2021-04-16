@@ -43,7 +43,7 @@ Public
 
 ## Policies
 
-See [Security Policies](https://rocket.chat/handbook/operations/security-policy/)
+See [Security Policies](https://handbook.rocket.chat/company/security/security-policy)
 
 ## Playbooks
 
@@ -175,7 +175,7 @@ We use the following process:
 
 ## Server investigation
 
-When contacted about a potentially rogue server, i.e. a server used for criminal purposes, we follow our internal SOP [here](https://docs.google.com/document/d/180rtyc50riGGZAzw8WP4r0EFYEP6FxMWcMbAK5I3V3k/edit?usp=sharing).
+When contacted about a potentially rogue server, i.e. a server used for criminal purposes, we follow our internal Standard Operating Procedure [here](https://docs.google.com/document/d/180rtyc50riGGZAzw8WP4r0EFYEP6FxMWcMbAK5I3V3k/edit?usp=sharing).
 
 Law enforcement inquiries are subject to our [law enforcement guidelines](https://docs.rocket.chat/legal/guidelines-for-law-enforcement).
 
@@ -191,7 +191,15 @@ Task and Project Management for Security occur in Clickup . Security uses three 
 * Security Management System: contains tasks that deal with our internal management processes of security, e.g.: policies, reoccurring audit tasks
 * Incidents & Vulnerabilities: containts tasks that deal with the said, e.g.: hackerone reports, github issues pointing out a flaw
 
-Important security milestones are mirrored in the "Milestones" project of the company. Proper Tags should be added, especially to vulnerabilities. We mostly use the tags: hackerone, github, pentest Tasks involving security are often cross-referenced in other projects in Clickup. Other teams requesting resources of the security team can simply create a task in Clickup and assign it to one of the security members.
+A task should have complete information available to answer all "W"-questions.
+
+Tags are the most important instrument to classify tasks. A task can have multiple tags. 
+
+Security tasks that are worked on currently must be added to the current sprint. Sprint tasks should be estimated with Sprint points.
+
+Tasks involving security are often added into other lists in other projects in Clickup. Other teams requesting resources of the security team can simply create a task in Clickup and assign it to one of the security members.
+
+Tasks can be shared publicly via the sharing function, but only the content that is deemed adequate for the public.
 
 ## Static Code Analysis
 
@@ -231,7 +239,7 @@ We are not a large size organization and often dont have strict organizational b
 
 * Every new member gets a personal introduction into our security policies as part of his onboarding
 * All trainings provided should be recorded and available on request
-* All trainings should accomodate for remote participation
+* All trainings should accommodate for remote participation
 * Trainings should focus on on-demand topics and have a workshop character rather than classroom training. Team Leads can contact the security team to provide a training for specific areas.
 * We aim to provide one training half a year.
 * Topics-wise, the main subject matter areas are: Secure Development Lifecycle, Securing Cloud Services, Web Application Security, SecDevOps
