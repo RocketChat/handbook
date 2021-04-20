@@ -50,5 +50,7 @@ TODO
 
 {% embed url="https://sterlingmiller2014.wordpress.com/2019/09/25/ten-things-escaping-meeting-hell/" %}
 
+{% embed url="https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting" %}
+
 
 
