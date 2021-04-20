@@ -6,8 +6,6 @@ description: >-
 
 # Meetings
 
-[**Escaping the Meeting Hell**](https://sterlingmiller2014.wordpress.com/2019/09/25/ten-things-escaping-meeting-hell/)
-
 ## Control your calendar
 
 Reserve blocks of time to do focused work
@@ -47,4 +45,10 @@ Send out a summary of the next steps
 ### Organizing recurrent meetings
 
 TODO
+
+## References
+
+{% embed url="https://sterlingmiller2014.wordpress.com/2019/09/25/ten-things-escaping-meeting-hell/" %}
+
+
 
