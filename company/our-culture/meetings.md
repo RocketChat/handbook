@@ -26,7 +26,7 @@ Always confirm if you are attending or not
 
 Read the agenda and materials sent out in advance
 
-Join on time
+Join the meeting on time
 
 ## Host good meetings
 
@@ -44,7 +44,7 @@ Send out a summary of the next steps
 
 ### Organizing recurrent meetings
 
-TODO
+Schedule recurring meetings to the beginnig of the week
 
 ## References
 
