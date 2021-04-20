@@ -150,7 +150,9 @@ We award swag on a case by case basis. Details are in our responsible disclosure
 
 After the responsible disclosure period has ended, HackerOne will automatically release the report. Upon notification of the report release, update the CVE entry via the webform if it had been requested via the webform. Otherwise HackerOne will automatically update the CVE entry.
 
-## Pentesting \(internal\)
+## Pentesting 
+
+### Internal
 
 For pentesting, we use OWASP ZAP. OWASP ZAP is a Proxy server that allows for testing against common web application vulnerabilities. The relevant GDrive folder is [here](https://drive.google.com/drive/folders/1-3vERUvdNxrQsRM59RGoJN5bIIdT_HYh?usp=sharing).
 
@@ -172,6 +174,10 @@ We use the following process:
 * Go into Clickup and check all findings \(except informative ones\) against existing or past Clickup tasks. Search for the tag "pentest".
 * Add new tasks for new findings. Re-open closed tasks for findings that keep re-occuring even though they were closed in Clickup already. Do not open a new task for closed tasks that have a comment regarding acceptance of the vulnerability.
 * Provide an overview of the recent scan in the \#security channel in RC.
+
+### External
+
+External pentesting is performed by an independent company. Each pentest is based on a specific engagement description, which outlines the test procedures and scope of the testing. External pentesting must produce a report with identified vulnerabilities in a shareable format to customers and other stakeholders. All vulnerabilities identified in the pentest must be mitigated before the report is shared with external stakeholders.
 
 ## Server investigation
 
@@ -197,7 +203,7 @@ Tags are the most important instrument to classify tasks. A task can have multip
 
 Security tasks that are worked on currently must be added to the current sprint. Sprint tasks should be estimated with Sprint points.
 
-Tasks involving security are often added into other lists in other projects in Clickup. Other teams requesting resources of the security team can simply create a task in Clickup and assign it to one of the security members.
+Tasks involving security are often added into other lists in other projects in Clickup. Other teams requesting resources of the security team should simply create a task in Clickup and assign it to one of the security members.
 
 Tasks can be shared publicly via the sharing function, but only the content that is deemed adequate for the public.
 
