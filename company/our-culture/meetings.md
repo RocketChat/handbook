@@ -52,5 +52,7 @@ Schedule recurring meetings to the beginnig of the week
 
 {% embed url="https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting" %}
 
+{% embed url="https://unito.io/blog/running-effective-meetings-tips/" %}
+
 
 
