@@ -47,6 +47,7 @@
   * [Rocket.Chat](company/tools/rocket.chat.md)
   * [Google G Suite](company/tools/google-g-suite.md)
 * [Our Culture](company/our-culture/README.md)
+  * [Meetings](company/our-culture/meetings.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
 * [Marketing](company/marketing/README.md)
   * [Team](company/marketing/team/README.md)
