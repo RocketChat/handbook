@@ -158,5 +158,4 @@ Ex2: 6 month contract worth $10k - Bookings ARR = $10k
 
 #### Enterprise Plan:
 
-* Customers who haven't gone through the Sales Team. Exclusively SaaS \(Gold, Silver, and Bronze\).
-
+* 
