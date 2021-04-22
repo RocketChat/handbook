@@ -40,6 +40,30 @@ description: >-
 * This is the point where the lead is ready to talk to a closer
 * Responsible: Sales \(SDR\)
 
+**Confidence Level:**
+
+* Very Confident:
+* Best Case:
+* Early Stage:
+
+**Forecasting Scenarios:**
+
+* Optimistic:
+* Base:
+* Conservative:
+
+#### Lagged Contracts:
+
+* New Sale / Upsell contracts closed at t, but starting at t + 1 \(i.e. closed in April, but starts in May\)
+
+#### Contract Consumption:
+
+* How much \(%\) of the total contract has been consumed.
+
+#### Logos:
+
+* Synonym for "Company" used in the context of Logo Churn and New Logo.
+
 #### Opportunity \(Opp\):
 
 * Someone that was verified by the sales team \(closer/hunter\) that benefits from the product and passes the SLA of opportunity.
@@ -48,8 +72,8 @@ description: >-
 
 #### ACV = Annual Contract Value:
 
-* All contracts \(events and professional services included\)
-* Value of contracts on a yearly basis
+* All contracts \(Non-recurring such as Events and Professional services included\)
+* Value of contracts on a Yearly basis
 * Contracts that are &gt; 12 months will be annualized
 * Contracts that are &lt; 12 months won’t be annualized
 
@@ -61,7 +85,7 @@ description: >-
 
 #### Bookings ARR \(Annual Recurring Revenue\):
 
-* **Deprecated since Feb, 2021**
+* **Deprecated since Feb 2021**
 * Only recurring contracts \(events and professional services not included\)
 * Value of contracts on a yearly basis
 * Contracts that are &gt; 12 months will be annualized
@@ -119,4 +143,20 @@ Ex2: 6 month contract worth $10k - Bookings ARR = $10k
 
 * All stages different from Closed Won and Closed Lost for types Upsell and Renewal
 * From opportunity onwards not including Closed Won and Closed Lost for type new sale
+
+#### SaaS \(Software as a Service\):
+
+* "Software as a service is a software licensing and delivery model in which software is licensed on a **subscription basis** and is **centrally hosted**.". Check [this video](https://www.youtube.com/watch?v=4oQjPlS2gSg) for more info.
+
+#### Sales Enabled:
+
+* Customers who were acquired by the Sales Team. They could be SaaS \(Gold, Silver, and Bronze\) or Self-Managed \(Pro and Enterprise\).
+
+#### Self-Service:
+
+* Customers who haven't gone through the Sales Team. Exclusively SaaS \(Gold, Silver, and Bronze\).
+
+#### Enterprise Plan:
+
+* Customers who haven't gone through the Sales Team. Exclusively SaaS \(Gold, Silver, and Bronze\).
 
