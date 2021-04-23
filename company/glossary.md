@@ -49,9 +49,12 @@ description: >-
 
 **Forecasting Scenarios:**
 
-* Optimistic:
+* Optimistic: 
+  * Commit = 100%; Best Case = 50%; Early Stage = 10%
 * Base:
+  * Commit = 90%; Best Case = 40%; Early Stage = 0%
 * Conservative:
+  * Commit = 80%; Best Case = 35%; Early Stage = 0%
 
 #### Lagged Contracts:
 
@@ -68,7 +71,7 @@ description: >-
 #### Opportunity \(Opp\):
 
 * Someone that was verified by the sales team \(closer/hunter\) that benefits from the product and passes the SLA of opportunity.
-  * At this stage the Closer will have already talked to the client and identified an opportunity \(need, time, authority, budget\) 
+  * At this stage, the Closer will have already talked to the client and identified an opportunity \(need, time, authority, budget\) 
 * Responsible: Sales \(Closer\)
 
 #### ACV = Annual Contract Value:
