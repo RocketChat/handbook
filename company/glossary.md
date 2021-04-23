@@ -10,7 +10,7 @@ description: >-
 
 #### Prospect:
 
-* Visitor on the website or any other medium although they didn’t share any type of personal/company information nor interest \(sources\).
+* Visitors on the website or any other medium although they didn’t share any type of personal/company information nor interest \(sources\).
 * Responsible: Marketing
 
 #### Lead:
@@ -36,16 +36,16 @@ description: >-
 #### Sales Qualified Lead \(SQL\):
 
 * Someone that the SDR has already talked to and fits the target profile, has the pain identified and the timing is right.
-  * At this stage the SDR will have already talked to the client and identified a potential opportunity \(need, time, authority, budget\) 
+  * At this stage, the SDR will have already talked to the client and identified a potential opportunity \(need, time, authority, budget\) 
 * This is the point where the lead is ready to talk to a closer
 * Responsible: Sales \(SDR\)
 
 **Forecasting Category \(Zoho CRM\):**
 
-* Commit: either a late stage deal OR a well-progressed deal that the rep says will close as part of their forecast for the current quarter. All deals in Verbal Approval with a closing date in current quarter must be selected as Commit
-* Best Case: upside or viable opportunities that could be accelerated to close in this quarter or are advancing with solid chances for us to eventually win. Rep has solid amount of confidence on closing but may miss a key "SPICED" element such as decision maker, timing OR any other. Two things must be certain though, that we can solve their PAIN and they see IMPACT.
-* Early Stage: uncertainty on many key elements of SPICED framework that limit ability to have any higher confidence level or inclusion in committed forecast number.
-* Omitted: For just created opportunity or super early prospecting/discovery analysis. Opportunity may only exist because the company is in our ICP. Likely only "situation" or no elements of the SPICED framework have been identified/validated.
+* Commit: either a late-stage deal OR a well-progressed deal that the rep says will close as part of their forecast for the current quarter. All deals in Verbal Approval with a closing date in the current quarter must be selected as Commit
+* Best Case: upside or viable opportunities that could be accelerated to close in this quarter or are advancing with solid chances for us to eventually win. Rep has a solid amount of confidence on closing but may miss a key "SPICED" element such as decision-maker, timing, OR any other. Two things must be certain though, that we can solve their PAIN and they see IMPACT.
+* Early Stage: uncertainty on many key elements of the SPICED framework that limit the ability to have any higher confidence level or inclusion in committed forecast number.
+* Omitted: For just created opportunity or super early prospecting/discovery analysis. Opportunities may only exist because the company is in our ICP. Likely only "situation" or no elements of the SPICED framework have been identified/validated.
 
 **Forecasting Scenarios:**
 
@@ -77,7 +77,7 @@ description: >-
 #### ACV = Annual Contract Value:
 
 * All contracts \(Non-recurring such as Events and Professional services included\)
-* Value of contracts on a Yearly basis
+* Value of contracts on a yearly basis
 * Contracts that are &gt; 12 months will be annualized
 * Contracts that are &lt; 12 months won’t be annualized
 
@@ -110,7 +110,7 @@ Ex2: 6 month contract worth $10k - Bookings ARR = $10k
 
 #### Overdue Tasks
 
-* Tasks still open with the current date being after the deadline to complete task
+* Tasks still open with the current date being after the deadline to complete the task
 
 #### Target
 
