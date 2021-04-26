@@ -21,5 +21,11 @@ Anytime you want or need any of these to improve your technical skills, feel mor
 
 There are only a few exceptions to this policy, and they are:
 
-* **Long duration and high cost courses:** Such as MBAs and Post-graduate programs. 
+* **Long duration and high cost courses:** Such as MBAs and Post-graduate programs.
+
+## Expensing
+
+The requests of courses and books will be paid through reimbursement only. You'll need to provide a receipt of the payment through the Zoho request page.
+
+Every request approved until the 15th of each month will be paid in the current payroll cycle \(request made in April 13th, will be paid in the end of April\). Requests approved after the 15th will be paid in the end of the next month.
 

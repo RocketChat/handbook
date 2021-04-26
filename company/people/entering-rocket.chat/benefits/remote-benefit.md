@@ -45,9 +45,9 @@ When converting rates to or from USD, we will use the closing rate at [https://x
 
 ### Expensing
 
-Every expense that falls into these categories will be paid through reimbursement only. You'll need to provide a receipt of the payment through [Zoho People - Compensation - Remote - Usage.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001060069/viewId:524549000001060071) The form is a work in progress and will get better as we use it.
+Every expense that falls into these categories will be paid through reimbursement only. You'll need to provide a receipt of the payment through [Zoho People - Compensation - Remote - Usage.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001060069/viewId:524549000001060071) 
 
-Every request approved by the 15th of each month will be paid in the next payroll cycle. Requests approved after the 15th will be paid the next month.
+Every request approved until the 15th of each month will be paid in the next payroll cycle \(request made in April 13th, will be paid in the end of April\). Requests approved after the 15th will be paid in the end of the next month.
 
 You may accrue the amount for one year and use it all at once or partially, which means you don't have to use the full amount of your benefit every month. After you've accumulated the amount for one year, you won't accumulate until you've used it partially or in full. 
 

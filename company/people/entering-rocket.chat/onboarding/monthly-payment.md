@@ -2,11 +2,13 @@
 
 ## Rocketeers in Brazil
 
-When you first joined you answered a form asking you if you already had a Santander account, because you will need an account in that bank to receive the monthly payment. But don't worry, **you don't have to go and create one already**!
+When you first joined you answered a forms asking you if you already had a Santander account, because you will need an account in that bank to receive the monthly payment. If you don't have one yet, you can try opening one online in [this link](https://abrasuaconta.santander.com.br/?ic=home-cardsprod-abrasuaconta). You should choose the "Conta Confia" category, for which you won't pay annuity.
 
-If you haven't received it yet, the team in charge of filling your admission will soon reach out to you and give you a letter, this is a letter that you can take to a Santander agency to open a **salary account**. \_\_This kind of account doesn't bring you additional monthly fees that other accounts do. While in the agency, you can already request for the **portability** of your account to the account and bank you use today, meaning any money that gets to your salary account immediately goes to the one you choose.
+In case you're not able to create it through this page, just let the Personnel Department know and they'll create a letter to be sent to the bank in order for you to create the **salary account.** 
 
-The payment gets to you in the last day of each month.
+After creating the account you can request for the **portability** to the account and bank you use today, meaning any money that gets to your salary account immediately goes to the one you choose.
+
+The payment gets to you in the last day of each month. And it's important to point out that we don't do advances during the month.
 
 ## Rocketeers in the US
 

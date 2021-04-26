@@ -162,4 +162,14 @@ Ex2: 6 month contract worth $10k - Bookings ARR = $10k
 
 #### Enterprise Plan:
 
-* 
+#### Community Size Index:
+
+* 30% open server
+* 30% forums
+* 20% stars
+* 20% unique users creating issues
+
+
+
+
+
