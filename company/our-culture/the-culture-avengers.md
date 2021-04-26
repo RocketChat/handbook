@@ -14,7 +14,7 @@ We'll open new spots for our Avengers team every six months \(middle and end of 
 2. Believe in and live our DOTS everyday
 3. Are willing to commit to this goal 
 
-The team has a maximum number of people in order to allow equal participation to all members, so after the application process we have an interview step with our current Avengers to select our next teammates. 
+The team has a maximum number of people \(10\) in order to allow equal participation to all members, so after the application process we have an interview step with our current Avengers to select our next teammates. 
 
 The current Avengers may choose whether they want to stay at each team opening \(every 6 months\), and they can choose to stay _once_, completing one year as an Avenger. After this time they can apply to rejoin after at least 1 term of 6 months. This allows us to rotate the team and give a chance to every Rocketeer who wants to become an Avenger.
 
