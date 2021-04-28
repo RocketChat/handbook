@@ -40,9 +40,9 @@ description: >-
 * This is the point where the lead is ready to talk to a closer
 * Responsible: Sales \(SDR\)
 
-**Forecasting Category \(Zoho CRM\):**
+**Forecasting Category \(former "Confidence Level" on Zoho CRM\):**
 
-* Commit: either a late-stage deal OR a well-progressed deal that the rep says will close as part of their forecast for the current quarter. All deals in Verbal Approval with a closing date in the current quarter must be selected as Commit
+* Commit \(former "Very Confident"\): either a late-stage deal OR a well-progressed deal that the rep says will close as part of their forecast for the current quarter. All deals in Verbal Approval with a closing date in the current quarter must be selected as Commit
 * Best Case: upside or viable opportunities that could be accelerated to close in this quarter or are advancing with solid chances for us to eventually win. Rep has a solid amount of confidence on closing but may miss a key "SPICED" element such as decision-maker, timing, OR any other. Two things must be certain though, that we can solve their PAIN and they see IMPACT.
 * Early Stage: uncertainty on many key elements of the SPICED framework that limit the ability to have any higher confidence level or inclusion in committed forecast number.
 * Omitted: For just created opportunity or super early prospecting/discovery analysis. Opportunities may only exist because the company is in our ICP. Likely only "situation" or no elements of the SPICED framework have been identified/validated.
