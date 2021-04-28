@@ -169,27 +169,31 @@ Ex2: 6 month contract worth $10k - Bookings ARR = $10k
 * 20% stars
 * 20% unique users creating issues
 
-**Revenue Weekly - SDRs**
+### **Revenue Weekly - SDRs**
 
 All the metrics below exclude Deals that went directly from Pre-Pipeline to Closed Lost.
 
-**\# of SQL Created**
+#### Sales Territory
+
+[How we get the Sales Territory](https://whimsical.com/how-we-get-the-sales-territory-TUxW3BaNBSn1jqTtEBe8Nu)
+
+#### **\# of SQL Created**
 
 Count of New Sale Deals.
 
-**\# of Opps Created**
+#### **\# of Opps Created**
 
 Count of New Sale Deals that left the Pre-Pipeline Stage.
 
-**Total Current Pipeline**
+#### **Total Current Pipeline**
 
 Sum of Current Deal Amount of New Sale Deals in all Stages EXCEPT Pre-Pipeline.
 
-**Open Current Pipeline**
+#### **Open Current Pipeline**
 
 Sum of Current Deal Amount of New Sale Deals in OPEN Stages EXCEPT Pre-Pipeline.
 
-**Amount when became Opps**
+#### **Amount when became Opps**
 
 Snapshot Sum of Deal Amount of New Sale Deals in the first stage AFTER Pre-Pipeline.
 
