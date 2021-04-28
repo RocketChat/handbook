@@ -191,7 +191,7 @@ Sum of Current Deal Amount of New Sale Deals in OPEN Stages EXCEPT Pre-Pipeline.
 
 **Amount when became Opps**
 
-Sum of Deal Amount of New Sale Deals in the first stage AFTER Pre-Pipeline.
+Snapshot Sum of Deal Amount of New Sale Deals in the first stage AFTER Pre-Pipeline.
 
 
 
