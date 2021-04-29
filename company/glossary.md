@@ -74,6 +74,10 @@ description: >-
   * At this stage, the Closer will have already talked to the client and identified an opportunity \(need, time, authority, budget\) 
 * Responsible: Sales \(Closer\)
 
+### Recurring Revenue Concepts
+
+Refer to [Whimsical](https://whimsical.com/recurring-revenue-concepts-C7ffhDEB3oUsBeCiPeNr2j) for more info regarding recurring revenue..
+
 #### ACV = Annual Contract Value:
 
 * All contracts \(Non-recurring such as Events and Professional services included\)
