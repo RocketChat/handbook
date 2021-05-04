@@ -6,6 +6,7 @@
 ## Product
 
 * [Release Cycle](product/release-cycle.md)
+* [Reporting Product Issues](product/reporting-product-issues.md)
 * [Cloud](product/cloud.md)
 * [Design](product/design/README.md)
   * [Principles](product/design/principles.md)
