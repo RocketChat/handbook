@@ -2,7 +2,7 @@
 description: Find out more about our rocketeer referral and rewards program!
 ---
 
-# Referrals
+# Referral Inbox
 
 Do you know that moment when you see that open position for working in Rocket.Chat, and you remember that friend you had that fits **perfectly** with the description? _That person could be our next Rocketeer!_ And the **Referrals** program exists so we can reward our Rocketeers who refer other amazing people to join our team! 
 
