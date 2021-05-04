@@ -59,7 +59,7 @@
   * [UTM's Best Practices](company/marketing/utms-best-practices.md)
   * [Social Media Content: How To Contribute](company/marketing/social-media-content-how-to-contribute.md)
 * [People Experience](company/people/README.md)
-  * [Joining](company/people/joining/README.md)
+  * [Joining the team](company/people/joining/README.md)
     * [Onboarding](company/people/joining/onboarding/README.md)
       * [Platforms and Systems](company/people/joining/onboarding/platforms-and-systems.md)
       * [Monthly payment](company/people/joining/onboarding/monthly-payment.md)
