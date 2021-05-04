@@ -6,7 +6,6 @@
 ## Product
 
 * [Release Cycle](product/release-cycle.md)
-* [Reporting Product Issues](product/reporting-product-issues.md)
 * [Cloud](product/cloud.md)
 * [Design](product/design/README.md)
   * [Principles](product/design/principles.md)
@@ -25,6 +24,7 @@
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
 * [Apps-Engine](product/apps-engine.md)
+* [Reporting Product Issues](product/reporting-product-issues.md)
 * [Quality Assurance](product/quality-assurance/README.md)
   * [Purpose](product/quality-assurance/purpose.md)
   * [Industry Standards](product/quality-assurance/industry-standards.md)
