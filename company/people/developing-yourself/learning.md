@@ -2,7 +2,7 @@
 description: Here are the paths you can use to improve your skills!
 ---
 
-# Learning things
+# Learning
 
 ## Italki
 

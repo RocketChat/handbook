@@ -1,4 +1,4 @@
-# Developing your career
+# Career
 
 At Rocket.Chat you are invited to think about your own path:
 

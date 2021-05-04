@@ -4,7 +4,7 @@ description: >-
   Rocketeer!
 ---
 
-# The daily life
+# Daily life
 
 In this section you'll find out more about:
 
