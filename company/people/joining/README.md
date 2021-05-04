@@ -1,4 +1,4 @@
-# Entering Rocket.Chat
+# Joining
 
 At this section you'll find all the information you need to know when you are joining Rocket.Chat: 
 
