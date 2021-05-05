@@ -80,7 +80,7 @@
     * [Learning](company/people/developing-yourself/learning.md)
     * [Book Club](company/people/developing-yourself/book-club.md)
   * [Summit](company/people/summit.md)
-  * [Referral Inbox](company/people/referrals.md)
+  * [Referral Program](company/people/referrals.md)
   * [Rocketeer Wishlist](company/people/wishlist.md)
   * [Disciplinary Actions Policy](company/people/disciplinary-actions-policy/README.md)
     * [Appendix: No retaliation policy](company/people/disciplinary-actions-policy/appendix-no-retaliation-policy.md)
