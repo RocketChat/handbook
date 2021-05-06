@@ -23,6 +23,7 @@
   * [ClickUp Guidelines](product/development/clickup-guidelines.md)
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
+  * [ClickUp Guidelines](product/development/clickup-guidelines-1.md)
 * [Apps-Engine](product/apps-engine.md)
 * [Backend](product/backend.md)
 * [Reporting Product Issues](product/reporting-product-issues.md)
