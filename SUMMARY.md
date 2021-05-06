@@ -24,6 +24,7 @@
   * [Development Guidelines](product/development/development-guidelines.md)
   * [Review Guidelines](product/development/review-guidelines.md)
 * [Apps-Engine](product/apps-engine.md)
+* [Backend](product/backend.md)
 * [Reporting Product Issues](product/reporting-product-issues.md)
 * [Quality Assurance](product/quality-assurance/README.md)
   * [Purpose](product/quality-assurance/purpose.md)
@@ -39,7 +40,10 @@
   * [Technology](product/quality-assurance/technology/README.md)
     * [Endorsed testing tools](product/quality-assurance/technology/endorsed-testing-tools.md)
 * [Technical Writing](product/technical-writing.md)
-* [Backend](product/backend.md)
+* [Community](product/community/README.md)
+  * [Head of Community](product/community/head-of-community.md)
+  * [Community Manager](product/community/community-manager.md)
+  * [Community Events Manager](product/community/community-events-manager.md)
 
 ## Company
 
