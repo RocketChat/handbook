@@ -201,6 +201,16 @@ Sum of Current Deal Amount of New Sale Deals in OPEN Stages EXCEPT Pre-Pipeline.
 
 Snapshot Sum of Deal Amount when New Sale Deals were created.
 
+### **Partners**
+
+We use the "Partner \(Lookup\)" field from the Deals module on Zoho CRM to define which partner is related to an opportunity and create the proper metrics on Zoho Analytics.
+
+We also have a "Partner \(Lookup\)" field in the Accounts module on Zoho CRM but it's only used for visual reference by the Salespeople.
+
+
+
+
+
 
 
 
