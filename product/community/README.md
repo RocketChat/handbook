@@ -6,13 +6,17 @@ description: >-
 
 # Community
 
-## Team Members: ****
+## Team Members:
 
 * Head of Community: Sing Li
 * Community Manager: John Crisp
 * Community Events Manager: Nick Vidal
 
-{% page-ref page="./" %}
+{% page-ref page="head-of-community.md" %}
+
+{% page-ref page="community-manager.md" %}
+
+{% page-ref page="community-events-manager.md" %}
 
 
 
