@@ -42,3 +42,9 @@ Even on DMs, if you need someone's attention immediately, mention them so they w
 
 In certain, limited cases, a password or other secret needs to be shared between multiple people. Never share passwords in plaintext \(such as a normal Rocket.Chat message or email\), but always use a password sharing tool like Zoho Vault, to which the other person has access to.
 
+### Don't spam
+
+Don't send the same message to multiple rooms in the hopes that everybody will read it. If you need to send a message to the whole team, send it on \#important or the Rocket.Chat Core Team group.
+
+In the same way, don't send the same request to multiple people. If you need someone from a team to do a task, then send in that team's channel, or add to that team's Clickup board.
+
