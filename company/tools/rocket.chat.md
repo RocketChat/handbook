@@ -44,7 +44,7 @@ In certain, limited cases, a password or other secret needs to be shared between
 
 ### Don't spam
 
-Don't send the same message to multiple rooms in the hopes that everybody will read it. If you need to send a message to the whole team, send it on \#important or the Rocket.Chat Core Team group.
+Don't send the same message to multiple rooms \(known as cross-posting\) in the hopes that everybody will read it. If you need to send a message to the whole team, send it on \#important or the Rocket.Chat Core Team group.
 
 In the same way, don't send the same request to multiple people. If you need someone from a team to do a task, then send in that team's channel, or add to that team's Clickup board.
 
