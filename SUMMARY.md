@@ -40,10 +40,6 @@
   * [Technology](product/quality-assurance/technology/README.md)
     * [Endorsed testing tools](product/quality-assurance/technology/endorsed-testing-tools.md)
 * [Technical Writing](product/technical-writing.md)
-* [Community](product/community/README.md)
-  * [Head of Community](product/community/head-of-community.md)
-  * [Community Manager](product/community/community-manager.md)
-  * [Community Events Manager](product/community/community-events-manager.md)
 
 ## Company
 
@@ -110,4 +106,8 @@
   * [Program Management](company/operations-team/program-management.md)
   * [Revenue Operations](company/operations-team/revenue-operations.md)
   * [Security](company/operations-team/security.md)
+* [Community](company/community/README.md)
+  * [Head of Community](company/community/head-of-community.md)
+  * [Community Manager](company/community/community-manager.md)
+  * [Community Events Manager](company/community/community-events-manager.md)
 
