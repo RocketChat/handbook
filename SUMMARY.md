@@ -76,7 +76,7 @@
     * [Vacations Policy](company/people/daily-life/vacations-policy.md)
     * [Travel Policy](company/people/daily-life/travel-policy.md)
   * [Developing yourself](company/people/developing-yourself/README.md)
-    * [Performance and Career Check-in](company/people/developing-yourself/development-check-in.md)
+    * [Performance and Career Check-in](company/people/developing-yourself/check-in.md)
     * [Learning](company/people/developing-yourself/learning.md)
     * [Book Club](company/people/developing-yourself/book-club.md)
   * [Summit](company/people/summit.md)
