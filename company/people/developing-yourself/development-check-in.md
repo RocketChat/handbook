@@ -1,24 +1,49 @@
----
-description: The Development Check-in is a new take on quarterly performance reviews.
----
+# Performance and Career Check-in
 
-# Development Check-in
+The Check-in is the most important tool and milestone for the development of our Rocketeers. It goes beyond an evaluation of performance, since it was designed to attend to three main goals:
 
-Considering how dynamic the world we live in is - specially being inside a technology start-up - talking about development and performance only yearly is almost a risk for the growth of the company and its members. This scenario needs continuous feedbacks combined with in depth reviews targeting the development of the team member. That is why the Development Check-in comes as an optimization of performance reviews that focuses on the improvement of each Rocketeer's performance.
+* Evaluating performance
+* Aligning expectations about career growth
+* Developing the career path of our Rocketeers
 
-## Works
+Our Check-in cycle is hosted at [Qulture.Rocks](https://app.qulture.rocks/) and Rocketeers can login by using their Google accounts \(the platform is configured as to only allow login from @rocket.chat emails\).   
 
-The Check-in happens every quarter and has 3 phases: 
+## The process
 
-1.  **Self-reviews, leader-team and team-leader reviews**: In this step you'll answer a forms about yourself, another about your leader and if you're a leader one for each of your team members. The questions are related to our culture, your priorities/goals for the quarter, and your performance, while focusing on feedforwards \(meaning how can I perform better from now on\).
-2. **The Check-in Talks**: After all forms are answered all leaders have a talk with each team member to discuss and compare answers, give and receive feedbacks, and based on them create a plan of objectives of personal and career development to keep track of during the quarter. 
-3. **The final round of feedbacks**: The People Experience team talks with each leader and surveys the team to gather perceptions about the process, the team development and to guide on future actions. 
+A Check-in in composed by 5 steps:
 
-The Check-in was created to be the closure of a cycle of 1:1s. The objectives for the team's development are created during the Check-in talks and during the quarter's 1:1s the leader mentors on how to achieve them, also being able to create new objectives and eliminate the ones that no longer make sense for the Rocketeer.
+* Indications stage
+* Validation stage
+* Answer period
+* Reports
+* Development Plan
 
-## Support documents
+In Qulture.Rocks' knowledge base you'll find a collection of [tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to walk you through the process.
 
-* [Tips for a great feedback](https://drive.google.com/file/d/1ueHTzDSsQXe9oBs5vDek8-x3AJ0n1kGB/view?usp=sharing)
-* [What to consider when completing my self evaluation?](https://docs.google.com/document/d/1qKf6xQAKg7C3GCxw2dlcxRgQEHIvwtMizhmo4zWDCe4/edit?usp=sharing)
-* [What to expect during the Check-in talks](https://docs.google.com/document/d/1_2OGwNdv4HjiLuOGxOHDTE7_Bmmor6VaeBFfrsHCxKM/edit?usp=sharing)
+### Indications stage
+
+The default evaluations everyone will fill are a self-review, a review of the manager and of any direct reports, but you also have the option to indicate peers to evaluate you. Leaders can also indicate if they want someone to evaluate one of their team members. 
+
+If you want participate in a peer's evaluation and give them a review just talk to them and ask them to indicate you or ask your leader to indicate you to evaluate them. 
+
+### Validation stage
+
+At this stage people indicated can choose to reject an indication and leaders validate their teams' indications. In the end of the validation stage all indications left will be automatically validated. 
+
+### Answer period
+
+In this stage you'll answer your self-evaluation, review your manager, any direct reports you have, and any indications you received. You’ll answer:
+
+* **Your profile or "Mini CV":** In this one we want to look into your interests and aspirations. You know that dream of yours? That random skill you have? That position you aspire? This is the place to talk about it.
+* **Check-in Survey:** This is the survey you'll answer inside the Review module. 
+
+### Reports
+
+After the reviews are submitted, a report containing the results of the review will be generated and released by the leaders. This will be an important output that you'll use, together with your Mini CV, as an input for your feedback session with your leader and creation of your Development Plan.  
+
+### Development Plan
+
+After the answer period, comes the time for you and your leader to get together for the feedback session. You'll go over the report, understand the difference in perspective of the responses you received and the possible reason for that, read your Mini CV and talk about your aspirations, and all that will point to the _development areas_ you should focus on for the next semester. 
+
+These areas and actions planned should also be recorded on Qulture.Rocks' IDP module so you can keep track of them during your 1:1s.
 
