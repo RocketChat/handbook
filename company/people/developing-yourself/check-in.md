@@ -24,7 +24,7 @@ In Qulture.Rocks' knowledge base you'll find a collection of [tutorials](https:/
 
 The default evaluations everyone will fill are a self-review, a review of the manager and of any direct reports, but you also have the option to indicate peers to evaluate you. Leaders can also indicate if they want someone to evaluate one of their team members. 
 
-If you want participate in a peer's evaluation and give them a review just talk to them and ask them to indicate you or ask your leader to indicate you to evaluate them. 
+If you want to participate in a peer's evaluation and give them a review just talk to them and ask them to indicate you or ask your leader to indicate you to evaluate them. 
 
 ### Validation stage
 
