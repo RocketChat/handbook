@@ -102,6 +102,7 @@
     * [Reference](company/support/old-docs-guides/reference.md)
 * [Operations](company/operations-team/README.md)
   * [Data & Analytics](company/operations-team/data-and-analytics/README.md)
+    * [Data as a Cross-Functional Team](company/operations-team/data-and-analytics/data-as-a-cross-functional-team.md)
     * [Zoho Analytics](company/operations-team/data-and-analytics/zoho-analytics.md)
   * [Finance](company/operations-team/finance.md)
   * [Program Management](company/operations-team/program-management.md)
