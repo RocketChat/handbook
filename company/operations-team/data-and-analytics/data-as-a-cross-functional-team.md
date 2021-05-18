@@ -39,16 +39,20 @@ Point of Contact: [Alan Wright](https://open.rocket.chat/direct/alan.wright).
 
 ### Product
 
-There are two main ways the Data Team works together with Corporate Management.
+We usually deliver ad-hoc requests from the Product Team. Most of the time, the data comes from our MongoDB database, containing info about usage data, feature adoption, engagement metrics, etc. The Team Collaboration and Omnichannel product managers, Renato Becker and Milton Rucks, fill in a data request template, and then we deliver data products on Zoho Analytics.
 
-* Data provided extensive support to the visualization and tracking of OKRs framework in 2021 via ClickUp\).
-* Most importantly, we are the main players regarding company updates to investors \(both monthly and quarterly reports\).
+Examples of ad-hoc requests:
 
-Point of Contact: [Alan Wright](https://open.rocket.chat/direct/alan.wright).
+* Omnichannel feature usage by country, company size, and industry, Omnichannel adoption ratio, the average number of omnichannel agents per month, etc. Most of the analysis is done in the [Omnichannel dashboard](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008386702). 
+* Team Collaboration: servers by language \(used to define which languages we were going to officially support\), engagement metrics such as [MAU/DAU/WAU](https://app.clickup.com/t/391xh1), 
+
+Points of Contact: [Renato Becker](https://open.rocket.chat/direct/renato.becker) and [Milton Rucks](https://open.rocket.chat/direct/milton.rucks).
 
 ### Community
 
-The Data Team developed a Composite Index to measure Community Size growth together with Community and Cloud Teams.
+Even though we started working with Community recently, we are a key team in measuring community health and growth. At the beginning of 2021, the Data Team developed a [Composite Index](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008851051) to measure Community Size growth. This index is composed by:
+
+Overall, we help 
 
 Point of Contact: [Sing Li](https://open.rocket.chat/direct/sing.li).
 

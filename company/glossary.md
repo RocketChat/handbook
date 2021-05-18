@@ -164,14 +164,14 @@ Ex2: 6 month contract worth $10k - Bookings ARR = $10k
 
 * Customers who haven't gone through the Sales Team. Exclusively SaaS \(Gold, Silver, and Bronze\).
 
-#### Enterprise Plan:
+#### Community Size Composite Index:
 
-#### Community Size Index:
+This index was created so we can better measure our[ Community Size growth](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008139582). Find below its components and weights.
 
-* 30% open server
-* 30% forums
-* 20% stars
-* 20% unique users creating issues
+* 30% Users on [Open Server](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008842627)
+* 30% Users on [forums.rocket.chat](https://forums.rocket.chat/)
+* 20% [Stargazers on GitHub](https://analytics.zoho.com/workspace/2019720000004639019/view/2019720000004639804)
+* 20% Unique Users Creating [Issues on GitHub](https://analytics.zoho.com/workspace/2019720000004639019/view/2019720000005682436)
 
 ### **Revenue Weekly - SDRs**
 
