@@ -21,7 +21,9 @@ If you just started at Rocket.Chat or you want to know more about how to access 
 
 ### How we work
 
-If you just started at Rocket.Chat or you want to know more about how to access data and reports, please check the [Data & Analytics onboarding](https://docs.google.com/document/d/1jCzboMPQ-4pAZZ4zPKBn5yRbw1IkIVRwVbwahEMQExQ/) document.
+The Data & Analytics team is one of the main Cross-Functional Teams at Rocket.Chat, working closely together with several other teams and departments. Find more info about how we interact with these other departments [here](https://handbook.rocket.chat/company/operations-team/data-and-analytics/data-as-a-cross-functional-team). 
+
+
 
 ### \*\*\*\*
 
