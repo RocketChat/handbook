@@ -39,7 +39,18 @@ Point of Contact: [Alan Wright](https://open.rocket.chat/direct/alan.wright).
 
 ### Product
 
+There are two main ways the Data Team works together with Corporate Management.
+
+* Data provided extensive support to the visualization and tracking of OKRs framework in 2021 via ClickUp\).
+* Most importantly, we are the main players regarding company updates to investors \(both monthly and quarterly reports\).
+
+Point of Contact: [Alan Wright](https://open.rocket.chat/direct/alan.wright).
+
 ### Community
+
+The Data Team developed a Composite Index to measure Community Size growth together with Community and Cloud Teams.
+
+Point of Contact: [Sing Li](https://open.rocket.chat/direct/sing.li).
 
 
 
