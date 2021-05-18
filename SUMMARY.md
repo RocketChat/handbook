@@ -103,7 +103,7 @@
 * [Operations](company/operations-team/README.md)
   * [Data & Analytics](company/operations-team/data-and-analytics/README.md)
     * [Zoho Analytics](company/operations-team/data-and-analytics/zoho-analytics.md)
-    * [D&A Folder on ClickUp](company/operations-team/data-and-analytics/d-and-a-folder-on-clickup.md)
+    * [Using ClickUp](company/operations-team/data-and-analytics/d-and-a-folder-on-clickup.md)
     * [Data as a Cross-Functional Team](company/operations-team/data-and-analytics/data-as-a-cross-functional-team.md)
   * [Finance](company/operations-team/finance.md)
   * [Program Management](company/operations-team/program-management.md)

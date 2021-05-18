@@ -1,4 +1,4 @@
-# D&A Folder on ClickUp
+# Using ClickUp
 
 ## C**lickUp**
 
