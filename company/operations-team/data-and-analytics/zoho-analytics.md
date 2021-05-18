@@ -16,11 +16,11 @@ There are several workspaces in our Zoho Analytics organization, but not all of 
 
 If you are not sure if the data should be available to the whole company or to just specific groups, please check [this link](https://docs.google.com/document/d/1h3gkwxH7cSGEFeb_vl8fYD0fGZiyjwycBCq11d52NLE/edit#bookmark=id.ax2qcx7irewf). If you are still not sure to whom the data can be shared, contact the workspace owner \(available in the link\).
 
-**IMPORTANT:** DO NOT concede individual access to any report. Dashboards and charts should always be shared to groups of people.
+**IMPORTANT:** DO NOT concede individual access to any report. Dashboards and charts should always be shared with groups of people.
 
 ### 2. Workspace Admins
 
-We are still building a process to manage workspace admins, so in the meantime we are limiting the number of admins per workspace. 
+We are still building a process to manage workspace admins, so in the meantime, we are limiting the number of admins per workspace. 
 
 ### 3. Dashboard Ownership \(WIP\)
 
