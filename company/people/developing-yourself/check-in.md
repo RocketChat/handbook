@@ -18,7 +18,7 @@ A Check-in in composed by 5 steps:
 * Reports
 * Development Plan
 
-In Qulture.Rocks' knowledge base you'll find a collection of [tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to walk you through the process.
+To walk you through the step by step of each of them, here is the [recorded training](https://drive.google.com/file/d/1Sy0cT_QVaSLExl-IOBQFCbfR-zNOz1lz/view?usp=sharing) and the [introduction material](https://docs.google.com/presentation/d/1edbLeP28it4bCZkkao5CB4PM0NbbXsEUQGzMAmVMChU/edit?usp=sharing). In Qulture.Rocks' knowledge base you'll also find a collection of [tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
 
 ### Indications stage
 
@@ -46,4 +46,13 @@ After the reviews are submitted, a report containing the results of the review w
 After the answer period, comes the time for you and your leader to get together for the feedback session. You'll go over the report, understand the difference in perspective of the responses you received and the possible reason for that, read your Mini CV and talk about your aspirations, and all that will point to the _development areas_ you should focus on for the next semester. 
 
 These areas and actions planned should also be recorded on Qulture.Rocks' IDP module so you can keep track of them during your 1:1s.
+
+## Some useful links
+
+Here are some interesting materials that will also help you during this process:
+
+* [How to give constructive feedback](https://help.qulture.rocks/en/articles/94918-how-to-give-constructive-feedback)
+* [How not to react to a feedback you received](https://help.qulture.rocks/en/articles/930279-how-to-not-react-to-a-feedback-you-ve-received)
+* [Receiving feedback effectively](https://help.qulture.rocks/en/articles/450172-receiving-feedback-effectively)  
+* [How to prep for evaluating your direct reports](https://help.qulture.rocks/en/articles/1603440-how-to-prep-for-evaluating-a-direct-report)
 
