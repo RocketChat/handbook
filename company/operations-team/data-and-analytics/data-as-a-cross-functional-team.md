@@ -58,7 +58,7 @@ Points of Contact: [Renato Becker](https://open.rocket.chat/direct/renato.becker
 
 ### Community
 
-Even though we started working with Community recently, we are a key team in measuring community health and growth. At the beginning of 2021, the Data Team developed a [Composite Index](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008851051) to measure Community Size growth. Find more info about it [here](https://handbook.rocket.chat/company/glossary#community-size-composite-index).
+Even though we started working with Community recently, we are a key team in measuring community health and growth. At the beginning of 2021, the Data Team developed a [Composite Index](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008851051) to measure Community Size growth. Find more info about it [here](https://handbook.rocket.chat/company/glossary#community-size-composite-index), and check [this presentation](https://docs.google.com/presentation/d/1Q4HuCKfgOS7Xglbf_-1N0kbmO3yldaHRYxhPK1OHuQE/edit#slide=id.gdb76277bfc_1_0) for a tutorial on how to update it.
 
 Overall, we continuously review the metrics tracked and come up with new ones, especially related to Push Notifications and Community Engagement \(both on Open Server and on GitHub\).
 
@@ -68,7 +68,7 @@ Point of Contact: [Sing Li](https://open.rocket.chat/direct/sing.li).
 
 The People Experience department uses Zoho People to manage employees and HR-related matters. That system is natively connected to Zoho Analytics and, because of that, many dashboards and reports were automatically created. At the beginning of 2021, we performed a major rework of all dashboards and charts to make sure the right business logic was being used.
 
-Nowadays, our main job is to maintain the dashboards that currently exist, create new visualizations and do minor adjustments in the existing charts.
+Nowadays, our main job is to maintain the dashboards that currently exist, create new visualizations, and do minor adjustments to the existing charts.
 
 Point of Contact: [Laura Coutinho](https://open.rocket.chat/direct/laura.coutinho).
 
