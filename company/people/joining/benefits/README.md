@@ -8,12 +8,12 @@ Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable,
 
 **All** Rocketeers receive the following benefits since day 1:
 
-* [Unlimited PTO](https://handbook.rocket.chat/operations/people/the-daily-life/paid-time-off-policy) 
-* [Company laptop and headphone](https://handbook.rocket.chat/operations/people/entering-rocket.chat/onboarding/laptop-ordering)
-* [Remote benefit](https://handbook.rocket.chat/operations/people/entering-rocket.chat/benefits/remote-benefit) 
-* [Italki](https://handbook.rocket.chat/operations/people/developing-yourself/taking-courses) 
-* [Courses and books](https://handbook.rocket.chat/operations/people/developing-yourself/taking-courses)
-* [Stock options](https://handbook.rocket.chat/operations/people/entering-rocket.chat/benefits/stock-options)
+* [Unlimited PTO](https://handbook.rocket.chat/company/people/the-daily-life/paid-time-off-policy) 
+* [Company laptop and headphone](https://handbook.rocket.chat/company/people/joining/onboarding/laptop-ordering)
+* [Remote benefit](https://handbook.rocket.chat/company/people/entering-rocket.chat/benefits/remote-benefit) 
+* [Italki](https://handbook.rocket.chat/company/people/developing-yourself/learning) 
+* [Courses and books](https://handbook.rocket.chat/company/people/developing-yourself/learning)
+* [Stock options](https://handbook.rocket.chat/company/people/entering-rocket.chat/benefits/stock-options)
 
 We are constantly looking for new possibilities, and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedbacks can be directed to the People Experience team, who will glad to receive them!
 
