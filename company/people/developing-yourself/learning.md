@@ -17,7 +17,7 @@ We have a few options in this case:
 * **For simple courses and/or technical books with low cost:** Rocket.Chat pays for the full price of this segment. 
 * **For more complex courses and/or books with a higher cost:** In this case we use the 70/30 rule, in which the company pays for the 70% of the price and the Rocketeer 30%.
 
-Anytime you want or need any of these to improve your technical skills, feel more than free to reach out to the People team so we can evaluate your request and give you an answer about which segment your course fits into. When approved, you can buy the course and send the request for reimbursement in [this Zoho page](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003).
+Anytime you want or need any of these to improve your technical skills, feel more than free to reach out to the People team so we can evaluate your request and give you an answer about which segment your course fits into. When approved, you can buy the course and send the request for reimbursement in [this Zoho page](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003). Always register 100% of the course amount and add the quote/receipt file as attachment. 
 
 One **very important** note is that we're only allowed to pay up to 1650 BRL in this policy. This amount comes from a Brazilian law that states that we can invest in our employee's educations up to 1.5x the minimum wage of Brazil \(R$1,100\). We will convert this amount to USD or other currencies upon request.
 
