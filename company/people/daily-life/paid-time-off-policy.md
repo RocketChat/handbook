@@ -1,62 +1,80 @@
-# Paid Time Off Policy
+# Guide to PTO
 
-Rocket.Chat encourages everyone to take some paid time off \(PTO\) off whenever you need it, be it for visiting exotic places or just taking some time for yourself. This is important for maintaining a healthy work/life balance.
+Rocket.Chat highly encourages everyone to take some Paid Time Off \(PTO\) whenever you need it, be it for visiting somewhere new or just taking some time for yourself. Knowing when to rest, stop, and take some time away for yourself or to spend with your loved ones, is an essential part of maintaining a healthy work/life balance.
 
-## PTO Guide
+## What are the possible reasons to take a PTO?
 
-1. You may take as many days off as you want, but remember: From 0 to 4 days it counts as Casual PTO, from 5 days on it counts as Vacations.
-2. We suggest between 10 and 30 days of Vacation per year, you can distribute it through the year however you prefer. Please check out [this page](https://handbook.rocket.chat/company/people/daily-life/vacations-policy) to better understand the Vacation rules for Rocketeers in each country!
-3. We care about your results, not for how long you work. Your time off shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity. We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.
-4. We don't frown on people taking time off, but rather encourage people to take care of themselves and others by having some time away. If you notice that your co-worker is working long hours over a sustained period, you may want to let them know about the time off policy.
-5. Emergencies, by definition are unexpected. They can range from natural disasters, accidents, family deaths, hospitalization and any other unexpected situation. During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible. If an unexpected emergency occurs please contact your manager by any means possible, and as soon as possible, if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence. 
-6. When you decide which days you want to take off, please request them in [Zoho](https://people.zoho.com/rocketchat/zp#leavetracker/applyleave) so that everyone knows you will be away during that period.
-7. You are free to take some time off to go to the gym, go grocery shopping, take a nap, do household chores, help someone, etc. If something comes up or takes longer than expected, you have urgent tasks and you're able to communicate, just ensure the rest of the team knows and someone can pick up any of your urgent tasks.
-8. Being part of a global onsite/remote team means you need to be highly organized and a considerate team player. Each team has busy times so it is always a good idea to check with them to ensure there is adequate coverage in place.
-9. Don't forget to always check with your line manager and/or project manager before requesting time off. This is to ensure no deadlines are being overseen and to provide them with enough time to accommodate resources. The following question will help determine if you may take time off: "During that time, will someone be able to take over your duties? Does this someone need training?"
-10. After the PTO has been approved, update your own calendar using Google's "out of office" feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
+There are many of them! You can read PTO as "time for yourself" so: 
 
-## Workflow for Requesting Time Off
+* Taking a trip
+* Celebrating family and friends' birthdays
+* Personal reasons you don't want to disclose
+* Mental health moments
+* Doctor appointments
+* Off-time to take care of yourself 
+* Sleeping after a tiring night \(like after an important release\)
+* Chasing hobbies \(play piano, learn a language, painting, cooking something\)
+* Taking your pet to the vet 
+* Camping
+* Maintenance on your computer/internet/something broke down and you need to fix it
+* Movie day with family/friends
+* RPG day with friends
+* Taking a long walk, enjoying nature
+* Going to the mall/park 
+* Doing exercises
+* Your birthday \(This gives you an automatic PTO for you to celebrate with your loved ones!\)
 
-Access your [Zoho People Dashboard](https://people.zoho.com/rocketchat/zp#home/dashboard) and click on Apply Leave \(top-right\):
+We can’t always plan on our PTOs \(if for instance there was an accident\), but it’s always good to plan ahead if possible! 
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+If you need to deal with something personal tomorrow, but you know that that will be time consuming, exhausting, and you will need a lot of effort to fulfill that task, you could already ask for a PTO. Also, end of quarters are usually stressful with new releases and closing of quarter for the sales team for example. So, why not take some days off afterwards? Having that defined it's time for the next steps.
 
-Choose the Leave type \(see below\) from the available options:
+## Then what do I need to do if I want to take a PTO?
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+**First,** think about why you're taking the PTO. Is it going to take half a day? Is it a trip somewhere and it will probably be 4 days long \(the maximum for PTO\)? Make sure you have that cleared on your mind and do step 1:
 
-Some types will offer you an option to choose between days or hours you're taking off. After selecting the type, you'll need to enter the Dates for your application and the Reason for leave.
+**1- Tell your leader about it**.
 
-![](../../../.gitbook/assets/image.png)
+Something about 5 days before the PTO date would be excellent for longer periods of PTO - such as 4 days -, to have time to plan who will take care of your possible tasks during the time off. But, for smaller periods of PTO, two days or one day before would be sufficient. **Then,** it's time for step 2, which you may already imagine:
 
-The reason is a courtesy of yours to help your manager tell others why you are in PTO.
+**2- Ask for it on Zoho People.**
 
-Remember that balances are a **suggestion** by the company. You are allowed to use more or less than your balance during the year. **Balances reset on your joining date.** You can check how your leave request affects your balance by looking at the right side of your request page:
+This [video tutorial](https://drive.google.com/file/d/1A-NlqvWOyU95UtL7QF0LQ2gzAxG_IQdE/view?usp=sharing) will show you how to request it. The only exception here is your birthday, for which you don't have to ask for the PTO on Zoho, since all Rocketeer birthdays are considered automatic PTOs. **After that** comes the final and really important step:
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+**3- Plan ahead!**
 
-Finish your request by clicking on the blue Submit button, in the page footer. Your manager gets an e-mail to approve your request. If he/she doesn't approve in a couple of days, don't hesitate to contact them directly.
+What are the tasks or people that might depend on you during that time? Can you leave the necessary emails already scheduled? Or leave a peer accountable for that while you're gone? Think about these **very important** details, this way you'll be able to leave without feeling the pressure of having to check-in every other hour.
 
-## Types of Time Off
+## But what do I do if I need an emergency PTO I didn't see coming? 
 
-1. **Doctor's Appointment**: usually a few hours on any given day
-2. **Event**: when you're attending an event, whether sponsored by Rocket.Chat or not
-3. **Half-day**: for when you know you'll be available / unavailable for just a few hours
-4. **Sick / Doctor's Order**: whenever you're sick or following doctor's orders
-5. **Maternity**: duh, paternity as well :\)
-6. **Casual**: whenever you feel you need some time-off, up to 4 days in a row; for more than 4 days, use **vacation** type**.**
-7. **Vacation**: for periods longer than 5 days in a row and not in any other category above.
+It's okay! If an unexpected emergency occurs please contact your manager by any means possible and as soon as possible if you will be unavailable or unable to work. This will allow your manager to confirm your safety and reassign any critical work during your absence.
 
-## Recognizing Burnout
+If this situation will probably last for more than just one day, request the following days off on Zoho People like the usual. If you're also unable to do that, just ask someone from the People team and they'll include that PTO on the system for you.
 
-It is important for us to take a step back in order to recognize and acknowledge the feelings of being "burned out". We are not as effective or efficient when we work long hours, miss meals or forego nurturing our personal lives for sustained periods of time. If you feel yourself or notice someone on your team experiencing burnout, be sure to address it right away. To get ahead of a problem, be sure to communicate with the COO and/or CEO if the following statement ever applies to you, "I'm feeling like I might burn out if the situation doesn't change."
+## Are there any other hacks and tips I can use when taking a PTO? 
 
-If you or your peers are showing signs of burnout, you should take time out to focus on things that relax you and improve your overall health and welfare. We as a team should address burnout right away by discussing options with each other to evaluate the workload and manage contributing stressors.
+YES, THERE ARE! Here are some alternatives you can use to let people know you're off and that will help you leave on your PTO peacefully and with no worries.
 
-Other tips to avoid burnout include:
+1. **The `/out-of-office` Rocket.Chat app**: You'll also hear about this one in the [Holidays and Vacations](https://handbook.rocket.chat/company/people/daily-life/holidays-and-vacations) page, but whenever you're off you can activate this app that creates an automatic message on your dm chat to let your coworkers know about it if they try to message you.  You can activate it by sending this in any chat on open: `/out-of-office out <automatic message you'll leave>` And when you come back just write:  `/out-of-office in`.
+2. **Google Calendar out of office**: After the PTO has been approved, update your own calendar using Google's "out of office" feature and include the dates you plan to be away in your automated response. Note that this feature will automatically decline any meeting invitations during the time frame you select.
+3. **Turn off push notifications**: For some of us push notifications and rest don't really go will together because it's natural that when we see a message we'll want to help and that will cause us to worry during our time off. If you want to respond during your PTO it's okay, that is your choice! But if you want to fully have those days for yourself you can feel free to turn off the app notifications on your phone.    
 
-* Assess and pursue your interests, skills and passions
-* Take breaks during the day to eat healthy foods
-* Make time each day to increase blood and oxygen circulation which improves brain activity and functionality
-* Get plenty of restful sleep
+## What to do and what not to do regarding PTO?
+
+* What to do
+
+1. At Rocket.Chat, we strongly encourage taking PTOs. Making sure you are not overloaded, taking enough time to rest and taking care of yourself is an important part of having a healthy relationship with your work and achieving a work-life balance. So the first “to do” is feeling free to take PTOs! 
+2. A good way to show the wonderful aspects of PTO is to share! So use our \#good-vibes channel to share what made you feel happy and well during your PTO! Went camping? Show us some pictures of nature, trees, a fire crackling! Just took half a day off to cook bread and watch soap operas? We would love to see freshly cooked bread and some soap opera recommendations!
+
+* What not to do
+
+It’s known that PTOs are a tool to help us on our work-life balance and mental health, right? So the main “not to do” here is: don’t bring up negative comments about peers and colleagues taking PTO, since that doesn’t really represent our beliefs and culture of trusting each other. We all have our own pace and personal situations, so we should always treat each other with respect and empathy. 
+
+## As a leader, what can I do to help my team with this?
+
+You do play an important part in helping your team both take more PTOs and enjoy them fully! So here are some tips for you:
+
+1. Avoid sending that person messages as much as possible! Before reaching out to that person think if anyone else could have that answer or find it for you? Can anyone else deal with that problem for now?
+2. If the person doesn't want to tell you much about the reason why they need a PTO don't pressure them. We have personal situations and sometimes we don't feel too comfortable talking about it, so this is a time where you'll need to be very understanding and empathetic!    
+
+_An optional extra:_ Take initiative and block that person's calendar on their birthday beforehand! This will help the person know that you're "okay" with them having that time for themselves to celebrate with their family.
 
