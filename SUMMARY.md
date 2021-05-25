@@ -71,7 +71,7 @@
       * [Remote Benefit](company/people/joining/benefits/remote-benefit.md)
   * [Daily life](company/people/daily-life/README.md)
     * [1:1s](company/people/daily-life/1-1s.md)
-    * [Guide to PTO](company/people/daily-life/paid-time-off-policy.md)
+    * [Guide to PTO](company/people/daily-life/pto-guide.md)
     * [Holidays and Vacations](company/people/daily-life/holidays-and-vacations.md)
     * [Vacations Policy](company/people/daily-life/vacations-policy.md)
     * [Travel Policy](company/people/daily-life/travel-policy.md)
