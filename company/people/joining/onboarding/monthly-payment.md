@@ -22,7 +22,7 @@ Firstly, what is Deel? - Deel reimagines payouts for businesses working with rem
 
 Why do I need to provide my passport or government issued ID? - This is a standard operating procedure and ensures we know who we're working with and remaining compliant.
 
-Are there additional fees? - Using Deel as a contractor/consultant is completely free! There may be transactional costs incurred with the payment service provider you select to withdraw your payment.
+Additional fees may occur in the case of countries where local bank transfer isn't possible.
 
 We'll send you an invitation to join Deel, when you receive it:
 
