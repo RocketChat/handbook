@@ -3,8 +3,8 @@
 ## Design Principles
 
 1. Simple — Our icons are geometric, recognizable on small screens, and have minimal form.
-2. Literal — Whenever possible use symbols that represent the most basic representation of what it stands for.
-3. Consistent — In style, detail, perspective, stroke weight, and the way it is used. Don't recreate established and standard icons.
+2. Literal — Whenever possible they use symbols that represent the most basic representation of what they stand for.
+3. Consistent — In style, detail, perspective, stroke weight, and the way they are used. Don't recreate established and standard icons.
 
 ## Creating Icons
 
@@ -20,7 +20,7 @@ Rocket.Chat icons are drawn on a pixel-based grid of 32px x 32px and scaled down
 
 ### Stroke
 
-They must be draw using 2px strokes on 32x32px canvas.
+They must be drawen using 2px strokes on 32x32px canvas.
 
 ![](../../../.gitbook/assets/stroke.png)
 
@@ -38,7 +38,7 @@ Corner radius must be 1px by default. Interior corners should be squared, not ro
 
 ### Perspective
 
-1. Always keep the icon simple and face forward.
+1. Always keep the icon simple and facing forward.
 2. Icons should have no perspective nor have a large amount of detail. 
 
 ![](../../../.gitbook/assets/perspective%20%281%29.png)
@@ -55,13 +55,13 @@ We follow this naming pattern for icons: `Glyph / iconname-typename`.
 
 ### Cross-platform adaptations
 
-Icons like Share and Back has a different icon for Android and iOS. We follow their specific guidelines to make our product more familiar and easier to learn.
+Icons like Share and Back have a different icon for Android and iOS. We follow their specific guidelines to make our product more familiar and easier to learn.
 
 ![](../../../.gitbook/assets/platform.png)
 
 ### Meaningful and Minimalist
 
-Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalim](../principles.md#minimalism). 
+Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalism](../principles.md#minimalism). 
 
 ### Labels
 
@@ -73,12 +73,12 @@ Add a label to reduce the ambiguity of the icon's purpose when the context allow
 
 Use tooltips for unlabeled icons — include a label or a short description. This reduces the cognitive load while learning the applications' concepts.
 
-A tooltip and a icon \(or a button which contains a icon\) must be 4px distance between both elements' canvas and have a centered alignment.
+A tooltip and an icon \(or a button which contains a icon\) must be 4px distance between both elements' canvas and have a centered alignment.
 
 ![](../../../.gitbook/assets/image%20%2814%29.png)
 
 {% hint style="info" %}
-Consult a designer when you have a question, suggestion or you're requesting a new icon.
+Consult a designer when you have a question, suggestion or to request a new icon.
 {% endhint %}
 
 ## Helpful articles
