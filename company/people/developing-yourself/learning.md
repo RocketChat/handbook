@@ -9,6 +9,8 @@ description: Here are the paths you can use to improve your skills!
 Train your English or learn a new language talking to native speaker teachers!   
 In the platform, the company will give you monthly $100 to spend on classes if you want to!
 
+To get access, send an email request to patricia.ferreira@rocket.chat. 
+
 ## Other courses and books
 
 Want to do a course or buy a book to develop a technical skill?   
