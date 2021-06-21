@@ -26,6 +26,7 @@
 * [Apps-Engine](product/apps-engine.md)
 * [Backend](product/backend.md)
 * [Reporting Product Issues](product/reporting-product-issues.md)
+* [ClickUp Process and Status Changes](product/clickup-process-and-status-changes.md)
 * [Quality Assurance](product/quality-assurance/README.md)
   * [Purpose](product/quality-assurance/purpose.md)
   * [Industry Standards](product/quality-assurance/industry-standards.md)
