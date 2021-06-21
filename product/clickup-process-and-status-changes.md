@@ -8,7 +8,7 @@ Below you find the flow of work starting on “To Do” and ending on “Complet
 
 Please note it's not mandatory for an item to go through all this status, but it’s expected for items to move from left to right on the flow to keep communication and alignment with sprint goals.
 
-![](https://lh3.googleusercontent.com/mD0OgQc9Kboel8yJTfdY9X7IboB3ABUbEm281MNywK0pLQ9t03PO3jmC-DVg2cpAmGy8Q1Fc88vOnNxLOl04z7uLzH_xV_-p_XojoT59vGsSCh2nzjGoowsRjhyZyLud1niVDJCy)
+![](https://whimsical.com/clickup-status-flows-2aGaisEZvt2S8GLE1sYsBg)
 
 ## Description of Status and Flows
 
