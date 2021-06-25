@@ -18,5 +18,3 @@ description: >-
 
 {% page-ref page="community-events-manager.md" %}
 
-
-

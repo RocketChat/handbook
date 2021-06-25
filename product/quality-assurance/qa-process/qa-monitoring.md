@@ -12,7 +12,5 @@ With these parameters in mind, here are a few key numbers that our team plans to
 
 The ideal way to show these metrics reports is by month, to have a significant universe of issues, tests and bugs, and have enough time to act if something is going wrong at a process level. These reports will be sent via a QA-defined newsletter to all feature teams stakeholders by the QA manager.
 
-If additional info is required, individual presentations could be arranged to discuss specific issues also with the QA manager.   
-  
-
+If additional info is required, individual presentations could be arranged to discuss specific issues also with the QA manager.
 

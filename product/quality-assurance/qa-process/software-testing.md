@@ -9,5 +9,3 @@
 | **Acceptance Testing** | It is pretty much like the smoke test, but it's usually performed as part of the hand-off process between any two phases of development. |
 | **Integration Testing** | It is performed when testers ensure that business processes across workflows do provide precise as well as expected results. |
 
-
-

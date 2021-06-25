@@ -6,7 +6,7 @@ The Rocket.Chat Apps Team is responsible for the Apps-Engine framework, which al
 
 ## Processes
 
-We're running some experiments on how to run your development processes, based on some practices from the Agile methodologies. 
+We're running some experiments on how to run your development processes, based on some practices from the Agile methodologies.
 
 Currently, we have a 2-week sprint - within which we have a **Planning**, a **Retrospective**, and **Daily** sessions.
 
@@ -31,7 +31,7 @@ We have some things that are not in Agile methodologies:
 
 New contributions will most likely start with a new git branch. We don't have strict rules for naming a branch, but here are some suggestions:
 
-* `feat/*` ****if you'll be working in new feature
+* `feat/*` _\*\*_if you'll be working in new feature
 * `fix/*` if you'll be working on a fix
 * `regression/*` if you'll be working on a regression in the current release
 * just use a custom name, without the "folder format", if it doesn't fit the suggestions above
@@ -44,12 +44,6 @@ Often we'll need to open a PR in more than one of the Org's repos when introduci
 
 Whenever you have to commit code to more than one repo, keep in mind the following guidelines:
 
-* **Start your PRs as a draft when they depend on modifications from other repos.** Example: You're changing an API in the Apps-Engine, which also requires you to change how Rocket.Chat handles it. The PR in Rocket.Chat needs to be started as a draft and can only be ready for review **once the Apps-Engine version has been updated to the latest version containing the API change** __\(either a _patch_ or an _alpha_\).
+* **Start your PRs as a draft when they depend on modifications from other repos.** Example: You're changing an API in the Apps-Engine, which also requires you to change how Rocket.Chat handles it. The PR in Rocket.Chat needs to be started as a draft and can only be ready for review **once the Apps-Engine version has been updated to the latest version containing the API change** _\_\(either a \_patch_ or an _alpha_\).
 * **Make sure the PRs reference each other in their descriptions.** Reviewers will need the full context of your contribution to properly review them, so they need to know the PRs in the other repos.
-
-#### 
-
-
-
-
 

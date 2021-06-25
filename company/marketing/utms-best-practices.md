@@ -88,15 +88,15 @@ Post on LinkedIn:
 
 _`utm_source=linkedin&utm_medium=organic&utm_campaign=social`_
 
-LinkedIn Ad: 
+LinkedIn Ad:
 
-_`utm_source=linkedin&utm_medium=ads&utm_campaign=09-09-20-webinar-smb-omnichannel`_ 
+_`utm_source=linkedin&utm_medium=ads&utm_campaign=09-09-20-webinar-smb-omnichannel`_
 
-Capterra PPC: 
+Capterra PPC:
 
 _`utm_source=capterra&utm_medium=ppc&utm_campaign=review-platforms-paid`_
 
-Newsletter: 
+Newsletter:
 
 _`utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-september`_
 

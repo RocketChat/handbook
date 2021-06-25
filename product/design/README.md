@@ -9,9 +9,5 @@ A design system is a collection of documentation on principles and best practice
 
 ### Font
 
-{% embed url="https://rsms.me/inter/" %}
-
-
-
-
+{% embed url="https://rsms.me/inter/" caption="" %}
 

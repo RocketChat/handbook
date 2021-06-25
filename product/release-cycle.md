@@ -93,5 +93,3 @@ Simply open an issue on GitHub describing the issue, the issue is usually closed
 
 {% page-ref page="development/development-guidelines.md" %}
 
-
-

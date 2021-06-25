@@ -6,7 +6,7 @@ description: How GitHub issues should be managed
 
 We have two GitHub actions using helping handling issues without a response for long periods of time. They are both using [Close Stale Issues](https://github.com/marketplace/actions/close-stale-issues) using the following configurations:
 
-### Stale issues
+## Stale issues
 
 Configuration options [here](https://github.com/RocketChat/Rocket.Chat/blob/develop/.github/workflows/stale.yml#L29-L38)
 
@@ -23,7 +23,7 @@ Configuration options [here](https://github.com/RocketChat/Rocket.Chat/blob/deve
 * Issues with the label `stat: stale` that didn't receive new comments or updates after 7 days will be automatically closed.
 * New comments after the issue is closed will not open the issue again \(not supported by the bot\). What we could do in this \(and is supported by the bot\) is to add a new comment saying what the issue owner can do, it could be something like "please test with most recent release and open a new issue if still happening".
 
-### No response issues
+## No response issues
 
 Configuration options [here](https://github.com/RocketChat/Rocket.Chat/blob/develop/.github/workflows/stale.yml#L14-L25)
 

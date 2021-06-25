@@ -10,8 +10,5 @@
 * Monitor latest community building and management trends, evaluate and adopt the best practices and tooling to increase community engagement
 * Be a Rocket.Chat brand ambassador
 
-####   ****
-
-  
-
+## _\*\*_
 

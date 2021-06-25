@@ -207,11 +207,3 @@ We use the "Partner \(Lookup\)" field from the Deals module on Zoho CRM to defin
 
 We also have a "Partner \(Lookup\)" field in the Accounts module on Zoho CRM but it's only used for visual reference by the Salespeople.
 
-
-
-
-
-
-
-
-

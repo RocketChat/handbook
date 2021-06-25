@@ -1,6 +1,6 @@
 # Validation Guide
 
-### Validation Guide
+## Validation Guide
 
 * Benchmark
   * How do competitors do this?

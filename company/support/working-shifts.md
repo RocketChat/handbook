@@ -10,7 +10,7 @@ description: 'IMPORTANT, THIS IS STILL A PROPOSITION, IT IS NOT THE FORMALIZED D
 
 Rocket.Chat offers 24/7 coverage for our customers. To keep the operation running smoothly, we divide our team in 5 different shifts for weekdays \(Monday to Friday\), as below:
 
-| Shift  | Time \(UTC-3\) | Time \(UTC\) | Time \(UTC+3\) |
+| Shift | Time \(UTC-3\) | Time \(UTC\) | Time \(UTC+3\) |
 | :--- | :--- | :--- | :--- |
 | A \(Europe Early Shift\) | 12 AM - 9 AM | 3 AM - 12 PM | 6 AM - 3 PM |
 | B \(Europe Mid Shift\) | 6 AM - 3 PM | 9 AM - 6 PM | 12 PM - 9 PM |
@@ -20,9 +20,9 @@ Rocket.Chat offers 24/7 coverage for our customers. To keep the operation runnin
 
 ## Weekends
 
-On weekends the support team works following the oncall regime. 
+On weekends the support team works following the oncall regime.
 
-| Shift  | Time \(UTC-3\) | Time \(UTC\) | Time \(UTC+3\) |
+| Shift | Time \(UTC-3\) | Time \(UTC\) | Time \(UTC+3\) |
 | :--- | :--- | :--- | :--- |
 | Oncall A | 12 AM - 12 PM | 3 AM - 3 PM | 6 AM - 6 PM |
 | Oncall B | 12 PM - 12 AM | 3 PM - 3 AM | 6 PM - 6 AM |

@@ -10,7 +10,7 @@ The "area" tag is related to which piece of Rocket.Chat product/services the iss
 * Marketplace 
 * Omnichannel 
 * Authentication
-*  Apps / Integrations 
+* Apps / Integrations 
 * Data Import / Export 
 * Scalability 
 * Deployment 
@@ -34,8 +34,6 @@ The "Type" tag is to describe the ticket type itself, the idea is to combine the
 * Consulting
 * Sales Related Question
 
-
-
 ## Special Tags
 
 The "special" tags are to be used on process/operational \(such as Cloud service requests\) related issues or to map known issues/question \(such as licensing or self-hosted registration\)
@@ -51,10 +49,4 @@ The "special" tags are to be used on process/operational \(such as Cloud service
 * licensing
 * push notification
 * bad user experience
-
-## 
-
-
-
-## 
 

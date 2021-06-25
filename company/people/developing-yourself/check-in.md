@@ -6,7 +6,7 @@ The Check-in is the most important tool and milestone for the development of our
 * Aligning expectations about career growth
 * Developing the career path of our Rocketeers
 
-Our Check-in cycle is hosted at [Qulture.Rocks](https://app.qulture.rocks/) and Rocketeers can login by using their Google accounts \(the platform is configured as to only allow login from @rocket.chat emails\).   
+Our Check-in cycle is hosted at [Qulture.Rocks](https://app.qulture.rocks/) and Rocketeers can login by using their Google accounts \(the platform is configured as to only allow login from @rocket.chat emails\).
 
 ## The process
 
@@ -22,13 +22,13 @@ To walk you through the step by step of each of them, here is the [recorded trai
 
 ### Indications stage
 
-The default evaluations everyone will fill are a self-review, a review of the manager and of any direct reports, but you also have the option to indicate peers to evaluate you. Leaders can also indicate if they want someone to evaluate one of their team members. 
+The default evaluations everyone will fill are a self-review, a review of the manager and of any direct reports, but you also have the option to indicate peers to evaluate you. Leaders can also indicate if they want someone to evaluate one of their team members.
 
-If you want to participate in a peer's evaluation and give them a review just talk to them and ask them to indicate you or ask your leader to indicate you to evaluate them. 
+If you want to participate in a peer's evaluation and give them a review just talk to them and ask them to indicate you or ask your leader to indicate you to evaluate them.
 
 ### Validation stage
 
-At this stage people indicated can choose to reject an indication and leaders validate their teams' indications. In the end of the validation stage all indications left will be automatically validated. 
+At this stage people indicated can choose to reject an indication and leaders validate their teams' indications. In the end of the validation stage all indications left will be automatically validated.
 
 ### Answer period
 
@@ -39,11 +39,11 @@ In this stage you'll answer your self-evaluation, review your manager, any direc
 
 ### Reports
 
-After the reviews are submitted, a report containing the results of the review will be generated and released by the leaders. This will be an important output that you'll use, together with your Mini CV, as an input for your feedback session with your leader and creation of your Development Plan.  
+After the reviews are submitted, a report containing the results of the review will be generated and released by the leaders. This will be an important output that you'll use, together with your Mini CV, as an input for your feedback session with your leader and creation of your Development Plan.
 
 ### Development Plan
 
-After the answer period, comes the time for you and your leader to get together for the feedback session. You'll go over the report, understand the difference in perspective of the responses you received and the possible reason for that, read your Mini CV and talk about your aspirations, and all that will point to the _development areas_ you should focus on for the next semester. 
+After the answer period, comes the time for you and your leader to get together for the feedback session. You'll go over the report, understand the difference in perspective of the responses you received and the possible reason for that, read your Mini CV and talk about your aspirations, and all that will point to the _development areas_ you should focus on for the next semester.
 
 These areas and actions planned should also be recorded on Qulture.Rocks' IDP module so you can keep track of them during your 1:1s.
 

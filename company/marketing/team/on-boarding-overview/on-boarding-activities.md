@@ -8,9 +8,9 @@
 4. [**Instagram**](https://instagram.com/rocket.chat)
 5. [**Youtube** ](https://www.youtube.com/channel/UCin9nv7mUjoqrRiwrzS5UVQ)
 
-### **Day  1 - People** 
+## **Day  1 - People**
 
-Our People’s Team will onboard you in our culture, structure and the following weeks. 
+Our People’s Team will onboard you in our culture, structure and the following weeks.
 
 * Who are we? Round of presentations
 * Presentation of the onboarding track
@@ -30,11 +30,11 @@ Our People’s Team will onboard you in our culture, structure and the following
 * Security steps: video intro, policies, device configuration
 * Events: Rocket.Chat Summit
 
-### **Day 2 -  Company Overview** 
+## **Day 2 -  Company Overview**
 
-Additional videos to help you to understand the company and product. 
+Additional videos to help you to understand the company and product.
 
-1\) Watch the videos about the company and our history: 
+1\) Watch the videos about the company and our history:
 
 1. [What is Rocket.Chat](https://drive.google.com/file/d/1wkYaaF0DQ7sKpzJtYs8dTxfkT4mIbMbu/view) 
 2. [\(50min\) - Gabriel Engel](https://www.youtube.com/watch?v=hXG5R15Uc-E&t=2s)
@@ -51,52 +51,52 @@ DGF - [https://www.dgf.com.br/](https://www.dgf.com.br/)
 1. Connect to our company server, [https://open.rocket.chat](https://open.rocket.chat/group/rocketchat-support-tickets)
 2. Create a user, with firstname.lastname
 
-4\) Say Hi to julia.grala and ask to be added to Work related channels in [Open](https://open.rocket.chat) 
+4\) Say Hi to julia.grala and ask to be added to Work related channels in [Open](https://open.rocket.chat)
 
 \# Important - important announcements for the whole company  
 \# Random - random topics, anything funny  
 \# proofread - ask help of native speakers for content proofread \(english, spanish, german\)  
 \# marketing-strategy - private channel for the marketing team  
-\# marketing&design - channel with the design team   
+\# marketing&design - channel with the design team  
 \# marketing-content-sharing - share social media posts with the company for them to share  
 \# rocketchat-sales - open channel of sales team with the company  
 \# rocketchat-marketing - open channel of marketing team with the company  
-\# rocketchat-website  - open channel of website with the company  
+\# rocketchat-website - open channel of website with the company  
 \# rocketchat-office - channel for office related topics, like scheduling barbecue hehhe Porto Alegre staff only  
-\# rocketchat-q-and-a - robot that brings daily questions about your mood and thoughts to be shared with the company   
+\# rocketchat-q-and-a - robot that brings daily questions about your mood and thoughts to be shared with the company  
 \# competitors - any related topic about competition
 
-5\) Make a Rocket.Chat Demo \(start a demo\), collect impressions during the two weeks trial period. [https://rocket.chat/  
-  
-](https://rocket.chat/)6\) [Video Explanation of our product  from our CEO, Gabriel Engel \(2hs\) ](https://youtu.be/OtH691rD3n4)
+5\) Make a Rocket.Chat Demo \(start a demo\), collect impressions during the two weeks trial period. \[[https://rocket.chat/](https://rocket.chat/)
 
-### Day 3 - Marketing 
+\]\([https://rocket.chat/\)6\](https://rocket.chat/%296\)\) [Video Explanation of our product from our CEO, Gabriel Engel \(2hs\) ](https://youtu.be/OtH691rD3n4)
 
-Ready for the good stuff? Today we will dive into the marketing team’s challenge.   
+## Day 3 - Marketing
+
+Ready for the good stuff? Today we will dive into the marketing team’s challenge.  
 7\) Welcome Meeting with Julia  
 8\) Listen to Marketing’s Team Weekly Meeting  
-9\) Get access to all marketing platforms   
+9\) Get access to all marketing platforms  
 10\) Attend Social Media Calendar Meeting  
-11\) Review our mentions in Capterra and G2Crowd to understand what clients think of us. Create a report with suggestions of topics to be addressed in our social media platforms.   
-12\) Schedule workshop  with Carol to learn more about her activities   
-13\) Schedule workshop  with Lucia to learn more about her activities  
-14\) Review our competition and their communication - marketing strategies. Create a report with suggestions to improve our website and social media content.  
+11\) Review our mentions in Capterra and G2Crowd to understand what clients think of us. Create a report with suggestions of topics to be addressed in our social media platforms.  
+12\) Schedule workshop with Carol to learn more about her activities  
+13\) Schedule workshop with Lucia to learn more about her activities  
+14\) Review our competition and their communication - marketing strategies. Create a report with suggestions to improve our website and social media content.
 
 * [Slack ](https://slack.com/)
 * [Mattermost ](https://mattermost.com/)
 * [Flock](https://flock.com)
 * [Zendesk](https://www.zendesk.com/)
 
-Home Work: 
+Home Work:
 
 1. [Read Blog Use Cases](https://rocket.chat/category/case-studies/)
 2. [Rocket.Chat's personas](https://drive.google.com/file/d/10ECBIcHgSfaX0FMEXmb3Chi2uqaIMUPK/view?usp=sharing)
 3. [Gartner ITXpo, Gabriel Talk about Rocket.Chat](https://www.youtube.com/watch?v=QoJpytuMhrA&t=295s)
 4. [Gartner Vendor Briefing](https://www.youtube.com/watch?v=89E3ALQ6Y7w&feature=youtu.be),Julia
 
-### **Day 4 - Sales**
+## **Day 4 - Sales**
 
-Leandro Coletti is the VP of Revenue and together with him we have a team of salespersons that are focused on increasing our revenue through private coded features and support services. One of the main goals of marketing is to generate inbound leads for the sales team, therefore we have a close relationship with them to better understand the needs of each region. Our sales team is divided by regions: North america, EMEA and APAC. 
+Leandro Coletti is the VP of Revenue and together with him we have a team of salespersons that are focused on increasing our revenue through private coded features and support services. One of the main goals of marketing is to generate inbound leads for the sales team, therefore we have a close relationship with them to better understand the needs of each region. Our sales team is divided by regions: North america, EMEA and APAC.
 
 Rocket.Chat is like wordpress, a free software that can be downloaded by any person in the world and used as they wish. Regarding our commercial offer, we have 2 main divisions:
 
@@ -119,24 +119,24 @@ Rocket.Chat is like wordpress, a free software that can be downloaded by any per
 17\) [Sales Pitch:](https://youtu.be/QoJpytuMhrA) \([Gartner](https://www.gartner.com/en) Symposium - 20min\) - Gabriel  
 18\) [Partner Program](https://docs.google.com/presentation/d/1APDkXqGIN_2PxVg3B-uVm4M-9Tq9Qkr5x43M4ousiMo/edit?usp=sharing)  
 Send questions directly to bruno.solis through Rocket.Chat to answer asynchronously.  
-19\) [Enterprise customers, Deals and Partners Worldwide  
+19\) [Enterprise customers, Deals and Partners Worldwide    
 ](https://www.google.com/maps/d/u/0/edit?mid=1EaMrI1-Fa3Wccdh13JCCJ3_EEUXG13uh&ll=39.69403918637705%2C0&z=2)20\) [Read the information in Zoho Desk/KnowledgeBase](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Solutions)
 
-### Day 5 and 6 - Product 
+## Day 5 and 6 - Product
 
 You can find our product documentation[ here,](https://rocket.chat/docs/) in case you are in doubt about features we offer or how to use them, you can easily find the documentation there. In case you don't find something, take note! We need to keep on improving it.
 
-The goal of this day and the following is to make you more comfortable with our product. If you have any questions, don’t hesitate to ask Julia. Get popcorn and get comfy, there are a lot of videos to watch.   
+The goal of this day and the following is to make you more comfortable with our product. If you have any questions, don’t hesitate to ask Julia. Get popcorn and get comfy, there are a lot of videos to watch.  
 22\) [Community explanation \(1h10min\) - Rodrigo](https://youtu.be/hOzxiRHGZKY)  
 Send questions directly to rodrigo.nascimento through Open.Rocket.Chat  
 23\) [Back-end Explanation \(1h20min\) - Rodrigo](https://youtu.be/FxojM-5EBaQ)  
 Send questions directly to rodrigo.nascimento or diego.sampaio through Open.Rocket.Chat.  
 24\) [Marketplace \(40 min\) - Douglas](https://www.youtube.com/watch?v=UsIwko-B4hI&t=908s)  
-Send questions directly to douglas.gubert through Open.Rocket.Chat   
+Send questions directly to douglas.gubert through Open.Rocket.Chat  
 25\) [Marketplace App Development \(56 min\) - Douglas](https://www.youtube.com/watch?v=PaFPeD6QG9k&t=4s)  
 Send questions directly to douglas.gubert through Open.Rocket.Chat  
 26\) Support Team \(1h\) - Rogério Sabóia  
-Together with others that are onboarding with you, schedule a presentation with rogerio.saboia about the support processes. After the presentation, send questions directly to rogerio.saboia through Rocket.Chat   
+Together with others that are onboarding with you, schedule a presentation with rogerio.saboia about the support processes. After the presentation, send questions directly to rogerio.saboia through Rocket.Chat  
 27\) [Security \(1h\) - Markus](https://youtu.be/geKotW_JsNo)  
 Send questions directly to markus.kirsch through Rocket.Chat to answer asynchronously.  
 28\) [Front End/Mobile \(25min\) - Gazzo](https://drive.google.com/file/d/1BpOT1z5JYjfRb5adRSnUu5bxYRsapzZi/view)  
@@ -147,13 +147,12 @@ Send questions directly to aaron.ogle through Rocket.Chat to answer asynchronous
 31\) [Live Chat \(30min\) - Renato](https://www.youtube.com/watch?v=-C_k1sRFV9g&t=1272s)  
 Send questions directly to renato.becker through Rocket.Chat to answer asynchronously.
 
-### **Additional Information**
+## **Additional Information**
 
 1\) [Read the information in Zoho Desk/KnowledgeBase](https://desk.rocket.chat/support/rocketchat/ShowHomePage.do#Solutions)  
 2\) [Ideas on How to make money with open source ](https://www.cio.com/article/3178621/how-to-make-money-from-open-source-software.html)
 
 There are many videos about products, features, companies and ask me anything and you can explore during the weeks as additional knowledge.  
 3\) [Culture manual](https://docs.google.com/presentation/d/1RxxZk7briP2b1NncK2IpHQYSuPQCrlWoOv7EcC0yHtE/edit?usp=sharing)  
-4\) [Watch the video of the Culture workshop](https://drive.google.com/file/d/1kI8e2hnCxfyySl7GjleWAe6ib3xOhag0/view?usp=sharing)  
-
+4\) [Watch the video of the Culture workshop](https://drive.google.com/file/d/1kI8e2hnCxfyySl7GjleWAe6ib3xOhag0/view?usp=sharing)
 

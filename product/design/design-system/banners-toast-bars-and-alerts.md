@@ -13,21 +13,21 @@ There are two notifications' levels:
 
 #### Banner
 
-![](../../../.gitbook/assets/warning%20%285%29%20%282%29.png)
+![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29.png)
 
 #### Toast Bar
 
-![](../../../.gitbook/assets/warning%20%288%29%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29.png)
 
 #### Inline Alert
 
-![](../../../.gitbook/assets/warning%20%282%29%20%282%29.png)
+![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29.png)
 
-### Components' Proprieties  
+### Components' Proprieties
 
 | Type | Interaction | System Level | User Level | Time-based | Dismissed by the User |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Banner** | Persist until dismissed by the user and may contain links so they can handle the notification | Yes | No | No | Depends on the importance  |
+| **Banner** | Persist until dismissed by the user and may contain links so they can handle the notification | Yes | No | No | Depends on the importance |
 | **Toast Bar** | Disappear automatically and can be dismissed by the user | No | Yes | Yes | Yes |
 | **Inline Alert** | Persist until its status changes, once this happens, its life-cycle starts again. It can not be dismissed by the user | Yes | Yes | No | No |
 
@@ -39,7 +39,7 @@ There are two notifications' levels:
 | Highlighted | Similar to Neutral, however they should be used when we need to bring the information to the users' attention. |
 | Success | It confirms that a task was completed as expected. |
 | Warning | It provides feedback of pending actions or about things that in the future may turn into a problem as well as an informed way to prevent it to happen. |
-| Error | It alerts a task ****was not completed as expected and also provides a way to address the issue or contact the Support Team. |
+| Error | It alerts a task _\*\*_was not completed as expected and also provides a way to address the issue or contact the Support Team. |
 
 ### Notification Importance
 
@@ -54,9 +54,9 @@ There are two notifications' levels:
 
 ## Banners
 
-Working on the System Level Notifications, they are not time-based, may contain links so users can address the notification and can or can not be dismissed by the user depending on the notification's  importance.
+Working on the System Level Notifications, they are not time-based, may contain links so users can address the notification and can or can not be dismissed by the user depending on the notification's importance.
 
-Examples: 
+Examples:
 
 * Security feature disabled;
 * New feature released;
@@ -93,7 +93,7 @@ Example:
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%282%29.png)
 
 Examples:
 
@@ -145,7 +145,7 @@ They are time-based, it means that Toast Bars should disappear after a minimum o
 
 ## Inline Alerts
 
-Working on both, System Level Notifications and User Level Notifications, they are not time-based, may contain links so users can address the notification, can not be dismissed by the user. 
+Working on both, System Level Notifications and User Level Notifications, they are not time-based, may contain links so users can address the notification, can not be dismissed by the user.
 
 It is important to highlight that, they persist until its status changes, once this happens, its life-cycle starts again, therefore they will be always displayed in its current status.
 
@@ -157,7 +157,7 @@ The Inline Alerts' goal is to help users shaping their mental modal of the curre
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%281%29.png)
+![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29.png)
 {% endtab %}
 
 {% tab title="Error" %}

@@ -20,7 +20,7 @@ In any case, we’ll follow our harassment-free workplace principles. Employees 
 
 We need a no retaliation policy for two reasons. First, when reports have a solid basis, we must consider them and take action. Retaliating against an employee who brought attention to inconsistencies or violations will harm our company’s trustworthiness and reliability. Secondly, any kind of retaliatory action, whether intentional or unintentional, may expose us to a serious legal risk.
 
-It’s important to note that this policy refers to circumstances when an employee’s report is true as well as circumstances when the report is baseless. We don’t consider the report’s validity when it comes to no retaliation principles, as required by law. 
+It’s important to note that this policy refers to circumstances when an employee’s report is true as well as circumstances when the report is baseless. We don’t consider the report’s validity when it comes to no retaliation principles, as required by law.
 
 Retaliation in the workplace may be expressed in a variety of ways. These include but are not limited to:
 

@@ -1,7 +1,5 @@
 # Community Manager
 
-
-
 * Drive a high level of increased users community engagement and growth in established areas as well as new verticals across global geographies \(via translation and recruitment of local specialists\)
 * Assist in the creation of  company-wide strategy and guidelines for community management and engagement 
 * Recruit, onboard, and coach a team of community advocates - working closely with HR department work in conjunction with community leaders to Influence the product roadmap and the development backlog

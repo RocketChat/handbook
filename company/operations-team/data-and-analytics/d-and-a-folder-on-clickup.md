@@ -2,7 +2,7 @@
 
 ## C**lickUp**
 
-_"ClickUp is a cloud-based collaboration and project management tool suitable for businesses of all sizes and industries. Features include communication and collaboration tools, task assignments and statuses, alerts and a task toolbar."_  [**Software Advice**](https://www.softwareadvice.com/project-management/clickup-profile/)\*\*\*\*
+_"ClickUp is a cloud-based collaboration and project management tool suitable for businesses of all sizes and industries. Features include communication and collaboration tools, task assignments and statuses, alerts and a task toolbar."_ [**Software Advice**](https://www.softwareadvice.com/project-management/clickup-profile/)\*\*\*\*
 
 Just like the rest of the company and the Operations department, we use ClickUp to manage projects and tasks. There are several lists in our [folder](https://app.clickup.com/4207297/v/l/5-7222044-1?pr=3167126), find a short description of each one of them below.
 

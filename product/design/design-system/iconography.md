@@ -61,7 +61,7 @@ Icons like Share and Back has a different icon for Android and iOS. We follow th
 
 ### Meaningful and Minimalist
 
-Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalim](../principles.md#minimalism). 
+Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalim](../principles.md#minimalism).
 
 ### Labels
 
@@ -86,6 +86,4 @@ Consult a designer when you have a question, suggestion or you're requesting a n
 * [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 * [Material Design System Icons](https://material.io/design/iconography/system-icons.html#grid-and-keyline-shapes)
 * [Apple System Icon Specs](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/)
-
-
 

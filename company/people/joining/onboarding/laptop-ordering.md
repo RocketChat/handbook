@@ -8,7 +8,7 @@ The following instructions for laptop and headphone ordering apply to employees 
 
 For Brazilian Rocketeers **we'll send you both** through Correios as soon as we start your admission process.
 
-When you receive the packages, you also have to complete the "After the delivery" steps described below! 
+When you receive the packages, you also have to complete the "After the delivery" steps described below!
 
 ## Rocketeers outside Brazil
 
@@ -29,13 +29,12 @@ For the **laptop** you can follow the **specifications** below:
 _Non devs: Core i5 9th or 10th generation, 8GB or 16GB RAM, 256 GB SSD  
 Devs: Core i7 9th or 10th generation, 16GB RAM, 256 SSD \(preference to dedicated video card\)_  
 If you’re in the US or Europe we usually prioritize Apple notebooks, and for any other places we prioritize Dell and Lenovo, however this is not mandatory and you can choose from other brands too.  
-But keep in mind that up to a price of $2000 you can choose from whichever brand you prefer, if the price goes over this we'll need to evaluate the quotes sent.  
-  
-For the **headphone** we usually recommend the Logitech H800 Headset, but this is also not mandatory and you can choose from the model you prefer! However, just like with the laptop, if the price goes over $150, we'll also evaluate the quotes sent.  
+But keep in mind that up to a price of $2000 you can choose from whichever brand you prefer, if the price goes over this we'll need to evaluate the quotes sent.
 
-    2. **Email patricia.ferreira@rocket.chat with the quotes** attached and informing if you will need the money in advance or pay and get reimbursed later. She will then indicate you which one to purchase and forward her approval to Accounting for final approval and dispensation. **Once approved you’ll receive a term of Agreement to Use Company Assets**.
+For the **headphone** we usually recommend the Logitech H800 Headset, but this is also not mandatory and you can choose from the model you prefer! However, just like with the laptop, if the price goes over $150, we'll also evaluate the quotes sent.
 
-    3. You can either order **as soon as you receive the approval** from Accounting \(considering you have enough credit card limit for the purchase\) or **you can wait for the advance** to reach your account. Either way, as soon as you place your order you need to **send the** **receipt to accounting@rocket.chat**.
+1. **Email patricia.ferreira@rocket.chat with the quotes** attached and informing if you will need the money in advance or pay and get reimbursed later. She will then indicate you which one to purchase and forward her approval to Accounting for final approval and dispensation. **Once approved you’ll receive a term of Agreement to Use Company Assets**.
+2. You can either order **as soon as you receive the approval** from Accounting \(considering you have enough credit card limit for the purchase\) or **you can wait for the advance** to reach your account. Either way, as soon as you place your order you need to **send the** **receipt to accounting@rocket.chat**.
 
 ## After the delivery
 
