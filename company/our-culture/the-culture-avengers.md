@@ -10,7 +10,7 @@ Being an Avenger will allow you to be an active player in Rocket.Chat's culture,
 
 We'll open new spots for our Avengers team every six months \(middle and end of the year\), if you want to join it doesn't matter what department you're in, as long as you:
 
-1. Have at least 2 months in Rocket.Chat
+1. Have at least 3 months in Rocket.Chat
 2. Believe in and live our DOTS
 3. Are willing to commit to this goal 
 
