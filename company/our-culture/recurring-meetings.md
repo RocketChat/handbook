@@ -41,7 +41,7 @@ Unless stated otherwise the host for a meeting is responsible for sharing the me
 
 In case a new member is added to a recurring meeting, the host is responsible for sharing meeting dynamics. 
 
-#### 1.3.Participante Responsibilities:
+#### 1.3.Participant Responsibilities:
 
 Participants are expected to always respond to the meeting invites with a participation status within reasonable time prior to meeting. 
 
