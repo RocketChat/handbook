@@ -116,3 +116,7 @@
   * [Community Manager](company/community/community-manager.md)
   * [Community Events Manager](company/community/community-events-manager.md)
 
+---
+
+* [Career Path](career-path.md)
+
