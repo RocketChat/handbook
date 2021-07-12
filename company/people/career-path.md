@@ -8,7 +8,7 @@ The paths consider technical and nontechnical aspects based on a “Y” career 
 
 ## Levels
 
-### ![](.gitbook/assets/0.png)
+### ![](../../.gitbook/assets/0.png)
 
 ### Strategic level
 
@@ -140,5 +140,5 @@ It Is important to reinforce that all the positions will receive a grade, and th
 
 The grades start at four and go until 16, and it doesn’t depend if the team member is a Manager or an Individual Contributor. An individual contributor can have the same grade as the Manager and consequently the same salary input. It is also must consider that the compensation has others inputs like the region and fee charges.
 
-![](.gitbook/assets/1.png)
+![](../../.gitbook/assets/1.png)
 

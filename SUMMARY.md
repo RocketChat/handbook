@@ -84,6 +84,7 @@
   * [Summit](company/people/summit.md)
   * [Rocketeer Referral](company/people/referrals.md)
   * [Our Wishlist](company/people/wishlist.md)
+  * [Career Path](company/people/career-path.md)
   * [Disciplinary Actions Policy](company/people/disciplinary-actions-policy/README.md)
     * [Appendix: No retaliation policy](company/people/disciplinary-actions-policy/appendix-no-retaliation-policy.md)
     * [Appendix: Workplace violence policy](company/people/disciplinary-actions-policy/appendix-workplace-violence-policy.md)
@@ -115,8 +116,4 @@
   * [Head of Community](company/community/head-of-community.md)
   * [Community Manager](company/community/community-manager.md)
   * [Community Events Manager](company/community/community-events-manager.md)
-
----
-
-* [Career Path](career-path.md)
 
