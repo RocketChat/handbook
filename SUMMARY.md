@@ -60,6 +60,7 @@
   * [Webinar Process](company/marketing/webinar-process.md)
   * [Product Profiles](company/marketing/pages-to-update.md)
   * [UTM's Best Practices](company/marketing/utms-best-practices.md)
+  * [Company Positioning and Messaging](company/marketing/company-positioning-and-messaging.md)
   * [Social Media Content: How To Contribute](company/marketing/social-media-content-how-to-contribute.md)
 * [People Experience](company/people/README.md)
   * [Recruitment](company/people/recruitment.md)
