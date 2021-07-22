@@ -24,6 +24,15 @@ It enables real-time conversations between colleagues, with other companies or w
 
 Everyday, tens of millions of users in over 150 countries and in organizations such as Deutsche Bahn, The US Navy and Credit Suisse trust Rocket.Chat to keep their communications completely private and secure.
 
+## **Who are the companies that value our product?**
+
+Companies that handle sensitive customer or business information
+
+1. **Companies that are in highly regulated industries**
+2. **Companies that handle sensitive customer or business information**
+
+Think industries: Government & defense, financial services / banking, healthcare...
+
 ## **Unique Differentiators**
 
 1. **SaaS or Self-hosted.** Control over the stewardship of your data. ****
@@ -34,8 +43,7 @@ Everyday, tens of millions of users in over 150 countries and in organizations s
 ### **Against Open Source Competitors:**
 
 1. **Truly Open Source.** Only player offering MIT license. ****
-2. **Every conversation. Every channel.**
-3. Talk to customers, partners, vendors, website visitors or customers, regardless of the channel they choose to connect with you.
+2. **Every conversation. Every channel.** Talk to customers, partners, vendors, website visitors or customers, regardless of the channel they choose to connect with you.
 
 ### **Against Slack & MS Teams:**
 
