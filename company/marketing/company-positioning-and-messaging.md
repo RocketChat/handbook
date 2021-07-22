@@ -4,12 +4,15 @@ description: Find below Rocket.Chat’s new positioning with approved boilerplat
 
 # Company Positioning and Messaging
 
-You can check the entire Positioning presentation[ here.](https://docs.google.com/presentation/d/1rpC5RiOAj1gpr8hdgi8o2HxVTWeN3YZJnKtEjq5WSKI/edit?usp=sharing)
+👉🏽Official slides with positioning & messaging [here](https://docs.google.com/presentation/d/1JtzgWp4QTT5CRdBHAfl8GRjNyhiHKYX-oz0dwNd7Q30/edit#slide=id.gdc98ffbd9f_0_142).
+
+## What is Rocket.Chat?
+
+The communications platform that puts data protection first.
 
 ### **The One-liner**
 
-Rocket.Chat brings data protection into every conversation.  
-****
+Rocket.Chat brings data protection into every conversation.
 
 ### **The One-Paragraph Elevator Pitch**
 
