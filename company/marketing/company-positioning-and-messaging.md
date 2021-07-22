@@ -4,7 +4,7 @@ description: Find below Rocket.Chat’s new positioning with approved boilerplat
 
 # Company Positioning and Messaging
 
-👉🏽Official slides with positioning & messaging [here](https://docs.google.com/presentation/d/1JtzgWp4QTT5CRdBHAfl8GRjNyhiHKYX-oz0dwNd7Q30/edit#slide=id.gdc98ffbd9f_0_142).
+👉🏽 Official slides with positioning & messaging [here](https://docs.google.com/presentation/d/1JtzgWp4QTT5CRdBHAfl8GRjNyhiHKYX-oz0dwNd7Q30/edit#slide=id.gdc98ffbd9f_0_142).
 
 ## What is Rocket.Chat?
 
