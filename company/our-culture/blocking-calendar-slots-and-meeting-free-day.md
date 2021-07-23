@@ -23,7 +23,7 @@ In case you are setting slots of time on your calendar for focused individual wo
 For meeting free Thurdays set an public out of office calendar entry for full day starting on any given Thursday.  
 PS: Please note at this point this is being used only by Engineering Squads. 
 
-You can set it to automatically decline meetings and automatic message “Auto-Declined. Thursdays are Meeting-Free Days. See handbook for more details:”
+You can set it to automatically decline meetings and automatic message “Auto-Declined. Thursdays are Meeting-Free Days. See handbook for more details: [https://handbook.rocket.chat/company/our-culture/blocking-calendar-slots-and-meeting-free-day](https://handbook.rocket.chat/company/our-culture/blocking-calendar-slots-and-meeting-free-day)”
 
 ![](../../.gitbook/assets/meeting-free-day.png)
 
