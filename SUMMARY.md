@@ -51,6 +51,7 @@
 * [Our Culture](company/our-culture/README.md)
   * [Meetings](company/our-culture/meetings.md)
   * [Recurring Meetings](company/our-culture/recurring-meetings.md)
+  * [Blocking Calendar Slots and Meeting Free Day](company/our-culture/blocking-calendar-slots-and-meeting-free-day.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
 * [Marketing](company/marketing/README.md)
   * [Team](company/marketing/team/README.md)
