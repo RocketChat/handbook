@@ -36,7 +36,7 @@ For meeting-free Thursdays set a public **Out of Office** calendar entry for a *
 Please note at this point this is being used only by **Engineering Area**.
 {% endhint %}
 
-You can set it to automatically decline meetings and the automatic message `Auto-Declined. Thursdays are Meeting-Free Days. See handbook for more details: https://go.rocket.chat/i/meeting-free-tuesdays`
+You can set it to automatically decline meetings and the automatic message `Auto-Declined. Thursdays are Meeting-Free Days. See handbook for more details: https://go.rocket.chat/i/meeting-free-thursdays`
 
 ![](../../.gitbook/assets/meeting-free-day.png)
 
