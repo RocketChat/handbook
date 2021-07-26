@@ -8,7 +8,7 @@ description: Guidelines on blocking calendar slots and setting meeting-free Thur
 
 We highly encourage you to reserve slots on your calendar and have Thursday as a meeting-free day. This is focused on reducing the context-switching of the day-to-day activities and allows you to focus on critical items.
 
-Please note we trust each Rocketers common sense on making the best use of guidelines presented here.
+Please note we trust each Rocketeers' common sense on making the best use of guidelines presented here.
 
 Having said this, the purpose of this page is to share general guidelines on these calendar slot blockers.
 
