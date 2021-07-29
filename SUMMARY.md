@@ -49,6 +49,7 @@
   * [Rocket.Chat](company/tools/rocket.chat.md)
   * [Google G Suite](company/tools/google-g-suite.md)
 * [Our Culture](company/our-culture/README.md)
+  * [Rocket.Chat AllStars](company/our-culture/rocket.chat-allstars.md)
   * [Remote Work](company/our-culture/remote-work.md)
   * [Meetings](company/our-culture/meetings.md)
   * [Recurring Meetings](company/our-culture/recurring-meetings.md)
