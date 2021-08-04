@@ -10,61 +10,6 @@
 
 ####  ****
 
-#### **Group by Teams:**
-
-| **Config Item** | **Owner** | **Responsible** |
-| :--- | :--- | :--- |
-| **Sponsorship service** |  | **Aaron Ogle** |
-| **Drone CI** |  | **Aaron Ogle** |
-| **Grafana** |  | **Aaron Ogle / Lucia Guevgeozian** |
-| **ClickUp** |  | **Marcelo Schmidt** |
-| **Prometheus** |  | **Marcelo Schmidt** |
-| **Zoho Bridge** |  | **Marcelo Schmidt** |
-| **Handbook** |  | **Sing Li** |
-| **GitBook** |  | **Sing Li** |
-| **Big Blue Button** |  | **Sing Li** |
-| **Jitsi Meet** |  | **Sing Li** |
-| **Github** |  | **Sing Li** |
-| **Apps-Engine** | **Apps-Engine** | **Douglas Gubert** |
-| **Apps-CLI** | **Apps-Engine** | **Douglas Gubert** |
-| **JS SDK** | **Chat-Engine** | **Guilherme Gazzo** |
-| **message-parser** | **Chat-Engine** | **Guilherme Gazzo** |
-| **Fuselage** | **Chat-Engine** | **Guilherme Gazzo** |
-| **UIKit** | **Chat-Engine** | **Guilherme Gazzo** |
-| **Banner Service** | **Chat-Engine** | **Diego Sampaio** |
-| **Houston** | **Chat-Engine** | **Diego Sampaio** |
-| **Rocket.Chat Core** | **Chat-Engine** |  |
-| **Desktop App** | **Chat-Engine** | **Guilherme Gazzo** |
-| **Releases Service** | **Chat-Engine** | **Diego Sampaio** |
-| **Wizard** | **Chat-Engine** | **Guilherme Gazzo** |
-| **Email Bounce** | **Cloud** | **Aaron Ogle** |
-| **Push Gateway** | **Cloud** | **Aaron Ogle** |
-| **Statistics Collector** | **Data Team** |  |
-| **Federation Hub** | **Federation Squad** |  |
-| **OVH Cloud** | **Infrastructure** | **Lucia Guevgeozian** |
-| **CircleCI** | **Infrastructure** | **Lucia Guevgeozian** |
-| **Longhorn** | **infrastructure** | **Lucia Guevgeozian** |
-| **Traefik LB** | **infrastructure** | **Lucia Guevgeozian** |
-| **Cert Manager** | **infrastructure** | **Lucia Guevgeozian** |
-| **Cloud-ops** | **infrastructure** | **Lucia Guevgeozian** |
-| **RC Docker Registry** | **infrastructure** | **Lucia Guevgeozian** |
-| **RabbitMQ** | **infrastructure** | **Lucia Guevgeozian** |
-| **SVC Mongo** | **infrastructure** | **Lucia Guevgeozian** |
-| **Workspace Mongo** | **infrastructure** | **Lucia Guevgeozian** |
-| **Marketplace** | **Marketplace** | **Vinicius Marino** |
-| **Mobile Apps** | **Mobile** | **Diego Mello** |
-| **Mobile BBB** | **Mobile/Community** | **Debdut Chakraborty** |
-|  |  |  |
-| **Livechat Widget** | **Omnichannel** | **Renato Becker** |
-| **Omni \(legacy\)** | **Omnichannel** | **Renato Becker** |
-| **Omni Gateway** | **Omnichannel** | **Aaron Ogle** |
-| **Omni Asterisk** | **Omnichannel** | **Amol Ghode** |
-| **Omni BBB** | **Omnichannel/Community** | **Amol Ghode** |
-| **Multiverse BBB** | **Pre-Sales** | **G-Su** |
-| **Multiverse Video** | **Pre-Sales** | **G-Su** |
-| **Fleetcommand** | **SaaS** | **Aaron Ogle** |
-| **Cloud Client** | **SaaS** | **Aaron Ogle** |
-
 #### **Alphabetical order:**
 
 | **Config Item** | **Owner** | **Responsible** |
