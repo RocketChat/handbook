@@ -41,7 +41,6 @@
   * [Technology](product/quality-assurance/technology/README.md)
     * [Endorsed testing tools](product/quality-assurance/technology/endorsed-testing-tools.md)
 * [Technical Writing](product/technical-writing.md)
-* [Systems responsible](product/systems-responsible.md)
 
 ## Company
 
@@ -49,6 +48,7 @@
 * [Tools](company/tools/README.md)
   * [Rocket.Chat](company/tools/rocket.chat.md)
   * [Google G Suite](company/tools/google-g-suite.md)
+  * [Systems responsible](company/tools/systems-responsible.md)
 * [Our Culture](company/our-culture/README.md)
   * [Rocket.Chat AllStars](company/our-culture/rocket.chat-allstars.md)
   * [Remote Work](company/our-culture/remote-work.md)
