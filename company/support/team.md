@@ -7,6 +7,7 @@
 * [Andres Arrieta ](https://open.rocket.chat/direct/andres.mauricio)- Support Analyst
 * [Thiago Zandona](https://open.rocket.chat/direct/HLDjxzg8cmcpYL66xZytHdN58ZXRCSgsSv) - Support Analyst
 * [Bruna Martins](https://open.rocket.chat/direct/bruna.martins) - Support Analyst
+* [Leonardo Torres](https://open.rocket.chat/direct/leonardo.torres) - Support Analyst
 
 
 
