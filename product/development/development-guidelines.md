@@ -53,6 +53,10 @@ Things not covered by `eslint`:
 
 * Import the HTML file from it's sibling JS/TS file
 
+### Best practices
+
+* Avoid "internal" `Meteor.call` - server code should not use `Meteor.call`
+
 ### Syntax check
 
 Before submitting a PR you should get no errors on `eslint`.

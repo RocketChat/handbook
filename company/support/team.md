@@ -9,5 +9,3 @@
 * [Bruna Martins](https://open.rocket.chat/direct/bruna.martins) - Support Analyst
 * [Leonardo Torres](https://open.rocket.chat/direct/leonardo.torres) - Support Analyst
 
-
-
