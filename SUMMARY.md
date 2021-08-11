@@ -114,6 +114,7 @@
     * [Zoho Analytics](company/operations-team/data-and-analytics/zoho-analytics.md)
     * [Using ClickUp](company/operations-team/data-and-analytics/d-and-a-folder-on-clickup.md)
     * [Data as a Cross-Functional Team](company/operations-team/data-and-analytics/data-as-a-cross-functional-team.md)
+  * [Internal Communication Plan](company/operations-team/internal-communication-plan.md)
   * [Program Management](company/operations-team/program-management.md)
   * [Revenue Operations](company/operations-team/revenue-operations.md)
   * [Security](company/operations-team/security.md)
