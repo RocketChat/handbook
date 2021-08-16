@@ -60,6 +60,7 @@
   * [Team](company/marketing/team/README.md)
     * [On Boarding Overview](company/marketing/team/on-boarding-overview/README.md)
       * [On- Boarding Activities](company/marketing/team/on-boarding-overview/on-boarding-activities.md)
+  * [Rocket.Chat's Logo](company/marketing/rocket.chats-logo.md)
   * [Website](company/marketing/website.md)
   * [Webinar Process](company/marketing/webinar-process.md)
   * [Product Profiles](company/marketing/pages-to-update.md)
