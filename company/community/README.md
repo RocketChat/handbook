@@ -28,7 +28,7 @@ Currently the team is structured into the following disciplines:
 
 Learn about the team that is making this happen:
 
-{% page-ref page="team.md" %}
+{% page-ref page="team/" %}
 
   
 Learn about each of the disciplines in the Community Team:
