@@ -127,7 +127,9 @@
     * [Payroll Schedule Process](company/finance/accounts-payable-policy/payroll-schedule-process.md)
     * [Policy Effectiveness and Transition Period](company/finance/accounts-payable-policy/policy-effectiveness-and-transition-period.md)
 * [Community](company/community/README.md)
-  * [Head of Community](company/community/head-of-community.md)
-  * [Community Manager](company/community/community-manager.md)
-  * [Community Events Manager](company/community/community-events-manager.md)
+  * [Team](company/community/team.md)
+  * [Community Management](company/community/community-management.md)
+  * [Developer Evangelism](company/community/developer-evangelism.md)
+  * [Training and Certification](company/community/training-and-certification.md)
+  * [Deployment and DevOps](company/community/deployment-and-devops.md)
 
