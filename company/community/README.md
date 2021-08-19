@@ -10,7 +10,9 @@ description: >-
 
 * Head of Community: Sing Li
 * Community Manager: John Crisp
-* Community Events Manager: Nick Vidal
+* Developer Evangelism Manager:  Yashovardhan Agrawal
+* Training and Certification :  Muni Narayan
+* Deployment and DevOps Specialist \(SuperTech Rocketeer\)  in-training:  Debdut Chakraborty
 
 {% page-ref page="head-of-community.md" %}
 
