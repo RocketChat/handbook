@@ -25,7 +25,7 @@ Now let's see the full [table of actions and events](https://docs.google.com/spr
 3. The **Koko 1:1** category gets you the stars if you do **at least one** random 1:1 **in a month**, and the same logic applies to the **Koko Thanks**, which works if you give or receive at least 1 thanks in the month.
 4. The **Book club categories** follow the book club rules you'll find [here in the handbook](https://handbook.rocket.chat/company/people/developing-yourself/the-book-club) too. 
 5. Both the **Check-in** and **IDP** categories will be taken directly from Qulture.Rocks reports.
-6. For **Father and Mother's days** you will need to fill a field in your Zoho People profile in order for it to be automatically collected.
+6. For **Father and Mother's days** you will need to fill a field in your Zoho People profile in order for it to be automatically collected. Note that you need to be a Mother or Father to collect these points.
 
 ## How to request my stars?
 
