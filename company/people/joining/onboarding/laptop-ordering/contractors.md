@@ -32,7 +32,7 @@ In the event of an accidental loss or serious damage to your equipment that migh
 
 Exceptions to this policy will be solely at Rocket.Chat discretion.
 
-This policy is effective for all Contractors whose work contract starts _after_ September 1, 2021. **Prior agreements before this date still remain as previously agreed.**
+**This policy is effective for all Contractors whose work contract starts** _**after**_ **September 1, 2021. Prior agreements before this date still remain as previously agreed.**
 
 ## Before beginning your work- Applicable to all Contractors hired _after_ September 1, 2021
 
