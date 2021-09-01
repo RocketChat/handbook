@@ -1,46 +1,16 @@
 ---
 description: >-
   The following instructions for ordering your laptop and headphones ordering
-  apply to all Contractors.
+  apply to all Contractors hired after September 1, 2021.
 ---
 
 # Contractors
 
-## Contractors hired _before_ September 1, 2021
-
-### Property - Applicable to all Employees and contractors hired _before_ September 1, 2021
-
-The equipment paid for by the company is property of Rocket.Chat, so you do not need to buy insurance for them unless it is company policy to do so, which at the moment it is not. However, you do need to report any loss following or damage to the Program Manager \([Marcelo Schmidt](mailto:marcelo.schmidt@rocket.chat)\) as soon as it occurs.
-
-In case you eventually leave the company, there is a “Buy Back Policy”, which will be described further.
-
-However, if you decide not to purchase the equipment, we will then have them shipped to our office and expense the shipping costs.
-
-All the information in the team-member laptops must be securely erased before they are returned. This not only protects the company, but also protects you, since it is possible that personal information exists in these machines. Reformatting a computer is not sufficient in these cases because it is possible to recover sensitive data after reinstalling an operating system.
-
-### Buy Back Policy - Applicable to all Employees and contractors hired _before_ September 1, 2021
-
-You can buy back your existing equipment, either when it gets replaced for a new one, or when you're offboarding. In these cases, you have the option to purchase it for the residual value from Rocket.Chat.
-
-The residual value is calculated using the Straight-Line Depreciation method, as described in your Agreement to Use Company Assets, that you'll receive once your purchase is approved.
-
-The People Experience team will e-mail you asking if you would like to send back or purchase your equipment. If purchasing, please contact [Débora Coy](mailto:debora.coy@rocket.chat) and we will calculate the determined value. Then, if you decide to move forward with purchasing, our Finance team will reach out with payment information.
-
-If you decide to retain the laptop, you are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by Rocket.Chat. Evidence or a declaration that the device has been wiped must be supplied within 2 weeks of the end of employment. If we discover that a device has not been wiped according to policy, we may act to enforce a remote wipe without notice.
-
-### Repairs - Applicable to all Employees and contractors hired _before_ September 1, 2021
-
-If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed, by using [this form](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:Other_Reimbursement). If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on.
-
-If, however, the repair is going to be expensive and take weeks to fix and you have no back-up laptop, your best option is to replace the laptop. In this case, return the first laptop by shipping it to our office \(your shipping costs will be reimbursed\) and remember all laptops must be returned within 2 weeks of receiving the replacement, so please prioritize transferring information between laptops within this time frame.
-
-## Contractors hired _after_ September 1, 2021
-
-### Laptop and Headphone - Applicable to all Contractors hired _after_ September 1, 2021
+## Laptop and Headphone
 
 As part of the Independent Contractor's agreement, the Company will pay a one-time subsidy for ensuring adequate equipment to provide the related hired service.
 
-The subsidy amount will be paid up to the first day of the beginning of the services in a single payment of USD 2,150, which considers the Company's estimates for the purchase of a new notebook and headphones for remote work to be used for a period of 36 months.
+The subsidy amount will be paid up to the first day of the beginning of the services in a single payment of USD 2,150.00 \(two thousand and one hundred and fifty dollars\), which considers the Company's estimates for the purchase of a new notebook and headphones for remote work to be used for a period of 36 months.
 
 The equipment \(notebook and headphones\) purchased belongs to the Contractor, who is solely responsible for its careful use and maintenance \(no repairs refund are applicable\).
 
@@ -64,13 +34,15 @@ Exceptions to this policy will be solely at Rocket.Chat discretion.
 
 This policy is effective for all Contractors whose work contract starts _after_ September 1, 2021.  Prior agreements before this date still remain as previously agreed.
 
-### Before beginning your work - Applicable to all Contractors hired _after_ September 1, 2021
+## Before beginning your work
 
 As soon as you receive your equipment, you need to follow this crucial step before starting to work:
 
 * New laptops should be configured with security in mind. So before you start working, you need to read and fill[ this security form](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf_link), that will guide you through the necessary configurations you need to do.
 
-### Termination of the Agreement - Applicable to all Contractors hired _after_ September 1, 2021
+## Termination of the Agreement
+
+### Applies to all Contractors \(hired at any date\)
 
 In the event your service agreement is terminated before a period of 36 \(thirty six\) months, either by the Contractor or the Company in any circumstances, the proportional amount lasting to complete 36 months should be refunded by the Contractor to the company, and will be discounted from the last payment of the agreement by the Company.
 

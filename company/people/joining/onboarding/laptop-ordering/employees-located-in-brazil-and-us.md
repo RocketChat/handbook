@@ -34,7 +34,7 @@ For the **laptop** you can follow the **specifications** below:
 
 If you’re in the US or Europe we usually prioritize Apple laptops, and for any other places we prioritize Dell and Lenovo, however this is not mandatory and you can choose from other brands too.
 
-But keep in mind that you can choose from whichever brand you prefer, up to a price of USD 2,000. If the price goes over this, we'll need to evaluate the quotes sent.
+But keep in mind that you can choose from whichever brand you prefer, up to a price of USD 2,000.00 \(two thousand dollars\). If the price goes over this, we'll need to evaluate the quotes sent.
 
 For the **headphones** we usually recommend the Logitech H800 Headset, but this is also not mandatory and you can choose from the model you prefer! However, just like with the laptop, if the price goes over USD 150, we'll also evaluate the quotes sent. 
 
