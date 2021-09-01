@@ -6,7 +6,7 @@ description: >-
 
 # Contractors
 
-## Laptop and Headphone
+## Laptop and Headphone - Applicable to all Contractors hired _after_ September 1, 2021
 
 As part of the Independent Contractor's agreement, the Company will pay a one-time subsidy for ensuring adequate equipment to provide the related hired service.
 
@@ -34,15 +34,13 @@ Exceptions to this policy will be solely at Rocket.Chat discretion.
 
 This policy is effective for all Contractors whose work contract starts _after_ September 1, 2021.  Prior agreements before this date still remain as previously agreed.
 
-## Before beginning your work
+## Before beginning your work- Applicable to all Contractors hired _after_ September 1, 2021
 
 As soon as you receive your equipment, you need to follow this crucial step before starting to work:
 
 * New laptops should be configured with security in mind. So before you start working, you need to read and fill[ this security form](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf_link), that will guide you through the necessary configurations you need to do.
 
-## Termination of the Agreement
-
-### Applies to all Contractors \(hired at any date\)
+## Termination of the Agreement - Applicable to all Contractors hired _after_ September 1, 2021
 
 In the event your service agreement is terminated before a period of 36 \(thirty six\) months, either by the Contractor or the Company in any circumstances, the proportional amount lasting to complete 36 months should be refunded by the Contractor to the company, and will be discounted from the last payment of the agreement by the Company.
 
