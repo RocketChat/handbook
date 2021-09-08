@@ -8,7 +8,7 @@ The paths consider technical and nontechnical aspects based on a “Y” career 
 
 ## Levels
 
-### ![](../../.gitbook/assets/0.png)
+![](../../.gitbook/assets/screen-shot-2021-09-08-at-12.27.54.png)
 
 ### Strategic level
 

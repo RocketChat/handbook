@@ -27,6 +27,10 @@ Let's start off from a base scenario where _we hit 100% of our targets_! This is
 | High-Management | 2 monthly salaries |
 | C-level/VPs | 3 monthly salaries |
 
+{% hint style="info" %}
+Check out [here](career-path.md#levels) how the engineering levels compare to the roles above.
+{% endhint %}
+
 This will be the base for you to understand the three possible scenarios:
 
 * **Scenario 1**: Achieved lower than 55% of target
