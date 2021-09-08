@@ -68,6 +68,7 @@
   * [Company Positioning and Messaging](company/marketing/company-positioning-and-messaging.md)
   * [Social Media Content: How To Contribute](company/marketing/social-media-content-how-to-contribute.md)
 * [People Experience](company/people/README.md)
+  * [Cash Bonus Policy](company/people/cash-bonus-policy.md)
   * [Recruitment](company/people/recruitment.md)
   * [Joining the team](company/people/joining/README.md)
     * [Onboarding](company/people/joining/onboarding/README.md)
