@@ -9,11 +9,11 @@ This is a company-wide policy based on our targets of Annual Contract Value \(AC
 
 ### The Metrics
 
-* Annual Contract Value \(ACV\)
+* [Annual Contract Value \(ACV\)](https://app.clickup.com/t/3506ub)
 
 Metric that shows you how much an ongoing customer contract is worth by averaging and normalizing its value over one year; The total value of all completed contracts per year.
 
-* Average Monthly Net Burn
+* [Average Monthly Net Burn](https://app.clickup.com/t/616688)
 
 Typically used to describe the rate at which a company is spending its capital to finance overhead before generating positive cash flow from operations; A company's net burn is the total amount of money a company loses each month, considering its revenue.
 
