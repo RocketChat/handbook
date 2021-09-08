@@ -86,7 +86,5 @@ For this section, our starting point will be the questions that you may have on 
 
    Both of these are strategic KPIs for the company, so you can find updates about their status both on our OKR tracking pages \(on ClickUp\) and on the quarterly company update deck shared with the whole team. We'll also slowly improve and think about other ways to make this information more accessible.  
 
-To watch the presentation of the policy during our All-Hands Weekly, click here.
-
-To join the discussion dedicated to answering questions about the policy on Rocket.Chat, click here.
+To join the discussion dedicated to answering questions about the policy on Rocket.Chat, click [here](https://go.rocket.chat/invite?host=open.rocket.chat&path=invite%2FtYXQNR).
 
