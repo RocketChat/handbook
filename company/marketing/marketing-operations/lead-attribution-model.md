@@ -73,10 +73,7 @@ Workflows to update from “New” are created in Zoho
   * Updated: Automatically with Task Completed
 * Refer to Partner: Not for direct Sales 
   * Lifecycle Stage: MQL,PQL,SQL
-  * Updated: Manually By SDR when he starts working with contact 
-* Customer: Deal closed
-  * Lifecycle Stage: Client
-  * Updated: Automatically with Deal won 
+  * Updated: Manually By SDR when he starts working with contact  
 * Disqualified 
   * Lifecycle Stage: MQL,PQL, SQL, Opp
   * Updated: Manually by SDR or Closer or Automatically by Deal Cancelled/Lost
