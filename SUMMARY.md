@@ -57,6 +57,8 @@
   * [Blocking Calendar Slots and Meeting Free Day](company/our-culture/blocking-calendar-slots-and-meeting-free-day.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
 * [Marketing](company/marketing/README.md)
+  * [Marketing Operations](company/marketing/marketing-operations/README.md)
+    * [Lead Attribution Model](company/marketing/marketing-operations/lead-attribution-model.md)
   * [Team](company/marketing/team/README.md)
     * [On Boarding Overview](company/marketing/team/on-boarding-overview/README.md)
       * [On- Boarding Activities](company/marketing/team/on-boarding-overview/on-boarding-activities.md)
