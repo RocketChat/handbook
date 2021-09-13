@@ -35,7 +35,7 @@ Learn about each of the disciplines in the Community Team:
 
 
 
-{% page-ref page="community-management.md" %}
+{% page-ref page="community-management/" %}
 
 {% page-ref page="developer-evangelism.md" %}
 
