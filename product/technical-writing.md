@@ -5,7 +5,7 @@
 If you are a new Technical Writer joining our team or a community member who wants to contribute to Rocket.Chat documentation, here are some actionable writing guidelines you can apply to make your writing in tune with our documentation. They may seem painfully simple and obvious, yet if you ignore them repeatedly in your piece, the document might lose its tone/purpose.
 
 * Try starting actionable instruction with a verb. \(e.g., “Click **Submit**…” \[Correct\] vs. “Please click the Submit button…” \[Not Preferred\]\)
-* Use the actual names of UI componenets only, not their types.  \(e.g., “Click **Submit**…” \[Correct\] vs. “Please click the Submit button…” \[Not Preferred\] OR "Turn **Enable encryption** on" \[Correct\] vs. "Turn on the **Enable encryption** toggle" \[Not Preferred\]\)
+* Use the actual names of UI components only, not their types.  \(e.g., “Click **Submit**…” \[Correct\] vs. “Please click the Submit button…” \[Not Preferred\] OR "Turn **Enable encryption** on" \[Correct\] vs. "Turn on the **Enable encryption** toggle" \[Not Preferred\]\)
 * Use Active Voice whenever possible \(e.g., “You can change these configurations by…” \[Active\] vs. “These configurations can be changed by…” \[Passive\]\)
 * Use simple, short sentences. 
 * Use screenshots wherever necessary.
