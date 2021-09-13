@@ -26,6 +26,8 @@ Responding to forum posts - an evolving process
 6. Posting - this is done by a community team member. 
 7. FAQ edition -  documentation team member will review the post to determine if a question should be added to the FAQ
 
+A member of the Community Management Team should own, co-ordinate and run the process during the response period of the announcement.
+
 ## 
 
   
