@@ -2,7 +2,7 @@
 
 The Data & Analytics Team is one of the most important teams in Rocket.Chat due to its strong cross-functional nature. In this document, you'll find how we act together with many other teams and departments to deliver value and apply data insights into our business strategies.
 
-### Sales & RevOps
+## Sales & RevOps
 
 Data and RevOps work closely together in visualizing sales performance, forecasting scenarios, churn rates, data modeling, etc. Further, RevOps functions as a bridge between Data and the Sales department.
 
@@ -15,17 +15,17 @@ Most common interactions between us:
 
 Point of Contact: [Vitor Pajaro](https://open.rocket.chat/direct/vitor.pajaro) \(RevOps\) and [Leandro Coletti](https://open.rocket.chat/direct/leandro.coletti) \(Sales\)
 
-### Finance
+## Finance
 
 For a couple of months, the Data team was responsible for managing and updating the spreadsheet [Consolidation 2](https://docs.google.com/spreadsheets/d/1D1IFAN_nvn50qsPbC2Bg9iC-C8luS75rVyetYE3UMFw/edit?ts=5f0c523a#gid=0), which consolidates \(duh!\) our financial data from Brazil and the United States. This spreadsheet will soon be replaced by a proper financial system.
 
-We still get most of our KPIs from the spreadsheet, they are all located in the tabs Unit Economics, Unit SaaS, and Unit Self. It's still our responsibility to maintain these three tabs and come up with visualizations \(available in a [Data Studio report](https://datastudio.google.com/u/0/reporting/1WcfrsaG9Mf0-en8R00p0U53pq72pSYMm/page/8ioz)\). 
+We still get most of our KPIs from the spreadsheet, they are all located in the tabs Unit Economics, Unit SaaS, and Unit Self. It's still our responsibility to maintain these three tabs and come up with visualizations \(available in a [Data Studio report](https://datastudio.google.com/u/0/reporting/1WcfrsaG9Mf0-en8R00p0U53pq72pSYMm/page/8ioz)\).
 
 Point of Contact: [Kaique Silva](http://open.rocket.chat/direct/kaique.silva) \(to check for missing invoices\) and [Suely Morales](https://open.rocket.chat/direct/suely.morales)
 
-### Marketing
+## Marketing
 
-Most of the work Data &  is related to lead generation and campaign tracking. Our Marketing operations are migrating to HubSpot \(May 2021\), so we expect to work closely together with this department.
+Most of the work Data & is related to lead generation and campaign tracking. Our Marketing operations are migrating to HubSpot \(May 2021\), so we expect to work closely together with this department.
 
 Main activities:
 
@@ -36,7 +36,7 @@ Main activities:
 
 Point of Contact: [Júlia Grala](https://open.rocket.chat/direct/julia.grala).
 
-### Corporate Management
+## Corporate Management
 
 There are two main ways the Data Team works together with Corporate Management.
 
@@ -45,7 +45,7 @@ There are two main ways the Data Team works together with Corporate Management.
 
 Point of Contact: [Alan Wright](https://open.rocket.chat/direct/alan.wright).
 
-### Product
+## Product
 
 We usually deliver ad-hoc requests from the Product Team. Most of the time, the data comes from our MongoDB database, containing info about usage data, feature adoption, engagement metrics, etc. The Team Collaboration and Omnichannel product managers, Renato Becker and Milton Rucks, fill in a data request template, and then we deliver data products on Zoho Analytics.
 
@@ -56,7 +56,7 @@ Examples of ad-hoc requests:
 
 Points of Contact: [Renato Becker](https://open.rocket.chat/direct/renato.becker) and [Milton Rucks](https://open.rocket.chat/direct/milton.rucks).
 
-### Community
+## Community
 
 Even though we started working with Community recently, we are a key team in measuring community health and growth. At the beginning of 2021, the Data Team developed a [Composite Index](https://analytics.zoho.com/workspace/2019720000004718015/view/2019720000008851051) to measure Community Size growth. Find more info about it [here](https://handbook.rocket.chat/company/glossary#community-size-composite-index), and check [this presentation](https://docs.google.com/presentation/d/1Q4HuCKfgOS7Xglbf_-1N0kbmO3yldaHRYxhPK1OHuQE/edit#slide=id.gdb76277bfc_1_0) for a tutorial on how to update it.
 
@@ -64,17 +64,11 @@ Overall, we continuously review the metrics tracked and come up with new ones, e
 
 Point of Contact: [Sing Li](https://open.rocket.chat/direct/sing.li).
 
-### People Experience 
+## People Experience
 
 The People Experience department uses Zoho People to manage employees and HR-related matters. That system is natively connected to Zoho Analytics and, because of that, many dashboards and reports were automatically created. At the beginning of 2021, we performed a major rework of all dashboards and charts to make sure the right business logic was being used.
 
 Nowadays, our main job is to maintain the dashboards that currently exist, create new visualizations, and do minor adjustments to the existing charts.
 
 Point of Contact: [Laura Coutinho](https://open.rocket.chat/direct/laura.coutinho).
-
-
-
-
-
-
 

@@ -27,5 +27,3 @@ When you are reviewing a task from someone else \(doing code review\), you shoul
 * If the review is OK \(no comments or questions, and everything is working out properly\), you can now move the task to `DONE`.
 * Else, notify the developer and move the task to `CHANGES REQUESTED` . The dev should then move it to `IN PROGRESS` when they restart work on it.
 
-
-

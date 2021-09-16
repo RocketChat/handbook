@@ -44,6 +44,5 @@ As soon as you receive your equipment, you need to follow this crucial step befo
 
 In the event your service agreement is terminated before a period of 36 \(thirty six\) months, either by the Contractor or the Company in any circumstances, the proportional amount lasting to complete 36 months should be refunded by the Contractor to the company, and will be discounted from the last payment of the agreement by the Company.
 
-When the Agreement terminates, you are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by Rocket.Chat. Evidence or a declaration that the device has been wiped must be provided within 2 weeks of the end of the termination/end of contract. If we discover that a device has not been wiped according to policy, we may act to enforce a remote wipe without notice.  
-
+When the Agreement terminates, you are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by Rocket.Chat. Evidence or a declaration that the device has been wiped must be provided within 2 weeks of the end of the termination/end of contract. If we discover that a device has not been wiped according to policy, we may act to enforce a remote wipe without notice.
 

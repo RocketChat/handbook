@@ -4,7 +4,7 @@ description: Receive stars for representing our culture and exchange them for pr
 
 # Rocket.Chat AllStars
 
-Our culture is one of our biggest strengths within Rocket.Chat and we want to recognize the actions that promote it! So **welcome to Rocket.Chat AllStars!** It is our system that will allow you to collect stars by representing the DOTS or in special dates and occasions, accumulate them and exchange for prizes! 
+Our culture is one of our biggest strengths within Rocket.Chat and we want to recognize the actions that promote it! So **welcome to Rocket.Chat AllStars!** It is our system that will allow you to collect stars by representing the DOTS or in special dates and occasions, accumulate them and exchange for prizes!
 
 ## What type of stars can I get?
 
@@ -18,7 +18,7 @@ Now let's see the full [table of actions and events](https://docs.google.com/spr
 
 ![](../../.gitbook/assets/table-of-stars.png)
 
-#### Very important notes about some categories:
+### Very important notes about some categories:
 
 1. Both **Share content selected to be promoted** and **Create an original post for LinkedIn** are monthly categories, meaning you can get that point once a month. The Marketing team will assign monthly campaigns applicable to these categories, and you can get these stars either just sharing _the selected content on LinkedIn_ or by _writing your own post_ directed to that campaign!
 2. As mentioned before for **Completing a course** and **Years in company anniversary**, your total of stars will be the base value multiplied by the number of hours of the course or by the number of years you're celebrating. For the first one, the maximum amount of stars you can get for a course is capped at 50.
@@ -37,7 +37,7 @@ In order to submit your request, you should select Credit, the date and the type
 
 ## Where do I see how many stars I have?
 
-Simply go to your Zoho People profile in order to see your AllStars balance! **Remember**: The stars are capped at a total of 1200, so even if you request more stars, after reaching this total it will be maintained until you exchange some of them. 
+Simply go to your Zoho People profile in order to see your AllStars balance! **Remember**: The stars are capped at a total of 1200, so even if you request more stars, after reaching this total it will be maintained until you exchange some of them.
 
 ![](https://lh3.googleusercontent.com/entTsPQZs_t9elRDughEXYwco9lPuntXF3xIE-wfkaNjqnvgVNAFvzcFoNwctWYBNT9F7Ip72-fkrg3s2mM5WHoycars6zUHM-yM_rVRdsn6trZ_UPNfgfMuZhCKZnAhGLd5UqXX)
 
@@ -47,7 +47,7 @@ When you want to trade your star for a Rocket.Chat swag, follow the exact same p
 
 ![Select Debit, the item you want and fill out the points field with how much it costs.](https://lh5.googleusercontent.com/9iugO-LFFxnTjVEDVm1i2-ESbwgs8UdBO3EQU5HjvteUNJExuotgnBP7JQ82E4VVzpOm0n2lVOGPKII45s8nuGVOKB0CgeMMREK6SFtJvk7ms0Gjq2-XZKYVzUlPczim_hWzecr8)
 
-Remember to always check your stars balance before requesting an item to make sure you have enough to get it! Then you just have to wait for an Avenger to approve your item request, as soon as that's done your new Rocketeer swag will be shipped to you! _\(It may take a while to reach you, since they'll be shipped from overseas. If your country's postal service usually tends to stop any foreign order, you can request and add a note that you'll want to retrieve your item during our next Summit, we'll make sure it gets to you then.\)_ 
+Remember to always check your stars balance before requesting an item to make sure you have enough to get it! Then you just have to wait for an Avenger to approve your item request, as soon as that's done your new Rocketeer swag will be shipped to you! _\(It may take a while to reach you, since they'll be shipped from overseas. If your country's postal service usually tends to stop any foreign order, you can request and add a note that you'll want to retrieve your item during our next Summit, we'll make sure it gets to you then.\)_
 
 ## **Now let's talk prizes!**
 
@@ -134,6 +134,4 @@ Check out the complete list of Rocket.Chats swags you can get through AllStars b
 ![](../../.gitbook/assets/backpack.png)
 {% endtab %}
 {% endtabs %}
-
- 
 

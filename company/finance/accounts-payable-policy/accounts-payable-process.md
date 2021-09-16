@@ -52,12 +52,7 @@ As mentioned previously, we strongly recommend employees and contractors to avoi
 
 ## **Responsibilities**
 
-It is very important that buyers inform such protocols to the suppliers in order to avoid any misunderstanding. 
+It is very important that buyers inform such protocols to the suppliers in order to avoid any misunderstanding.
 
 **If the invoice due date is not in accordance with this policy,** the payment date will be automatically adjusted for the next fixed date of the month, as set above, and it will be the buyer's responsibility to contact the supplier and inform the adjustment, without any charge of interest or considered as delayed payment.
-
-
-
-  
-
 

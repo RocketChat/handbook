@@ -13,5 +13,3 @@ In this section you'll find out more about:
 * Vacations Policy
 * Travel Policy
 
-
-

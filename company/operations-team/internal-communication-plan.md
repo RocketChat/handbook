@@ -27,21 +27,21 @@ To increase synergy and organization in the intersection between the **Sales** a
 **Type of questions:** Very technical questions about the product, implementation, code errors, etc  
 **Resposible - receive:** PMs need to coordinate and direct the question to the technical responsible  
 **Who can ask questions?:** Pre-sales team & CS  
-**Way to notify/ask - System:** Channel exclusive \(PMs + Pre-Sales +  Support leaders + Tech Leads\)  
+**Way to notify/ask - System:** Channel exclusive \(PMs + Pre-Sales + Support leaders + Tech Leads\)  
 **Tracking:** Extreme Technical Questions most of time don’t have a SLA. How to track the process?
 
 #### PRODUCT BAD BEHAVIOR - CRITICAL SITUATIONS
 
 **Type of questions:** Technical questions about RC bad behavior during customer calls, livechat, product demonstrations, etc  
-**Resposible - receive:** Technical Leads team   
+**Resposible - receive:** Technical Leads team  
 **Who can ask questions?:** Pre Sales team & CS  
-**Way to notify/ask - System:** Channel exclusive \(Tech Leads + PM  & CS\)  
+**Way to notify/ask - System:** Channel exclusive \(Tech Leads + PM & CS\)  
 **Tracking:** SLA support team - FCR \(first contact resolution\) - During Working hour \(Product team\)
 
 #### PRODUCT BAD BEHAVIOR - NON-CRITICAL SITUATIONS
 
 **Type of questions:** Technical questions about RC bad behavior during self navigation or non-critical situations  
-**Resposible - receive:** PMs   
+**Resposible - receive:** PMs  
 **Who can ask questions?:** Every RC employee  
 **Way to notify/ask - System:** Report Bugs - Forms  
 **Tracking:** How to track?
@@ -67,20 +67,20 @@ To increase synergy and organization in the intersection between the **Sales** a
 #### POTENTIAL SALES REVENUE
 
 **Content & Purpose:** Customers who are in the last 2 weeks without contract signed, big acount Saas cancellations & PQL with more than X employees \(reduce the contact time with the client\)  
-**Responsible - Receive:** The reps responsible for those leads   
+**Responsible - Receive:** The reps responsible for those leads  
 **Who can ask questions?:** Automated messages - no questions  
 **Way to notify/ask - System:** The whole Leandro Coletti team + Bruno Weiblen + Pre Sales team + \(Rodrigo/Gabriel\) + RevOps team  
 **Tracking:** The rep responsible for that lead needs to comment with a status
 
 #### WON DEALS
 
-**Content & Purpose:** Closed deals   
+**Content & Purpose:** Closed deals  
 **Responsible - Receive:** Sales team  
 **Who can ask questions?:** Automated messages - no questions  
 **Way to notify/ask - System:** Sales Team & Leaders  
 **Tracking:** Not necessary
 
-#### ROCKET.CHAT SALES 
+#### ROCKET.CHAT SALES
 
 **Content & Purpose:** Announcements cross-department that has an impact in the Sales team  
 **Responsible - Receive:** Sales team  
@@ -114,8 +114,7 @@ To increase synergy and organization in the intersection between the **Sales** a
 
 ## **Committees structure**
 
-Understanding the types of communication is a good starting point for defining your organisation/department's committee structure. What kind of news / announcements can be part of a channel? What kind of information is better to be in a meeting than in a channel?  
-
+Understanding the types of communication is a good starting point for defining your organisation/department's committee structure. What kind of news / announcements can be part of a channel? What kind of information is better to be in a meeting than in a channel?
 
 Channels are not the right place to share strategic announcements, they are the right place to support a strategic announcement made by the CEO in a company-wide meeting, for example.
 

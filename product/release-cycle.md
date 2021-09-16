@@ -89,9 +89,3 @@ Simply open an issue on GitHub describing the issue, the issue is usually closed
 
 ## Check more
 
-{% page-ref page="development/review-guidelines.md" %}
-
-{% page-ref page="development/development-guidelines.md" %}
-
-
-

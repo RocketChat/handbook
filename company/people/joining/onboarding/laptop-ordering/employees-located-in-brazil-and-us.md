@@ -36,7 +36,7 @@ If you’re in the US or Europe we usually prioritize Apple laptops, and for any
 
 But keep in mind that you can choose from whichever brand you prefer, up to a price of USD 2,000.00 \(two thousand dollars\). If the price goes over this, we'll need to evaluate the quotes sent.
 
-For the **headphones** we usually recommend the Logitech H800 Headset, but this is also not mandatory and you can choose from the model you prefer! However, just like with the laptop, if the price goes over USD 150, we'll also evaluate the quotes sent. 
+For the **headphones** we usually recommend the Logitech H800 Headset, but this is also not mandatory and you can choose from the model you prefer! However, just like with the laptop, if the price goes over USD 150, we'll also evaluate the quotes sent.
 
 1. E-mail [Patricia Ferreira](mailto:patricia.ferreira@rocket.chat) **with the quotes** attached and inform if you will need the money in advance or pay and get reimbursed later. She will then indicate to you which one to purchase and forward her approval to [Rocket.Chat Accounting](mailto:accounting@rocket.chat) for final approval and dispensation. **Once approved, you’ll receive a term of Agreement to Use Company Assets**.
 2. You can either order **as soon as you receive approval** from [Rocket.Chat Accounting](mailto:accounting@rocket.chat) \(considering you have enough credit card limit for the purchase\) or **you can wait for the advance** to reach your account. Either way, as soon as you place your order, you need to **send the receipt to** [Accounts Payable](mailto:accounts.payable@rocket.chat).

@@ -10,5 +10,3 @@ To this end, the QA structure, this policy, and processes encapsulate the follow
 * **Change is the healthiest thing that can happen to a process,** however, it should happen as planned, not by accident.
 * **Embrace automation processes:**  automation is the future of QA. With the proper strategy, solid code and integration within other processes, automation tests and tools are always the best solutions to deliver a faster, cleaner and more traceable result.
 
-
-

@@ -9,6 +9,3 @@ The Engineer/Analyst coordinates and executes test cases designed to validate an
 * Work alongside developers and managers to ensure immediate bug detection. 
 * Design and execute test cases to ensure functionality and enhancements/bug fixes meet actual requirements.
 
-  
-
-

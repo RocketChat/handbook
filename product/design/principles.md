@@ -18,9 +18,9 @@ While designing an interface, take a step back and analyze the overall possibili
 
 ## Recognition Rather than Recall
 
-Do not overload the user's memory, add visual cues through their journey so they can recognize rather than recall. The recognition is easier than recall because it is connected to more cues; information spread which activate that related information in their memory. 
+Do not overload the user's memory, add visual cues through their journey so they can recognize rather than recall. The recognition is easier than recall because it is connected to more cues; information spread which activate that related information in their memory.
 
-#### Validation Guide
+### Validation Guide
 
 * Do the users need to recall a information which is not available at that moment? Design a few cues in the UI so they can recognize that;
 * Does this mental model already exist within our product?
@@ -29,27 +29,27 @@ Do not overload the user's memory, add visual cues through their journey so they
 
 ## Focus
 
-Its purpose is to direct the audience's attention, as fewer spotlight areas we have at the same time, as focused the users will be on their current task. 
+Its purpose is to direct the audience's attention, as fewer spotlight areas we have at the same time, as focused the users will be on their current task.
 
-#### Validation Guide
+### Validation Guide
 
 * Are all CTAs available \(at the same time\) really necessary? Can we focus just on some of them during this specific user task?
-* Are ****there any important information being hidden in the clutter?
+* Are _\*\*_there any important information being hidden in the clutter?
 
 ## Consistent and Meaningful Motion
 
 Real-world is not static so the product either. However, the motion must be consistent on its timing and curve as well as meaningful, leaving cues to the audience so they can understand the affordance of a component.
 
-#### Validation Guide
+### Validation Guide
 
 * All means of interaction must be represented by a visual cue, you may use motion in most of these cases;
 * All short CSS transitions, animations and transforms must follow our [animation curve base ](design-system/animation-curve-and-timing.md)and its timing.
 
 ## Design Together
 
-Design is made by the collaboration of different people, with different backgrounds. 
+Design is made by the collaboration of different people, with different backgrounds.
 
-#### Validation Guide
+### Validation Guide
 
 * Are we asking feedback for players on different teams?
 * Are we looking into the community feedback?
@@ -59,7 +59,7 @@ Design is made by the collaboration of different people, with different backgrou
 
 Bias influences our worldview, we must keep the awareness of how other digital platforms are bringing solutions for similar issues.
 
-#### Validation Guide
+### Validation Guide
 
 * How do competitors approach this?
 * Is there already a similar mental model in another product? 
@@ -68,18 +68,18 @@ Bias influences our worldview, we must keep the awareness of how other digital p
 
 The product is worldwide used. Always when designing a piece of the software, you must think about its many languages variations.
 
-#### Validation Guide
+### Validation Guide
 
 * How is this going to look if the text become longer?
 * How is this going to look if the text become shorter?
 
 ## Minimalism
 
-By reducing the amount of words and any UI elements, we increase the users' attention on the ones that are really important. 
+By reducing the amount of words and any UI elements, we increase the users' attention on the ones that are really important.
 
 Antoine de Saint-Exupery said "perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away".
 
-#### Validation Guide
+### Validation Guide
 
 * Was it written with the fewest words?
 * Did you use a meaningful icon instead of words where you could?

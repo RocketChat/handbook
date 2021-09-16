@@ -48,11 +48,9 @@ Schedule recurring meetings to the beginnig of the week
 
 ## References
 
-{% embed url="https://sterlingmiller2014.wordpress.com/2019/09/25/ten-things-escaping-meeting-hell/" %}
+{% embed url="https://sterlingmiller2014.wordpress.com/2019/09/25/ten-things-escaping-meeting-hell/" caption="" %}
 
-{% embed url="https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting" %}
+{% embed url="https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting" caption="" %}
 
-{% embed url="https://unito.io/blog/running-effective-meetings-tips/" %}
-
-
+{% embed url="https://unito.io/blog/running-effective-meetings-tips/" caption="" %}
 

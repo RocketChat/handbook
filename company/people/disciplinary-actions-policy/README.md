@@ -6,8 +6,7 @@ Our Disciplinary Action policy explains how we address our employees’ miscondu
 
 This policy is designed to help and encourage you to identify and speak up about any of these situations and outlines the process that will be used if Rocketeers fail to achieve and maintain the required standards.
 
-We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and in the workplace violence policy, so we're here opening a [Hearing Channel forms](https://forms.gle/TzM5ZZMdTXbu9Wtq8) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.  
-
+We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and in the workplace violence policy, so we're here opening a [Hearing Channel forms](https://forms.gle/TzM5ZZMdTXbu9Wtq8) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.
 
 ## Scope
 
@@ -31,8 +30,7 @@ The Rocket.Chat Disciplinary Action Policy can result in the following actions b
 
 **1. Verbal and/or written warning**
 
-3 records can generate a suspension. The warning is the simpler disciplinary action and that is precisely why it is applied by the employer only in case of minor offenses, being an alert about the wrong conduct so that the employee will not repeat it. Verbal warnings should be documented and written warnings must be signed.  
-
+3 records can generate a suspension. The warning is the simpler disciplinary action and that is precisely why it is applied by the employer only in case of minor offenses, being an alert about the wrong conduct so that the employee will not repeat it. Verbal warnings should be documented and written warnings must be signed.
 
 **2. Suspension**
 
@@ -53,16 +51,14 @@ Disciplinary procedure starts at stage 1 \(Verbal/written warning\). It includes
 1. Failure to meet performance objectives.
 2. Attendance issues.
 3. Failure to meet deadlines.
-
-* **Misdemeanors/One-time minor offense**
+4. **Misdemeanors/One-time minor offense**
 
 Disciplinary procedure starts at stage 1 \(Verbal/written warning\). It includes but is not limited to:
 
 1. Rude behavior to customers or partners.
 2. On-the-job minor mistakes.
 3. Involuntary Discrimination.
-
-* **Misconduct/Frequent offender**
+4. **Misconduct/Frequent offender**
 
 Disciplinary procedure starts at stage 2 \(Suspension\). It includes but is not limited to:
 
@@ -70,8 +66,7 @@ Disciplinary procedure starts at stage 2 \(Suspension\). It includes but is not 
 2. Lost temper in front of customers or partners.
 3. On-the-job major mistakes.
 4. Unwillingness to follow health and safety standards.
-
-* **Severe offensive behavior/Felony**
+5. **Severe offensive behavior/Felony**
 
 Disciplinary procedure starts at stage 3 \(Termination of contract\). It includes but is not limited to:
 
@@ -80,8 +75,7 @@ Disciplinary procedure starts at stage 3 \(Termination of contract\). It include
 3. Harassment/Voluntary discrimination.
 4. Workplace Violence \(See appendix\)
 5. Embezzlement/Fraud.
-
-* **Information security breach**
+6. **Information security breach**
 
 Disciplinary procedure starts at stage 1 \(Verbal/written warning\). It includes but is not limited to the items listed in the Rocket.Chat [security policy](https://handbook.rocket.chat/operations/security/security-policy).
 

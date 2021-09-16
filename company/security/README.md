@@ -130,7 +130,7 @@ For reported vulnerabilities:
 
 ### To prepare a Security Fix
 
-Security Fixes are developed by the proper dev teams. 
+Security Fixes are developed by the proper dev teams.
 
 {% hint style="info" %}
 **For our development teams:** A dedicated step-by-step guideline of the policy aspects relevant for you can be found [here](https://docs.google.com/document/d/1Lsc8INA6jDwp8sTDvLR7O7v7PLEt967ubv8BG4yyV14/edit?usp=sharing).
@@ -140,13 +140,13 @@ Fixes must be made available as per our [support policy](https://docs.rocket.cha
 
 Security Fixes must not contain keywords such as "exploit", "hack", or similar and should be phrased technology-neutral. We want to explain what has changed, not describe exploit techniques.
 
-Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories. 
+Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories.
 
 #### **CVE IDs**
 
 We use CVE IDs to uniquely identify and publicly define vulnerabilities in our products. Since we publicly disclose all security vulnerabilities 30 days after a patch is released, CVE IDs must be obtained for each vulnerability to be fixed. The earlier obtained the better, and it should be requested either during or immediately after a fix is prepared.
 
-The security team currently requests CVEs either through the HackerOne form \(preferred\) or directly through MITRE's [webform](https://cveform.mitre.org/). 
+The security team currently requests CVEs either through the HackerOne form \(preferred\) or directly through MITRE's [webform](https://cveform.mitre.org/).
 
 Keep in mind that some of our security releases contain _security related_ enhancements which may not have an associated [CWE](https://cwe.mitre.org/) or vulnerability. These particular issues are not required to obtain a CVE since there's no associated vulnerability. CVE IDs obtained via the webform must be manually referenced in the HackerOne issue.
 
@@ -156,7 +156,7 @@ When a patch has been developed, tested, approved, and a new release is being pr
 
 Security then informs the researcher via HackerOne. Post a comment on the HackerOne issue to all parties informing them that a patch is ready and will be included with the next release. Provide release dates, if available, but try not to promise a release on a specific date if you are unsure. You may also share relevant code snippets with the researcher for him to comment on or verify the fix.
 
-This is also a good time to ask if the researcher would like public credit in our release blog post and on our vulnerability acknowledgements page for the finding. We will link their name or alias to their HackerOne profile, Twitter handle, Facebook profile, company website, or URL of their choosing. Also ask if they would like the HackerOne report to be made public after the responsible disclosure period counting from the release. It is always preferable to publicly disclose reports unless the researcher has an objection. 
+This is also a good time to ask if the researcher would like public credit in our release blog post and on our vulnerability acknowledgements page for the finding. We will link their name or alias to their HackerOne profile, Twitter handle, Facebook profile, company website, or URL of their choosing. Also ask if they would like the HackerOne report to be made public after the responsible disclosure period counting from the release. It is always preferable to publicly disclose reports unless the researcher has an objection.
 
 For **critical** security issues, prepare a message for Rocket.Cat to be sent out on release day.
 
@@ -183,7 +183,7 @@ We award swag on a case by case basis. Details are in our responsible disclosure
 
 After the responsible disclosure period has ended, HackerOne will automatically release the report. Upon notification of the report release, update the CVE entry via the webform if it had been requested via the webform. Otherwise HackerOne will automatically update the CVE entry.
 
-## Pentesting 
+## Pentesting
 
 ### Internal
 
@@ -232,7 +232,7 @@ Task and Project Management for Security occur in Clickup . Security uses three 
 
 A task should have complete information available to answer all "W"-questions.
 
-Tags are the most important instrument to classify tasks. A task can have multiple tags. 
+Tags are the most important instrument to classify tasks. A task can have multiple tags.
 
 Security tasks that are worked on currently must be added to the current sprint. Sprint tasks should be estimated with Sprint points.
 
@@ -242,7 +242,7 @@ Tasks can be shared publicly via the sharing function, but only the content that
 
 ## Static Code Analysis
 
-Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories.  For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
+Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories. For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
 
 * LGTM is enabled for all public repos
 * To enable LGTM for a repo, you must be admin
@@ -284,10 +284,4 @@ We are not a large size organization and often dont have strict organizational b
 * Topics-wise, the main subject matter areas are: Secure Development Lifecycle, Securing Cloud Services, Web Application Security, SecDevOps
 * Where there is internal expertise missing, we consider leveraging external specialists.
 * Training outcomes \(e.g. application of security principles in a PR\) should be highlighted in our RC channels, especially \#dev
-
-
-
-### 
-
-
 

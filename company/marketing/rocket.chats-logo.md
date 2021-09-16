@@ -6,7 +6,3 @@ You can view all of Rocket.Chat's design assets on our [Branding Figma File.](ht
 
 If you're just looking for a .png or .svg version of our logo, you can find it [here.](https://drive.google.com/drive/folders/1J5K1L9lnOX2S0JLNzfFkGNwOGvL4zQ7z?usp=sharing)
 
-
-
-
-

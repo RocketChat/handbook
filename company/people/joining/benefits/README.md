@@ -4,7 +4,7 @@ description: In here you'll find every benefit Rocket.Chat offers!
 
 # Our benefits
 
-Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable, exciting and comfortable, so if you are remote or working from our office in Porto Alegre you’ll receive a set of benefits to improve your work experience! 
+Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable, exciting and comfortable, so if you are remote or working from our office in Porto Alegre you’ll receive a set of benefits to improve your work experience!
 
 **All** Rocketeers receive the following benefits since day 1:
 
@@ -32,21 +32,21 @@ You can have access to a full explanation about the CLT benefits like the types 
 
 Besides processing payroll, through TriNet you'll also be able to opt for a healthcare plan. For each plan there is a part that is the company's contribution and another that is responsibility of the employee, you can choose the plan you prefer, but the values will vary according to the plan and if you have dependents. You will have access to pricing details of each plan and will choose when you're completing your register in TriNet, but you can see an overview of your options below:
 
-**Medical**: 243 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Kaiser CO, Kaiser GA, Tufts Freedom, Kaiser WA, Kaiser MD, UHC HI, Kaiser HI, Tufts, Blue Shield of CA, Kaiser, Aetna 
+**Medical**: 243 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Kaiser CO, Kaiser GA, Tufts Freedom, Kaiser WA, Kaiser MD, UHC HI, Kaiser HI, Tufts, Blue Shield of CA, Kaiser, Aetna
 
 * Employee only: 100% up to $600
 * Employee + Spouse: 50% up to $900
 * Employee + Children: 50% up to $800
 * Family: 50% up to $1,300
 
-**Dental**: 35 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Delta, Guardian, Metlife, Aetna; 
+**Dental**: 35 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Delta, Guardian, Metlife, Aetna;
 
 * Employee: 100%
 * Spouse: 50%
 * Children: 50%
 * Family: 50%
 
-**Vision**: 14 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: EyeMed, VSP 
+**Vision**: 14 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: EyeMed, VSP
 
 * Employee: 100%
 * Spouse: 50%

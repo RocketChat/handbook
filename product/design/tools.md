@@ -1,6 +1,4 @@
 # Tools
 
-{% embed url="https://whocanuse.com/" %}
-
-
+{% embed url="https://whocanuse.com/" caption="" %}
 

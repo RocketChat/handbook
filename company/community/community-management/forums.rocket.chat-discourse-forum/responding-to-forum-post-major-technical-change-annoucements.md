@@ -1,7 +1,7 @@
 # Responding to forum post \(Major technical/change annoucements\)
 
-In some cases, when a major technical or change announcement is made, intense community participation and/or reaction is pre-anticipated.  To handle these situations in a productive and consistent manner, the Community Management Team has established \(and is evolving\) the following process.  
-  
+In some cases, when a major technical or change announcement is made, intense community participation and/or reaction is pre-anticipated. To handle these situations in a productive and consistent manner, the Community Management Team has established \(and is evolving\) the following process.
+
 These announcements usually comprise of:
 
 * an official announcement on forums.rocket.chat  by  CEO / CTO  \(or other executives\)
@@ -13,7 +13,7 @@ These announcements also usually involve:
 * product management team representing the need for change, or the rationale for the implementation
 * product engineering team and members for the detailed technical interactions that are often required
 * public relations team member  to ensure responses are consistent with the voice of the company 
-*  documentation team member  to revise the technical document "Live", as well as tweaking the FAQ as more responses are created
+* documentation team member  to revise the technical document "Live", as well as tweaking the FAQ as more responses are created
 * community team member to handle the actual response and to make sure community comments are adequately addressed and technical matter adequately resolved
 
 Responding to forum posts - an evolving process
@@ -27,10 +27,4 @@ Responding to forum posts - an evolving process
 7. FAQ edition -  documentation team member will review the post to determine if a question should be added to the FAQ
 
 A member of the Community Management Team should own, co-ordinate and run the process during the response period of the announcement.
-
-## 
-
-  
-  
- 
 

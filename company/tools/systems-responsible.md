@@ -1,16 +1,12 @@
 # Systems responsible
 
-
-
 To better meet the needs of Rocket.chat, a table was created that allows understanding who is the owner of each configuration item associated with a company service.
 
 It is understood that Configuration Item Owner is the person or team responsible for providing support and making decisions associated with that particular item, not representing, in itself, the sole responsible for the use of the tool.
 
 Two ways will be presented to provide the same information, the first being a grouping by teams or people responsible for each item; in a second moment, the items will be presented in alphabetical order to facilitate the location.
 
-####  
-
-#### Alphabetical order:
+## Alphabetical order:
 
 | Config Item | Owner | Responsible |
 | :--- | :--- | :--- |

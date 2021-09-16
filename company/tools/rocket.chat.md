@@ -20,11 +20,11 @@ You are trying to be polite by not jumping right into the request, as you would 
 
 Asking your question before getting a reply allows for asynchronous communication. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
 
-{% embed url="https://nohello.com" %}
+{% embed url="https://nohello.com" caption="" %}
 
 ### Don't overuse audio
 
-Audios are not searchable. Ensure that when you use audio, it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break audio into multiple pieces if you need to refer back to a specific point in time. 
+Audios are not searchable. Ensure that when you use audio, it's short and given a context around, so people can find it if they use the search. Audios should not convey more than one topic or task. You can't break audio into multiple pieces if you need to refer back to a specific point in time.
 
 ### Don't overuse multiuser DMs
 
