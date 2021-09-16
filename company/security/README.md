@@ -48,6 +48,40 @@ See [Security Policies](https://handbook.rocket.chat/company/security/security-p
 
 Playbooks help us to standardize certain processes around security and enable transparency on how we work. The following are the security playbooks.
 
+## Security Alerts
+
+Alerts for security events will be shown in the [\#security-alerts](https://open.rocket.chat/group/security-alerts) group. The message format is
+
+`SIEM ALERT -- <type of alert> - [<severity> or <score>] <message>. Check <link to the alert>`
+
+The type of alert can be **ANOMALY DETECTED** or **STATIC RULE.**
+
+#### **Static rule:**
+
+When a pattern found in the logs being ingested to the SIEM matches one of the static rules pre-defined, this type of alert is fired. The severity can be **Low, Medium, High,** and **Critical** following the CVSS.  
+The current SLA to triage each alert, according to the severity, is the following
+
+| Severity | SLA |
+| :--- | :--- |
+| Critical | &lt; 1 day |
+| High | &lt; 2 days |
+| Medium | &lt; 5 business days |
+| Low | &lt; 10 business days |
+
+The instructions on how to perform the triage and investigate each alert can be found on the alert page \(link in the message\), inside our SIEM platform.
+
+#### Anomaly detected:
+
+We have several Machine Learning jobs running that search for anomalies in the data feeds being ingested. If an anomaly is detected it can trigger a Rule that will fire the alert \(sometimes a single anomaly is not sufficient to trigger a rule\).  
+The anomaly can be evaluated by **Severity** or **Score.** Our current SLA to define if an anomaly is valid or not is the following
+
+| Severity // Score | SLA |
+| :--- | :--- |
+| Critical // Score &gt;= 80 | &lt; 2 days |
+| High // 50 &lt;= Score &lt; 80 | &lt; 3 days |
+| Medium // 20 &lt;= Score &lt; 50 | &lt; 5 business days |
+| Low // Score &lt; 20 | &lt; 10 business days |
+
 ## Incident Management
 
 We follow the following incident management process:
@@ -250,4 +284,10 @@ We are not a large size organization and often dont have strict organizational b
 * Topics-wise, the main subject matter areas are: Secure Development Lifecycle, Securing Cloud Services, Web Application Security, SecDevOps
 * Where there is internal expertise missing, we consider leveraging external specialists.
 * Training outcomes \(e.g. application of security principles in a PR\) should be highlighted in our RC channels, especially \#dev
+
+
+
+### 
+
+
 
