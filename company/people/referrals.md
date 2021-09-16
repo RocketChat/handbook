@@ -8,8 +8,8 @@ Do you know that moment when you see that open position for working in Rocket.Ch
 
 How it's going to work:
 
-1. Fill out the information about your referral here at [this link](https://forms.gle/aXVmnChRtuMHqBtd7). Through this link we'll be able to have a record of it so that you can get into the rewards system!
-2. If you're close with this person, tell them to apply for the position on jobs.rocket.chat. In the application there's a field asking how they found out about the job, tell them to choose "Employee Referral". This will make the process of reaching out to this person much easier!
+1. All Rocketeers can submit referrals! To do that you just have to: Enter the [Google Workspace Dashboard](https://workspace.google.com/dashboard) &gt; Click on the Greenhouse icon &gt; Sign in with your Rocket.Chat email &gt; On Greenhouse's header, click on![](../../.gitbook/assets/image%20%2818%29%20%283%29.png) and then on "Add a Referral". 
+2. Fill out the information about your referral and it's done!
 
 If your referral **joins the team and stays for at least 90 days**, you'll get a reward sponsored by the **Referrals** system! **🍾**
 

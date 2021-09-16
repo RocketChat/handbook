@@ -48,3 +48,14 @@ Don't send the same message to multiple rooms \(known as cross-posting\) in the 
 
 In the same way, don't send the same request to multiple people. If you need someone from a team to do a task, then send in that team's channel, or add to that team's Clickup board.
 
+### Permissions
+
+Every user on the Rocket.Chat server has specific permissions, combined together in a role. You can see most roles a person has in form of a `tag` next to the username. Here we explain how we grant them:
+
+* The `admin` role is only given to individuals that have a regular need to change and control settings and permissions on the server \(engineering squad leads, QA, infrastructure and similar\). 
+* The `moderator-global` role is given to individuals who manage users and content on a global scale \(HR, management, security\), such as for adding users to non-owned rooms or teams or deactivating users. Beyond that it does not contain access to additional server settings. 
+* The `view-privileged` role is given to individuals who need to know, but not change the current settings of the server \(e.g. PMs for troubleshooting\). It is a single permission.
+* Everyone else gets the `user` role and additional permissions only on a room-level \(e.g. being owner of a certain room\). This role can still create rooms and discussions. 
+
+Additional roles with a more granular permission set have to be requested from and documented by the admins.
+
