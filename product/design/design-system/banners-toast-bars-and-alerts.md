@@ -13,7 +13,7 @@ There are two notifications' levels:
 
 #### Banner
 
-![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%285%29%20%281%29%20%2813%29.png)
+![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%285%29%20%281%29%20%2815%29.png)
 
 #### Toast Bar
 
@@ -21,7 +21,7 @@ There are two notifications' levels:
 
 #### Inline Alert
 
-![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%286%29%20%283%29%20%2810%29.png)
+![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%286%29%20%283%29%20%2812%29.png)
 
 ### Components' Proprieties
 
@@ -93,7 +93,7 @@ Example:
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%285%29%20%281%29.png)
+![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%285%29%20%281%29%20%281%29.png)
 
 Examples:
 
