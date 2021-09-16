@@ -80,7 +80,7 @@ If you are using your GitHub profile photo instead of uploading a photo skip thi
 
 ## Configure your email signature
 
-* Select and copy the template signature [here](https://github.com/RocketChat/handbook/tree/209ebb4af1e26bd4c64f6a25daf03242343a281d/onboarding/email-signature.html)
+* Select and copy the template signature [here](https://github.com/RocketChat/handbook/blob/bda368b0ea063b2e78ebf837c05aada4c52c1a17/onboarding/email-signature.html)
 * Paste the template in the signature settings of your email
 * Change the texts with your infos \(don't forget to change both, text displays and links\)
 * Send a test email to a teammate to confirm that your signature appears correctly
