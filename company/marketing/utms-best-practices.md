@@ -1,13 +1,11 @@
 ---
 description: >-
-  UTMs are the way we track users coming to our website from external sources.
-  They are a set of parameters that can be added to the URL to have a clear
-  tracking of the user.
+  UTMs are the way we track users coming to our website from external
+  sources.They are a set of parameters that can be added to the url to have a
+  clear tracking of the user.
 ---
 
 # UTM's Best Practices
-
-## When to use UTMs
 
 Every time an external source of traffic is referred to our website. That includes \(but is not limited to\):
 
@@ -18,11 +16,9 @@ Every time an external source of traffic is referred to our website. That includ
 
 And so on.
 
-#### When **not** to use UTMs?
+### When **not** to use UTMs?
 
 UTMs should not be used on links inside our website \(i.e. a CTA in one of our product pages\).
-
-## Parameters
 
 **There are 5 elements that can be added to the UTM in order to tag the user:**
 
@@ -42,7 +38,7 @@ Where was the user before they got to our website? This parameter should answer 
 
 **From?**
 
-_Example: `google`, `bing`, `github`, `facebook`, `twitter`, `instagram`, `linkedin`, `newsletter`, `blogs`._
+_Example: google, bing, github, facebook, twitter, instagram, linkedin, newsletter, blogs._
 
 ### **Medium**
 
@@ -50,7 +46,7 @@ _Example: `google`, `bing`, `github`, `facebook`, `twitter`, `instagram`, `linke
 
 The medium is the way that the user, that was previously on another website, came to Rocket.Chat. It should answer the question: _how did the user get here? / what was the medium that brought the user here?_
 
-_Example: `organic`, `paid, cpc`/`paid-search`, `email`, `display`, `banner`, `referral`._
+_Example: organic, paid-social, cpc/paid-search, email, display, banner, referral._
 
 ### **Campaign**
 
@@ -58,13 +54,13 @@ _Example: `organic`, `paid, cpc`/`paid-search`, `email`, `display`, `banner`, `r
 
 The campaign name should identify the name of the campaign that has brought the user to our website. It should answer the question: _why did the user engage with our website? What was the reason that brought the user to our website?_
 
-_Example:: `omnichannel`, `webinars` \(marketing team campaigns\), `remarketing`, `en-lookalikes` \(specific target audiences\)_
+_Example:: omnichannel, webinars \(marketing team campaigns\), remarketing, en-lookalikes \(specific target audiences\)_
 
 ### **Term**
 
 This parameter is only used on paid search UTMs _\(paid-search, ppc, cpc\)_ to identify the keyword that the user has searched. It should answer the question: _which keyword did the user search to get to our website?_
 
-_I.e: `team+collaboration`, `live+chat`, `open+source+slack`_
+_I.e: team+collaboration, live+chat, open+source+slack_
 
 ### **Content**
 
@@ -75,28 +71,18 @@ _To see this parameter on Google Analytics, you need to use the Keyword dimensio
 ## **UTM do’s and don’ts**
 
 * Create the UTM URL by filling up the blanks on the [URL Campaign Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/). 
-* Use lowercase letters at all times.
-  * ✅ `utm_medium=paid-search` 
-  * ❌`utm_medium=Paid-Search` 
+* Use lowercase letters at all times. \(✅ `utm_medium=paid-search` ❌`utm_medium=Paid-Search`\). 
 * Use hyphens to separate the words, not underscores. 
-* Avoid redundancy: if a term is already on the UTM, it shouldn’t appear again \(i.e.: `utm_source=facebook&utm_medium=facebook-organic`\) 
-* Watch out for what’s been previously done and follow the pattern. If the UTM that’s usually used is `utm_medium=social`, don’t create a new one with `utm_medium=social-media`.
+* Avoid redundancy: if a term is already on the UTM, it shouldn’t appear again \(i.e.: `utm_source=facebook&utm_medium=facebook-post`\) 
+* Watch out for what’s been previously done and follow the pattern. If the UTM that’s usually used is `utm_campaign=social`, don’t create a new one with `utm_campaign=social-media`.
 
 ### Examples of UTMs:
 
-Post on LinkedIn:
+Post on LinkedIn: _utm\_source=linkedin&utm\_medium=organic&utm\_campaign=social_ 
 
-_`utm_source=linkedin&utm_medium=organic&utm_campaign=social`_
+LinkedIn Ad: _utm\_source=linkedin&utm\_medium=ads&utm\_campaign=09-09-20-webinar-smb-omnichannel_ 
 
-LinkedIn Ad: 
+Capterra PPC: _utm\_source=capterra&utm\_medium=ppc&utm\_campaign=review-platforms-paid_ 
 
-_`utm_source=linkedin&utm_medium=ads&utm_campaign=09-09-20-webinar-smb-omnichannel`_ 
-
-Capterra PPC: 
-
-_`utm_source=capterra&utm_medium=ppc&utm_campaign=review-platforms-paid`_
-
-Newsletter: 
-
-_`utm_source=newsletter&utm_medium=email&utm_campaign=newsletter-september`_
+Newsletter: _utm\_source=newsletter&utm\_medium=email&utm\_campaign=newsletter-september_
 
