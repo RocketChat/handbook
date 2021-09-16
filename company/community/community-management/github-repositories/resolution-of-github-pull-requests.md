@@ -12,7 +12,7 @@ A community team member adds him/herself as a reviewer on the PR.
 
 Next the member adds the PR link to [this clickup list](https://app.clickup.com/4207297/v/li/43369911), assigns it to him/herself and adds a due date. This is to avoid any heavy backlog in the future.
 
-### 2. Initial Assesment Of Collisions
+### 2. Initial Assesment
 
 With each pull request recieved, the assigned team member assesses it to understand whether the PR overlaps with any internal development process \(ongoing/completed/planned\) or not.
 
