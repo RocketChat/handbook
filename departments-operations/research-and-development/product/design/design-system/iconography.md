@@ -16,7 +16,7 @@ The icons are displayed most of time as 20x20px and 24x24px. However, by default
 
 Rocket.Chat icons are drawn on a pixel-based grid of 32px x 32px and scaled down to different sizes. Use the grid's keylines to shape the main structure.
 
-![](../../../../../.gitbook/assets/image-1%20%281%29%20%282%29%20%283%29%20%284%29.png)
+![](../../../../../.gitbook/assets/image-1%20%281%29%20%282%29%20%283%29%20%289%29%20%281%29.png)
 
 ### Stroke
 
@@ -61,7 +61,7 @@ Icons like Share and Back has a different icon for Android and iOS. We follow th
 
 ### Meaningful and Minimalist
 
-Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalim](../principles.md#minimalism). 
+Use meaningful icons instead of words when possible, following the Rocket.Chat's design principle of [Minimalim](../principles.md#minimalism).
 
 ### Labels
 
@@ -86,6 +86,4 @@ Consult a designer when you have a question, suggestion or you're requesting a n
 * [Optical Effects in User Interfaces](https://medium.muz.li/optical-effects-9fca82b4cd9a)
 * [Material Design System Icons](https://material.io/design/iconography/system-icons.html#grid-and-keyline-shapes)
 * [Apple System Icon Specs](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/system-icons/)
-
-
 
