@@ -6,7 +6,7 @@ Most healthy open source project maintains a queue of PRs waiting to be reviewed
 
 _The core of this process is asynchronous communication for faster resolutions._
 
-### 1. Track Internally & Externally
+### 1. Track The PR
 
 A community team member adds him/herself as a reviewer on the PR.
 

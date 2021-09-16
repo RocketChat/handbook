@@ -86,6 +86,7 @@
     * [Policy Effectiveness and Transition Period](departments-operations/finance/accounts-payable-policy/policy-effectiveness-and-transition-period.md)
   * [Payroll Schedule Process](departments-operations/finance/payroll-schedule-process.md)
 * [Marketing](departments-operations/marketing/README.md)
+  * [Content Creation](departments-operations/marketing/content-creation.md)
   * [Marketing Operations](departments-operations/marketing/marketing-operations/README.md)
     * [Lead Attribution Model](departments-operations/marketing/marketing-operations/lead-attribution-model.md)
   * [Team](departments-operations/marketing/team/README.md)

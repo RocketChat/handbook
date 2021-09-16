@@ -16,7 +16,7 @@ The icons are displayed most of time as 20x20px and 24x24px. However, by default
 
 Rocket.Chat icons are drawn on a pixel-based grid of 32px x 32px and scaled down to different sizes. Use the grid's keylines to shape the main structure.
 
-![](../../../../../.gitbook/assets/image-1%20%281%29%20%282%29%20%281%29.png)
+![](../../../../../.gitbook/assets/image-1%20%281%29%20%282%29%20%283%29%20%284%29.png)
 
 ### Stroke
 
