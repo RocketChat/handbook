@@ -1,8 +1,8 @@
-# Onboarding
+# Onboarding\*
 
 ## Your first week at Rocket.Chat
 
-1. Familiarise yourself with Rocket.Chat and the various applications and services we use.
+1. Familiarize yourself with Rocket.Chat and the various applications and services we use.
 2. You will receive a `@rocket.chat` e-mail address and invitations to our team meetings.
 3. Schedule 1:1 calls with various people in the team to get to know them.
 4. Add yourself to the [team page](https://rocket.chat/team).
