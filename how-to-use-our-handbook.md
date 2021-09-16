@@ -10,7 +10,7 @@ Rocket.Chat is **open** by default. This means that unless something is explicit
 
 ## Creating or Editing Pages
 
-To create or edit pages withing the Handbook, you will need to login to [Gitbook](https://app.gitbook.com/login) using your Github account. By hovering your mouse over the items in the menu area, you will see a plus icon that allows you to create new pages. You can also click the "New +" menu item, in the bottom.
+To create or edit pages within the Handbook, you will need to login to [Gitbook](https://app.gitbook.com/login) using your Github account. By hovering your mouse over the items in the menu area, you will see a plus icon that allows you to create new pages. You can also click the "New +" menu item, in the bottom.
 
 To edit an existing page, just open it on Github and make your changes directly in the text.
 
