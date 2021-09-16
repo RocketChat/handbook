@@ -18,7 +18,9 @@ Configure a 25 minutes default meeting duration
 
 Define speedy meetings to have 5/10 minutes intervals
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2816%29.png)
+
+{% page-ref page="blocking-calendar-slots-and-meeting-free-day.md" %}
 
 ## Respect others' calendars
 
@@ -45,6 +47,8 @@ Send out a summary of the next steps
 ### Organizing recurrent meetings
 
 Schedule recurring meetings to the beginnig of the week
+
+{% page-ref page="recurring-meetings.md" %}
 
 ## References
 

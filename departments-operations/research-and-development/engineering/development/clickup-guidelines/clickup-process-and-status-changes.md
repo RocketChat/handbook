@@ -8,7 +8,7 @@ Below you find the flow of work starting on “To Do” and ending on “Complet
 
 Please note it's not mandatory for an item to go through all this status, but it’s expected for items to move from left to right on the flow to keep communication and alignment with sprint goals.
 
-![](../../../.gitbook/assets/flow-proposal_v7.jpg)
+![](../../../../../.gitbook/assets/flow-proposal_v7.jpg)
 
 ## Description of Status and Flows
 

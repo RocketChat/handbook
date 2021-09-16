@@ -13,15 +13,15 @@ There are two notifications' levels:
 
 #### Banner
 
-![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%281%29.png)
+![](../../../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%281%29.png)
 
 #### Toast Bar
 
-![](../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29%20%283%29.png)
+![](../../../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29%20%283%29.png)
 
 #### Inline Alert
 
-![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%283%29.png)
+![](../../../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%283%29.png)
 
 ### Components' Proprieties  
 
@@ -68,7 +68,7 @@ Examples:
 
 {% tabs %}
 {% tab title="Neutral" %}
-![](../../../.gitbook/assets/neutral%20%287%29.png)
+![](../../../../../.gitbook/assets/neutral%20%287%29.png)
 
 Example:
 
@@ -77,7 +77,7 @@ Example:
 {% endtab %}
 
 {% tab title="Highlighted" %}
-![](../../../.gitbook/assets/highlight%20%282%29.png)
+![](../../../../../.gitbook/assets/highlight%20%282%29.png)
 
 Example:
 
@@ -85,7 +85,7 @@ Example:
 {% endtab %}
 
 {% tab title="Success" %}
-![](../../../.gitbook/assets/success%20%285%29.png)
+![](../../../../../.gitbook/assets/success%20%285%29.png)
 
 Example:
 
@@ -93,7 +93,7 @@ Example:
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%283%29.png)
+![](../../../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%283%29.png)
 
 Examples:
 
@@ -103,7 +103,7 @@ Examples:
 {% endtab %}
 
 {% tab title="Error" %}
-![](../../../.gitbook/assets/error%20%284%29.png)
+![](../../../../../.gitbook/assets/error%20%284%29.png)
 
 Examples:
 
@@ -123,23 +123,23 @@ They are time-based, it means that Toast Bars should disappear after a minimum o
 
 {% tabs %}
 {% tab title="Neutral" %}
-![](../../../.gitbook/assets/neutral%20%286%29.png)
+![](../../../../../.gitbook/assets/neutral%20%286%29.png)
 {% endtab %}
 
 {% tab title="Highlighted" %}
-![](../../../.gitbook/assets/highlight.png)
+![](../../../../../.gitbook/assets/highlight.png)
 {% endtab %}
 
 {% tab title="Success" %}
-![](../../../.gitbook/assets/success%20%281%29.png)
+![](../../../../../.gitbook/assets/success%20%281%29.png)
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29%20%284%29.png)
+![](../../../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="Error" %}
-![](../../../.gitbook/assets/error.png)
+![](../../../../../.gitbook/assets/error.png)
 {% endtab %}
 {% endtabs %}
 
@@ -153,15 +153,15 @@ The Inline Alerts' goal is to help users shaping their mental modal of the curre
 
 {% tabs %}
 {% tab title="Success" %}
-![](../../../.gitbook/assets/success%20%283%29.png)
+![](../../../../../.gitbook/assets/success%20%283%29.png)
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%284%29.png)
+![](../../../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="Error" %}
-![](../../../.gitbook/assets/error%20%285%29.png)
+![](../../../../../.gitbook/assets/error%20%285%29.png)
 {% endtab %}
 {% endtabs %}
 
