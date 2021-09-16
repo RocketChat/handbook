@@ -12,7 +12,7 @@ A community team member adds him/herself as a reviewer on the PR.
 
 Next the member adds the PR link to [this clickup list](https://app.clickup.com/4207297/v/li/43369911), assigns it to him/herself and adds a due date. This is to avoid any heavy backlog in the future.
 
-### 2. Initial Assesment
+### 2. Collision Detection
 
 With each pull request recieved, the assigned team member assesses it to understand whether the PR overlaps with any internal development process \(ongoing/completed/planned\) or not.
 
@@ -28,7 +28,7 @@ We value all our contributions, but if a collision happens, generally the staff 
 * **Ongoing stage:-**   If the PR overlaps an internally ongoing development process, the community PR is put on hold indefinitely.   It is now upto the community team member to talk to the Engineering Manager or the respective Product Manager for bugs and feature implementations respectively and come up with a resolution.   _90% of the time, it is safe to assume that the outside contribution will not be accepted._ 
 * **Completed stage:-**  _If the community PR collides with one of our staff PRs, the community contribution is to be politely rejected._
 
-### 3. Initial Review
+### 3. Review I
 
 The assigned community team member now determines if the PR is immediately resolvable or not. There are two questions to be asked here -
 
@@ -57,9 +57,11 @@ If it is a bug fix, the community team member attempts to review the PR. If poss
 3. Assign the respective squad lead on both ClickUp and GitHub.
 4. Extend the due date by two weeks.
 
-### 4. Final Resolution
+### 4. Review II
 
 If the PR gets to this stage, one of the developers from the respective squad reviews the PR one more time for quality check. This review process can take a couple of days to weeks. 
+
+### 5. Final Resolution
 
 Once upto satisfaction and if everything checks out, **the PR gets merged**.
 
