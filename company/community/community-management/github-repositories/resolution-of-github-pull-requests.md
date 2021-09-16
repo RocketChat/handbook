@@ -6,11 +6,11 @@ Most healthy open source project maintains a queue of PRs waiting to be reviewed
 
 _The core of this process is asynchronous communication for faster resolutions._
 
-### 1. Track Internally & Externally
+### 1. Track Internally and Externally
 
 A community team member adds him/herself as a reviewer on the PR.
 
-Next the member adds the PR link to [this clickup list](https://app.clickup.com/4207297/v/li/43369911), assigns it to him/herself and adds a due date. This is to avoid any heavy backlog in the future.
+Next the same member adds the PR link to [this clickup list](https://app.clickup.com/4207297/v/li/43369911), assigns it to him/herself and adds a due date. This is to avoid any heavy backlog in the future.
 
 ### 2. Collision Detection
 
