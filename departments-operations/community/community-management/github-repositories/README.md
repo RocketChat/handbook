@@ -4,7 +4,7 @@ With our current team-chat centric community, our 100+ Github repositories are t
 
 The Community Management team has established the following processes in handling these repositories.
 
-{% page-ref page="resolution-of-github-pull-requests.md" %}
+{% page-ref page="pull-requests.md" %}
 
 {% page-ref page="feature-requests-for-product-roadmap-inclusion.md" %}
 

@@ -69,7 +69,7 @@
         * [At 90 days](departments-operations/community/team/onboarding-overview/your-30-60-90-days-plan/at-90-days.md)
   * [Community Management](departments-operations/community/community-management/README.md)
     * [Github Repositories](departments-operations/community/community-management/github-repositories/README.md)
-      * [Resolution of Github Pull Requests](departments-operations/community/community-management/github-repositories/resolution-of-github-pull-requests.md)
+      * [Resolution of Github Pull Requests](departments-operations/community/community-management/github-repositories/pull-requests.md)
       * [Feature requests for Product Roadmap Inclusion](departments-operations/community/community-management/github-repositories/feature-requests-for-product-roadmap-inclusion.md)
       * [Expedite bug fixes to improve product quality and reliability](departments-operations/community/community-management/github-repositories/expedite-bug-fixes-to-improve-product-quality-and-reliability.md)
     * [open.rocket.chat](departments-operations/community/community-management/open.rocket.chat.md)
