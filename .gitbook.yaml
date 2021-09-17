@@ -3,4 +3,4 @@ root: ./
 redirects:
   operations/security-policy: departments-operations/security/security-policy.md
   operations/security-policy/: departments-operations/security/security-policy.md
-  company/our-culture/blocking-calendar-slots-and-meeting-free-day: company/how-tos-and-guidelines/meetings/blocking-calendar-slots-and-meeting-free-day
+  company/our-culture/blocking-calendar-slots-and-meeting-free-day: company/how-tos-and-guidelines/meetings/blocking-calendar-slots-and-meeting-free-day.md
