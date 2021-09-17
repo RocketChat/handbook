@@ -2,3 +2,4 @@ root: ./
 
 redirects:
   operations/security-policy: departments-operations/security/security-policy.md
+  operations/security-policy/: departments-operations/security/security-policy.md
