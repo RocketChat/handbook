@@ -88,7 +88,7 @@
 * [Marketing](departments-operations/marketing/README.md)
   * [Content Creation](departments-operations/marketing/content-creation.md)
   * [Marketing Operations](departments-operations/marketing/marketing-operations/README.md)
-    * [Lead Attribution Model](departments-operations/marketing/marketing-operations/lead-attribution-model.md)
+    * [Marketing Leads Attribution Model](departments-operations/marketing/marketing-operations/lead-attribution-model.md)
   * [Team](departments-operations/marketing/team/README.md)
     * [On Boarding Overview](departments-operations/marketing/team/on-boarding-overview/README.md)
       * [On- Boarding Activities](departments-operations/marketing/team/on-boarding-overview/on-boarding-activities.md)

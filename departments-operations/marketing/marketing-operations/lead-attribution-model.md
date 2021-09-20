@@ -1,20 +1,22 @@
-# Lead Attribution Model
+# Marketing Leads Attribution Model
 
 **Marketing is responsible for bringing new leads and correctly attributing and enriching them to be sent to the sales team. The data flow starts when a new contact enters Hubspot and from this point, its origin and interest must be clear for the salesperson to work with the lead.**
 
-## **Stage and Status**
+## **Lifecycle Stage and Sales Status**
 
-Stages: are focused on letting us to know the maturity of the contact, his relationship with sales. 
+To identify and assign workflows for sales processes, we have in CRM and Hubspot the fields for Stages and Status**.** 
 
-Status: helps us to know about our relationship with the contact, if already in progress, etc. This is important to know for how long sales is working with the contact and help us to create strategies around it. 
+**Lifecycle Stages \(Lead, MQL, SQL, Opportunity, Customer\):** are focused on letting us to know the maturity of the contact, his relationship with sales.   
+**Sales Status \(New, In Progress, Disqualified, Refer to Partner, Customer\):** helps us to know about our relationship with the contact, if already in progress, etc. This is important to know for how long sales is working with the contact and help us to create strategies around it.   
+**Current Status \(Active, Inactive\):** can be used in all times for contacts, meaning if there is any active sales/customer relationship or not.
 
 Both contacts and accounts have stages and status. An Account stage and status is defined by the most advanced contact stage/status. Stage Client and Status Customer predominate on others. 
 
 If we get new contacts to existing accounts, they will follow a brand new process, being recognized as a MQL/PQL and human interaction to understand if a new sales opportunity will be needed.
 
-### **Stage definitions** 
+### **Lifecycle Stage definitions** 
 
-Workflows created in Hubspot  
+Defined by workflows created in Hubspot  
 ****Location in Zoho: LEADS MODULE  
 Location in Hubspot: CONTACT MODULE
 
@@ -47,7 +49,7 @@ Location in Hubspot: CONTACT MODULE
   Automation: Every time the lifecycle status change to MQL, a task is assigned to the owner of that Lead in Zoho  
   ****
 
-* **SQL:** Responsible: Sales Description: Someone verified by SDRs through Email or Phone.  Identification: 
+* **SQL:** Responsible: Sales Description: Someone qualified by SDRs through Email or Phone.  Identification: 
   * Deal Stage is Pre-Pipe ****
 * **OPP:**  
   Responsible: Sales  
@@ -58,19 +60,19 @@ Location in Hubspot: CONTACT MODULE
 
   \*\*\*\*
 
-* **CLIENT:** Responsible: Sales Description:Active Paying customer Identification: 
+* **CLIENT:** Responsible: Sales Description: Have become a customer. Identification: 
   * Deal Stage is Closed Won
 
 ###  **Sales Status Definition:**
 
 Workflows to update from “New” are created in Zoho
 
-* New: All new entries from contact forms or product
-  * Lifecycle Stage: Lead, MQL,PQL
+* New: When the contat change lifecycle stage, it always move to "New" meaning that the contact is new to the Sales/CS responsible for the current stage. 
+  * Lifecycle Stage: Lead, MQL, PQL, SQL, Opportunity, Customer
   * Updated: Automatically by Default
-* In Progress: After any engagement of email, phone
-  * Lifecycle Stage: SQL
-  * Updated: Automatically with Task Completed
+* In Progress: After any engagement of email, phone, task
+  * Lifecycle Stage: SQL, Opportunity
+  * Updated: Automatically with 1st Task Completed in each Lifecycle Stage
 * Refer to Partner: Not for direct Sales 
   * Lifecycle Stage: MQL,PQL,SQL
   * Updated: Manually By SDR when he starts working with contact  
@@ -90,7 +92,7 @@ Workflows to update from “New” are created in Zoho
 
 ### Current Status
 
-To be added
+This field is updated based on  Leads, Deals, Accounts or  and Workspaces classified as Active or Inactive.
 
 ### **Acquisition Type and Source:**
 
