@@ -30,13 +30,13 @@ Find all of them [in this folder](https://drive.google.com/drive/u/0/folders/18N
 
 There are several flowcharts and mind maps regarding Data & Analytics structure and processes. Most of them are referenced throughout the tutorials and the handbook, but find the most important ones below:
 
+* [Data & Analytics Mind Map](https://whimsical.com/data-analytics-mind-map-LE1qQE5AygB67niR3hLdqM) 
 * [Data Infrastructure Current vs Desired State](https://whimsical.com/data-infrastructure-HWkBGEJeQmbiMLdNwVwfTT)
-* [How does our billing management work](https://whimsical.com/subscriptions-event-mapping-DfSr9a1Kcj9uuQk5ncFvYP@7YNFXnKbZA8f7NgYjPNjV)
-* [Usage Stats Policy](https://whimsical.com/usage-stats-policy-QhprF4JPtojUGkEXZ5F3jS@2Ux7TurymMYC2SmMob2B)
-* [Rocket.Chat Organization Structure](https://whimsical.com/rocket-chat-org-Fn9P7srScNYfWjTdCuAmpo@2Ux7TurymN1SMWpX8rKL)
-* [Recurring Revenue Concepts](https://whimsical.com/recurring-revenue-concepts-C7ffhDEB3oUsBeCiPeNr2j)
-* [Data & Analytics Mind Map](https://whimsical.com/data-analytics-mind-map-LE1qQE5AygB67niR3hLdqM) \(slightly outdated\)
-* [Data flow Zoho &lt;-&gt; Fleetcommand](https://whimsical.com/crm-fc-hubspot-FpcRowPYqXpxjyaRG1Lmx)
+* [How does our billing management work](https://whimsical.com/subscriptions-event-mapping-DfSr9a1Kcj9uuQk5ncFvYP@7YNFXnKbZA8f7NgYjPNjV) \(to be revised\)
+* [Usage Stats Policy](https://whimsical.com/usage-stats-policy-QhprF4JPtojUGkEXZ5F3jS@2Ux7TurymMYC2SmMob2B) \(to be revised\)
+* [Rocket.Chat Organization Structure](https://whimsical.com/rocket-chat-org-Fn9P7srScNYfWjTdCuAmpo@2Ux7TurymN1SMWpX8rKL) \(to be revised\)
+* [Recurring Revenue Concepts](https://whimsical.com/recurring-revenue-concepts-C7ffhDEB3oUsBeCiPeNr2j) \(to be revised\)
+* [Data flow Zoho &lt;-&gt; Fleetcommand](https://whimsical.com/crm-fc-hubspot-FpcRowPYqXpxjyaRG1Lmx) \(to be revised\)
 
 ### **Main OKRs level 1 related**
 
@@ -46,8 +46,8 @@ There are several flowcharts and mind maps regarding Data & Analytics structure 
 
 ### Members and functions:
 
-* [Rodrigo Bercini Martins](https://open.rocket.chat/direct/rodrigomartins): Data & Analytics Lead.
-* [João Felipe Moreira Alves](https://open.rocket.chat/direct/joao.moreira): Jr. Data Analyst.
+* [Guilherme Garcia de Souza](https://open.rocket.chat/direct/guilherme.garcia): Data & Analytics Manager.
+* [Gustavo Ciciliati](https://open.rocket.chat/direct/gustavo.ciciliati): Data Analyst.
 
 
 
