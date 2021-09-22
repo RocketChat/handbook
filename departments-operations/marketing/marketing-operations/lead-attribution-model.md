@@ -6,11 +6,11 @@
 
 To identify and assign workflows for sales processes, we have in CRM and Hubspot the fields for Stages and Status**.** 
 
-**Lifecycle Stages \(Lead, MQL, SQL, Opportunity, Customer\):** are focused on letting us to know the maturity of the contact, his relationship with sales.   
+**Lifecycle Stages \(Lead, MQL, SQL, Opportunity, Customer\):** focused on letting us to know the maturity of the contact, his relationship with sales.   
 **Sales Status \(New, In Progress, Disqualified, Refer to Partner, Customer\):** helps us to know about our relationship with the contact, if already in progress, etc. This is important to know for how long sales is working with the contact and help us to create strategies around it.   
 **Current Status \(Active, Inactive\):** can be used in all times for contacts, meaning if there is any active sales/customer relationship or not.
 
-Both contacts and accounts have stages and status. An Account stage and status is defined by the most advanced contact stage/status. Stage Client and Status Customer predominate on others. 
+Both contacts and accounts have stages and status. An Account stage and status is defined by the most advanced contact stage/status. Stage Client predominate on others. 
 
 If we get new contacts to existing accounts, they will follow a brand new process, being recognized as a MQL/PQL and human interaction to understand if a new sales opportunity will be needed.
 
@@ -67,14 +67,14 @@ Location in Hubspot: CONTACT MODULE
 
 Workflows to update from “New” are created in Zoho
 
-* New: When the contat change lifecycle stage, it always move to "New" meaning that the contact is new to the Sales/CS responsible for the current stage. 
-  * Lifecycle Stage: Lead, MQL, PQL, SQL, Opportunity, Customer
+* New: When the contact changes its lifecycle stage, it always move to "New" meaning that the contact is new to the Sales/CS responsible for the current stage. 
+  * Lifecycle Stage: Lead, MQL/PQL, SQL, Opportunity, Customer
   * Updated: Automatically by Default
 * In Progress: After any engagement of email, phone, task
-  * Lifecycle Stage: SQL, Opportunity
+  * Lifecycle Stage: MQL/PQL, SQL, Opportunity
   * Updated: Automatically with 1st Task Completed in each Lifecycle Stage
 * Refer to Partner: Not for direct Sales 
-  * Lifecycle Stage: MQL,PQL,SQL
+  * Lifecycle Stage: MQL/PQL, SQL
   * Updated: Manually By SDR when he starts working with contact  
 * Disqualified 
   * Lifecycle Stage: MQL,PQL, SQL, Opp
@@ -92,7 +92,27 @@ Workflows to update from “New” are created in Zoho
 
 ### Current Status
 
-This field is updated based on  Leads, Deals, Accounts or  and Workspaces classified as Active or Inactive.
+Workflows updated at Zoho.  
+****This field is updated based on the sales relationship with a contact regarding ongoing negotiations or customer relationship. Leads, Contacts and Accounts can be classified as Active or Inactive.
+
+_Leads module at Zoho CRM \(In future\)_   
+Lifecycle Stage: Lead, MQL   
+Current Status Active: Leads with Sales Status New, In Progress or Refer to Partner   
+Current Status Inactive: Leads with Sales Status Disqualified   
+Update: Automatically based on Sales Status
+
+_Contacts module at Zoho CRM_   
+Lifecycle Stage: MQL, SQL, Opportunity   
+Current Status Active: Contact with Sales Status New, In Progress or Refer to Partner   
+Current Status Inactive: Contact with Sales Status Disqualified   
+Update: Automatically based on Sales Status  
+Lifecycle Stage: Customer   
+Current Status Active: There is an active deal OR an open renewal OR active workspace that is not on trial.   
+Current Status Inactive: Customer doesn’t have any open deal or active contract or active workspace.   
+Update: Automatically based on workflows at CRM
+
+_Accounts_   
+Follow the current status of its contacts, giving priority to Active. Update: Automatically based on workflows at CRM
 
 ### **Acquisition Type and Source:**
 
