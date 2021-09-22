@@ -10,6 +10,7 @@ We need to make sure the security best practices are being applied and guarantee
 
 * [Markus Kirsch](https://open.rocket.chat/direct/markus.kirsch): Security Lead
 * [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Security Engineer
+* [Igor Rincon](https://open.rocket.chat/direct/igor.rincon): Staff Security Engineer
 
 ### Top OKRs, relevant for Security function, built by stakeholder input
 
