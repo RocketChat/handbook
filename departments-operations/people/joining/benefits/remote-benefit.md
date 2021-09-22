@@ -39,9 +39,9 @@ When converting rates to or from USD, we will use the closing rate at [https://x
 * **Brazil \(including office boundaries\):**
   * Amount: R$200 per month, totaling a maximum of R$2,400 in one year. 
 * **Canada/Germany/Portugal/Spain/France/USA/UK:**
-  * Amount: US$150 per month, totaling US$1,800 in one year. 
+  * Amount: US$150 or €150 per month, totaling 1,800 in one year. 
 * **Other countries not listed above:**
-  * Amount: US$100 per month, totaling US$1,200 in one year.
+  * Amount: US$100 or €100 per month, totaling 1,200 in one year.
 
 ### Expensing
 
