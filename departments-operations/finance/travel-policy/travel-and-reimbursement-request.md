@@ -128,9 +128,9 @@ description: How to request your travel and reimbusements
 * In case of mileage reimbursement: the employee should inform only the amount of kilometers to be reimbursed, leaving the “Exchange rate” field blank. Finance will calculate the amount to be paid according to this policy.
 * In case of international purchases using the employee’s personal credit card: the employee should attach a copy of the credit card statement to the reimbursement request template.
 * The dates for reimbursement payment are the same as the one for the remote benefit:
-* Every request approved until the 15th of each month \(or the next business day\), will be paid in the payroll cycle of that same month.
-  * Requests approved after the 15th, will be paid in the payroll cycle of the subsequent month.
-  * e.g. If a request is made on April 13th, the reimbursement will be paid by the end of April, along with the salary payment. If a request is made on April 16th, the reimbursement will be paid by the end of May, along with the salary payment.
+  * Every request approved until the 15th of each month \(or the next business day\), will be paid in the payroll cycle of that same month.
+    * Requests approved after the 15th, will be paid in the payroll cycle of the subsequent month.
+    * e.g. If a request is made on April 13th, the reimbursement will be paid by the end of April, along with the salary payment. If a request is made on April 16th, the reimbursement will be paid by the end of May, along with the salary payment.
 
 ## Inflation adjustment
 
