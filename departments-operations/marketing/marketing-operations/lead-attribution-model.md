@@ -116,6 +116,9 @@ Follow the current status of its contacts, giving priority to Active. Update: Au
 
 ### **Acquisition Type and Source:**
 
+Acquisition Type Inbound, Outbound and Partner are updated through Hubspot Workflow  
+Acquisition type Product are updated from Fleetcomand and sent to Hubspot 
+
 | **Acquisition Type** | **Source** |
 | :--- | :--- |
 | Inbound | Website Form, Webinar, Livechat, Livechat\(Offline\), Support, Download, Technology Review, Referral, Events |
