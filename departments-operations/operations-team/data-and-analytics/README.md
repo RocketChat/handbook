@@ -12,8 +12,6 @@ If you just started at Rocket.Chat or you want to know more about how to access 
 
 The Data & Analytics team is one of the main Cross-Functional Teams at Rocket.Chat, working closely together with several other teams and departments. One can find more info about how we interact with these other departments [here](https://handbook.rocket.chat/company/operations-team/data-and-analytics/data-as-a-cross-functional-team). ****Due to this characteristic, we receive a lot of new data product requests. To better triage these requests and properly assign capacity to them, we developed a form called "Data Request Form", where the requestee must provide extensive details about which kind of data they need, how are they going to use it, main stakeholders, etc.
 
-[Data Request Form](https://forms.clickup.com/f/40cp1-10874/VXGIT5GC5694DYWC3Y) \(link to edit the form [here](https://app.clickup.com/4207297/v/fm/40cp1-10874)\).
-
 ### Tutorials 
 
 We have tutorials for the following topics:
