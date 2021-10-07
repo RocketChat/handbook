@@ -124,7 +124,7 @@ Acquisition type Product are updated from Fleetcomand and sent to Hubspot
 | Inbound | Website Form, Webinar, Livechat, Livechat\(Offline\), Support, Download, Technology Review, Referral, Events |
 | Outbound | Enrichment, Outsourced |
 | Partner | Referral |
-| Product Led  | Community, SaaS |
+| Product Led  | Community, SaaS, Enterprise |
 
 ## **Third Level Attribution**
 

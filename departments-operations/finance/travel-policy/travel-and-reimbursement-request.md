@@ -6,17 +6,25 @@ description: How to request your travel and reimbusements
 
 ## Travel request
 
-* All travel requests must be done using the travel request form in Zoho \([link here](https://people.zoho.com/rocketchat/zp#travel/form/listview-formId:524549000000035731/viewId:524549000000035733)\);
-* All travels should be requested in the following time frame:
+* All travel requests must be done using the [Travel Request form](https://people.zoho.com/rocketchat/zp#travel/form/listview-formId:524549000000035731/viewId:524549000000035733), in Zoho .
+* All trips should be requested in the following time frame:
   * Domestic travel: at least 15 days in advance;
   * International travel: at least 21 days in advance.
-* All travel must be approved by the department head, by e-mail. The approval should be attached to the travel request form.
 * Employees should not book their own flight tickets and request reimbursement before the travel request approval, unless previously justified and approved by the Head of Department
 
 ## Flight ticket purchase
 
-* Employees should choose the cheaper flight ticket available, according to their travel schedule.
-* Employees should inform the Accounts Payables team if they need the company to purchase the ticket or if they can be reimbursed for it. This should be indicated in the Travel request form.
+### Employees traveling from Brazil
+
+* The Accounts Payable team will purchase the cheapest flight ticket available, according to the travel schedule specified in the travel request form.
+
+### Employees travelling from other countries
+
+* Employees should buy their own flight ticket and request the reimbursement, via the [Travel Expense form](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses), in Zoho.
+* Employees should choose the cheapest flight ticket available, according to their travel schedule.
+
+### Type of flight ticket
+
 * Employees are expected to travel using economy class, with a few narrow exceptions \(e.g. trips longer than 12 hours direct flight time\) and subject to CEO and General Manager previous approval.
 
 ## Lodging
@@ -121,9 +129,14 @@ description: How to request your travel and reimbusements
   * The meal should be paid by the most senior member of the group.
   * The reimbursement will be paid to this person.
 
+## Telephone charges
+
+* In case of international travel, Rocket.Chat will reimburse telephone charges incurred from the activation of international roaming.
+* Employees should attach their telephone bill to the [Travel Expense form](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses), in Zoho.
+
 ## Reimbursement request 
 
-* Reimbursement requests should be submitted using this template \([link here](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses)\).
+* Reimbursement requests should be submitted using the [Travel Expense form](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses), in Zoho.
 * Receipts must be scanned and submitted along with the Reimbursement template.
 * In case of mileage reimbursement: the employee should inform only the amount of kilometers to be reimbursed, leaving the “Exchange rate” field blank. Finance will calculate the amount to be paid according to this policy.
 * In case of international purchases using the employee’s personal credit card: the employee should attach a copy of the credit card statement to the reimbursement request template.
