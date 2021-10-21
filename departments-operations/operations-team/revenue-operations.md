@@ -2,7 +2,7 @@
 
 ### Purpose
 
-The team aims to increase sales teams efficiency through processes all while generating high quality data for insights.  
+The team aims to increase sales teams efficiency through processes all while generating high quality data for insights.\
 
 
 ### Main OKRs level 1 related
@@ -16,11 +16,9 @@ The team aims to increase sales teams efficiency through processes all while gen
 * [Jorge Máximo](https://open.rocket.chat/direct/jorge.maximo): Junior Sales Ops
   * Work focused within the sales team to reduce friction and increase value by guaranteeing data quality and process enforcement;
 * [Guilherme Scarpa](https://open.rocket.chat/direct/guilherme.scarpa): Revenue Ops Intern
-  * Works towards connecting the entire bow-tie funnel \(marketing, sales, customer success\) along with product and finance teams through processes and data analysis. 
+  * Works towards connecting the entire bow-tie funnel (marketing, sales, customer success) along with product and finance teams through processes and data analysis.&#x20;
 * [Paola Palhais](https://open.rocket.chat/direct/paola.palhais): Senior Sales Ops
   * Work on designing processes, project management and performance evaluation
-
-
 
 
 

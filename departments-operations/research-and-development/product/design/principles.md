@@ -18,7 +18,7 @@ While designing an interface, take a step back and analyze the overall possibili
 
 ## Recognition Rather than Recall
 
-Do not overload the user's memory, add visual cues through their journey so they can recognize rather than recall. The recognition is easier than recall because it is connected to more cues; information spread which activate that related information in their memory. 
+Do not overload the user's memory, add visual cues through their journey so they can recognize rather than recall. The recognition is easier than recall because it is connected to more cues; information spread which activate that related information in their memory.&#x20;
 
 #### Validation Guide
 
@@ -29,12 +29,12 @@ Do not overload the user's memory, add visual cues through their journey so they
 
 ## Focus
 
-Its purpose is to direct the audience's attention, as fewer spotlight areas we have at the same time, as focused the users will be on their current task. 
+Its purpose is to direct the audience's attention, as fewer spotlight areas we have at the same time, as focused the users will be on their current task.&#x20;
 
 #### Validation Guide
 
-* Are all CTAs available \(at the same time\) really necessary? Can we focus just on some of them during this specific user task?
-* Are ****there any important information being hidden in the clutter?
+* Are all CTAs available (at the same time) really necessary? Can we focus just on some of them during this specific user task?
+* Are** **there any important information being hidden in the clutter?
 
 ## Consistent and Meaningful Motion
 
@@ -47,7 +47,7 @@ Real-world is not static so the product either. However, the motion must be cons
 
 ## Design Together
 
-Design is made by the collaboration of different people, with different backgrounds. 
+Design is made by the collaboration of different people, with different backgrounds.&#x20;
 
 #### Validation Guide
 
@@ -62,7 +62,7 @@ Bias influences our worldview, we must keep the awareness of how other digital p
 #### Validation Guide
 
 * How do competitors approach this?
-* Is there already a similar mental model in another product? 
+* Is there already a similar mental model in another product?&#x20;
 
 ## Multi-language First
 
@@ -75,7 +75,7 @@ The product is worldwide used. Always when designing a piece of the software, yo
 
 ## Minimalism
 
-By reducing the amount of words and any UI elements, we increase the users' attention on the ones that are really important. 
+By reducing the amount of words and any UI elements, we increase the users' attention on the ones that are really important.&#x20;
 
 Antoine de Saint-Exupery said "perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away".
 
@@ -84,4 +84,3 @@ Antoine de Saint-Exupery said "perfection is achieved, not when there is nothing
 * Was it written with the fewest words?
 * Did you use a meaningful icon instead of words where you could?
 * Did you use the fewest number of steps?
-
