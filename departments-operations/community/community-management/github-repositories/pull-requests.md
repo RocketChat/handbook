@@ -1,6 +1,6 @@
 # Resolution of Github Pull Requests
 
-Github Pull Requests are code contributions made by our code contributors (both internal staff and community members). The objective of this process is to expedite the resolution of Github PRs created by our community of contributors.
+Github Pull Requests are code contributions made by our code contributors \(both internal staff and community members\). The objective of this process is to expedite the resolution of Github PRs created by our community of contributors.
 
 Most healthy open source project maintains a queue of PRs waiting to be reviewed and merged. Maintaining this queue at a reasonable length and avoiding heavy backlog from lead community contributors is the main goal of this process.
 
@@ -25,7 +25,7 @@ But with such a huge community like ours, overlapping PRs are a big possibility.
 
 Here is a general development pipeline to follow -
 
-```
+```text
 Planning -> In Progress -> Completed
 ```
 
@@ -39,25 +39,9 @@ Finally when the staff engineer opens a PR, the process is considered to have re
 
 We value all our contributions, but if an overlap comes to be, generally the staff PRs get precedence over community contributions. Following is a step by step process of what to do at which stage.
 
-* **Planning stage**\
-  ****\
-  ****_The community PR is put on hold_.\
-  \
-  The community team member then contacts the Product Manager or the Engineering Manager for feature implementations and bug fixes respectively as soon as possible to avoid it reaching any of the next two stages.\
-  \
-  _Whether the PR will be accepted or not stays inconclusive in the meantime._ \
-
-* **Ongoing stage**\
-  ****\
-  ****_The community PR is put on hold indefinitely._\
-  \
-  It is now upto the community team member to talk to the Engineering Manager or the respective Product Manager for bugs and feature implementations respectively and come up with a resolution.\
-  \
-  _It'd be safe to assume that the outside contribution will not be accepted._ \
-
-* **Completed stage**\
-  ****\
-  ****_The community contribution is to be politely rejected._
+* **Planning stage**  _The community PR is put on hold_.  The community team member then contacts the Product Manager or the Engineering Manager for feature implementations and bug fixes respectively as soon as possible to avoid it reaching any of the next two stages.  _Whether the PR will be accepted or not stays inconclusive in the meantime._  
+* **Ongoing stage**  _The community PR is put on hold indefinitely._  It is now upto the community team member to talk to the Engineering Manager or the respective Product Manager for bugs and feature implementations respectively and come up with a resolution.  _It'd be safe to assume that the outside contribution will not be accepted._  
+* **Completed stage**  _The community contribution is to be politely rejected._
 
 ## 3. Review I
 
@@ -75,7 +59,7 @@ If the previous two checks are passed - is there any visible overlap? Go to the 
 2. Set the appropriate squad.
 3. Assign to the respective squal lead.
 
-Is the feature planned to be implemented in the current release? If so,&#x20;
+Is the feature planned to be implemented in the current release? If so, 
 
 * Extend the due date by two weeks.
 
@@ -99,3 +83,4 @@ If the PR gets to this stage, one of the developers from the respective squad re
 ## 5. Final Resolution
 
 Once upto satisfaction and if everything checks out, **the PR gets merged**.
+

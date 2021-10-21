@@ -4,7 +4,7 @@ description: Find below Rocket.Chat’s new positioning with approved boilerplat
 
 # Company Positioning and Messaging
 
-👉🏽 Official slides with positioning & messaging [here](https://docs.google.com/presentation/d/1JtzgWp4QTT5CRdBHAfl8GRjNyhiHKYX-oz0dwNd7Q30/edit#slide=id.gdc98ffbd9f\_0\_142).
+👉🏽 Official slides with positioning & messaging [here](https://docs.google.com/presentation/d/1JtzgWp4QTT5CRdBHAfl8GRjNyhiHKYX-oz0dwNd7Q30/edit#slide=id.gdc98ffbd9f_0_142).
 
 ## What is Rocket.Chat?
 
@@ -16,7 +16,7 @@ Rocket.Chat brings data protection into every conversation.
 
 ### **The One-Paragraph Elevator Pitch**
 
-Rocket.Chat is a communications platform that enables real-time conversations between colleagues, with other companies or with your customers. It does everything other platforms do, except exposing your data.\
+Rocket.Chat is a communications platform that enables real-time conversations between colleagues, with other companies or with your customers. It does everything other platforms do, except exposing your data.  
 
 
 ### **The 100 Words Description**
@@ -38,38 +38,22 @@ Think industries: Government & defense, financial services / banking, healthcare
 
 ## **Unique Differentiators**
 
-1. **SaaS or Self-hosted.**\
-   ****Control over the stewardship of your data.\
-   ****
-2. **Privacy & security first.**\
-   ****E2E encryption, ISO 27001 certified and compliant with GDPR, CCPA, LGPD and HIPAA.\
-   ****
-3. **Full access to the code.**\
-   ****Unlimited customizations, security assurances and ability to see and contribute to the roadmap.\
-
-4. **Every conversation. Every channel.**\
-   ****Talk to colleagues, partners, vendors, website visitors or customers, regardless of the channel they choose to connect with you.
+1. **SaaS or Self-hosted.** Control over the stewardship of your data. ****
+2. **Privacy & security first.** E2E encryption, ISO 27001 certified and compliant with GDPR, CCPA, LGPD and HIPAA. ****
+3. **Full access to the code.** Unlimited customizations, security assurances and ability to see and contribute to the roadmap. 
+4. **Every conversation. Every channel.** Talk to colleagues, partners, vendors, website visitors or customers, regardless of the channel they choose to connect with you.
 
 ### **Against Open Source Competitors:**
 
-1. **Truly Open Source.**\
-   ****Only player offering MIT license.\
-   ****
-2. **Every conversation. Every channel.**\
-   ****Talk to customers, partners, vendors, website visitors or customers, regardless of the channel they choose to connect with you.
+1. **Truly Open Source.** Only player offering MIT license. ****
+2. **Every conversation. Every channel.** Talk to customers, partners, vendors, website visitors or customers, regardless of the channel they choose to connect with you.
 
 ### **Against Slack & MS Teams:**
 
-1. **Self-hosted option.**\
-   ****Control over the stewardship of your data.\
-   ****
-2. **Full access to the code.**\
-   ****Unlimited customizations, security assurances and ability to see and contribute to the roadmap.\
-   ****
-3. **Privacy & security first.**\
-   ****E2E encryption, ISO 27001 certified and compliant with GDPR, CCPA, LGPD and HIPAA.\
+1. **Self-hosted option.** Control over the stewardship of your data. ****
+2. **Full access to the code.** Unlimited customizations, security assurances and ability to see and contribute to the roadmap. ****
+3. **Privacy & security first.** E2E encryption, ISO 27001 certified and compliant with GDPR, CCPA, LGPD and HIPAA. 
+4. **Connect across Slack & MS Teams.** Use Rocket.Chat to communicate with people who message you from Slack or MS Teams.
 
-4. **Connect across Slack & MS Teams.**\
-   Use Rocket.Chat to communicate with people who message you from Slack or MS Teams.
+\*\*\*\*
 
-****
