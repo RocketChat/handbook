@@ -16,7 +16,7 @@ We need to make sure the security best practices are being applied and guarantee
 ### Top OKRs, relevant for Security function, built by stakeholder input
 
 1. Company Scale - Scale and build a strong (Security) Team, (while: Securing other teams´ growth)
-2. Revenue Stream - Grow the business, driving $10 mio ARR
+2. Revenue Stream - Grow the business, driving ARR
 3. Customer Centric - Productize internal services or processes, applying a CC-attitude
 4. Enterprise Product - Establish industry leadership as B2B comms platform
 5. Community Engagement - Increase dev relationships (incl. White hats)
@@ -31,6 +31,7 @@ Discussion Channels
 
 * [RC security channel](https://open.rocket.chat/group/rocketchat-security) - day-to-day conversation, invite on request
 * [RC important](https://open.rocket.chat/group/important) - company-wide announcements
+* RC-security-team - team-internal conversations, all team members are added during onboarding
 
 Mailing lists
 
