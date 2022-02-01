@@ -48,15 +48,13 @@ Do NOT assume anything! Make sure you get a clear understanding of where the per
 
 4-Go over question C and see if it’s aligned in any way to persons goal or at a very high level, how it might be connected. PS: Might be a good time to get alignment on value being brought by the person.
 
-&#x20;
-
 5-Now it’s time to work on Personal SWOT Matrix. Recommend starting with internal factors (Strengths and Weakness) and later move to external factors (Opportunities and Threats).
 
-&#x20;                              ![](<../../../../.gitbook/assets/image (22).png>)
+![](<../../../../.gitbook/assets/image (22) (1).png>)
 
-![Diagrama, Texto, chat ou mensagem de texto
+!\[Diagrama, Texto, chat ou mensagem de texto
 
-Descrição gerada automaticamente](file:///C:/Users/DELL/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.png)PS: Don’t worry if matrix is not fully complete by the end of the meeting. Person should complete and have it available for next meeting.
+Descrição gerada automaticamente]\(file:///C:/Users/DELL/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.png)PS: Don’t worry if matrix is not fully complete by the end of the meeting. Person should complete and have it available for next meeting.
 
 6-End the meeting here and let time to reflect.\
 Manager should share RC career guidelines and relevant resources that can help the engineer prior to next meeting (i.e. articles, books, people to talk with, handbook pages, etc). Engineer should search for skills and further details on career objectives as well as complete the SWOT matrix.
@@ -72,8 +70,6 @@ F-Review Objective and SWOT
 G-Skills and gaps
 
 H-How will we follow up”
-
-&#x20;
 
 8-Make sure to revisit engineer objective and personal SWOT details to be aligned on career aspirations.
 
