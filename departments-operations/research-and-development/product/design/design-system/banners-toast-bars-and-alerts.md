@@ -13,42 +13,42 @@ There are two notifications' levels:
 
 #### Banner
 
-![](../../../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%285%29%20%281%29%20%2817%29.png)
+![](<../../../../../.gitbook/assets/warning (5) (2) (2) (4) (5) (1) (23).png>)
 
 #### Toast Bar
 
-![](../../../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29%20%283%29%20%284%29.png)
+![](<../../../../../.gitbook/assets/warning (8) (2) (2) (3) (3) (17).png>)
 
 #### Inline Alert
 
-![](../../../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%286%29%20%283%29%20%2814%29.png)
+![](<../../../../../.gitbook/assets/warning (2) (2) (2) (4) (6) (3) (20).png>)
 
 ### Components' Proprieties
 
-| Type | Interaction | System Level | User Level | Time-based | Dismissed by the User |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Banner** | Persist until dismissed by the user and may contain links so they can handle the notification | Yes | No | No | Depends on the importance |
-| **Toast Bar** | Disappear automatically and can be dismissed by the user | No | Yes | Yes | Yes |
-| **Inline Alert** | Persist until its status changes, once this happens, its life-cycle starts again. It can not be dismissed by the user | Yes | Yes | No | No |
+| Type             | Interaction                                                                                                           | System Level | User Level | Time-based | Dismissed by the User     |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------- | ------------------------- |
+| **Banner**       | Persist until dismissed by the user and may contain links so they can handle the notification                         | Yes          | No         | No         | Depends on the importance |
+| **Toast Bar**    | Disappear automatically and can be dismissed by the user                                                              | No           | Yes        | Yes        | Yes                       |
+| **Inline Alert** | Persist until its status changes, once this happens, its life-cycle starts again. It can not be dismissed by the user | Yes          | Yes        | No         | No                        |
 
 ### Notification Types
 
-| Type | Usage |
-| :--- | :--- |
-| Neutral | Provide users information and next steps so they can understand and address the notification. |
-| Highlighted | Similar to Neutral, however they should be used when we need to bring the information to the users' attention. |
-| Success | It confirms that a task was completed as expected. |
-| Warning | It provides feedback of pending actions or about things that in the future may turn into a problem as well as an informed way to prevent it to happen. |
-| Error | It alerts a task _\*\*_was not completed as expected and also provides a way to address the issue or contact the Support Team. |
+| Type        | Usage                                                                                                                                                  |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Neutral     | Provide users information and next steps so they can understand and address the notification.                                                          |
+| Highlighted | Similar to Neutral, however they should be used when we need to bring the information to the users' attention.                                         |
+| Success     | It confirms that a task was completed as expected.                                                                                                     |
+| Warning     | It provides feedback of pending actions or about things that in the future may turn into a problem as well as an informed way to prevent it to happen. |
+| Error       | It alerts a task \_\*\*\_was not completed as expected and also provides a way to address the issue or contact the Support Team.                       |
 
 ### Notification Importance
 
-| Type | Feedback Type | Red Route\* Breaker |
-| :--- | :--- | :--- |
-| Urgent | Error or Success | Yes |
-| Important | Warning or Success | Maybe in the future |
-| Relevant | Highlighted | No |
-| Informative Only | Neutral | No |
+| Type             | Feedback Type      | Red Route\* Breaker |
+| ---------------- | ------------------ | ------------------- |
+| Urgent           | Error or Success   | Yes                 |
+| Important        | Warning or Success | Maybe in the future |
+| Relevant         | Highlighted        | No                  |
+| Informative Only | Neutral            | No                  |
 
 **Red Route:** They are the critical tasks a system has. Having any of these flows broke means that a valuable part of the system are not usable and it compromises the overall product experience.
 
@@ -68,7 +68,7 @@ Examples:
 
 {% tabs %}
 {% tab title="Neutral" %}
-![](../../../../../.gitbook/assets/neutral%20%287%29.png)
+![](<../../../../../.gitbook/assets/Neutral (9).png>)
 
 Example:
 
@@ -77,7 +77,7 @@ Example:
 {% endtab %}
 
 {% tab title="Highlighted" %}
-![](../../../../../.gitbook/assets/highlight%20%282%29.png)
+![](<../../../../../.gitbook/assets/Highlight (3).png>)
 
 Example:
 
@@ -85,7 +85,7 @@ Example:
 {% endtab %}
 
 {% tab title="Success" %}
-![](../../../../../.gitbook/assets/success%20%285%29.png)
+![](<../../../../../.gitbook/assets/Success (5).png>)
 
 Example:
 
@@ -93,7 +93,7 @@ Example:
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../../../.gitbook/assets/warning%20%285%29%20%282%29%20%282%29%20%284%29%20%285%29%20%281%29.png)
+![](<../../../../../.gitbook/assets/warning (5) (2) (2) (4) (5) (1) (24).png>)
 
 Examples:
 
@@ -103,7 +103,7 @@ Examples:
 {% endtab %}
 
 {% tab title="Error" %}
-![](../../../../../.gitbook/assets/error%20%284%29.png)
+![](<../../../../../.gitbook/assets/Error (5).png>)
 
 Examples:
 
@@ -123,23 +123,23 @@ They are time-based, it means that Toast Bars should disappear after a minimum o
 
 {% tabs %}
 {% tab title="Neutral" %}
-![](../../../../../.gitbook/assets/neutral%20%286%29.png)
+![](<../../../../../.gitbook/assets/Neutral (7).png>)
 {% endtab %}
 
 {% tab title="Highlighted" %}
-![](../../../../../.gitbook/assets/highlight.png)
+![](<../../../../../.gitbook/assets/Highlight (2).png>)
 {% endtab %}
 
 {% tab title="Success" %}
-![](../../../../../.gitbook/assets/success%20%281%29.png)
+![](<../../../../../.gitbook/assets/Success (4).png>)
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../../../.gitbook/assets/warning%20%288%29%20%282%29%20%282%29%20%283%29%20%283%29%20%285%29.png)
+![](<../../../../../.gitbook/assets/warning (8) (2) (2) (3) (3) (18).png>)
 {% endtab %}
 
 {% tab title="Error" %}
-![](../../../../../.gitbook/assets/error.png)
+![](<../../../../../.gitbook/assets/Error (4).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -153,15 +153,14 @@ The Inline Alerts' goal is to help users shaping their mental modal of the curre
 
 {% tabs %}
 {% tab title="Success" %}
-![](../../../../../.gitbook/assets/success%20%283%29.png)
+![](<../../../../../.gitbook/assets/Success (3).png>)
 {% endtab %}
 
 {% tab title="Warning" %}
-![](../../../../../.gitbook/assets/warning%20%282%29%20%282%29%20%282%29%20%284%29%20%286%29%20%283%29%20%2811%29.png)
+![](<../../../../../.gitbook/assets/warning (2) (2) (2) (4) (6) (3) (21).png>)
 {% endtab %}
 
 {% tab title="Error" %}
-![](../../../../../.gitbook/assets/error%20%285%29.png)
+![](<../../../../../.gitbook/assets/Error (3).png>)
 {% endtab %}
 {% endtabs %}
-

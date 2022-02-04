@@ -18,9 +18,11 @@ Configure a 25 minutes default meeting duration
 
 Define speedy meetings to have 5/10 minutes intervals
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](<../../../.gitbook/assets/image (12).png>)
 
-{% page-ref page="blocking-calendar-slots-and-meeting-free-day.md" %}
+{% content-ref url="blocking-calendar-slots-and-meeting-free-day.md" %}
+[blocking-calendar-slots-and-meeting-free-day.md](blocking-calendar-slots-and-meeting-free-day.md)
+{% endcontent-ref %}
 
 ## Respect others' calendars
 
@@ -36,7 +38,7 @@ Prepare an agenda
 
 Avoid the status meetings
 
-Invite only the people who need to attend \(mark people as optional\)
+Invite only the people who need to attend (mark people as optional)
 
 Start and end on time
 
@@ -48,7 +50,9 @@ Send out a summary of the next steps
 
 Schedule recurring meetings to the beginnig of the week
 
-{% page-ref page="recurring-meetings.md" %}
+{% content-ref url="recurring-meetings.md" %}
+[recurring-meetings.md](recurring-meetings.md)
+{% endcontent-ref %}
 
 ## References
 
@@ -57,6 +61,3 @@ Schedule recurring meetings to the beginnig of the week
 {% embed url="https://hbr.org/2015/03/how-to-design-an-agenda-for-an-effective-meeting" %}
 
 {% embed url="https://unito.io/blog/running-effective-meetings-tips/" %}
-
-
-

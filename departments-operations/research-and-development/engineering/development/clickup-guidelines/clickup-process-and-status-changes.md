@@ -8,7 +8,7 @@ Below you find the flow of work starting on “To Do” and ending on “Complet
 
 Please note it's not mandatory for an item to go through all this status, but it’s expected for items to move from left to right on the flow to keep communication and alignment with sprint goals.
 
-![](../../../../../.gitbook/assets/flow-proposal_v7.jpg)
+![](<../../../../../.gitbook/assets/Flow Proposal\_v7.jpg>)
 
 ## Description of Status and Flows
 
@@ -32,7 +32,7 @@ If needed, a new backlog item can be created to split the existing item into mul
 
 ### Waiting Review
 
-**Waiting Review** status is used when backlog item coding has been completed and it’s waiting for secondary review by another engineer. \(aka peer review\)
+**Waiting Review** status is used when backlog item coding has been completed and it’s waiting for secondary review by another engineer. (aka peer review)
 
 ### In Review
 
@@ -58,7 +58,7 @@ Any item placed on this status needs to go back to In progress status before mov
 
 ### Done
 
-**Done** status means an item was merged \(if needed\) and can be deployed during release.
+**Done** status means an item was merged (if needed) and can be deployed during release.
 
 ### Complete
 
@@ -71,4 +71,3 @@ Production-ready on Rocket.Chat is a release bundle available for customers to a
 ### Blocked
 
 **Blocked** status shows an item is blocked and requires blockers of any kind for further actions. Any status except for Complete can go to Blocked and vice-versa. Backlog item assignee is responsible for placing comments related to blocker and sharing with the team what is needed for blockers to be removed.
-

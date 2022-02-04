@@ -8,7 +8,7 @@ The paths consider technical and nontechnical aspects based on a “Y” career 
 
 ## Levels
 
-![](../../.gitbook/assets/screen-shot-2021-09-08-at-12.27.54.png)
+![](<../../.gitbook/assets/Screen Shot 2021-09-08 at 12.27.54.png>)
 
 ### Strategic level
 
@@ -56,7 +56,7 @@ The operational team member executes the process and **adds value to the product
 
 #### Outcome
 
-The operational team must answer **WHAT** company objectives were reached**.** As the closest client part of the company, the team helps provide feedback that will enable the organization to set new strategies and tactics. The members of this level have to provide operational support and information for the other levels of the organization. This stage offers a Day-to-day view of the company.
+The operational team must answer **WHAT** company objectives were reached\*\*.\*\* As the closest client part of the company, the team helps provide feedback that will enable the organization to set new strategies and tactics. The members of this level have to provide operational support and information for the other levels of the organization. This stage offers a Day-to-day view of the company.
 
 ## The Rocket.Chat Career Path
 
@@ -98,7 +98,7 @@ The second step of the tactical level is acting as a high consultant and a corpo
 
 **First stage**
 
-Distinguished: At this level, the person's contribution plays to their strength and role on the team. These contributions come in different forms: Provides technical direction to stakeholders \(Product, Sales, others\) and being the primary reference for the company on a specific topic influencing the company’s strategic decisions.
+Distinguished: At this level, the person's contribution plays to their strength and role on the team. These contributions come in different forms: Provides technical direction to stakeholders (Product, Sales, others) and being the primary reference for the company on a specific topic influencing the company’s strategic decisions.
 
 **Second stage**
 
@@ -112,7 +112,7 @@ In the management path, the team member can reach the following levels:
 
 **First stage**
 
-Manager: At this level, the managers will seek to build out a great team, happy and prosperous; They will improve processes to make the team more effective. Plan and execute long-term strategies that benefit the team and the product stage**.** In charge of the people management, the manager must hold regular 1:1's with all team members helping the people evolve and grow up as a professional.
+Manager: At this level, the managers will seek to build out a great team, happy and prosperous; They will improve processes to make the team more effective. Plan and execute long-term strategies that benefit the team and the product stage\*\*.\*\* In charge of the people management, the manager must hold regular 1:1's with all team members helping the people evolve and grow up as a professional.
 
 **Second stage**
 
@@ -141,4 +141,3 @@ It Is important to reinforce that all the positions will receive a grade, and th
 The grades start at four and go until 16, and it doesn’t depend if the team member is a Manager or an Individual Contributor. An individual contributor can have the same grade as the Manager and consequently the same salary input. It is also must consider that the compensation has others inputs like the region and fee charges.
 
 ![](../../.gitbook/assets/1.png)
-
