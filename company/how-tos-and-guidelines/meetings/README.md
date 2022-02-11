@@ -18,7 +18,7 @@ Configure a 25 minutes default meeting duration
 
 Define speedy meetings to have 5/10 minutes intervals
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (16).png>)
 
 {% content-ref url="blocking-calendar-slots-and-meeting-free-day.md" %}
 [blocking-calendar-slots-and-meeting-free-day.md](blocking-calendar-slots-and-meeting-free-day.md)

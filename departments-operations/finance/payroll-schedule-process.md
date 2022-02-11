@@ -17,4 +17,4 @@ It is the employee's responsibility to send the invoice to release the payment o
 
 **If the invoice is sent after the agreed date, payment will be made only on the next available payment date, in the 10th of the following month.**
 
-![Payroll Schedue Process](<../../.gitbook/assets/image (22).png>)
+![Payroll Schedue Process](<../../.gitbook/assets/image (15).png>)

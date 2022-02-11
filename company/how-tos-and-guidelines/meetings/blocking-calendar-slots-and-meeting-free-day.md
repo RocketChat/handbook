@@ -38,4 +38,4 @@ Please note at this point this is being used only by **Engineering Area**.
 
 You can set it to automatically decline meetings and the automatic message `Auto-Declined. Thursdays are Meeting-Free Days. See handbook for more details: https://go.rocket.chat/i/meeting-free-thursdays`
 
-![](<../../../.gitbook/assets/Meeting free day (1).png>)
+![](../../../.gitbook/assets/meeting-free-day.png)
