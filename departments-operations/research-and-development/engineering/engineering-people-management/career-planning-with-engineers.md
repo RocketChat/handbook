@@ -52,9 +52,7 @@ Do NOT assume anything! Make sure you get a clear understanding of where the per
 
 ![](<../../../../.gitbook/assets/image (29).png>)
 
-!\[Diagrama, Texto, chat ou mensagem de texto
-
-Descrição gerada automaticamente]\(file:///C:/Users/DELL/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.png)PS: Don’t worry if matrix is not fully complete by the end of the meeting. Person should complete and have it available for next meeting.
+PS: Don’t worry if matrix is not fully complete by the end of the meeting. Person should complete and have it available for next meeting.
 
 6-End the meeting here and let time to reflect.\
 Manager should share RC career guidelines and relevant resources that can help the engineer prior to next meeting (i.e. articles, books, people to talk with, handbook pages, etc). Engineer should search for skills and further details on career objectives as well as complete the SWOT matrix.

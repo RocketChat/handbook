@@ -17,7 +17,7 @@ If you are a new Technical Writer joining our team or a community member who wan
 
 ![](<../../../.gitbook/assets/image (23).png>)
 
-* Use headings, bullet points, and links to breaking up information into chunks, not long explanatory paragraphs
+* Use headings, bullet points, and links to break up information into chunks, not long explanatory paragraphs
 * Actionable items in a bulleted list should not end in a full stop
 * Use tables and diagrams, not sentences, to represent information with multiple dimensions
 * Always spell check for typos and grammar check for polish

@@ -4,86 +4,62 @@ description: Onboarding process specific for Engineering teams.
 
 # Engineering Onboarding
 
-## I-Objective:
+## I - Objective: <a href="#docs-internal-guid-ec911d33-7fff-fc24-4b7b-f4069c64d749" id="docs-internal-guid-ec911d33-7fff-fc24-4b7b-f4069c64d749"></a>
 
-The purpose of this document is to generate a common approach to onboarding of engineers to the different squads. The information contained here might be used for new hires or for engineers changing to a different squad.
+Generate a common approach to onboarding of new team members to squads (new hires or engineers moving between squads).
 
-## II-Pre-Onboarding:
+## II - Pre-Onboarding:
 
-1\. During the week prior to new engineer boarding engineering manager should notify the squad using squad’s team or main channel. Message should contain boarding date, name and job role.
+During the week prior to the new team member boarding Engineering Manager should:
 
-2.Engineer manager should also assign an engineer from the squad to be newcomer focal for assistance and questions.
+1. notify the squad on its main channel (onboarding date, name and job role)
+2. align on an engineer from the squad to become a Buddy for assistance and questions.
+3. set a 30 min 1:1 meeting for the new team member 1st day
+4. Set a 1hr meeting for the 4th or 5th day
 
-3.As possible engineering manager is expected to sent handbook link to new member and squad general details.
+## III - Onboarding - Roles & Responsibilities: <a href="#docs-internal-guid-21e5894f-7fff-6367-4fd2-670818038216" id="docs-internal-guid-21e5894f-7fff-6367-4fd2-670818038216"></a>
 
-4.If engineer is a new rocketeer, the engineering manager should set a 30 min 1:1 meeting for 1st day.  For engineer squad changes jump to section III.3.
+**Engineering Manager should:**&#x20;
 
-## III-Onboarding on engineering:
+1. Guarantee new team member attends Rocket.Chat onboarding 1-week process
+2. Conduct Day 1 meeting to share general details about squad, engineer focal contacts, squad meetings to be attended, mention the different RC onboarding activities and share short term expectations.
+3. Introduce new team member to the squad and promote a quick self-introduction.
+4. Add new team member to all relevant squad channels and meetings
+5. At Day 4 or 5 Meeting - Share below topics:
+   * overview of the product and its roadmap
+   * how do we make money with this product
+   * who are our main stakeholders
+   * walk through priority OKRs
+   * current state of the product (big issues,responsibilities, etc)
+6. Schedule recurrent 1:1 meetings with new team member
 
-1.On joining day, engineering manager conducts the 1:1 meeting to share general details on squad, engineer focal contacts, squad meetings to be attended, mention the different talent team on-boarding activities and share short term expectations.
+&#x20;**Buddy should:**&#x20;
 
-2.During the first available squad meeting (daily, planning, retro or other) engineering manager is expected to present the new member to others on the squad, and let new engineer give a quick self-introduction.
+1. Provide access to the repos & other relevant links (private repos, private handbook, private documentation, etc)
+2. Add to scheduled role-specific meetings and channels (triage, design, etc)
+3. Share useful links: Clickup' sprints, backlogs, omnichannel repos, roadmap, etc
+4. Share Codebase overview
+   * Folder structure
+   * Business logic
+   * Current tech debt
+   * Squad Specifics documentation
+   * How to approach your first build?
+5. &#x20;Share Development Process
+   * How code is built, tested & deployed
+   * RC Release process (\<link to handbook release process)
+6. Coordinate a 2 week schedule of pair programming with squad team members&#x20;
+   * At least 2 hours/day
+   * Different team members to rotate
+7. Run a Buddy Check-out call
 
-3.Engineer manager should add new engineer to all relevant squad channels.
+&#x20;**New Team Member should:**
 
-4.Engineering focal should set a call for initial 2 days of new engineer for introductions and high-level view on section IV of this page. During this meeting main squad contacts should be shared with new engineer.
+1. Complete Rocket,Chat onboarding process&#x20;
+2. Schedule 1:1s with main squad members (lead, pm, tle, chapter focal and others that might be applicable). Recommended agenda for meeting is:
+   * Get to know me
+   * Understand the person role and main activities
+   * Anything I can help with?
 
-5.New squad engineer should schedule 1:1s with main squad members (lead, pm, tle, chapter focal and others that might be applicable). Recommended agenda for meeting is:
+## IV-Onboarding at a glance
 
-A-Get to know \<squad member name and job role>
-
-B-Understand the person role and main activities
-
-C-Anything I \<the new engineer> can help with?
-
-## IV-Onboarding documentation & checklist
-
-0\. The onboarding document (a brief on what \<squad> is. (see ref:1)
-
-1\. Meet the team
-
-1.1. Get access to the repos & important stuff (clickup, private repos, private handbook, private documentation, etc)
-
-2\. Invite to scheduled meetings: (daily, retrospective, etc)
-
-2.1. Invite to scheduled role-specific meetings (triage, design, etc)
-
-3\. Share useful links: Clickup's \<squad> sprint dashboard, omnichannel repos, (roadmap if public)
-
-4\. Codebase overview (see ref:2)
-
-5\. \<squad> product's lifecycle (creation, bundling, deploying, etc) (see ref:3)
-
-6\. Follow up meeting (1 month from joining, a meeting to know how everything went and gather feedback)
-
-## V-Ref:1 – General Squad Info:
-
-1: What to include on the onboarding documentation?
-
-1-high-level view on the product
-
-2-how do we make money on this area (or something to understand how important it is)
-
-3-main customer we have
-
-4-where to find the roadmap
-
-5-what are omnichannel OKRs
-
-6-current state of the product (big issues, team members, responsibilities, etc)
-
-## VI-Ref:2 - Codebase overview (BE/FE):
-
-1\. Folder structure
-
-2\. Business logic
-
-3\. Current tech debt
-
-4\. Apps engine documentation
-
-## VII-Ref:3 Product lifecycle
-
-1\. How code is built, tested & deployed
-
-2\. Release process (\<link to handbook release process)
+![](https://lh3.googleusercontent.com/T7es\_JRcGl2XWAkoRmwwjJtKdvef11q000JTJQbq4wKelBSf\_rfW02iU2oRH-z8O4Mr7PS-1JSKYMfajiHQYHG10UmYOPjSoTcB7sHBESYEaJhiaa3gtWiB\_SV2PSlk8Jl8oxj1Y)
