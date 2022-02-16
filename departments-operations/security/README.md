@@ -12,6 +12,7 @@ We need to make sure the security best practices are being applied and guarantee
 * [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Security Engineer
 * [Igor Rincon](https://open.rocket.chat/direct/igor.rincon): Staff Security Engineer
 * [Shelton Souto](https://open.rocket.chat/direct/shelton.souto): Security Compliance Analyst
+* [Lucas Magno](https://open.rocket.chat/direct/lucas.magno): Junior Security Engineer
 
 ### Top OKRs, relevant for Security function, built by stakeholder input
 
@@ -57,11 +58,11 @@ Alerts for security events will be shown in the [#security-alerts](https://open.
 
 `SIEM ALERT -- <type of alert> - [<severity> or <score>] <message>. Check <link to the alert>`
 
-The type of alert can be **ANOMALY DETECTED **or **STATIC RULE.**
+The type of alert can be \*\*ANOMALY DETECTED \*\*or **STATIC RULE.**
 
 #### **Static rule:**
 
-When a pattern found in the logs being ingested to the SIEM matches one of the static rules pre-defined, this type of alert is fired. The severity can be **Low, Medium, High, **and **Critical **according to the impact.\
+When a pattern found in the logs being ingested to the SIEM matches one of the static rules pre-defined, this type of alert is fired. The severity can be \*\*Low, Medium, High, \*\*and \*\*Critical \*\*according to the impact.\
 The current SLA to triage each alert, according to the severity, is the following
 
 | Severity | SLA                |
@@ -76,7 +77,7 @@ The instructions on how to perform the triage and investigate each alert can be 
 #### Anomaly detected:
 
 We have several Machine Learning jobs running that search for anomalies in the data feeds being ingested. If an anomaly is detected it can trigger a Rule that will fire the alert (sometimes a single anomaly is not sufficient to trigger a rule).\
-The anomaly can be evaluated by **Severity** or **Score. **Our current SLA to define if an anomaly is valid or not is the following
+The anomaly can be evaluated by **Severity** or \*\*Score. \*\*Our current SLA to define if an anomaly is valid or not is the following
 
 | Severity // Score          | SLA                |
 | -------------------------- | ------------------ |
@@ -106,7 +107,7 @@ Time to first response: maximum 5 days, 1 day for critical incidents Time to tri
 
 ## Bug Bounty / Hackerone
 
-HackerOne is a service that allows us to interact with **external **parties (e.g. white hat hackers) to collect, manage and disclose vulnerabilities that are discovered by them. HackerOne is managed by the security team. All members of Rocket.Chat can request access if they want or should collaborate directly with the external party. Hackerone runs parallel to Clickup, which is used for **internal **collaboration.
+HackerOne is a service that allows us to interact with \*\*external \*\*parties (e.g. white hat hackers) to collect, manage and disclose vulnerabilities that are discovered by them. HackerOne is managed by the security team. All members of Rocket.Chat can request access if they want or should collaborate directly with the external party. Hackerone runs parallel to Clickup, which is used for \*\*internal \*\*collaboration.
 
 ## Vulnerability Reports & Disclosure
 
@@ -123,33 +124,33 @@ Secondary channels are:
 
 For reported vulnerabilities:
 
-* Open a task in Clickup on the `vulnerabilities `board as soon as a report is verified and reference the original report.&#x20;
+* Open a task in Clickup on the `vulnerabilities` board as soon as a report is verified and reference the original report.
   * If the vulnerability was reported via a public issue on Github, remove it and refer the reporter to our email adress or hackerone. Still open a clickup task, in case the reporter does not respond.
-* With the ClickUp task opened, copy the task ID (the final part of the URL: app.clickup.com/t/\<taskid>) and add it as a reference on the HackerOne report.&#x20;
-  * On the top part of the report, click on the Edit button in front of the References field&#x20;
+* With the ClickUp task opened, copy the task ID (the final part of the URL: app.clickup.com/t/\<taskid>) and add it as a reference on the HackerOne report.
+  * On the top part of the report, click on the Edit button in front of the References field
   * Select Create Issue, Manual Integration, and paste the Task ID in the Ref ID field.
 * An initial determination is done by the security team as to severity and impact. Never dismiss a security report outright. Instead, follow up with the reporter, asking clarifying questions.
 * Remember to prepare patches, blog posts, email templates, etc. on or in other non-public ways even if there is a reason to believe that the vulnerability is already out in the public domain (e.g. the original report was made in a public issue that was later made confidential).
 
 ### To prepare a Security Fix
 
-Security Fixes are developed by the proper dev teams.&#x20;
+Security Fixes are developed by the proper dev teams.
 
 {% hint style="info" %}
-**For our development teams: **A dedicated step-by-step guideline of the policy aspects relevant for you can be found [here](https://docs.google.com/document/d/1Lsc8INA6jDwp8sTDvLR7O7v7PLEt967ubv8BG4yyV14/edit?usp=sharing).
+\*\*For our development teams: \*\*A dedicated step-by-step guideline of the policy aspects relevant for you can be found [here](https://docs.google.com/document/d/1Lsc8INA6jDwp8sTDvLR7O7v7PLEt967ubv8BG4yyV14/edit?usp=sharing).
 {% endhint %}
 
 Fixes must be made available as per our [support policy](https://docs.rocket.chat/getting-support).
 
 Security Fixes must not contain keywords such as "exploit", "hack", or similar and should be phrased technology-neutral. We want to explain what has changed, not describe exploit techniques.
 
-Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories.&#x20;
+Security fixes should be developed and have their testing done on **private forks** of the appropriate Rocket.Chat versions that will receive the fix. That means these PRs should not show up in the public repositories.
 
 #### **CVE IDs**
 
 We use CVE IDs to uniquely identify and publicly define vulnerabilities in our products. Since we publicly disclose all security vulnerabilities 30 days after a patch is released, CVE IDs must be obtained for each vulnerability to be fixed. The earlier obtained the better, and it should be requested either during or immediately after a fix is prepared.
 
-The security team currently requests CVEs either through the HackerOne form (preferred) or directly through MITRE's [webform](https://cveform.mitre.org).&#x20;
+The security team currently requests CVEs either through the HackerOne form (preferred) or directly through MITRE's [webform](https://cveform.mitre.org).
 
 Keep in mind that some of our security releases contain _security related_ enhancements which may not have an associated [CWE](https://cwe.mitre.org) or vulnerability. These particular issues are not required to obtain a CVE since there's no associated vulnerability. CVE IDs obtained via the webform must be manually referenced in the HackerOne issue.
 
@@ -159,11 +160,11 @@ When a patch has been developed, tested, approved, and a new release is being pr
 
 Security then informs the researcher via HackerOne. Post a comment on the HackerOne issue to all parties informing them that a patch is ready and will be included with the next release. Provide release dates, if available, but try not to promise a release on a specific date if you are unsure. You may also share relevant code snippets with the researcher for him to comment on or verify the fix.
 
-This is also a good time to ask if the researcher would like public credit in our release blog post and on our vulnerability acknowledgements page for the finding. We will link their name or alias to their HackerOne profile, Twitter handle, Facebook profile, company website, or URL of their choosing. Also ask if they would like the HackerOne report to be made public after the responsible disclosure period counting from the release. It is always preferable to publicly disclose reports unless the researcher has an objection.&#x20;
+This is also a good time to ask if the researcher would like public credit in our release blog post and on our vulnerability acknowledgements page for the finding. We will link their name or alias to their HackerOne profile, Twitter handle, Facebook profile, company website, or URL of their choosing. Also ask if they would like the HackerOne report to be made public after the responsible disclosure period counting from the release. It is always preferable to publicly disclose reports unless the researcher has an objection.
 
 For **critical** security issues, prepare a message for Rocket.Cat to be sent out on release day.
 
-#### On Release Day <a href="on-release-day" id="on-release-day"></a>
+#### On Release Day <a href="#on-release-day" id="on-release-day"></a>
 
 On the day of the security release several things happen in order:
 
@@ -178,7 +179,7 @@ Once all of these things have happened notify the HackerOne researcher that the 
 
 ### After release day
 
-#### Swag for Reports <a href="swag-for-reports" id="swag-for-reports"></a>
+#### Swag for Reports <a href="#swag-for-reports" id="swag-for-reports"></a>
 
 We award swag on a case by case basis. Details are in our responsible disclosure policy on HackerOne. When a report is closed, ask the reporter if they would like a swag code for free Rocket.Chat clothing or accessories. Swag codes are available by request from the operations team.
 
@@ -186,7 +187,7 @@ We award swag on a case by case basis. Details are in our responsible disclosure
 
 After the responsible disclosure period has ended, HackerOne will automatically release the report. Upon notification of the report release, update the CVE entry via the webform if it had been requested via the webform. Otherwise HackerOne will automatically update the CVE entry.
 
-## Pentesting&#x20;
+## Pentesting
 
 ### Internal
 
@@ -235,7 +236,7 @@ Task and Project Management for Security occur in Clickup . Security uses three 
 
 A task should have complete information available to answer all "W"-questions.
 
-Tags are the most important instrument to classify tasks. A task can have multiple tags.&#x20;
+Tags are the most important instrument to classify tasks. A task can have multiple tags.
 
 Security tasks that are worked on currently must be added to the current sprint. Sprint tasks should be estimated with Sprint points.
 
@@ -245,7 +246,7 @@ Tasks can be shared publicly via the sharing function, but only the content that
 
 ## Static Code Analysis
 
-Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories.  For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
+Static Code Analysis helps us find potential security vulnerabilities in the codebase. We use "LGTM" on our public GitHub repositories. For every pull request or ad-hoc as queried on other parts of the code, LGTM analyses the code and provides alerts with recommendations to fix. We use LGTM the following way:
 
 * LGTM is enabled for all public repos
 * To enable LGTM for a repo, you must be admin
@@ -288,7 +289,4 @@ We are not a large size organization and often dont have strict organizational b
 * Where there is internal expertise missing, we consider leveraging external specialists.
 * Training outcomes (e.g. application of security principles in a PR) should be highlighted in our RC channels, especially #dev
 
-
-
 ###
-
