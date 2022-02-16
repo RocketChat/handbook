@@ -61,6 +61,8 @@
         * [QA Environments](departments-operations/research-and-development/engineering/quality-assurance/qa-process/qa-environments.md)
       * [Technology](departments-operations/research-and-development/engineering/quality-assurance/technology/README.md)
         * [Endorsed testing tools](departments-operations/research-and-development/engineering/quality-assurance/technology/endorsed-testing-tools.md)
+    * [Engineering Hiring Process](departments-operations/research-and-development/engineering/engineering-hiring-process.md)
+    * [Engineering Career Path](departments-operations/research-and-development/engineering/engineering-career-path.md)
     * [Engineering People Management](departments-operations/research-and-development/engineering/engineering-people-management/README.md)
       * [Engineering Onboarding](departments-operations/research-and-development/engineering/engineering-people-management/engineering-onboarding.md)
       * [Career Planning with Engineers](departments-operations/research-and-development/engineering/engineering-people-management/career-planning-with-engineers.md)

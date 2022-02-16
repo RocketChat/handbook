@@ -13,6 +13,6 @@ In each case the process is very similar, with QA entering very early in the dev
 
 The ticket flow agreed to use in each team is as follows:
 
-![](../../../../../.gitbook/assets/qa-flow.png)
+![](<../../../../../.gitbook/assets/QA flow.png>)
 
 Once each team completes the tasks assigned to the sprint, there's a release candidate which get tested with a regression suite, fully automated and integrated with the CI.

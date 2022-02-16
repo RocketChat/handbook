@@ -1,16 +1,16 @@
-# Career Path
+# Engineering Career Path
+
+
 
 ## Intro
 
 The Rocket.Chat's career path considers the long-term relationship development with the team member. This trail goal permits the full development of the team members, weighing their expectations, skills, and company needs.
 
-The paths consider technical and nontechnical aspects based on a “Y” career allowing the team member to tread their career path in a technical or the management trial reaching similar levels, regardless of path chosen by the employee.
-
-### Career paths by area
+The paths consider technical and nontechnical aspects based on a “Y” career allowing the team member to tread their career path in a technical or the management trial reaching similar levels, regardless of the path chosen by the team member.
 
 ## Levels
 
-![](<../../.gitbook/assets/Screen Shot 2021-09-08 at 12.27.54.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-09-08 at 12.27.54.png>)
 
 ### Strategic level
 
@@ -58,7 +58,7 @@ The operational team member executes the process and **adds value to the product
 
 #### Outcome
 
-The operational team must answer **WHAT** company objectives were reached\*\*.\*\* As the closest client part of the company, the team helps provide feedback that will enable the organization to set new strategies and tactics. The members of this level have to provide operational support and information for the other levels of the organization. This stage offers a Day-to-day view of the company.
+The operational team must answer **WHAT** company objectives were reached**.** As the closest client part of the company, the team helps provide feedback that will enable the organization to set new strategies and tactics. The members of this level have to provide operational support and information for the other levels of the organization. This stage offers a Day-to-day view of the company.
 
 ## The Rocket.Chat Career Path
 
@@ -114,7 +114,7 @@ In the management path, the team member can reach the following levels:
 
 **First stage**
 
-Manager: At this level, the managers will seek to build out a great team, happy and prosperous; They will improve processes to make the team more effective. Plan and execute long-term strategies that benefit the team and the product stage\*\*.\*\* In charge of the people management, the manager must hold regular 1:1's with all team members helping the people evolve and grow up as a professional.
+Manager: At this level, the managers will seek to build out a great team, happy and prosperous; They will improve processes to make the team more effective. Plan and execute long-term strategies that benefit the team and the product stage**.** In charge of the people management, the manager must hold regular 1:1's with all team members helping the people evolve and grow up as a professional.
 
 **Second stage**
 
@@ -142,8 +142,4 @@ It Is important to reinforce that all the positions will receive a grade, and th
 
 The grades start at four and go until 16, and it doesn’t depend if the team member is a Manager or an Individual Contributor. An individual contributor can have the same grade as the Manager and consequently the same salary input. It is also must consider that the compensation has others inputs like the region and fee charges.
 
-{% content-ref url="../research-and-development/engineering/engineering-career-path.md" %}
-[engineering-career-path.md](../research-and-development/engineering/engineering-career-path.md)
-{% endcontent-ref %}
-
-![](../../.gitbook/assets/1.png)
+![](../../../.gitbook/assets/1.png)

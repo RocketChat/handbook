@@ -16,7 +16,7 @@ We have three types of points:
 
 Now let's see the full [table of actions and events](https://docs.google.com/spreadsheets/d/1GfdttY-0eFtzY5ZerPKRaAwvSQGaxjbFSZsa4RoebuA/edit#gid=0) in these categories and how many stars they can get you:
 
-![](../../.gitbook/assets/table-of-stars.png)
+![](<../../.gitbook/assets/table of stars (1).png>)
 
 #### Very important notes about some categories:
 
@@ -87,7 +87,7 @@ Check out the complete list of Rocket.Chats swags you can get through AllStars b
 {% endtab %}
 
 {% tab title="Dad hat" %}
-![](../../.gitbook/assets/dad-hat.png)
+![](<../../.gitbook/assets/dad hat.png>)
 {% endtab %}
 
 {% tab title="Bucket hat" %}
@@ -103,7 +103,7 @@ Check out the complete list of Rocket.Chats swags you can get through AllStars b
 {% endtab %}
 
 {% tab title="Embroidered polo shirt" %}
-![](../../.gitbook/assets/polo-shirts.png)
+![](<../../.gitbook/assets/polo shirts.png>)
 {% endtab %}
 
 {% tab title="Laptop sleeve" %}
@@ -115,7 +115,7 @@ Check out the complete list of Rocket.Chats swags you can get through AllStars b
 {% endtab %}
 
 {% tab title="Framed poster" %}
-![](../../.gitbook/assets/framed-poster.png)
+![](<../../.gitbook/assets/framed poster.png>)
 {% endtab %}
 
 {% tab title="Sweatshirt" %}
@@ -123,7 +123,7 @@ Check out the complete list of Rocket.Chats swags you can get through AllStars b
 {% endtab %}
 
 {% tab title="Throw Blanket" %}
-![](../../.gitbook/assets/throw-towel.png)
+![](<../../.gitbook/assets/throw towel.png>)
 {% endtab %}
 
 {% tab title="WooHoodie" %}

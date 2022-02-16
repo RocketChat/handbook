@@ -50,7 +50,7 @@ Do NOT assume anything! Make sure you get a clear understanding of where the per
 
 5-Now it’s time to work on Personal SWOT Matrix. Recommend starting with internal factors (Strengths and Weakness) and later move to external factors (Opportunities and Threats).
 
-![](<../../../../.gitbook/assets/image (22) (1).png>)
+![](<../../../../.gitbook/assets/image (29).png>)
 
 PS: Don’t worry if matrix is not fully complete by the end of the meeting. Person should complete and have it available for next meeting.
 

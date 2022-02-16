@@ -16,7 +16,7 @@ The icons are displayed most of time as 20x20px and 24x24px. However, by default
 
 Rocket.Chat icons are drawn on a pixel-based grid of 32px x 32px and scaled down to different sizes. Use the grid's keylines to shape the main structure.
 
-![](<../../../../../.gitbook/assets/image-1 (1) (2) (3) (9) (6) (1).png>)
+![](<../../../../../.gitbook/assets/image-1 (1) (2) (3) (9) (6) (11).png>)
 
 ### Stroke
 
@@ -28,7 +28,7 @@ They must be draw using 2px strokes on 32x32px canvas.
 
 They must be rounded.
 
-![](../../../../../.gitbook/assets/round-cap.png)
+![](<../../../../../.gitbook/assets/round cap.png>)
 
 ### Corners
 
@@ -67,7 +67,7 @@ Use meaningful icons instead of words when possible, following the Rocket.Chat's
 
 Add a label to reduce the ambiguity of the icon's purpose when the context allows. The label must follow the [Capitalization Rules](capitalization-rules.md).
 
-![](<../../../../../.gitbook/assets/image (11).png>)
+![](<../../../../../.gitbook/assets/image (10).png>)
 
 ### Tooltips
 
@@ -75,7 +75,7 @@ Use tooltips for unlabeled icons — include a label or a short description. Thi
 
 A tooltip and a icon (or a button which contains a icon) must be 4px distance between both elements' canvas and have a centered alignment.
 
-![](<../../../../../.gitbook/assets/image (14).png>)
+![](<../../../../../.gitbook/assets/image (11).png>)
 
 {% hint style="info" %}
 Consult a designer when you have a question, suggestion or you're requesting a new icon.

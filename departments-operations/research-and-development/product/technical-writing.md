@@ -11,11 +11,11 @@ If you are a new Technical Writer joining our team or a community member who wan
 * Use screenshots wherever necessary.
 * Mark your screenshots always, as shown below:
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (24).png>)
 
 * When documenting a new topic in a feature, always use branches and dedicated pages. This way, the necessary information is searchable by users through keywords on the page title, as shown below:
 
-![](<../../../.gitbook/assets/image (18).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 * Use headings, bullet points, and links to break up information into chunks, not long explanatory paragraphs
 * Actionable items in a bulleted list should not end in a full stop

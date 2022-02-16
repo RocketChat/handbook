@@ -15,7 +15,7 @@ description: >-
   * The suppliers invoices must be sent immediately, as soon as you receive it, to the e-mail address: **accounts.payable@rocket.chat.** (Please do not hold invoices with you)
   * **The Accounts Payable Team expects to receive the invoices at least 15 days in advance of the due date** in time to proper record, provisioning and schedule the payments.
 
-![Purchase Process - via Invoice](<../../../.gitbook/assets/image (24).png>)
+![Purchase Process - via Invoice](<../../../.gitbook/assets/image (21).png>)
 
 ## **Purchases by Credit Card**
 
@@ -48,7 +48,7 @@ As mentioned previously, we strongly recommend employees and contractors to avoi
   * You should not make a decision to use your personal credit card without having an approval before and making sure you could request a virtual credit card.
   * If all the requirements above are met, you should submit a reimbursement request through Zoho ([link here](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:Other\_Reimbursement)), including the copy of your Head of Department’s approval e-mail to use of the personal credit card and the expense reimbursement receipt to the Accounts Payable Team.
 
-![Purchase Process - via Credit Card](<../../../.gitbook/assets/image (26).png>)
+![Purchase Process - via Credit Card](<../../../.gitbook/assets/image (20).png>)
 
 ## **Responsibilities**
 

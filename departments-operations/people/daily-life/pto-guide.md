@@ -81,4 +81,4 @@ You do play an important part in helping your team both take more PTOs and enjoy
 
 _An optional extra:_ Take initiative and block that person's calendar on their birthday beforehand! This will help the person know that you're "okay" with them having that time for themselves to celebrate with their family.
 
-![A quick guide to PTO!](../../../.gitbook/assets/how-to-pto.png)
+![A quick guide to PTO!](<../../../.gitbook/assets/HOW TO PTO.png>)
