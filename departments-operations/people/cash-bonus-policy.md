@@ -13,51 +13,41 @@ This is a company-wide policy based on our targets of Annual Contract Value (ACV
 
 Metric that shows you how much an ongoing customer contract is worth by averaging and normalizing its value over one year; The total value of all completed contracts per year.
 
-* Average Monthly Net Burn
+* Average Monthly Net Cash Burn
 
 Typically used to describe the rate at which a company is spending its capital to finance overhead before generating positive cash flow from operations; A company's net burn is the total amount of money a company loses each month, considering its revenue.
 
 ### Let's talk numbers!
 
-Let's start off from a base scenario where _we hit 100% of our targets_! This is the table that will determine the bonus values to be distributed:
+Let's start off from the table that will determine all the targets to be hit and its corresponding bonus values to be distributed:
 
-| Role                                     | Bonus (100% Target) |
-| ---------------------------------------- | ------------------- |
-| Analysts, Specialists and Mid-Management | 1 monthly salary    |
-| High-Management                          | 2 monthly salaries  |
-| C-level/VPs                              | 3 monthly salaries  |
+![](<../../.gitbook/assets/Screenshot from 2022-02-21 16-21-45.png>)
 
-{% hint style="info" %}
-Check out [here](career-path.md#levels) how the engineering levels compare to the roles above.
-{% endhint %}
+Now based on it let's see the possible scenarios:
 
-This will be the base for you to understand the three possible scenarios:
+* **Less than 85%:** In this case the bonus **will not be applicable**, since the threshold for the bonus to become available is achieving at least 85% of the set target.&#x20;
+* **85% of the target:** You’ll receive **25%** of your base bonus based on your role.&#x20;
+* **100% (9M ACV and 607K Cash Burn) of the target:** You’ll receive **100%** of your base bonus based on your role.
+* **110% (10M ACV and 540K Cash Burn) of the target:** The payout doubles! You'll receive 200% of your base bonus based on your role.
+* **125, 135 or 145% of the target:** 25% of gradual increase, respectively 225, 250 and 300% of payout. Overperformance is limited at 300% payout.
 
-* **Scenario 1**: Achieved lower than 85% of target
-* **Scenario 2**: Achieved between 85 and 100% of the target
-* **Scenario 3**: Overperformed!
+Now let's talk about the "base bonus based on your role" section of the specifications above. These refer to the following table, which determines the payout multiplier according to the Rocketeer's role.
 
-In the **Scenario 1**, the bonus will not be applicable, since the threshold for the bonus to become available is achieving at least 55% of the set target. Meanwhile, in **Scenarios 2 and 3** the bonus will be calculated proportionally to achievement, setting no limit for overperformance, which means: Achieving 200% of the target will generate a doubled bonus.
+![](<../../.gitbook/assets/Screenshot from 2022-02-21 16-23-59.png>)
 
 ### The 3 Rules
 
 To guarantee the best functioning of this policy we have the following basic rules:
 
-* **Rule #1: Bonus will be proportional based on targets performance.**
+* **Rule #1: Follow the table!**
 
-Which means:
+To find how much will the payout be according to the target it, simply find the hit target value in the "Target Grade" line, follow the vertical and below it find the corresponding payout. Just like illustrated in the scenarios above.
 
-“We achieved 120% of the target by the end of the year!” > You’ll receive 120% of your base bonus based on your role.
-
-“We achieved 60% of the target by the end of the year!” > You’ll receive 60% of your base bonus based on your role.
-
-“We achieved only 50% of the target :(“ > The bonus won’t be applicable under 55% of target achievement.
-
-* **Rule #2: One target can compensate the other, with a minimum average of 55%.**
+* **Rule #2: One target can compensate the other, with a minimum average of 85%.**
 
 You may be wondering how the calculation of the final result will be done since we have two target metrics to achieve, and this rules answers that question! Basically, the final result will be an average of what was achieved in both metrics, so achieving 100% of the target equals achieving 100% in both metrics.
 
-However, the Rule #2 determines that the metric targets can compensate each other, so achieving 75% of the ACV metric and balancing that with achieving 125% of the Net Burn metric, also equals a final result of 100% achievement. Still, it's important to remember that the minimum average of achievement to generate the bonus is 55%.
+However, the Rule #2 determines that the metric targets can compensate each other, so achieving 75% of the ACV metric and balancing that with achieving 125% of the Net Burn metric, also equals a final result of 100% achievement. _Still, it's important to remember that the minimum average of achievement to generate the bonus is 85%._
 
 * **Rule #3: For people that joined the company during the year until Sep/30, bonus will be paid proportionally for the months they were onboard (considering at least 15 days to count the month).**
 
@@ -72,19 +62,17 @@ _“My name is Rocket.Cat and I joined Rocket.Chat as an Analyst on August 20th,
 For this section, our starting point will be the questions that you may have on your mind now. So let's use them to make some other important points about the policy clearer.
 
 1. **“Who does it apply to?”** Everyone, except interns and part-timers, joining the company until September/30th of current year.
-2.  **“When will the payment be done?”**\
-    March/2022 for regular bonus (100% or less). In case of overperformance, the payment of what exceeds 100% will be done after 1 year.
-
-    e.g. _“We achieved 125% of the goal in 2021."_ **>>** Then the payment of the bonus referring to 100% of the target will be done in March/2022 and the exceeding 25% in March/23.
+2. **“When will the payment be done?”**\
+   March/2023.
 3. **“I got promoted this year and changed tier on the base table, will I receive one or two monthly salaries?”** That depends! By rule you’ll receive the salary of the position or "role tier" where you remained longer during the year. If you stayed the same time in both positions, you’ll get the higher payment.
 4.  **“I received a raise in the end of the year, does this mean I’ll get the value of my previous salary?”**
 
-    The salary base will be the salary paid in the month of December/21, including raises during the year.
+    The salary base will be the salary paid in the month of December/22, including raises during the year.
 5.  **“I’m leaving the company in February, can I have my bonus advanced instead of only in March?”**
 
-    The exit policy will be that the bonus will be paid only for people active in the Company in the month of payment.
+    The exit policy will be that the bonus will be paid _only for people active in the Company in the month of payment_.
 6.  **“Where can I keep up with these two indicators?”**
 
-    Both of these are strategic KPIs for the company, so you can find updates about their status both on our OKR tracking pages (on ClickUp) and on the quarterly company update deck shared with the whole team. We'll also slowly improve and think about other ways to make this information more accessible.
+    The Finance team will do a quarterly update  this will be shared during the All-hands Finance Deep dive.
 
 To join the discussion dedicated to answering questions about the policy on Rocket.Chat, click [here](https://go.rocket.chat/invite?host=open.rocket.chat\&path=invite%2FtYXQNR).
