@@ -45,9 +45,7 @@ To find how much will the payout be according to the target it, simply find the 
 
 * **Rule #2: One target can compensate the other, with a minimum average of 85%.**
 
-You may be wondering how the calculation of the final result will be done since we have two target metrics to achieve, and this rules answers that question! Basically, the final result will be an average of what was achieved in both metrics, so achieving 100% of the target equals achieving 100% in both metrics.
-
-However, the Rule #2 determines that the metric targets can compensate each other, so achieving 75% of the ACV metric and balancing that with achieving 125% of the Net Burn metric, also equals a final result of 100% achievement. _Still, it's important to remember that the minimum average of achievement to generate the bonus is 85%._
+The Rule #2 determines that the metric targets can compensate each other, so achieving 75% of the ACV metric and balancing that with achieving 110% of the Net Burn metric, equals a final result of 100% achievement. _Still, it's important to remember that the minimum average of achievement to generate the bonus is 85%._
 
 * **Rule #3: For people that joined the company during the year until Sep/30, bonus will be paid proportionally for the months they were onboard (considering at least 15 days to count the month).**
 
