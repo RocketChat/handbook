@@ -73,6 +73,6 @@ For this section, our starting point will be the questions that you may have on 
     The exit policy will be that the bonus will be paid _only for people active in the Company in the month of payment_.
 6.  **“Where can I keep up with these two indicators?”**
 
-    The Finance team will do a quarterly update  this will be shared during the All-hands Finance Deep dive.
+    The Finance team will do a quarterly update during the All-hands Finance Deep dives.
 
 To join the discussion dedicated to answering questions about the policy on Rocket.Chat, click [here](https://go.rocket.chat/invite?host=open.rocket.chat\&path=invite%2FtYXQNR).

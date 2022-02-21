@@ -50,7 +50,8 @@ Since there are different maximum values, to create a fair policy, there are als
 * **Outside of Brazil (maximum value $500):**
   * 0 to $100 - No retention period necessary
   * $101 to $250 - 3 months
-  * $251 to $500 - 6 months
+  * $251 to $500 - 6 month
+  * Over $500 **(exception approved by Head of the Area)** - 1 year
 
 ## Expensing
 
