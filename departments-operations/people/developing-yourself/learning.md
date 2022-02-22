@@ -39,19 +39,20 @@ There are only a few exceptions to this policy, and they are:
 
 ### Retention Ranges (Applied only to courses)
 
-The retention ranges are based on a common practice in benchmarked organizations and it's a form of creating a "two way street" between the organization and the Rocketeer through this educational support. Basically, different ranges of value of company support are attached to different expected retention periods. The period starts counting from the moment a Rocketeer requests the course, and if they leave the company along this period, they'll be requested to return the proportional value to the time left in the retention period.
+The retention ranges are based on a common practice in benchmarked organizations and it's a form of creating a "two way street" between the organization and the Rocketeer through this educational support. Basically, different ranges of value of company support are attached to different expected retention periods. The period starts counting from the moment a Rocketeer requests the course, and if they leave the company during this period, they'll be requested to return the proportional value to the time remaining in the retention period.
 
 Since there are different maximum values, to create a fair policy, there are also different divisions of retention ranges for Rocketeers in and outside Brazil.
 
-* **In Brazil (maximum value R$1818):**
-  * 0 to R$300 - No retention period necessary
-  * R$301 to R$1000 - 3 months
-  * R$1001 to R$1818 - 6 months
-* **Outside of Brazil (maximum value $500):**
-  * 0 to $100 - No retention period necessary
-  * $101 to $250 - 3 months
-  * $251 to $500 - 6 month
-  * Over $500 **(exception approved by Head of the Area)** - 1 year
+* **In Brazil (maximum value R$ 1,818):**
+  * R$ 0 to R$ 300 - No retention period necessary
+  * R$ 301 to R$ 1,000 - 3-month retention period
+  * R$ 1,001 to R$ 1,818 - 6-month retention period
+  * Over R$ 1,818 **(exception approved by Head of the Area)** - 1-year retention period
+* **Outside of Brazil (maximum value $ 500):**
+  * $ 0 to $ 100 - No retention period necessary
+  * $ 101 to $ 250 - 3-month retention period
+  * $ 251 to $ 500 - 6-month retention period
+  * Over $ 500 **(exception approved by Head of the Area)** - 1-year retention period
 
 ## Expensing
 
