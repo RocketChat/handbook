@@ -20,9 +20,30 @@ Rocket.Chat is **open** by default. This means that unless something is explicit
 
 ## Creating or Editing Pages
 
-To create or edit pages withing the Handbook, you will need to login to [Gitbook](https://app.gitbook.com/login) using your Github account. By hovering your mouse over the items in the menu area, you will see a plus icon that allows you to create new pages. You can also click the "New +" menu item, in the bottom.
+To create or edit pages withing the Handbook, you will need to login to [Gitbook](https://app.gitbook.com/login). If you don't have an account, send a message to [Marcelo Schmidt](./#open-vs-closed-information) to get an invitation link.
 
-To edit an existing page, just open it on Github and make your changes directly in the text.
+After you log in, click the Rocket.Chat Handbook link, then click the 2.0 version:
 
-After you are done creating or editing, click the "Save" button, and that will create a draft that can be reviewed and merged.
+![](<.gitbook/assets/image (28).png>)
 
+Then navigate through the menus and find where you want to edit or create a new page.
+
+![](<.gitbook/assets/image (31).png>)
+
+Then click the blue "Edit" button at the top-right portion of your screen.
+
+If you want to edit the current text, just click it and edit in place. You'll see a menu at the right of the text you're editing that allows you to format the text.
+
+![](<.gitbook/assets/image (26).png>)
+
+By hovering your mouse in between lines you can insert a new paragraph by clicking the plus sign that shows up.
+
+![](<.gitbook/assets/image (27).png>)
+
+To upload images, just copy and paste into the text.
+
+To create a new menu item, just hover in between items and click the plus sign.
+
+![](<.gitbook/assets/image (25).png>)
+
+After you are done creating or editing, click the "Submit" button, and that will create a Change Request that can be reviewed and merged.
