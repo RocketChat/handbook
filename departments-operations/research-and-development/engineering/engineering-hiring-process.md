@@ -60,5 +60,5 @@ Note: We won’t share feedback right after the code challenge. Talent Acquisiti
 
 
 
-Do you have any feedback? Please, feel free to send suggestions to \<EMAIL>
+Do you have any feedback? Please, feel free to send suggestions to [catarina.mattos at rocket.chat](mailto:catarina.mattos@rocket.chat)
 
