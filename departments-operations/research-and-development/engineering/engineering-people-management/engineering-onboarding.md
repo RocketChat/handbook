@@ -6,11 +6,11 @@ description: Onboarding process specific for Engineering teams.
 
 ## I - Objective: <a href="#docs-internal-guid-ec911d33-7fff-fc24-4b7b-f4069c64d749" id="docs-internal-guid-ec911d33-7fff-fc24-4b7b-f4069c64d749"></a>
 
-Generate a common approach to onboard new team members to squads.
+Generate a common approach to onboarding new team members to squads.
 
 ## II - Pre-Onboarding:
 
-During the week prior to the new team member boarding Engineering Manager should:
+During the week prior to the new team member's first day, the Engineering Manager should:
 
 1. Notify the squad on its main channel (onboarding date, name and job role)
 2. Assign an engineer from the squad to become a Buddy for assistance and questions
@@ -54,7 +54,7 @@ During the week prior to the new team member boarding Engineering Manager should
 
 &#x20;**New Team Member should:**
 
-1. Complete Rocket.Chat onboarding process&#x20;
+1. Complete Rocket.Chat onboarding certification process in training.rocket.chat&#x20;
 2. Schedule 1:1s with main squad members (product manager, tech lead, chapter focal and others that might be applicable). Recommended agenda:
    * Get to know me
    * Understand the person role and main activities
