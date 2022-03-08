@@ -22,7 +22,7 @@ During the week prior to the new team member's first day, the Engineering Manage
 **Engineering Manager should:**&#x20;
 
 1. Guarantee new team member attends Rocket.Chat onboarding 1-week process
-2. Conduct welcome meeting to share general details about squad, engineer focal contacts, squad meetings to be attended, mention the different RC onboarding activities and share short term expectations
+2. Conduct welcome meeting with new rocketee and buddy to share general details about squad, engineer focal contacts, squad meetings to be attended, mention the different RC onboarding activities and share short term expectations
 3. Introduce new team member to the squad and promote a quick self-introduction
 4. Add new team member to all relevant squad channels and meetings
 5. Provide access to the repos & other relevant links (private repos, private handbook, private documentation, etc)
@@ -33,11 +33,13 @@ During the week prior to the new team member's first day, the Engineering Manage
    * walk through priority OKRs
    * current state of the product (big issues, responsibilities, etc)
 7. Schedule recurrent 1:1 meetings with new team member
+8. Set all onboarding related tasks on click up, assigning the new member and buddy.
+9. Grant 30 All Start Points to Buddy at end of onboarding.&#x20;
 
 &#x20;**Buddy should:**&#x20;
 
 1. Add new team member to the role-specific meetings and channels (triage, design, chapter, etc)
-2. Share useful links: Clickup' sprints, backlogs, omnichannel repos, roadmap, etc
+2. Share useful links: Clickup' sprints, backlogs, repos, roadmap, etc
 3. Share codebase overview
    * Folder structure
    * Business logic
