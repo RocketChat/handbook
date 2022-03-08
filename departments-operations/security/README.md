@@ -111,10 +111,7 @@ HackerOne is a service that allows us to interact with \*\*external \*\*parties 
 
 ## Vulnerability Reports & Disclosure
 
-We receive vulnerability reports by various pathways, including the primary and preferred channels:
-
-* HackerOne bug bounty program
-* email to: `security@rocket.chat`
+We have an established vulnerability management program that handles all layers of our application and infrastructure by using 8 main data sources, including our HackerOne program, internal pentest, vendors pentest, and tooling that runs vulnerability assessment scans in our ecosystem.
 
 Secondary channels are:
 
@@ -131,6 +128,15 @@ For reported vulnerabilities:
   * Select Create Issue, Manual Integration, and paste the Task ID in the Ref ID field.
 * An initial determination is done by the security team as to severity and impact. Never dismiss a security report outright. Instead, follow up with the reporter, asking clarifying questions.
 * Remember to prepare patches, blog posts, email templates, etc. on or in other non-public ways even if there is a reason to believe that the vulnerability is already out in the public domain (e.g. the original report was made in a public issue that was later made confidential).
+
+Our current SLA to deal with vulnerabilities are:&#x20;
+
+* **Critical:** 14 days
+* **High:** 30 days
+* **Medium:** 60 days
+* **Low:** Best effort unless risk accepted
+
+If you want to understand how our vulnerability management process works [here](https://docs.google.com/document/d/1bZS01mxfJgnoEZ384W2xYxlBIFw\_8CaXE9\_J1oytGeI/edit?usp=sharing) is a document with the details
 
 ### To prepare a Security Fix
 
