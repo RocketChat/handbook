@@ -33,8 +33,8 @@ During the week prior to the new team member's first day, the Engineering Manage
    * walk through priority OKRs
    * current state of the product (big issues, responsibilities, etc)
 7. Schedule recurrent 1:1 meetings with new team member
-8. Set all onboarding related tasks on click up, assigning the new member and buddy.
-9. Grant 30 All Start Points to Buddy at end of onboarding.&#x20;
+8. Set all onboarding related tasks on click up, assigning the new member and buddy
+9. Grant 30 All Start Points to Buddy at end of onboarding&#x20;
 
 &#x20;**Buddy should:**&#x20;
 
@@ -52,7 +52,7 @@ During the week prior to the new team member's first day, the Engineering Manage
 5. Coordinate a 2-week schedule of pair programming&#x20;
    * Recommended 1 hour/day
    * Different team members to rotate
-6. Run a buddy check-out call by end of new team member 1st month to validate knowledge transfer.&#x20;
+6. Run a buddy check-out call by end of new team member 1st month to validate knowledge transfer&#x20;
 
 &#x20;**New Team Member should:**
 
