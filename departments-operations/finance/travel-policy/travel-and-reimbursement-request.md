@@ -36,7 +36,8 @@ description: How to request your travel and reimbusements
 
 |             Region             | Amount per night |
 | :----------------------------: | :--------------: |
-|             Brazil             |      BRL 250     |
+|     Brazil - state capitals    |     BRL 400      |
+|      Brazil - other cities     |      BRL 250     |
 | Other Latin American countries |      USD 100     |
 |               USA              |      USD 180     |
 |             Europe             |      EUR 120     |
