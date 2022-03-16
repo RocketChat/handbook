@@ -6,6 +6,8 @@ description: Receive stars for representing our culture and exchange them for pr
 
 Our culture is one of our biggest strengths within Rocket.Chat and we want to recognize the actions that promote it! So **welcome to Rocket.Chat AllStars!** It is our system that will allow you to collect stars by representing the DOTS or in special dates and occasions, accumulate them and exchange for prizes!
 
+All products bought with stars are bought through [https://www.printful.com/](https://www.printful.com), where you can check the full catalog of products and colors.&#x20;
+
 ## What type of stars can I get?
 
 We have three types of points:
@@ -80,6 +82,10 @@ Check out the complete list of Rocket.Chats swags you can get through AllStars b
 
 {% tab title="T-shirt" %}
 ![](../../.gitbook/assets/tshirts.png)
+{% endtab %}
+
+{% tab title="Kids T-shirts" %}
+![](../../.gitbook/assets/Allstars.png)
 {% endtab %}
 
 {% tab title="Dawstring bag" %}
