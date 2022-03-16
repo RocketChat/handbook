@@ -6,7 +6,7 @@ description: Receive stars for representing our culture and exchange them for pr
 
 Our culture is one of our biggest strengths within Rocket.Chat and we want to recognize the actions that promote it! So **welcome to Rocket.Chat AllStars!** It is our system that will allow you to collect stars by representing the DOTS or in special dates and occasions, accumulate them and exchange for prizes!
 
-All products bought with stars are bought through [https://www.printful.com/](https://www.printful.com), where you can check the full catalog of products and colors.&#x20;
+All products bought with stars are bought through [Printful](https://www.printful.com/custom-products), where you can check the full catalog of products and colors (some items can also be bought through the [Shopify store](https://rocket-chat.myshopify.com)).
 
 ## What type of stars can I get?
 
