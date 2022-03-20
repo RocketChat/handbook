@@ -2,25 +2,29 @@
 
 ### Purpose
 
-The team aims to increase sales teams efficiency through processes all while generating high quality data for insights.  
+The RevOps team is located within the operations team and works cross-frontally with the other teams as  Data, Business Systems, and GTM Planning.
+
+Some responsibilities of the RevOps team can be summarized as follows:
+
+* Sales force design and deployment&#x20;
+* Sales process and systems - processes management from Awareness to Expansion&#x20;
+* Pipeline management and forecasting&#x20;
+* Sales Operations management&#x20;
+* Sales compensation design and administration&#x20;
+* Quota allocating/goal setting&#x20;
+* Revenue metrics selection and definition
 
 
-### Main OKRs level 1 related
-
-* CP-KR 1.3: Maintain “efficiency score” above 1.25x
-* CP-KR 2.1: Achieve $10M ARR Target
-* CP-KR 2.4b: Increase average win rate by 15%
 
 ### Members and functions
 
-* [Jorge Máximo](https://open.rocket.chat/direct/jorge.maximo): Junior Sales Ops
-  * Work focused within the sales team to reduce friction and increase value by guaranteeing data quality and process enforcement;
-* [Guilherme Scarpa](https://open.rocket.chat/direct/guilherme.scarpa): Revenue Ops Intern
-  * Works towards connecting the entire bow-tie funnel \(marketing, sales, customer success\) along with product and finance teams through processes and data analysis. 
-* [Paola Palhais](https://open.rocket.chat/direct/paola.palhais): Senior Sales Ops
-  * Work on designing processes, project management and performance evaluation
 
 
-
-
+| Member           | Role               | Focus                                                                                                                                                                                                                                          |
+| ---------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Diego Spagnol    | Sales Ops Analyst  | **Awareness/ Education Stage of funnel**.  Ensure that the lead delivery flows and processes to the sales team are being delivered according to the SLA - Leads Check Routine                                                                  |
+| Guilherme Scarpa | RevOps Analyst     | **Selection Stage of funnel.** Support the sales team on the negotiation stages regarding pricing strategy,Ensure that the flows and systems for the selection stage are reflecting the business rules together with the business systems team |
+| Isabelle Dias    | Sales Ops Analyst  | **Onboarding & Expansion stage of funnel.** Focused on Customer Onboarding & Support building the internal bridge to order management.                                                                                                         |
+| Mayra Lima       | Legal Analyst      | Focus on requirements and provisions in contracts to ensure compliance with all laws and regulations.                                                                                                                                          |
+| Paola Palhais    | RevOps Manager     | Team Management,  project management and performance evaluation. Quota setting reviews, forecasting & compensation plan design.                                                                                                                |
 
