@@ -20,7 +20,7 @@ Rocket.Chat is **open** by default. This means that unless something is explicit
 
 ## Creating or Editing Pages
 
-To create or edit pages withing the Handbook, you will need to login to [Gitbook](https://app.gitbook.com/login). If you don't have an account, send a message to [Marcelo Schmidt](./#open-vs-closed-information) to get an invitation link.
+To create or edit pages within the Handbook, you will need to login to [Gitbook](https://app.gitbook.com/login). If you don't have an account, send a message to [Marcelo Schmidt](./#open-vs-closed-information) to get an invitation link.
 
 After you log in, click the Rocket.Chat Handbook link, then click the 2.0 version:
 
