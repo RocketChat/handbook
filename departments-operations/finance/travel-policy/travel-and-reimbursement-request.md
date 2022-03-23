@@ -104,7 +104,7 @@ description: How to request your travel and reimbusements
 
 * Reimbursement requests should be submitted using the [Travel Expense form](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses), in Zoho.
 * Receipts must be scanned and submitted along with the Reimbursement template.
-* In case of mileage reimbursement: the employee should inform only the amount of kilometers to be reimbursed, leaving the “Exchange rate” field blank. Finance will calculate the amount to be paid according to this policy.
+* In case of mileage reimbursement: the employee should submit itinerary (origin-destination) and kilometers travelled. The employee should also present receipts to any tools paid during the trip.
 * In case of international purchases using the employee’s personal credit card: the employee should attach a copy of the credit card statement to the reimbursement request template.
 * The dates for reimbursement payment are the same as the one for the remote benefit:
   * Every request approved until the 15th of each month (or the next business day), will be paid in the payroll cycle of that same month.
