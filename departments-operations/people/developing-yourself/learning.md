@@ -30,12 +30,14 @@ You can do courses of any value BUT Rocket.Chat can only pay until a maximum amo
 
 Now, **very** important notes:
 
-* This maximum value is **per course**, not per month. e.g. You purchased a $600 course, you can't request $300 in two months, you will receive $500 in one month.
+* This maximum value is **per course**, not per month. e.g. You purchased a $600 course, you can't request $300 in two months, you will receive 70% of $600 in one single month, so $420.
 * The maximum value includes the total sum of any eventual additional taxes, such as enrollment fees or currency conversion fees.
 
 There are only a few exceptions to this policy, and they are:
 
 * **Long duration and high cost courses:** Such as MBAs and Post-graduate programs.
+
+Approvals applied to these exceptions should be previously approved by the General Manager and should have been included in the year budget by the business area.
 
 ### Retention Ranges (Applied only to courses)
 
