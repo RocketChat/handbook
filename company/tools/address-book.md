@@ -4,7 +4,7 @@ During your journey as a Rocketeer you will have different questions about diffe
 
 |        Team        |   Rocket.Chat User  |
 | :----------------: | :-----------------: |
-|      Community     |    @muni.narayan    |
+|      Community     |    @duda.nogueira   |
 |  Customer Success  |   @alexandru.bellu  |
 |       Design       |     @ivan.netto     |
 |       Finance      |     @debora.coy     |
