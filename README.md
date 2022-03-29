@@ -28,7 +28,7 @@ After you log in, click the Rocket.Chat Handbook link, then click the 2.0 versio
 
 Then navigate through the menus and find where you want to edit or create a new page.
 
-![](<.gitbook/assets/image (31).png>)
+![](<.gitbook/assets/image (30).png>)
 
 Then click the blue "Edit" button at the top-right portion of your screen.
 
