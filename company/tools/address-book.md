@@ -11,7 +11,7 @@ During your journey as a Rocketeer you will have different questions about diffe
 |      Marketing     |   @kristina.martic  |
 |     Operations     |   @marcelo.schmidt  |
 |        Sales       | @cristina.malachias |
-|      Security      |    @markus.kirsch   |
+|      Security      |    @bruno.cestari   |
 |       Support      |   @maryna.vdovkina  |
 | Talent Acquisition |   @dalliane.sobral  |
 |     Engineering    |    @tiago.paixao    |
