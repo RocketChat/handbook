@@ -62,7 +62,7 @@ Every expense that falls into these categories will be paid through reimbursemen
 
 When you create the request, make sure to use **today's date** in the Date field, **not** the date of the purchase.
 
-Every request approved until the 15th of each month will be paid in the next payroll cycle (request made in April 13th, will be paid in the end of April). Requests approved after the 15th will be paid in the end of the next month.
+Every request submitted until the 15th of each month will be paid in the current payroll cycle (request made in April 13th, will be paid in the end of April). Requests approved after the 15th will be paid in the end of the next month.
 
 You may accrue the amount for one year and use it all at once or partially, which means you don't have to use the full amount of your benefit every month. After you've accumulated the amount for one year, you won't accumulate until you've used it partially or in full.
 
