@@ -4,17 +4,54 @@
 
 Your development workstation needs to have at least 8GB RAM or more to be able to build the Rocket.Chat's source code.
 
-Rocket.Chat runs on top of [Meteor](https://www.meteor.com/). To run it on development mode you need to [install Meteor](https://www.meteor.com/install) and clone/download the Rocket.Chat's code, then just open the code folder and run:
 
-```text
-meteor npm install && meteor
+
+This project is a mono repo, composed of several sub projects, but the main objective/focus is Rocket.Chat as a single build, so for now all scripts are focused on this result.
+
+We have some restrictions in terms of versions and tooling, **please pay attention at this detail.**
+
+```
+node -v // v14.17.0
+yarn -v // 3.2.0
 ```
 
-It should build and run the application and database for you, now you can access the UI on \([http://localhost:3000](http://localhost:3000)\)
 
-It's not necessary to install Nodejs or NPM, every time you need to use them you can run `meteor node` or `meteor npm`.
 
-It's important to always run the NPM commands using `meteor npm` to ensure that you are installing the modules using the right Nodejs version.
+Rocket.Chat runs on top of [Meteor](https://www.meteor.com), that is based in Fibers implementation, Fibers only support s node 14.17.0  thats why you will not have success trying a different one.
+
+You need to [install Meteor](https://www.meteor.com/install) and clone/download the Rocket.Chat's code.&#x20;
+
+
+
+Then you just need run
+
+```
+yarn # installs the dependencies for all projects
+yarn build
+yarn dev # it will build the sub projects and then run meteor project
+```
+
+The code is spread through the folders, `packages/` and `apps/meteor`, the latter contains the vast majority of the project's code.
+
+If everything went well, it should build and run the application and database for you, now you can access the UI on ([http://localhost:3000](http://localhost:3000))
+
+
+
+You can check more info about mono repo and the tooling we are using here:
+
+
+
+{% embed url="https://www.meteor.com/developers/tutorials" %}
+Meteor documentation
+{% endembed %}
+
+{% embed url="https://turborepo.org/docs" %}
+Turbo repo documentation
+{% endembed %}
+
+{% embed url="https://classic.yarnpkg.com/lang/en/docs/workspaces" %}
+Yarn workspaces documentation
+{% endembed %}
 
 ## Coding
 
@@ -41,7 +78,7 @@ Things not covered by `eslint`:
 * Prefer longer/descriptive variable names, e.g. `error` vs `err`, unless dealing with common record properties already shortened, e.g. `rid` and `uid`
 * Use return early pattern. [See more](https://blog.timoxley.com/post/47041269194/avoid-else-return-early)
 * Prefer `Promise` over `callbacks`
-* Prefer `await` over `then/catch` \(also valid for unit/e2e test callbacks\)
+* Prefer `await` over `then/catch` (also valid for unit/e2e test callbacks)
 * Don't create queries outside models, the query description should be inside the model class.
 * Don't hardcode fields inside models. the same method can be used for different purposes, using different fields.
 * Prefer to create REST endpoints over Meteor methods
@@ -63,7 +100,7 @@ Before submitting a PR you should get no errors on `eslint`.
 
 To check your files run:
 
-```text
+```
 meteor npm run lint
 ```
 
@@ -75,19 +112,19 @@ There are 2 types of tests we run on Rocket.Chat, **Unit** tests and **End to En
 
 First, you need to run a Rocket.Chat server on **Test Mode** and on an **Empty Database**:
 
-```text
+```
 # Running with a local mongodb database
 MONGO_URL=mongodb://localhost/empty MONGO_OPLOG_URL=mongodb://localhost/local TEST_MODE=true meteor
 ```
 
-```text
+```
 # Running with a local mongodb database but cleaning it before
 mongo --eval "db.dropDatabase()" empty && MONGO_URL=mongodb://localhost/empty MONGO_OPLOG_URL=mongodb://localhost/local TEST_MODE=true meteor
 ```
 
 Now you can run the tests:
 
-```text
+```
 meteor npm test
 ```
 
@@ -95,13 +132,13 @@ meteor npm test
 
 Unit tests are simpler to set up and run. They do not require a working Rocket.Chat instance.
 
-```text
+```
 meteor npm run testunit
 ```
 
 It's possible to run on watch mode as well:
 
-```text
+```
 meteor npm run testunit-watch
 ```
 
@@ -119,13 +156,13 @@ Keep your PR's title as short and concise as possible, use PR's description sect
 
 Good titles require thinking from a user's point of view. Don't get technical and talk code or architecture. What is the actual user-facing feature or the bug fixed? For example:
 
-```text
+```
 [NEW] Allow search permissions and settings by name instead of only ID
 ```
 
-Even it's being something new in the code the users already expect the filter to filter by what they see \(translations\), a better one would be:
+Even it's being something new in the code the users already expect the filter to filter by what they see (translations), a better one would be:
 
-```text
+```
 [FIX] Permissions' search doesn't filter base on presented translation, only on internal ids
 ```
 
@@ -141,11 +178,11 @@ You can use several tags do describe your PR, i.e.: `[FIX]`, `[NEW]`, etc. You c
 
 **How**
 
-Do not start repeating the section \(`Add ...` or `New ...`\) Always describe what's being fixed, improved or added and not _how_ it was fixed, improved or added.
+Do not start repeating the section (`Add ...` or `New ...`) Always describe what's being fixed, improved or added and not _how_ it was fixed, improved or added.
 
 Example of **bad** PR titles:
 
-```text
+```
 [NEW] Add ability to set tags in the Omnichannel room closing dialog
 [NEW] Adds ability for Rocket.Chat Apps to create discussions
 [NEW] Add MMS support to Voxtelesys
@@ -154,7 +191,7 @@ Example of **bad** PR titles:
 
 Example of **good** PR titles:
 
-```text
+```
 [NEW] Ability to set tags in the Omnichannel room closing dialog
 [NEW] Ability for Rocket.Chat Apps to create discussions
 [NEW] MMS support to Voxtelesys
@@ -173,13 +210,13 @@ Always describe what's being fixed and not _how_ it was fixed.
 
 Example of a **bad** PR title:
 
-```text
+```
 [FIX] Add Content-Type for public files with JWT
 ```
 
 Example of a **good** PR title:
 
-```text
+```
 [FIX] Missing Content-Type header for public files with JWT
 ```
 
@@ -195,7 +232,7 @@ Always describe what's being improved and not _how_ it was improved.
 
 Example of **good** PR title:
 
-```text
+```
 [IMPROVE] Displays Nothing found on admin sidebar when search returns nothing
 ```
 
@@ -207,12 +244,12 @@ Example of **good** PR title:
 
 **Back-End**
 
-* When the API contract \(data structure and endpoints\) are limited, expanded as required or removed
-* When the business logic \(permissions and roles\) are limited, expanded \(without migration\) or removed
+* When the API contract (data structure and endpoints) are limited, expanded as required or removed
+* When the business logic (permissions and roles) are limited, expanded (without migration) or removed
 
 **Front-End**
 
-* When the change limits \(format, size, etc\) or removes the ability to read or change the data \(when the limitation was not caused by the back-end\)
+* When the change limits (format, size, etc) or removes the ability to read or change the data (when the limitation was not caused by the back-end)
 
 ### `Regression`
 
@@ -222,7 +259,7 @@ Example of **good** PR title:
 
 Example of **good** PR titles:
 
-```text
+```
 Regression: Fix not being able to mark room as read 
 Regression: Add missing field to `users` endpoint
 ```
@@ -235,7 +272,7 @@ Use a second tag to group entries on the changelog. We currently use it only for
 
 For those PRs that aren't important for the end-user, we are working on a better pattern, but for now please use the same tags, use them without the brackets and in camel case:
 
-```text
+```
 Fix: Missing Content-Type header for public files with JWT
 ```
 
@@ -264,4 +301,3 @@ All those PRs will be grouped under the `Minor changes` section which is collaps
 To have your contribution accepted you must sign our [Contributor License Agreement](https://cla-assistant.io/RocketChat/Rocket.Chat). In case you submit a Pull Request before sign the CLA GitHub will alert you with a new comment asking you to sign and will block the Pull Request from be merged by us.
 
 Please review and sign our CLA at [https://cla-assistant.io/RocketChat/Rocket.Chat](https://cla-assistant.io/RocketChat/Rocket.Chat)
-
