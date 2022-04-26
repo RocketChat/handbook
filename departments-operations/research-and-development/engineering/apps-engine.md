@@ -2,23 +2,23 @@
 
 ## Purpose
 
-The Rocket.Chat Apps Team is responsible for the Apps-Engine framework, which allows developers to make plugins \(apps\) to extend Rocket.Chat's functionality without having to deep dive into the core codebase. Along with the framework itself, we work on official integrations through the Apps-Engine, maintain the tooling around it and integrate Rocket.Chat with our Marketplace.
+The Rocket.Chat Apps Team is responsible for the Apps-Engine framework, which allows developers to make plugins (apps) to extend Rocket.Chat's functionality without having to deep dive into the core codebase. Along with the framework itself, we work on official integrations through the Apps-Engine, maintain the tooling around it and integrate Rocket.Chat with our Marketplace.
 
 ## Processes
 
-We're running some experiments on how to run your development processes, based on some practices from the Agile methodologies. 
+We're running some experiments on how to run your development processes, based on some practices from the Agile methodologies.
 
-Currently, we have a 2-week sprint - within which we have a **Planning**, a **Retrospective**, and **Daily** sessions.
+Currently, we have a 2-week sprint, from Tuesday to Monday - within which we have a **Planning**, a **Retrospective**, **Grooming**, and **Daily** sessions.
 
-* **Planning - Mondays at** [**10am \(BRT\)**](http://mytime.io/10am/BRT) **-** On the first Monday of the sprint, we go over our ClickUp backlog, selecting what we think fits into our Sprint. On the _second_ Monday of the sprint, we just have a check-in for the overall progress and try to identify any point we might need to pivot.
-* **Dailies - Every day at** [**9:45am \(BRT\)**](http://mytime.io/9:45am/BRT) **-** We follow the "standard" format of the Scrum Daily ceremony. Every team member shares the progress they had in their tasks in the previous day, the plans for advancing in the current day, and if there are any blockers. **NOTE:** Whenever the daily "conflicts" with any other call we have, we'll just merge it into the other call.
-* **Retrospective - Every other Friday at** [**10am \(BRT\)**](http://mytime.io/10am/BRT) **-** We do it at the end of every Sprint. We go over the accomplishments of that specific Sprint, and then discuss what has worked and what can be improved in the process, coming up with action items we need to achieve those improvements.
+* **Review/Planning - Every other Tuesday at** [**10am (BRT)**](http://mytime.io/10am/BRT) **-** At the beginning of the Sprint, we go over the previous one, checking what tasks we completed and if there are any we need to carry over to the current - this is the _Review_. Then we move to the actual _Planning_, where we allocate the work we agree seems to fit the Sprint.
 
-### Other Calls
+{% hint style="info" %}
+In cases where we need to carry tasks over, it's important to assess honestly what happened so the team can prepare actions that prevent this carrying over from happening again. It's not a problem to carry things over, the problem would be missing opportunities to learn and improve
+{% endhint %}
 
-We have some things that are not in Agile methodologies:
-
-* **Tuesdays** [**09:45am \(BRT\)**](http://mytime.io/09:45am/BRT) **- Engineering Session -** Topics discussed here can vary. Firstly we discuss the approaches we're going with when dealing with tasks/investigations. Then, we can move to discussing proposals of new APIs, automations, plans for the future, etc. Anything Engineering.
+* &#x20;**Dailies - Every day at** [**9:45am (BRT)**](http://mytime.io/9:45am/BRT) **-** We follow the "standard" format of the Scrum Daily ceremony. Every team member shares the progress they had in their tasks in the previous day, the plans for advancing in the current day, and if there are any blockers.
+* **Retrospective - Every other Friday at** [**10am (BRT)**](http://mytime.io/10am/BRT) **-** We do it at the end of every Sprint. We go over the accomplishments of that specific Sprint, and then discuss what has worked and what can be improved in the process, coming up with action items we need to achieve those improvements.
+* **Grooming/Discovery - Every Friday at** [**3pm (BRT)**](https://mytime.io/3pm/BRT) **-** In these sessions we go over any initiatives we have in your short-term roadmap, breaking them down into tasks and assigning them estimated Sprint Points. This is a good opportunity for us to discuss with the team the technical details of the approach we'll take when implementing those tasks.
 
 ### **Important notes**
 
@@ -31,7 +31,7 @@ We have some things that are not in Agile methodologies:
 
 New contributions will most likely start with a new git branch. We don't have strict rules for naming a branch, but here are some suggestions:
 
-* `feat/*` ****if you'll be working in new feature
+* `feat/*` \*\*\*\*if you'll be working in new feature
 * `fix/*` if you'll be working on a fix
 * `regression/*` if you'll be working on a regression in the current release
 * just use a custom name, without the "folder format", if it doesn't fit the suggestions above
@@ -44,12 +44,7 @@ Often we'll need to open a PR in more than one of the Org's repos when introduci
 
 Whenever you have to commit code to more than one repo, keep in mind the following guidelines:
 
-* **Start your PRs as a draft when they depend on modifications from other repos.** Example: You're changing an API in the Apps-Engine, which also requires you to change how Rocket.Chat handles it. The PR in Rocket.Chat needs to be started as a draft and can only be ready for review **once the Apps-Engine version has been updated to the latest version containing the API change** __\(either a _patch_ or an _alpha_\).
+* **Start your PRs as a draft when they depend on modifications from other repos.** Example: You're changing an API in the Apps-Engine, which also requires you to change how Rocket.Chat handles it. The PR in Rocket.Chat needs to be started as a draft and can only be ready for review **once the Apps-Engine version has been updated to the latest version containing the API change** \_\_(either a _patch_ or an _alpha_).
 * **Make sure the PRs reference each other in their descriptions.** Reviewers will need the full context of your contribution to properly review them, so they need to know the PRs in the other repos.
 
-#### 
-
-
-
-
-
+####
