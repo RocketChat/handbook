@@ -95,7 +95,7 @@
   * [Team](departments-operations/marketing/team/README.md)
     * [On Boarding Overview](departments-operations/marketing/team/on-boarding-overview/README.md)
       * [On- Boarding Activities](departments-operations/marketing/team/on-boarding-overview/on-boarding-activities.md)
-  * [Rocket.Chat's Logo](departments-operations/marketing/rocket.chats-logo.md)
+  * [Rocket.Chat's Brand Guidelines](departments-operations/marketing/rocket.chats-logo.md)
   * [Website](departments-operations/marketing/website.md)
   * [Webinar Process](departments-operations/marketing/webinar-process.md)
   * [Product Profiles](departments-operations/marketing/pages-to-update.md)
