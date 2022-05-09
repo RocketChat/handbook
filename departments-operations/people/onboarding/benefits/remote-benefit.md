@@ -58,7 +58,7 @@ When converting rates to or from USD, we will use the closing rate at [https://x
 
 ### Expensing
 
-Every expense that falls into these categories will be paid through reimbursement only. You'll need to provide a receipt of the payment through [Zoho People - Compensation - Remote - Usage.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001060069/viewId:524549000001060071)
+Every expense that falls into these categories will be paid through reimbursement only. You'll need to provide a receipt of the payment through [Zoho People - Compensation - Remote - Usage.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001060069/viewId:524549000001060071) Note that this module in Zoho allows you to create 1 request for multiple items if you wish to do so.
 
 When you create the request, make sure to use **today's date** in the Date field, **not** the date of the purchase.
 
