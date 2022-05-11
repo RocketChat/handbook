@@ -24,11 +24,11 @@ To create or edit pages within the Handbook, you will need to login to [Gitbook]
 
 After you log in, click the Rocket.Chat Handbook link, then click the 2.0 version:
 
-![](<.gitbook/assets/image (28) (1).png>)
+![](<.gitbook/assets/image (28).png>)
 
 Then navigate through the menus and find where you want to edit or create a new page.
 
-![](<.gitbook/assets/image (30) (1).png>)
+![](<.gitbook/assets/image (30).png>)
 
 Then click the blue "Edit" button at the top-right portion of your screen.
 
@@ -44,6 +44,6 @@ To upload images, just copy and paste into the text.
 
 To create a new menu item, just hover in between items and click the plus sign.
 
-![](<.gitbook/assets/image (25) (2).png>)
+![](<.gitbook/assets/image (25).png>)
 
 After you are done creating or editing, click the "Submit" button, and that will create a Change Request that can be reviewed and merged.
