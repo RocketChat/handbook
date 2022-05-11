@@ -104,7 +104,7 @@
   * [Social Media Content: How To Contribute](departments-operations/marketing/social-media-content-how-to-contribute.md)
 * [Operations](departments-operations/operations-team/README.md)
   * [Data & Analytics](departments-operations/operations-team/data-and-analytics/README.md)
-    * [Data Lake](departments-operations/operations-team/data-and-analytics/data-lake/README.md)
+    * [Data Lake](departments-operations/operations-team/data-and-analytics/data-lake.md)
       * [Athena Naming Conventions](departments-operations/operations-team/data-and-analytics/data-lake/athena-naming-conventions.md)
     * [Data as a Cross-Functional Team](departments-operations/operations-team/data-and-analytics/data-as-a-cross-functional-team.md)
   * [Internal Communication Plan](departments-operations/operations-team/internal-communication-plan.md)
