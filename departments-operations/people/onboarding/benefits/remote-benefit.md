@@ -64,6 +64,6 @@ When you create the request, make sure to use **today's date** in the Date field
 
 Every request submitted until the 15th of each month will be paid in the current payroll cycle (request made in April 13th, will be paid in the end of April). Requests approved after the 15th will be paid in the end of the next month.
 
-You may accrue the amount for one year and use it all at once or partially, which means you don't have to use the full amount of your benefit every month. After you've accumulated the amount for one year, you won't accumulate until you've used it partially or in full.
+You may accrue the amount for one year and the balance will be capped at the 1 year amount (R$2400, $1800 or $1200), at that point you'll stop accumulating until you've used it partially or fully.
 
 You can see the amount you have accumulated in [Zoho People - Compensation - Remote - Balance.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000000841009/viewId:524549000000841011)
