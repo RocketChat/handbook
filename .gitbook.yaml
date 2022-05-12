@@ -191,6 +191,8 @@ redirects:
   product/release-cycle/: departments-operations/research-and-development/release-cycle.md
   company/people/joining/benefits/remote-benefit: departments-operations/people/joining/benefits/remote-benefit.md
   company/people/joining/benefits/remote-benefit/: departments-operations/people/joining/benefits/remote-benefit.md
+  company/people/entering-rocket.chat/benefits/remote-benefit/: departments-operations/people/joining/benefits/remote-benefit.md
+  company/people/entering-rocket.chat/benefits/remote-benefit: departments-operations/people/joining/benefits/remote-benefit.md
   company/our-culture/remote-work: company/our-culture/remote-work.md
   company/our-culture/remote-work/: company/our-culture/remote-work.md
   product/reporting-product-issues: company/how-tos-and-guidelines/reporting-product-issues.md
