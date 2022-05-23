@@ -131,7 +131,7 @@
   * [Daily life](departments-operations/people/daily-life/README.md)
     * [1:1s](departments-operations/people/daily-life/1-1s.md)
     * [Guide to PTO](departments-operations/people/daily-life/pto-guide.md)
-    * [Holidays and Vacations](departments-operations/people/daily-life/holidays-and-vacations.md)
+    * [Holidays, Vacations and Leaves](departments-operations/people/daily-life/holidays-and-vacations.md)
     * [Vacations Policy](departments-operations/people/daily-life/vacations-policy.md)
     * [Travel Policy](departments-operations/people/daily-life/travel-policy.md)
   * [Developing yourself](departments-operations/people/developing-yourself/README.md)
