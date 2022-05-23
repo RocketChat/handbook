@@ -20,4 +20,4 @@ On none of these cases we'll be able to "block" your calendar in advance, so we 
 
 ## Maternity and Paternity leaves
 
-The time frames for both maternity and paternity leaves vary according to local laws. As a standard minimum we establish from 120 to 180 days for maternity leaves and 30 days for paternity leaves. The employee can request the leave also through Zoho People and is free to ask for more days based on the local legislation or using the unlimited PTO benefit.
+The time frames for both maternity and paternity leaves vary according to local laws. As a standard minimum we establish from 120 days for maternity leaves and 30 days for paternity leaves. The employee can request the leave also through Zoho People and is free to ask for more days using the unlimited PTO benefit or based on the local legislation, if it establishes more than the company standard the highest number of days is applied.&#x20;
