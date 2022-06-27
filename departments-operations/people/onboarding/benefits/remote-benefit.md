@@ -11,7 +11,7 @@ We’ve budgeted an amount to reimburse teammates for special costs. Market rate
 This budget may be used specially as a support in expensing:
 
 * **Coworking**: To encourage teammates to work where they’re happiest, Rocket.Chat helps you cover co-working space membership fees.
-* **Internet and electricity bills**: You can use your budgeted amount to reimburse your home internet or support your electricity. Sometimes this is bundled with TV or other cable services. The budget _doesn’t cover_ the additional services and retroactive bills, **only** bills from the ongoing month.
+* **Internet and electricity bills**: You can use your budgeted amount to reimburse your home internet or support your electricity. Sometimes this is bundled with TV or other cable services. The budget _doesn't cover_ the additional services and retroactive bills, **only** bills from the ongoing month.&#x20;
 * **Equipment**:
   * **Other computer accessories:** You may use the budget on computer accessories to help you work better. Examples of uses for this benefit:
     * Wireless Keyboard
@@ -28,6 +28,8 @@ This budget may be used specially as a support in expensing:
   * Kindle
 
 ### Benefit Coverage Limits
+
+The benefit _**does not cover**_ retroactive bills for any of the categories, **only** bills from the ongoing month.
 
 The following items are **not** covered by the remote benefit:
 
