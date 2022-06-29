@@ -4,14 +4,14 @@ During your journey as a Rocketeer you will have different questions about diffe
 
 |        Team        | Rocket.Chat User |
 | :----------------: | :--------------: |
-|      Community     |  @duda.nogueira  |
+|      Community     |  @floris.vangeel |
 |  Customer Success  |   @marcela.lima  |
 |       Design       |    @ivan.netto   |
 |       Finance      |    @debora.coy   |
-|      Marketing     | @kristina.martic |
+|      Marketing     |  @manu.sreekanta |
 |     Operations     |   @alan.wright   |
 |      Security      |  @bruno.cestari  |
-|       Support      | @marcelo.schmidt |
+|       Support      | @amanda.oliveira |
 | Talent Acquisition |  @analopes.grun  |
 |     Engineering    |   @tiago.paixao  |
 |       Product      | @vinicius.marino |
