@@ -29,6 +29,8 @@
   * [Product](departments-operations/research-and-development/product/README.md)
     * [Technical Writing](departments-operations/research-and-development/product/technical-writing.md)
   * [Engineering](departments-operations/research-and-development/engineering/README.md)
+    * [Mobile](departments-operations/research-and-development/engineering/mobile/README.md)
+      * [How to update icon set](departments-operations/research-and-development/engineering/mobile/how-to-update-icon-set.md)
     * [Apps-Engine](departments-operations/research-and-development/engineering/apps-engine.md)
     * [Backend](departments-operations/research-and-development/engineering/backend.md)
     * [Cloud](departments-operations/research-and-development/engineering/cloud.md)

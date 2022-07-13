@@ -12,7 +12,7 @@ The payment gets to you in the last day of each month. It's important to point o
 
 ## US Employee Rocketeers&#x20;
 
-Your payment is done through [TriNet](https://www.trinet.com). You don't have to create invoices, the platform will take care of all the processing for you. In TriNet the payment is done every 15 days, so half and half of your monthly salary is sent each time.
+Your payment is done through [TriNet](https://www.trinet.com/). You don't have to create invoices, the platform will take care of all the processing for you. In TriNet the payment is done every 15 days, so half and half of your monthly salary is sent each time.
 
 ## Contractor Rocketeers
 

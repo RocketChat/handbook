@@ -17,7 +17,7 @@ yarn -v // 3.2.0
 
 
 
-Rocket.Chat runs on top of [Meteor](https://www.meteor.com), that is based in Fibers implementation, Fibers only support s node 14.17.0  thats why you will not have success trying a different one.
+Rocket.Chat runs on top of [Meteor](https://www.meteor.com/), that is based in Fibers implementation, Fibers only support s node 14.17.0  thats why you will not have success trying a different one.
 
 You need to [install Meteor](https://www.meteor.com/install) and clone/download the Rocket.Chat's code.&#x20;
 
