@@ -66,8 +66,3 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
   * **Tip:** Don't use Xcode to replace files, because otherwise you're going to change the links inside the project. Doing it from VSCode, for example, does the job without touching `ios/RocketChatRN.xcodeproj/project.pbxproj`&#x20;
 * Go to your terminal and run from the root folder of your project `yarn build-icon-set` to update the mapped icons for Typescript
 * Now build the app again and try the new icons
-
-
-
-
-
