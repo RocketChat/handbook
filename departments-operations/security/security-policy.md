@@ -120,7 +120,7 @@ Other handling and marking methods depending on tools and systems you use: When 
 
 ### Deletion of data:
 
-Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. for legal reasons). Use secure methods for deleting data, e.g. [DBAN](https://dban.org/) Contact the security team in case you are in doubt of deleting data. Public data generally does not need to be deleted since the risk associated with it is low and our external audience often expects this data to be available (e.g. in our public source code repositories).
+Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. for legal reasons). Use secure methods for deleting data, e.g. [DBAN](https://dban.org) Contact the security team in case you are in doubt of deleting data. Public data generally does not need to be deleted since the risk associated with it is low and our external audience often expects this data to be available (e.g. in our public source code repositories).
 
 ## Acceptable Use
 

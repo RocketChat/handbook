@@ -31,7 +31,7 @@ We choose to have fixed monthly releases, that means that under optimal circumst
 
 ## What are the important days of a release?
 
-The first release candidate (TestFlight and Beta) needs to be done by the 20th of each month. The release will always happen on the 27th day of each month, unless there’s some critical crash/bug happening.
+The first release candidate (TestFlight and Beta) needs to be done by the 20th of each month. The release will most frequently happen on the 27th day of each month unless there’s some critical crash/bug or some unforseen circumstances, then it can be shifted.
 
 ## What happens if something could not be done in time for the release candidate?
 

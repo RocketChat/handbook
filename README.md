@@ -28,22 +28,22 @@ After you log in, click the Rocket.Chat Handbook link, then click the 2.0 versio
 
 Then navigate through the menus and find where you want to edit or create a new page.
 
-![](<.gitbook/assets/image (30) (1) (1).png>)
+![](<.gitbook/assets/image (30) (1).png>)
 
 Then click the blue "Edit" button at the top-right portion of your screen.
 
 If you want to edit the current text, just click it and edit in place. You'll see a menu at the right of the text you're editing that allows you to format the text.
 
-![](<.gitbook/assets/image (26) (1).png>)
+![](<.gitbook/assets/image (26).png>)
 
 By hovering your mouse in between lines you can insert a new paragraph by clicking the plus sign that shows up.
 
-![](<.gitbook/assets/image (27) (1).png>)
+![](<.gitbook/assets/image (27).png>)
 
 To upload images, just copy and paste into the text.
 
 To create a new menu item, just hover in between items and click the plus sign.
 
-![](<.gitbook/assets/image (25) (2) (1).png>)
+![](<.gitbook/assets/image (25) (2).png>)
 
 After you are done creating or editing, click the "Submit" button, and that will create a Change Request that can be reviewed and merged.

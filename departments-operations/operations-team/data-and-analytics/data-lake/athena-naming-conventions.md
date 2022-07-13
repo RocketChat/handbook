@@ -14,7 +14,7 @@ Tables that tagged with a "**\_s**" contains sensitive information hided.
 
 All the views should follow the template below:
 
-![](<../../../../.gitbook/assets/image (25) (2).png>)
+![](<../../../../.gitbook/assets/image (25).png>)
 
 <mark style="color:red;">Red</mark> = all views should contain the prefix "**vw**";\
 <mark style="color:orange;">Orange</mark> = indicates the the periodicity of the table (d = daily, w = weekly, m = monthly, y = yearly);\
