@@ -8,7 +8,7 @@ Do you know that moment when you see that open position for working in Rocket.Ch
 
 How it's going to work:
 
-1. All Rocketeers can submit referrals! To do that you just have to: Enter the [Google Workspace Dashboard](https://workspace.google.com/dashboard) > Click on the Greenhouse icon > Sign in with your Rocket.Chat email > On Greenhouse's header, click on![](<../../.gitbook/assets/image (18) (4) (2) (1) (12).png>) and then on "Add a Referral".
+1. All Rocketeers can submit referrals! To do that you just have to: Enter the [Google Workspace Dashboard](https://workspace.google.com/dashboard) > Click on the Greenhouse icon > Sign in with your Rocket.Chat email > On Greenhouse's header, click on![](<../../.gitbook/assets/image (18) (4) (2) (13).png>) and then on "Add a Referral".
 2. Fill out the information about your referral and it's done!
 
 If your referral **joins the team and stays for at least 90 days**, you'll get a reward sponsored by the **Referrals** system! **🍾**

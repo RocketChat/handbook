@@ -6,7 +6,7 @@ This document explains how to update the icon set based on Figma Iconography.
 
 [Here](https://www.figma.com/file/gC0Y4IH5uthUymNW85If7EA2/Styleguide?node-id=110%3A41) we have the Iconography source of truth, so every update needs to start from there.
 
-![Iconography Figma board](<../../../../.gitbook/assets/image (28).png>)
+![Iconography Figma board](<../../../../.gitbook/assets/image (28) (1).png>)
 
 * Select the icons you want to add/update
   * **Tip:** Select only the icons you want to change _just to be safe._
@@ -15,11 +15,11 @@ This document explains how to update the icon set based on Figma Iconography.
 
 * Go to `Export` on the right panel, select `SVG` and click on `Export N layers`&#x20;
 
-![Exporting icons on Figma](<../../../../.gitbook/assets/image (33).png>)
+![Exporting icons on Figma](<../../../../.gitbook/assets/image (33) (1).png>)
 
 * It should generate a `Styleguide.zip` file on your machine containing the files&#x20;
 
-![Exported icons on file system](<../../../../.gitbook/assets/image (27).png>)
+![Exported icons on file system](<../../../../.gitbook/assets/image (27) (1).png>)
 
 ### Icomoon
 
@@ -30,7 +30,7 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 * On Icomoon, click on `Icomoon App` and then `Import Icons`&#x20;
 * Select the `.json` file you just downloaded
 
-![Imported Icon Set](<../../../../.gitbook/assets/image (31).png>)
+![Imported Icon Set](<../../../../.gitbook/assets/image (31) (1).png>)
 
 * Drag and drop the icons you want to add/update to Icomoon
 * They should appear as unselected
@@ -39,17 +39,17 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 
 * Select them and click `Generate Font`
 
-![Generate Font screen](<../../../../.gitbook/assets/image (32).png>)
+![Generate Font screen](<../../../../.gitbook/assets/image (32) (1).png>)
 
 * Click `Configure` (gear icon) on the right side of `Download`
 * Change the `Font Name` to `custom`
 
-![Configure screen](<../../../../.gitbook/assets/image (26).png>)
+![Configure screen](<../../../../.gitbook/assets/image (26) (1).png>)
 
 * Close this modal and click `Download`&#x20;
 * It should have generated a `.zip` file with the following content
 
-![Unzipped custom icon set](<../../../../.gitbook/assets/image (35).png>)
+![Unzipped custom icon set](<../../../../.gitbook/assets/image (35) (1).png>)
 
 * The only files we're going to use are `fonts/custom.ttf` and `selection.json`&#x20;
 * Now we need to update the [Google Drive folder](https://drive.google.com/drive/folders/18B1Br1nyJwmJTacKd7S9BgS3z7MGHiQv)

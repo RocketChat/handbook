@@ -5,7 +5,7 @@ Before you first join our team you'll receive the instructions for your admissio
 The first two steps after having your Gsuite account in hand are:
 
 * Register in [open.rocket.chat](../../community/community-management/open.rocket.chat.md), following the company username format: @firstname.lastname
-* Sign in [training.rocket.chat](https://training.rocket.chat) using your Google account
+* Sign in [training.rocket.chat](https://training.rocket.chat/) using your Google account
 
 After you complete the first we'll be able to locate you inside the open server of Rocket.Chat in order to add you to our private team and channels. While the second step will allow us to give you access to our New Rocketeer Certification.&#x20;
 
