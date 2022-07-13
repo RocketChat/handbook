@@ -1,8 +1,6 @@
 # How to update icon set
 
-This documentation explains how to update the icon set based on the Figma Iconography.
-
-
+This document explains how to update the icon set based on Figma Iconography.
 
 ### Figma Iconography
 
@@ -63,6 +61,6 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 
 * Move and replace the new `selection.json` to `app/containers/CustomIcon/selection.json`
 * Move and replace the new `custom.ttf` to `android/app/src/main/assets/fonts/custom.ttf` and to `ios/custom.ttf`&#x20;
-  * **Tip:** Don't use Xcode to replace files, because otherwise you're going to change the links inside the project. Doing it from VSCode, for example, does the job without touching `ios/RocketChatRN.xcodeproj/project.pbxproj`&#x20;
+  * **Tip:** Don't use Xcode to replace files, because otherwise, you're going to change the links inside the project. Doing it from VSCode, for example, does the job without touching `ios/RocketChatRN.xcodeproj/project.pbxproj`&#x20;
 * Go to your terminal and run from the root folder of your project `yarn build-icon-set` to update the mapped icons for Typescript
 * Now build the app again and try the new icons
