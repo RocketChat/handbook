@@ -6,7 +6,7 @@ To do this, you need to search with the prefix: file-desc: followed by your-file
 \
 Example: **file-desc:testing**
 
-****![](<../../../.gitbook/assets/image (29).png>)****
+****![](<../../../.gitbook/assets/image (29) (1).png>)****
 
 ****
 

@@ -11,12 +11,13 @@ Provide introductions: A good introduction should identify your topic and provid
 ## **Body**
 
 * Use simple, short sentences.
-* Address user in second-person pronouns, **you, your, yours, yourself, yourselves** instead of **the user**
-* Try starting actionable instruction with a verb. (e.g., “Click **Submit**…” \[Correct] vs. “Please click the Submit button…” \[Not Preferred])
-* Use the actual names of UI components only, not their types. (e.g., “Click **Submit**…” \[Correct] vs. “Please click the Submit button…” \[Not Preferred] OR "Turn **Enable encryption** on" \[Correct] vs. "Turn on the **Enable encryption** toggle" \[Not Preferred])
-* Use Active Voice whenever possible (e.g., “You can change these configurations by…” \[Active] vs. “These configurations can be changed by…” \[Passive])
+* Address user in second-person pronouns, **you, your, yours, yourself, yourselves** instead of **the user.**
+* Try starting actionable instruction with a verb. (e.g., “Click **Submit**…” \[Correct] vs. “Click the Submit button…” \[Not Preferred]).
+* Use the actual names of UI components only, not their types. (e.g., “Click **Submit**…” \[Correct] vs. “Click the Submit button…” \[Not Preferred] OR "Turn **Enable encryption** on" \[Correct] vs. "Turn on the **Enable encryption** toggle" \[Not Preferred]).
+* Use Active Voice whenever possible (e.g., “You can change these configurations by…” \[Active] vs. “These configurations can be changed by…” \[Passive]).
 * Convey value but stay factual.
 * When a hosting provider is referenced state that it is provided as an example.
+* Always spell check for typos and grammar check for polish.
 
 ### Info blocks/call outs
 
@@ -36,18 +37,30 @@ Users need to set up a Matrix homeserver and a dendrite server
 
 * Use screenshots only one navigation/step is so complex that you cant describe it in words.
 * Make sure screenshots are readable.
-* Mark your screenshots always, as shown below:
+* For difficult navigations, mark your screenshots always, as shown below:
 
-![](<../../../.gitbook/assets/image (24).png>)
+![Marked screenshot](<../../../.gitbook/assets/image (24).png>)
 
 ### Document Flow
 
-* Make sure that information is provided organically. A prerequisite step is given first. &#x20;
+Make sure that information is provided organically. Always assume, the user is new to the Rocket.Chat, reading the document you are writing as the first document, and know nothing about Rocket.Chat previously.&#x20;
+
+* A prerequisite step is given first, as shown in the example below:
+
+![Prerequisite step](<../../../.gitbook/assets/image (34).png>)
+
+* If you are referring to another feature within the document you are writing, assume that your reader does not know about it and give a hyperlink to the documentation of that feature, as shown in the example below:
+
+![](<../../../.gitbook/assets/image (35).png>)
+
+* Maintain the flow of the feature and give any next steps, as shown in the example below:
+
+![Next step](<../../../.gitbook/assets/image (29).png>)
+
 * When documenting a new topic in a feature, always use branches and dedicated pages. This way, the necessary information is searchable by users through keywords on the page title, as shown below:
 
 ![](<../../../.gitbook/assets/image (23).png>)
 
-* Use headings, bullet points, and links to break up information into chunks, not long explanatory paragraphs
-* Actionable items in a bulleted list should not end in a full stop
-* Use tables and diagrams, not sentences, to represent information with multiple dimensions
-* Always spell check for typos and grammar check for polish
+* Use headings, bullet points, and links to break up information into chunks, not long explanatory paragraphs.
+* Actionable items in a bulleted list should not end in a full stop.
+* Use tables and diagrams, not sentences, to represent information with multiple dimensions.

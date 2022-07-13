@@ -11,7 +11,7 @@ This document explains how to update the icon set based on Figma Iconography.
 * Select the icons you want to add/update
   * **Tip:** Select only the icons you want to change _just to be safe._
 
-![New icons](<../../../../.gitbook/assets/image (34).png>)
+![New icons](<../../../../.gitbook/assets/image (34) (1).png>)
 
 * Go to `Export` on the right panel, select `SVG` and click on `Export N layers`&#x20;
 
@@ -49,7 +49,7 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 * Close this modal and click `Download`&#x20;
 * It should have generated a `.zip` file with the following content
 
-![Unzipped custom icon set](<../../../../.gitbook/assets/image (35) (1).png>)
+![Unzipped custom icon set](<../../../../.gitbook/assets/image (35) (1) (1).png>)
 
 * The only files we're going to use are `fonts/custom.ttf` and `selection.json`&#x20;
 * Now we need to update the [Google Drive folder](https://drive.google.com/drive/folders/18B1Br1nyJwmJTacKd7S9BgS3z7MGHiQv)

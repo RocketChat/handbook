@@ -3,7 +3,7 @@
 When rocket chat service was crashed with the following error: \
 
 
-### ![](<../../../.gitbook/assets/image (35).png>)FATAL ERROR: Scavenger: semi-space copy Allocation failed - JavaScript heap out of memory 
+### ![](<../../../.gitbook/assets/image (35) (1).png>)FATAL ERROR: Scavenger: semi-space copy Allocation failed - JavaScript heap out of memory 
 
 Most probably it is because the last time you tried updating/upgrading **Node** with a different package manager than used before like **npm/nvm/apt-get** etc. As a result, the location can be changed.\
 
