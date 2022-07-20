@@ -43,13 +43,13 @@ Users need to set up a Matrix homeserver and a dendrite server
 
 ### Document Flow
 
-Make sure that information is provided organically. Always assume, the user is new to the Rocket.Chat, reading the document you are writing as the first document, and know nothing about Rocket.Chat previously.&#x20;
+Make sure that information is provided organically. Always assume, the user is new to the Rocket.Chat. Start every document with edge-case in mind.
 
 * A prerequisite step is given first, as shown in the example below:
 
 ![Prerequisite step](<../../../.gitbook/assets/image (34).png>)
 
-* If you are referring to another feature within the document you are writing, assume that your reader does not know about it and give a hyperlink to the documentation of that feature, as shown in the example below:
+* If you are referring to another feature within the document you are writing, assume that your reader does not know about it and give a permalink to the documentation of that feature, as shown in the example below:
 
 ![](<../../../.gitbook/assets/image (35).png>)
 
