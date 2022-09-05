@@ -37,6 +37,7 @@
     * [Development](departments-operations/research-and-development/engineering/development/README.md)
       * [ClickUp Guidelines](departments-operations/research-and-development/engineering/development/clickup-guidelines/README.md)
         * [ClickUp Process and Status Changes](departments-operations/research-and-development/engineering/development/clickup-guidelines/clickup-process-and-status-changes.md)
+      * [Engineering Work Prioritization](departments-operations/research-and-development/engineering/development/engineering-work-prioritization.md)
       * [Development Guidelines](departments-operations/research-and-development/engineering/development/development-guidelines.md)
       * [Review Guidelines](departments-operations/research-and-development/engineering/development/review-guidelines.md)
     * [Quality Assurance](departments-operations/research-and-development/engineering/quality-assurance/README.md)
