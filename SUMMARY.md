@@ -60,6 +60,7 @@
     * [Engineering People Management](departments-operations/research-and-development/engineering/engineering-people-management/README.md)
       * [Roles & Responsibilities](departments-operations/research-and-development/engineering/engineering-people-management/roles-and-responsibilities.md)
       * [Engineering Onboarding](departments-operations/research-and-development/engineering/engineering-people-management/engineering-onboarding.md)
+      * [Engineering Summer Student Onboarding](departments-operations/research-and-development/engineering/engineering-people-management/engineering-summer-student-onboarding.md)
       * [Career Planning with Engineers](departments-operations/research-and-development/engineering/engineering-people-management/career-planning-with-engineers.md)
 * [Community](departments-operations/community/README.md)
   * [Team](departments-operations/community/team/README.md)
