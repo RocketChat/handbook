@@ -31,7 +31,7 @@ Wider engineering period, lead by chapters where engineers are expected to work 
 
 Engineering Day Period:
 
-CTO assigned priorities > Chapter Lead assigned priorities > Tech Lead Priorities > Own initiavites.
+CTO assigned priorities > Chapter Lead assigned priorities > Tech Lead Priorities > Own initiatives.
 
 Please note this is the most flexible one and you can always reach chapter lead/engineer manager to discuss items and reprioritize the Engineering Day priorities for your squad and yourself.
 
