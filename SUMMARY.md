@@ -157,7 +157,6 @@
 * [Security](departments-operations/security/README.md)
   * [Security Policy](departments-operations/security/security-policy.md)
 * [Support](departments-operations/support/README.md)
-  * [Team](departments-operations/support/team.md)
   * [Working Shifts](departments-operations/support/working-shifts.md)
   * [Support Processes](departments-operations/support/processes/README.md)
     * [SLAs](departments-operations/support/processes/slas.md)
