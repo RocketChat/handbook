@@ -11,4 +11,3 @@ We remove obstacles and solve problems to ensure our customers can focus on what
 * [Reference](old-docs-guides/reference.md)
 * [SLAs](processes/slas.md)
 * [Systems](systems.md)
-* [Team](broken-reference)

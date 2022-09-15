@@ -14,6 +14,8 @@ description: >-
   * Payment terms should be negotiated with minimum 15 days. In case of exception, please contact **Accounts Payable Team** to find a proper solution;
   * The suppliers invoices must be sent immediately, as soon as you receive it, to the e-mail address: **accounts.payable@rocket.chat.** (Please do not hold invoices with you)
   * **The Accounts Payable Team expects to receive the invoices at least 15 days in advance of the due date** in time to proper record, provisioning and schedule the payments.
+* We recommend that employees **don’t make any subscriptions or contracts longer than 12 months**.
+  * If you need to close a **contract that is longer than 12 months**, please **get in contact with the** [**Finance Team**](mailto:accounts.payable@rocket.chat).
 
 ![Purchase Process - via Invoice](<../../../.gitbook/assets/image (21).png>)
 
@@ -36,7 +38,7 @@ If all requirements to use Corporate credit, as mentioned above, have been met:
 * You should send to [accounts.payable@rocket.chat](mailto:accounts.payable@rocket.chat) the receipts of the transaction.
 * **For Applications and Software Purchases only:**
   * Purchases of applications and softwares through Corporate Credit Card should have **previous authorization from the Security Team**.
-  * You should send an e-mail to **Security Team -** [**Markus Kirsch**](mailto:markus.kirsch@rocket.chat) describing the App or software you need to install in your Notebook and request his approval before getting the virtual card issued
+  * You should send an e-mail to [**Security Team**](mailto:security@rocket.chat) describing the App or software you need to install in your Notebook and request his approval before getting the virtual card issued
 
 ### **Exception - Use of Personal Credit Cards to make Corporate Purchases**
 
