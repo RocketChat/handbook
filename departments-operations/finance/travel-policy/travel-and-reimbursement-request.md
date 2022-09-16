@@ -41,7 +41,7 @@ description: How to request your travel and reimbusements
 | Other Latin American countries |      USD 100     |
 |               USA              |      USD 180     |
 |             Europe             |      EUR 120     |
-|              Other             |      USD 100     |
+|          Asia-Pacific          |      USD 100     |
 
 * Employees should prefer hotels that include breakfast in their rate.
 * If the employee chooses to book a room with a higher rate, Rocket.Chat will reimburse the employee up to the maximum daily amount per region described above.
@@ -64,7 +64,7 @@ description: How to request your travel and reimbusements
 | Other Latin American countries |       USD 0.35       |
 |               USA              |       USD 0.35       |
 |             Europe             |       EUR 0.30       |
-|              Other             |       USD 0.35       |
+|          Asia-Pacific          |       USD 0.35       |
 
 * The employee should submit itinerary (origin-destination) and kilometers travelled.
 * Rocket.Chat will also reimburse any tolls and parking paid during the trip, all subject to presentation of the receipts in the reimbursement request.
@@ -86,7 +86,7 @@ description: How to request your travel and reimbusements
 | Other Latin American countries |                                  USD 15                                 | USD 30 | USD 55 |
 |               USA              |                                  USD 20                                 | USD 50 | USD 75 |
 |             Europe             |                                  EUR 20                                 | EUR 50 | EUR 75 |
-|              Other             |                                  USD 15                                 | USD 30 | USD 55 |
+|          Asia-Pacific          |                                  USD 15                                 | USD 30 | USD 55 |
 
 * Employees are not allowed to pay for meals for clients, suppliers, government officers and people who are not employed with Rocket.Chat. The Sales Account Executive team is exempt from this rule, although it should be conditioned to budget availability and previous approval in case of government officers.&#x20;
   * In case of government officers, the expense must be previously approved by the General Manager, even before it occurs.
@@ -102,10 +102,17 @@ description: How to request your travel and reimbusements
 
 ## Reimbursement request
 
-* Reimbursement requests should be submitted using the [Travel Expense form](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses), in Zoho, **up to 60 days after** the trip took place.
-* Receipts must be scanned and submitted along with the Reimbursement template.
-* In case of mileage reimbursement: the employee should submit itinerary (origin-destination) and kilometers travelled. The employee should also present receipts to any tools paid during the trip.
-* In case of international purchases using the employee’s personal credit card: the employee should attach a copy of the credit card statement to the reimbursement request template.
+*   Reimbursement requests should be submitted using the [Travel Expense form](https://people.zoho.com/rocketchat/zp#travel/form/add-formLinkName:travelexpenses), in Zoho, **up to 60 days after** the trip took place.
+
+    * **You can submit multiple expenses** in the same form - as long as they are related to the same trip (one Trip ID per Reimbursement Request form) - **by clicking in the "+" sign** in the "Expense" field.
+
+
+
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+* **Receipts must be scanned and submitted** along with the Reimbursement template.
+* Even if the purchases are made in local currency, **don't forget to fill "Exchange Rate" field** (whith either 1 or the exchange rate amount). &#x20;
+* In case of **mileage reimbursement**: the employee should **submit itinerary** (origin-destination) via Google Maps-type screen shot and **kilometers travelled**. The employee should also present receipts to any tools paid during the trip.
+* In case of **international purchases using the employee’s personal credit card**: the employee should **attach a copy of the credit card statement** to the reimbursement request template.
 * The dates for reimbursement payment are the same as the one for the remote benefit:
   * Every request approved until the 15th of each month (or the next business day), will be paid in the payroll cycle of that same month.
   * Requests approved after the 15th, will be paid in the payroll cycle of the subsequent month.
