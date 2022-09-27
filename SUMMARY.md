@@ -137,6 +137,7 @@
       * [Contractors](departments-operations/people/onboarding/laptop-ordering/contractors.md)
     * [Getting the email signature](departments-operations/people/onboarding/getting-the-email-signature.md)
   * [Daily life](departments-operations/people/daily-life/README.md)
+    * [Feedback](departments-operations/people/daily-life/feedback.md)
     * [1:1s](departments-operations/people/daily-life/1-1s.md)
     * [Guide to PTO](departments-operations/people/daily-life/pto-guide.md)
     * [Holidays, Vacations and Leaves](departments-operations/people/daily-life/holidays-and-vacations.md)
