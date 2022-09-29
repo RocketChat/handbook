@@ -142,7 +142,6 @@
     * [Guide to PTO](departments-operations/people/daily-life/pto-guide.md)
     * [Holidays, Vacations and Leaves](departments-operations/people/daily-life/holidays-and-vacations.md)
     * [Vacations Policy](departments-operations/people/daily-life/vacations-policy.md)
-    * [Travel Policy](departments-operations/people/daily-life/travel-policy.md)
   * [Developing yourself](departments-operations/people/developing-yourself/README.md)
     * [Performance and Career Check-in](departments-operations/people/developing-yourself/check-in.md)
     * [Learning](departments-operations/people/developing-yourself/learning.md)
