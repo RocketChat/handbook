@@ -11,7 +11,8 @@ The team aims to guarantee the Financial Health of the company, through the main
 ### Members and functions:
 
 * [Suely Morales](https://open.rocket.chat/direct/suely.morales): VP of Finance
-* [Débora Coy](https://open.rocket.chat/direct/debora.coy): FP&A Lead
+* [Débora Coy](https://open.rocket.chat/direct/debora.coy): FP\&A Lead
 * [Patricia Ferreira](https://open.rocket.chat/direct/patricia.ferreira): Administrative Manager
-* [Kaique Silva](https://open.rocket.chat/direct/kaique.silva): Financial Analyst
-
+* [Gustavo Fogia](https://open.rocket.chat/direct/gustavo.fogia): Junior Financial Specialist
+* [Karen Demeterco](https://open.rocket.chat/direct/): Senior Financial Specialist
+* [Thiago Marion](https://open.rocket.chat/direct/869vdtEC9bB4CQmLYuzbnwiq5Bvbvqkmhm): Finance Intern

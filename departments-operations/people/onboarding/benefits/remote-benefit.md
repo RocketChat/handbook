@@ -4,68 +4,29 @@ Being a remote team and an international company comes with many things that are
 
 One reason our benefits structure operates differently is because we are remote and international, however, another reason is that we want our benefits to reflect our values and our desire to create a workplace of the future. So here we present a proposal of benefits to be offered to our team hoping to achieve this goal.
 
-## The benefits
+### The Amounts
 
-We’ve budgeted an amount to reimburse teammates for special costs. Market rates vary and as we have people based in different countries, we also have a great challenge to equalize those benefits, so keep in mind this benefit will vary per country.
+We’ve budgeted an amount to reimburse teammates for special costs. Market rates may vary as we have people based in different countries. We also have a great challenge to equalize the remote benefit, so keep in mind it will vary per region.
 
-This budget may be used specially as a support in expensing:
-
-* **Coworking**: To encourage teammates to work where they’re happiest, Rocket.Chat helps you cover co-working space membership fees.
-* **Internet and electricity bills**: You can use your budgeted amount to reimburse your home internet or support your electricity. Sometimes this is bundled with TV or other cable services. The budget _doesn't cover_ the additional services and retroactive bills, **only** bills from the ongoing month.&#x20;
-* **Equipment**:
-  * **Other computer accessories:** You may use the budget on computer accessories to help you work better. Examples of uses for this benefit:
-    * Wireless Keyboard
-    * Mouse/Trackpad
-    * Laptop stands, e.g. Roost, Rain mStand
-    * Headphones
-* **Physical and Mental health activities/equipment:** You can also use your budgeted amount to help you cover health-related activities and equipment that will help you maintain a healthy body and mind. Examples:
-  * Gym membership (also running / cycling teams)
-  * Gym equipment for home (pull-up bar, jumping rope, ab wheel, etc.)
-  * Ergonomic equipment (footrest, chair, standing desk, etc.)
-  * Therapy sessions
-  * Acupuncture sessions
-  * Air conditioners
-  * Kindle
-
-### Benefit Coverage Limits
-
-The benefit _**does not cover**_ retroactive bills for any of the categories, **only** bills from the ongoing month.
-
-The following items are **not** covered by the remote benefit:
-
-* Shoes or any type of clothing (this includes running shoes and clothing to practice specific sports)
-* Smartwatches
-* Gympass memberships (for Brazilians)
-
-And the following area vetoed for Brazilian members only, since the company offers such items through Gympass:
-
-* Personal trainers
-* Gym memberships or any kind (including yoga, pilates and such)
-
-**Important note about laptop purchase and laptop repairs:** To help our team do their best work, we provide a laptop from day one. Computing requirements vary from team to team, and Area Leads know best which machines are most appropriate for their line of work, so the company covers the costs to give this equipment to the team, **not being included in the benefit budget.**\
-****\
-****Furthermore, **repairs to the machines are also not covered for both employees and contractors**. In the case of employees, the machine is a responsibility and propriety of the company, therefore any requests for repairs in Brazil or in the US should be done using the "Other Reimbursements" Area in Zoho People instead (remember to **always** discuss the request with the Finance team prior to creating it). \
-In the case of contractors the reason refers to the policy available in [this page](https://handbook.rocket.chat/departments-operations/people/joining/onboarding/laptop-ordering/contractors), that establishes contractors as the proprietors and responsibles for the machines acquired after starting in the company.
-
-### Per Country Benefits
-
-When converting rates to or from USD, we will use the closing rate at [https://xe.com](https://xe.com) on the day of your expense. We have organized the benefits/perks per region as we describe below:
-
-* **Brazil (including office boundaries):**
-  * Amount: R$200 per month, totaling a maximum of R$2,400 in one year.
-* **Canada, USA and European Union:**
-  * Amount: US$150 or €150 per month, totaling 1,800 in one year.
-* **Other countries not listed above:**
-  * Amount: US$100 or €100 per month, totaling 1,200 in one year.
+|                Region                | Monthly Amount |
+| :----------------------------------: | :------------: |
+| Brazil (including office boundaries) |     BRL 200    |
+|            USA and Canada            |     USD 150    |
+|            European Union            |     EUR 150    |
+|            Other countries           |     USD 100    |
 
 ### Expensing
 
-Every expense that falls into these categories will be paid through reimbursement only. You'll need to provide a receipt of the payment through [Zoho People - Compensation - Remote - Usage.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001060069/viewId:524549000001060071) Note that this module in Zoho allows you to create 1 request for multiple items if you wish to do so.
+This policy is effective **October 1st, 2022**. The remote benefit **will be paid monthly**, and teammates can spend it as they see fit, without the need to present receipts. Below you can see how the remote benefit will be paid for each type of employee.
 
-When you create the request, make sure to use **today's date** in the Date field, **not** the date of the purchase.
+* **Employees and interns** based in **Brazil**
+  * The amount for the Remote Benefit will be paid **monthly** in your **Caju card**. This amount will be allocated in the "Home Office" category, and can only be used in places that are included in this type of classification (for on prem or online purchases).
+  * The amount accumulated **will not expire**.
+* **Employees** based in the **US** and **Contractors** in **other Countries**
+  * The amount for the Remote Benefit will be paid **monthly** along with your **salary**, **categorized as a Remote Benefit Reimbursement**.
 
-Every request submitted until the 15th of each month will be paid in the current payroll cycle (request made in April 13th, will be paid in the end of April). Requests approved after the 15th will be paid in the end of the next month.
+### Transition Period
 
-You may accrue the amount for one year and the balance will be capped at the 1 year amount (R$2400, $1800 or $1200), at that point you'll stop accumulating until you've used it partially or fully.
+For those who still have some **Remote Benefit balance remaining in Zoho**, the balance will be **available for use until December 31st, 2022** (under the _previous policy for reimbursement_).
 
-You can see the amount you have accumulated in [Zoho People - Compensation - Remote - Balance.](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000000841009/viewId:524549000000841011)
+During this transition period, we wil allow for employees to request reimbursements for bills and purchases (such as energy and internet bills) made **up to six months before the request**.
