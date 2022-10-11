@@ -39,7 +39,6 @@ There are several flowcharts and mind maps regarding Data & Analytics structure 
 
 ### Members and functions:
 
-* [Guilherme Garcia de Souza](https://open.rocket.chat/direct/guilherme.garcia): Data & Analytics Manager
 * [Gustavo Ciciliati](https://open.rocket.chat/direct/gustavo.ciciliati): Data Analyst
 * [Isis Santos Costa](https://open.rocket.chat/direct/isis.costa): Data Analyst
 * [Tania Lomazi](https://open.rocket.chat/direct/tania.lomazi): Data Analyst&#x20;
