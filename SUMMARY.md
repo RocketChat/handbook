@@ -120,7 +120,6 @@
   * [Revenue Operations](departments-operations/operations-team/revenue-operations.md)
   * [Security](departments-operations/operations-team/security.md)
 * [People Experience](departments-operations/people/README.md)
-  * [Cash Bonus Policy](departments-operations/people/cash-bonus-policy.md)
   * [Recruitment](departments-operations/people/recruitment/README.md)
     * [External Recruitment](departments-operations/people/recruitment/recruitment.md)
     * [Internal Recruitment](departments-operations/people/recruitment/internal-recruitment.md)
