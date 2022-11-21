@@ -20,11 +20,10 @@ Some responsibilities of the RevOps team can be summarized as follows:
 
 
 
-| Member           | Role               | Focus                                                                                                                                                                                                                                          |
-| ---------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Diego Spagnol    | Sales Ops Analyst  | **Awareness/ Education Stage of funnel**.  Ensure that the lead delivery flows and processes to the sales team are being delivered according to the SLA - Leads Check Routine                                                                  |
-| Guilherme Scarpa | RevOps Analyst     | **Selection Stage of funnel.** Support the sales team on the negotiation stages regarding pricing strategy,Ensure that the flows and systems for the selection stage are reflecting the business rules together with the business systems team |
-| Isabelle Dias    | Sales Ops Analyst  | **Onboarding & Expansion stage of funnel.** Focused on Customer Onboarding & Support building the internal bridge to order management.                                                                                                         |
-| Mayra Lima       | Legal Analyst      | Focus on requirements and provisions in contracts to ensure compliance with all laws and regulations.                                                                                                                                          |
-| Paola Palhais    | RevOps Manager     | Team Management,  project management and performance evaluation. Quota setting reviews, forecasting & compensation plan design.                                                                                                                |
+| Member        | Role               | Focus                                                                                                                                                                         |
+| ------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Diego Spagnol | Sales Ops Analyst  | **Awareness/ Education Stage of funnel**.  Ensure that the lead delivery flows and processes to the sales team are being delivered according to the SLA - Leads Check Routine |
+| Isabelle Dias | Sales Ops Analyst  | **Onboarding & Expansion stage of funnel.** Focused on Customer Onboarding & Support building the internal bridge to order management.                                        |
+| Mayra Lima    | Legal Analyst      | Focus on requirements and provisions in contracts to ensure compliance with all laws and regulations.                                                                         |
+| Paola Palhais | RevOps Manager     | Team Management,  project management and performance evaluation. Quota setting reviews, forecasting & compensation plan design.                                               |
 
