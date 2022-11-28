@@ -44,7 +44,7 @@ To learn more about daily feedback check out “Radical candor” from Kim Scott
 
 On the other hand, the Check-in Feedback Session happens every 6 months after the Review stage of the Check-in process.&#x20;
 
-If you are a manager and want to know more about how to plan this session you can click here (link para o Feedback session guide) to access a complete guide.
+If you are a manager and want to know more about how to plan this session you can click [here](https://docs.google.com/spreadsheets/d/1nwRHAyR\_nbaMEQFocjnvBACN43E37Sr\_E-Uv2ZChpT4/edit#gid=0) to access a complete guide.
 
 If you’ll receive the feedback you should also prepare yourself by keeping these tips in mind:
 
