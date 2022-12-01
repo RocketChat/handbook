@@ -25,35 +25,31 @@ description: >-
 
 ## Engineering Manager
 
-#### Hiring
+Hiring (Squad Formation):&#x20;
 
-* Continuously assess and validate hiring plans&#x20;
-* Actively seek and hire talent following hiring plan&#x20;
+* Continuously assess and validate hiring plans based on engineering/squad **** needs
+* Actively seek and hire talent following the hiring plan
 * Conduct managerial interviews for candidates
 
-#### People management
+People Management:
 
 * Help engineers grow their tech and soft skills and experience&#x20;
-* Contribute to the sense of psychological safety on your team (OfficeVibe reviews)&#x20;
-* Hold regular 1:1's with all team members Facilitate conflict management&#x20;
-* Provide clear feedback around the individual's performance (including Qulture.Rocks check-in)
-* &#x20;Coordinate and plan team vacations and PTOs
+* Identify the need of Coaching and/or Mentoring to direct reports providing it or identifying the best person to do it
+* Contribute to the sense of psychological safety on your team (OfficeVibe reviews)
+* Hold regular 1:1's with all team members&#x20;
+* Facilitate conflict management
+* Provide clear feedback around the individual's performance (including check-in and Individual Development Plans)
+* Coordinate and plan team vacations and PTOs
 
-#### Team management
+Team Management:
 
-* Work closely with product managers to understand and contribute to product strategy&#x20;
-* Run an agile team as a servant leader supporting chosen framework&#x20;
-* Facilitate cross-squads communication&#x20;
-* Expedite decision making on the team focusing on building the product the right way&#x20;
-* Support the team to transform product roadmap into well defined and detailed plans for execution&#x20;
+* Work closely with product managers to understand and contribute to product strategy
+* Ensure that team members understand the purpose, business drivers and impact of upcoming and WIP tasks
+* Run an agile team as a servant leader supporting chosen framework
+* Facilitate cross-squads communication & blockers removal
+* Expedite decision-making on the team focusing on building the product the right way
+* Support the team to transform product roadmap into well-defined and detailed plans for execution
 * Guarantee adherence to established plans and manage expectations towards its conclusions
-* Track team capacity and velocity, making sure sprint points are correctly attributed&#x20;
-* Be on top of team progress towards objectives (sprint, release, roadmap)&#x20;
-* Balance engineering initiatives vs products expectations&#x20;
-* Guide team to work towards company OKRs&#x20;
-* Seek and promote processes improvement&#x20;
-* Align among different squads Release Candidates and Final Release scope and dates&#x20;
-* Support daily, sprint review and sprint retrospective meetings
 
 ## Technical Leader
 
