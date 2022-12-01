@@ -50,6 +50,18 @@ Team Management:
 * Expedite decision-making on the team focusing on building the product the right way
 * Support the team to transform product roadmap into well-defined and detailed plans for execution
 * Guarantee adherence to established plans and manage expectations towards its conclusions
+* Confirm completeness of requirements and acceptance criteria on engineering tasks as usability, performance and reliability
+* Track team capacity and velocity, making sure sprint points are correctly attributed
+* Be on top of team progress toward objectives (sprint, release, roadmap)
+* Balance engineering initiatives vs products expectations
+* Guide team to work towards company OKRsSeek and promote processes improvement
+* Align among different squads Release Candidates and Final Release scope and dates
+* Support daily, sprint review and sprint retrospective meetings
+* Identify and communicate operational and delivery risks
+* Work to maintain a backlog of technical debts and incentivize engineers to contribute and prioritize it
+* Coordinate with Product Management and Design to ensure proper sequencing and loading of backlog and WIP engineering tasks
+* Solicit technical design input and review from tech leads and architecture team members as needed
+* Reporting on your team’s status, product quality and performance/operational excellence metrics
 
 ## Technical Leader
 
