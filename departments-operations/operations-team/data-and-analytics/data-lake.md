@@ -34,7 +34,7 @@ Check in the [Data Platform](https://github.com/RocketChat/Rocket.Chat.DataPlatf
 
 We've prepared a documentation of how to use the Data Lake, you can check this presentation [here](https://docs.google.com/presentation/d/1Gs5ONrP4ViKUdAeQtKcZOaHPrCLwQHmgcaptRc2o16M/edit?usp=sharing). Due to special needs for the Product Data we decided to create a different flow for the Product team, the full documentation you can find [here](https://docs.google.com/document/d/1-1QUJuHqlreYmhmktwKuO2PAA6YhdxBoeMaxYBPrfEA/edit?usp=sharing).\
 \
-For all the teams that have interest in use the Data Lake or to collect more data from different databases the Data & Analytics team offer the full support, feel free to get in touch with [@guilherme.garcia](https://open.rocket.chat/guilherme.garcia).
+For all the teams that have interest in use the Data Lake or to collect more data from different databases the Data & Analytics team offer the full support, feel free to get in touch with Alan Wright.&#x20;
 
 ### Technical Documentation
 
