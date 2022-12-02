@@ -35,6 +35,7 @@
     * [Backend](departments-operations/research-and-development/engineering/backend.md)
     * [Cloud](departments-operations/research-and-development/engineering/cloud.md)
     * [Development](departments-operations/research-and-development/engineering/development/README.md)
+      * [Migrations](departments-operations/research-and-development/engineering/development/migrations.md)
       * [ClickUp Guidelines](departments-operations/research-and-development/engineering/development/clickup-guidelines/README.md)
         * [ClickUp Process and Status Changes](departments-operations/research-and-development/engineering/development/clickup-guidelines/clickup-process-and-status-changes.md)
       * [Engineering Work Prioritization](departments-operations/research-and-development/engineering/development/engineering-work-prioritization.md)
