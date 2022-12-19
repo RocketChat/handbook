@@ -63,6 +63,7 @@
       * [Engineering Onboarding](departments-operations/research-and-development/engineering/engineering-people-management/engineering-onboarding/README.md)
         * [Engineering Summer Student Onboarding](departments-operations/research-and-development/engineering/engineering-people-management/engineering-onboarding/engineering-summer-student-onboarding.md)
         * [Engineering Manager Onboarding](departments-operations/research-and-development/engineering/engineering-people-management/engineering-onboarding/engineering-manager-onboarding.md)
+      * [Addressing underperformance](departments-operations/research-and-development/engineering/engineering-people-management/addressing-underperformance.md)
       * [Career Planning with Engineers](departments-operations/research-and-development/engineering/engineering-people-management/career-planning-with-engineers.md)
 * [Community](departments-operations/community/README.md)
   * [Team](departments-operations/community/team/README.md)
