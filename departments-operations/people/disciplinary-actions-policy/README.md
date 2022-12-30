@@ -6,7 +6,7 @@ Our Disciplinary Action policy explains how we address our employees’ miscondu
 
 This policy is designed to help and encourage you to identify and speak up about any of these situations and outlines the process that will be used if Rocketeers fail to achieve and maintain the required standards.
 
-We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and in the workplace violence policy, so we're here opening a [Hearing Channel forms](https://docs.google.com/forms/d/e/1FAIpQLSc9HlJ3abk2Vwvebfhot5SyRQfluERaG27oAVo\_hXOO02y4Hw/viewform?usp=sf\_link) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.
+We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and in the workplace violence policy, so we're here opening a [Hearing Channel forms](https://forms.gle/kKQTGUa8Zy8TkpdH7) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.
 
 ## Scope
 
