@@ -81,7 +81,7 @@ Disciplinary procedure starts at stage 3 (Termination of contract). It includes 
 
 * **Information security breach**
 
-Disciplinary procedure starts at stage 1 (Verbal/written warning). It includes but is not limited to the items listed in the Rocket.Chat [security policy.](https://handbook.rocket.chat/departments-operations/people/disciplinary-actions-policy)
+Disciplinary procedure starts at stage 1 (Verbal/written warning). It includes but is not limited to the items listed in the Rocket.Chat [security policy](https://handbook.rocket.chat/departments-operations/security/security-policy).
 
 ## Appeals
 
