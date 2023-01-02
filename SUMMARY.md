@@ -157,6 +157,7 @@
 * [Sales](departments-operations/sales.md)
 * [Security](departments-operations/security/README.md)
   * [Security Policy](departments-operations/security/security-policy.md)
+* [Vulnerability Management Process](departments-operations/vulnerability-management-process.md)
 * [Support](departments-operations/support/README.md)
   * [Working Shifts](departments-operations/support/working-shifts.md)
   * [Support Processes](departments-operations/support/processes/README.md)
