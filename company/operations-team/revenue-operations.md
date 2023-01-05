@@ -12,7 +12,5 @@ The team aims to increase sales teams efficiency through processes all while gen
 
 ## Members and functions
 
-* [Jorge Máximo](https://open.rocket.chat/direct/jorge.maximo): Junior Sales Ops
-  * Work focused within the sales team to reduce friction and increase value by guaranteeing data quality and process enforcement;
 * [Paola Palhais](https://open.rocket.chat/direct/paola.palhais): Senior Sales Ops
   * Work on designing processes, project management and performance evaluation
