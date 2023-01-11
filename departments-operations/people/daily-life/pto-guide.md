@@ -40,7 +40,7 @@ Something about 5 days before the PTO date would be excellent for longer periods
 
 **2- Ask for it on Zoho People.**
 
-This [video tutorial](https://drive.google.com/file/d/1A-NlqvWOyU95UtL7QF0LQ2gzAxG\_IQdE/view?usp=sharing) will show you how to request it. The only exception here is your birthday, for which you don't have to ask for the PTO on Zoho, since all Rocketeer birthdays are considered automatic PTOs. **If you have a doctor's note / sick leave certificate, please add it in the attachment field in the leave request forms.**
+The only exception here is your birthday, for which you don't have to ask for the PTO on Zoho, since all Rocketeer birthdays are considered automatic PTOs. **If you have a doctor's note / sick leave certificate, please add it in the attachment field in the leave request forms.**
 
 **After that** comes the final and really important step:
 
