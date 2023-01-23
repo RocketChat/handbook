@@ -159,6 +159,7 @@
 * [Security](departments-operations/security/README.md)
   * [Security Policy](departments-operations/security/security-policy.md)
   * [Vulnerability Management Process](departments-operations/security/vulnerability-management-process.md)
+  * [WhiteHat Hall-of-Fame](departments-operations/security/whitehat-hall-of-fame.md)
 * [Support](departments-operations/support/README.md)
   * [Working Shifts](departments-operations/support/working-shifts.md)
   * [Support Processes](departments-operations/support/processes/README.md)
