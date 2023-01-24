@@ -158,6 +158,7 @@
 * [Sales](departments-operations/sales.md)
 * [Security](departments-operations/security/README.md)
   * [Security Policy](departments-operations/security/security-policy.md)
+  * [Roles and Responsibilities](departments-operations/security/roles-and-responsibilities.md)
   * [Vulnerability Management Process](departments-operations/security/vulnerability-management-process.md)
   * [WhiteHat Hall-of-Fame](departments-operations/security/whitehat-hall-of-fame.md)
 * [Support](departments-operations/support/README.md)

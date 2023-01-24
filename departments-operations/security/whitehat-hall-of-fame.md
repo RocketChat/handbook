@@ -23,6 +23,8 @@ description: >-
 [Ayoub (ayoub0x1)](https://hackerone.com/ayoub0x1?type=user)
 
 [Maik (Sectex)](https://hackerone.com/sectex?type=user)
+
+[Mohammad Saqib Arif (saqib98)](https://hackerone.com/saqib98)
 {% endtab %}
 
 {% tab title="2021" %}

@@ -11,6 +11,7 @@ We need to make sure the security best practices are being applied and guarantee
 * [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Senior Security Engineer
 * [Igor Rincon](https://open.rocket.chat/direct/igor.rincon): Staff Security Engineer
 * [Lucas Magno](https://open.rocket.chat/direct/lucas.magno): Junior Security Engineer
+* [Giovani Salvador](https://open.rocket.chat/direct/giovani.salvador): Manager
 
 ### Top OKRs, relevant for Security function, built by stakeholder input
 
