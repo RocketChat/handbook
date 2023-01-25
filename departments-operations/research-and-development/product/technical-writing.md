@@ -1,6 +1,8 @@
-# Technical Writing
+---
+description: Rocket.Chat Documentation Guidelines
+---
 
-## **Rocket.Chat Documentation Guidelines**
+# Technical Writing
 
 If you are a new Technical Writer joining our team or a community member who wants to contribute to Rocket.Chat documentation, here are some actionable writing guidelines you can apply to make your writing in tune with our documentation. They may seem painfully simple and obvious, yet if you ignore them repeatedly in your piece, the document might lose its tone/purpose.
 
@@ -46,10 +48,7 @@ Users need to set up a Matrix homeserver and a dendrite server
 
 Make sure that information is provided organically. Always assume the user is new to the Rocket.Chat. Start every document with edge-case in mind.
 
-* A prerequisite step is given first, as shown in the example below:
-
-![Prerequisite step](<../../../.gitbook/assets/image (34).png>)
-
+* A prerequisite step is given first. (e.g., “If you are using the conference call feature for the first time on Rocket.Chat, contact your administrator, or follow the admin guide linked below to configure conference calling on your Rocket.Chat instance." )
 * If you are referring to another feature within the document you are writing, assume that your reader does not know about it and give a permalink to the documentation of that feature, as shown in the example below:
 
 ![](<../../../.gitbook/assets/image (35).png>)
