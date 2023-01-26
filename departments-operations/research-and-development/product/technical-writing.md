@@ -14,6 +14,8 @@ Provide introductions: A good introduction should identify your topic and provid
 
 * Use simple, short sentences.
 * Address the user in second-person pronouns, **you, your, yours, yourself, yourselves** instead of **the user.**
+* Refer to admin user as **'administrator'** or **'workspace administrator'.**&#x20;
+* Refer to Rocket.Chat server as, **'workspace'** or **'your workspace'** or **'your Rocket.Chat workspace'**.&#x20;
 * Try starting actionable instruction with a verb. (e.g., “Click **Submit**…” \[Correct] vs. “Click the Submit button…” \[Not Preferred]).
 * Use the actual names of UI components only, not their types. (e.g., “Click **Submit**…” \[Correct] vs. “Click the Submit button…” \[Not Preferred] OR "Turn **Enable encryption** on" \[Correct] vs. "Turn on the **Enable encryption** toggle" \[Not Preferred]).
 * The future tense does not have the same immediacy as the present tense. Compare “When you connect the power cable, the device will boot up automatically” to “When you connect the power cable, the device boots up automatically.” The future tense suggests a mild uncertainty as to how things unfold.
