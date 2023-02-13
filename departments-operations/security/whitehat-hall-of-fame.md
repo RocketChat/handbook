@@ -25,6 +25,10 @@ description: >-
 [Maik (Sectex)](https://hackerone.com/sectex?type=user)
 
 [Mohammad Saqib Arif (saqib98)](https://hackerone.com/saqib98)
+
+[Ildefonso González Sánchez (f0ns1)](https://hackerone.com/f0ns1?type=user)
+
+[Mikhail (yuske)](https://hackerone.com/yuske?type=user)
 {% endtab %}
 
 {% tab title="2021" %}
@@ -193,3 +197,7 @@ Jeandre Le Roux
 [Matt Austin](http://m-austin.com)
 {% endtab %}
 {% endtabs %}
+
+
+
+The Rocket.chat thanks all these amazing researchers. Thank you very much.
