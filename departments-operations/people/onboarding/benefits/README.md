@@ -21,7 +21,7 @@ We are constantly looking for new possibilities, and trying to bring a better se
 
 Because of Brazil's legislation for workers, our Brazilian Rocketeers also receive the following:
 
-* Meal voucher of R$28/day
+* Meal voucher of R$30/day
 * Transportation card (for those in the Porto Alegre region)
 * Gympass
 * Healthcare plan (with dental)
