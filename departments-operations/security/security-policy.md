@@ -198,7 +198,7 @@ Portable storage you acquire in a used state or not directly from a vendor (e.g.
 
 ### Homeoffice / Remote Work
 
-Refer to [Remote work policy](remote-work.md)
+Refer to [Remote work policy](security-policy/remote-work.md)
 
 ## Cryptography
 

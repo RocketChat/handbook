@@ -159,7 +159,7 @@
     * [Appendix: Workplace violence policy](departments-operations/people/disciplinary-actions-policy/appendix-workplace-violence-policy.md)
 * [Sales](departments-operations/sales.md)
 * [Security](departments-operations/security/README.md)
-  * [Security Policy](departments-operations/security/security-policy/README.md)
+  * [Security Policy](departments-operations/security/security-policy.md)
     * [Remote work](departments-operations/security/security-policy/remote-work.md)
   * [Roles and Responsibilities](departments-operations/security/roles-and-responsibilities.md)
   * [Vulnerability Management Process](departments-operations/security/vulnerability-management-process.md)
