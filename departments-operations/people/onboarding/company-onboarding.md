@@ -1,6 +1,6 @@
 # Company Onboarding
 
-Before you first join our team you'll receive the instructions for your admission and other additional documents and materials you need to start in Rocket.Chat. Until a few days before your start date, when you'll receive the basic initial instructions along with your company Gsuite credentials.
+Before you first join our team you'll receive the instructions for your admission and other additional documents and materials you need to start in Rocket.Chat. Until a few days before your start date, when you'll receive the basic initial instructions along with your company Gsuite credentials. [Here´s](https://docs.google.com/presentation/d/10MWbCqEI1X5zAVQvLQj2wx-\_AApiS3dLB6nTYVrLe74/edit#slide=id.gaedb49bd54\_0\_245) a guide made for our New Rocketeers so they know what to expect.
 
 The first two steps after having your Gsuite account in hand are:
 
@@ -21,4 +21,4 @@ The certification will give you a very good foundation of knowledge about the co
 
 During your first day, you'll have an onboarding meeting with the People team for a quick welcome session, where you'll be able to meet the fellow Rocketeers joining you and also receive a few important reminders.&#x20;
 
-On day 1 you will also already have access to the course, and after around three days the People team will get back in touch to follow up if you have any questions or need any support before moving on to the Departmental onboarding. We will have checkpoint sessions on your 1st, 3rd, and 6th months.&#x20;
+On day 1 you will also already have access to the course, and after around three days the People team will get back in touch to follow up if you have any questions or need any support before moving on to the Departmental onboarding. We will also have checkpoint sessions on your 1st, 3rd, and 6th months.&#x20;
