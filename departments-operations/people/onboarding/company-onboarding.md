@@ -19,6 +19,4 @@ The certification will give you a very good foundation of knowledge about the co
 4. Find out more about the aspects of Your daily life as a Rocketeer.
 5. Review the tools and systems you will use on a daily basis.
 
-During your first day, you'll have an onboarding meeting with the People team for a quick welcome session, where you'll be able to meet the fellow Rocketeers joining you and also receive a few important reminders.&#x20;
-
-On day 1 you will also already have access to the course, and after around three days the People team will get back in touch to follow up if you have any questions or need any support before moving on to the Departmental onboarding. We will also have checkpoint sessions on your 1st, 3rd, and 6th months.&#x20;
+During your first day, you'll have an Onboarding Meeting with the People team for a quick welcome session. We will also have checkpoint sessions on your 1st, 3rd, and 6th months.&#x20;
