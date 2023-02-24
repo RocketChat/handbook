@@ -1,6 +1,6 @@
 # Onboarding
 
-With Onboarding, our main goal is to make you feel welcome and to help you fully understand your activities and expectations regarding your job, so it will be divided between company onboarding and departmental onboarding. Inside this topic you'll be able to find a description of both stages:&#x20;
+When onboarding the New Rocketeer, our main goal is to welcome and help this person with the understanding of daily basis activities, systems, and tools, and expectations. It is divided between Company Onboarding and Departmental Onboarding. Inside each topic below you'll be able to find a description of both stages:&#x20;
 
 {% content-ref url="company-onboarding.md" %}
 [company-onboarding.md](company-onboarding.md)
