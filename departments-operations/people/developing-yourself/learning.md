@@ -22,11 +22,11 @@ Want to do a course or buy a book to develop a skill related to your role or car
 
 And here's how the process works:
 
-1. You find a book/course you want to purchase. In here it's important to remind you that **these should be related to the develoment of skills related to your role or area of activity.**
-2. **BEFORE** you enroll or purchase anything, validate it with the People team (People Business Partner).
+1. You find a book/course you want to purchase. In here it's important to remind you that **these should be related to the development of skills related to your role or area of activity.**
+2. **BEFORE** you enroll or purchase anything, validate it with the People team (@carolina.cyrelli).
 3. If the People team approves it, you can go ahead, purchase it and request the reimbursement in the [Books and Courses](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003) request page, always remembering to present the receipt of the purchase. However, let's pause here to discuss some important aspects:
 
-You can do courses of any value BUT Rocket.Chat can only pay until a maximum amount. This maximum for Rocketeers **outside of Brazil is $500**, and for Rocketeers **in Brazil it's R$1818**. (Brazilians might notice this is a very specific value, and that's for a reason! **By law**, companies are only allowed to pay up to 1,5x the Brazilian minimum wage in policies such as this one.) &#x20;
+You can do courses of any value BUT Rocket.Chat can only pay until a maximum amount. This maximum for Rocketeers **outside of Brazil is $500**, and for Rocketeers **in Brazil it's R$1.953**. (Brazilians might notice this is a very specific value, and that's for a reason! **By law**, companies are only allowed to pay up to 1,5x the Brazilian minimum wage in policies such as this one.) &#x20;
 
 Now, **very** important notes:
 
