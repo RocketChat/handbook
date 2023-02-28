@@ -54,7 +54,7 @@ The buddy should:
 * Be present especially during their first two weeks to support them with tools, processes, and guidance - _Remember it's not only understanding the tool itself but also how the area organizes it and uses it on a daily basis_
 * Be available for any questions or doubts
 
-### Documentation
+### 3. Documentation
 
 The documentation should:
 
