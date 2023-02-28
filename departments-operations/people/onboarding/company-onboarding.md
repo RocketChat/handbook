@@ -1,24 +1,21 @@
 # Company Onboarding
 
-Before you first join our team you'll receive the instructions for your admission and other additional documents and materials you need to start in Rocket.Chat. Until a few days before your start date, when you'll receive the basic initial instructions along with your company Gsuite credentials. [Here´s](https://docs.google.com/presentation/d/10MWbCqEI1X5zAVQvLQj2wx-\_AApiS3dLB6nTYVrLe74/edit#slide=id.gaedb49bd54\_0\_245) a guide made for our New Rocketeers so they know what to expect.
+The onboarding starts as soon as you accept our offer letter. Recurrently, from the day you sign the offer up to your first day with us,  you'll receive instructions, additional documents, and other materials you need to start in Rocket.Chat. A few days before your start date, you'll also receive some directions along with your RC and Google Workspace credentials. [Here´s](https://docs.google.com/presentation/d/10MWbCqEI1X5zAVQvLQj2wx-\_AApiS3dLB6nTYVrLe74/edit#slide=id.gaedb49bd54\_0\_245) a guide made for our New Rocketeers so they know what to expect.
 
-The first two steps after having your Google Workspace account in hand are:
+### The Onboarding Certification
 
-* Register in [open.rocket.chat](../../community/community-management/open.rocket.chat.md), following the company username format: @firstname.lastname
-* Sign in [training.rocket.chat](https://training.rocket.chat/) using your Google account
-
-After you complete the first we'll be able to locate you inside the open server of Rocket.Chat in order to add you to our private team and channels. While the second step will allow us to give you access to our New Rocketeer Certification.&#x20;
+The certification will give you a good foundation of knowledge about the company, our processes, the platforms we use, and more! So it's **essential** that you dedicate your first two days to completing the course at your own pace.&#x20;
 
 ![](../../../.gitbook/assets/ezgif-3-cda069de59.gif)
 
-The certification will give you a very good foundation of knowledge about the company, our processes, the platforms we use, and more! So it's **essential** that your first days are dedicated to completing the course at your own pace.&#x20;
+After completing the Certification, you will be able to:
 
-1. Understand who is Rocket.Chat, from both the product and business points of view.
-2. Get resources to identify the team and departmental representatives that are there to help you.
-3. Find out more about the aspects of Your daily life as a Rocketeer.
-4. Review the tools and systems you will use on a daily basis.
+1. Understand Rocket.Chat, from both the product and business points of view
+2. Get resources to identify teams and departmental representatives that are there to help you
+3. Find out more about the aspects of your daily life as a Rocketeer
+4. Review the tools and systems you will use on a daily basis
 
-During your first day, you'll have an Onboarding Meeting with the People team for a quick welcome session. We will also have checkpoint sessions on your 1st, 3rd, and 6th months.&#x20;
+During your first day, you'll have an Onboarding Meeting with the People Team for a welcome session. Also, you'll have checkpoint meetings on your 1st, 3rd, and 6th months. The purpose of these checkpoints is to understand, from the Rocketeer's point of view, how the first weeks were, and how the adaptation is going. It's a safe space for the Rocketeer to share his thoughts, kudos, and improvement suggestions.
 
 ### Open Source Townhall & CEO Onboarding
 
@@ -29,4 +26,4 @@ The Open Source Townhall & CEO Onboarding is for every new Rocketeer who wants t
 1. Understand more about our open-source background and how it affects our culture code
 2. Get to know our CEO and our CppO, and ask them a few questions in a Q\&A session.
 
-It happens for all New Rocketeers at the end of the first month with us.
+This meeting is scheduled for all New Rocketeers, usually at the end of the first month with us.
