@@ -30,9 +30,9 @@ During the week prior to the new team member's first day, the Manager is respons
 * Assigning a Buddy from the team for the new Rocketeer and communicating with them
 * Scheduling a welcome meeting for introductions (ideally on the New Rocketeer's first day)
 
-It's pre-aligned that the initial focus for new Rocketeers during the first 2 days should be going through the company onboarding, and as soon as they're done with it they're ready to get started in their departmental onboarding. Managers should align with the new hire the date for the kick-off meeting of the Departmental Onboarding.&#x20;
+It's pre-aligned that the initial focus for new Rocketeers during the first 2 days should be going through the company onboarding, and as soon as they're done with it they're ready to get started in their departmental onboarding. Managers should align with the new hire the date for the kick-off meeting of the Departmental Onboarding (suggested to be on the 3rd day).&#x20;
 
-During the first week of the new Rocketeer, the Manager is responsible for **** scheduling a kick-off meeting with the new team member, yourself (Manager), and the assigned buddy to cover:
+When in the kick-off meeting with the new team member, you (Manager), and the assigned buddy, is essential to cover:
 
 * General details about the department, the team, the area's OKRs and initiatives, and other suggested topics to discuss are:
   * Overview of the product
@@ -41,9 +41,9 @@ During the first week of the new Rocketeer, the Manager is responsible for **** 
 * Align role and short-term expectations
 * Introduce the buddy to the new member&#x20;
 
-[Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a Leader´s Checklist to not miss a thing
+[Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a leader's checklist to not miss a thing
 
-_Optional:_ **** Use the Jira template onboarding project to coordinate your tasks and deadlines along the process to remind both yourself and the new member of the onboarding tasks to be completed during the first month. You can use it to create new tasks to help the person walk through documentation or repositories in an organized way.
+_Optional:_ **** Use the Jira project to coordinate your tasks and deadlines along the process to remind both yourself and the new member of the onboarding tasks to be completed during the first month. You can use it to create new tasks to help the person walk through documentation or repositories in an organized way.
 
 ### 2. Buddy
 
