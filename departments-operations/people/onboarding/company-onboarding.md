@@ -15,7 +15,7 @@ After completing the Certification, you will be able to:
 3. Find out more about the aspects of your daily life as a Rocketeer
 4. Review the tools and systems you will use on a daily basis
 
-During your first day, you'll have an Onboarding Meeting with the People Team for a welcome session. Also, you'll have checkpoint meetings on your 1st, 3rd, and 6th months. The purpose of these checkpoints is to understand, from the Rocketeer's point of view, how the first weeks were, and how the adaptation is going. It's a safe space for the Rocketeer to share his thoughts, kudos, and improvement suggestions.
+During your first day, you'll have an Onboarding Meeting with the People Team for a welcome session. Also, you'll have checkpoint meetings on your 1st, 3rd, and 6th months. The purpose of these checkpoints is to understand, from the new Rocketeer's point of view, how the first weeks were, and how the adaptation is going. It's a safe space for the Rocketeer to share his thoughts, kudos, and improvement suggestions.
 
 ### Open Source Townhall & CEO Onboarding
 
