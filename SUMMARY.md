@@ -24,6 +24,7 @@
 
 ## Departments' Operations
 
+* [Departments](departments-operations/departments.md)
 * [Research & Development](departments-operations/research-and-development/README.md)
   * [Release Cycle](departments-operations/research-and-development/release-cycle.md)
   * [Product](departments-operations/research-and-development/product/README.md)
