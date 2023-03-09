@@ -1,5 +1,5 @@
 ---
-description: A Global Team That Keeps The Rocket's Firing
+description: A Global Team That Keeps The Rocket Firing
 ---
 
 # Departments
