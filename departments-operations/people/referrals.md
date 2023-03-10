@@ -13,7 +13,9 @@ How it's going to work:
 
 If your referral **joins the team and stays for at least 90 days**, you'll get a reward sponsored by the **Referrals** system! **🍾**
 
-_But are these rewards?_
+**\***Hiring managers are not eligible for Referrals Reward if the candidate is indicated for a position reporting to itself once it's their responsibility to build and manage their team.
+
+_**But are these rewards?**_
 
 You'll get an **Experience Pass** ✨ It's be launched in the system to be credited to you as soon as you complete 3 months in the company, then the Finance team will add the value corresponding to one-month [remote benefit](https://handbook.rocket.chat/company/people/entering-rocket.chat/benefits/remote-benefit) (see values according to a location in the link) to your next paycheck.
 
