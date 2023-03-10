@@ -1,10 +1,10 @@
 # Company Onboarding
 
-The onboarding starts as soon as you accept our offer letter. Recurrently, from the day you sign the offer up to your first day with us,  you'll receive instructions, additional documents, and other materials you need to start in Rocket.Chat. A few days before your start date, you'll also receive some directions along with your RC and Google Workspace credentials. [Here´s](https://docs.google.com/presentation/d/10MWbCqEI1X5zAVQvLQj2wx-\_AApiS3dLB6nTYVrLe74/edit#slide=id.gaedb49bd54\_0\_245) a guide made for our New Rocketeers so they know what to expect.
+The onboarding starts as soon as you accept our offer letter. Recurrently, from the day you sign the offer up to your first day with us, you'll receive instructions, additional documents, and other materials you need for joining Rocket.Chat. A few days before your start date, you'll also receive some directions along with your RC and Google Workspace credentials. [Here´s](https://docs.google.com/presentation/d/10MWbCqEI1X5zAVQvLQj2wx-\_AApiS3dLB6nTYVrLe74/edit#slide=id.gaedb49bd54\_0\_245) a guide made for our New Rocketeers so they know what to expect.
 
 ### The Onboarding Certification
 
-The certification will give you a good foundation of knowledge about the company, our processes, the platforms we use, and more! So it's **essential** that you dedicate your first two days to completing the course at your own pace.&#x20;
+The certification will give you a good foundation of knowledge about the company, our departments, the platforms we use, and more! So it's **essential** that you dedicate your first two days to completing the course at your own pace.&#x20;
 
 ![](../../../.gitbook/assets/ezgif-3-cda069de59.gif)
 
