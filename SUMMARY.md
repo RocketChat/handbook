@@ -15,6 +15,7 @@
   * [Rocket.Chat AllStars](company/our-culture/rocket.chat-allstars.md)
   * [Remote Work](company/our-culture/remote-work.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
+  * [Async Communication](company/our-culture/async-communication.md)
 * [How-tos & Guidelines](company/how-tos-and-guidelines/README.md)
   * [Meetings](company/how-tos-and-guidelines/meetings/README.md)
     * [Recurring Meetings](company/how-tos-and-guidelines/meetings/recurring-meetings.md)
