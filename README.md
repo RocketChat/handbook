@@ -6,9 +6,7 @@ description: >-
 
 # Rocket.Chat's Handbook
 
-{% hint style="info" %}
 We know it's practically impossible to go through all of it in a single run, so **make sure to check our policies from time to time** as well as your area's specific documents.
-{% endhint %}
 
 This Handbook will always be a work-in-progress, and it is everyone's responsibility to keep it up-to-date and relevant.
 
