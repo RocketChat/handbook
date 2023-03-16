@@ -14,7 +14,7 @@ In [here](https://people.zoho.com/rocketchat/zp#leavetracker/holiday/list) you c
 
 ## Vacations
 
-We advise all Rocketeers, no matter where you live, to take at least 20 days of vacation a year (apart from PTO). This is important for you to have some cool down time and to maintain a healthy relationship with work. In the case of Brazilian Rocketeers, you respond to the CLT vacation rules.
+We advise all Rocketeers, no matter where you live, to take at least 20 days of vacation a year (apart from PTO). This is important for you to have some cool down time and to maintain a healthy relationship with work. In the case of Brazilian Rocketeers, you respond to the CLT vacation rules and you should ask for the days off at least **30 days in advance**.&#x20;
 
 On none of these cases we'll be able to "block" your calendar in advance, so we strongly advise you to block these days in your Google Calendar a while before to prevent people from scheduling any meetings on these special days!
 

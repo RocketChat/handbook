@@ -16,6 +16,4 @@ We’re not all in an office together, there are no hallway conversations happen
 
 When important messages are sent or you’re tagged in conversation, ask yourself: have I reacted, aligned (if needed) and/or signalled that I’m working on it?
 
-
-
 Let's make communications that are clear, complete, delivered with kindness, and that create productive results!\
