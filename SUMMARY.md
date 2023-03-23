@@ -173,6 +173,7 @@
     * [Changes Management](departments-operations/security/security-policy/changes-management/README.md)
       * [Rocket.Chat code](departments-operations/security/security-policy/changes-management/rocket.chat-code/README.md)
         * [Delegation letter](departments-operations/security/security-policy/changes-management/rocket.chat-code/delegation-letter.md)
+    * [Supplier Relationship](departments-operations/security/security-policy/supplier-relationship.md)
   * [Playbooks](departments-operations/security/playbooks/README.md)
     * [Vulnerability Management Process](departments-operations/security/playbooks/vulnerability-management-process.md)
     * [Security Logs ingestion and review](departments-operations/security/playbooks/security-logs-ingestion-and-review.md)
