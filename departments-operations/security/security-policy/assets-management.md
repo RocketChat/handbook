@@ -4,7 +4,7 @@
 
 All assets must be inventoried. An asset is something of value for Rocket.Chat (e.g. information itself, a device, intellectual property). We maintain a list of all devices and all software used, including additional information relevant per type of asset. References to sublists for assets (e.g. virtual machine inventories, mobile device lists) are allowed and should be referenced. The amount of effort needed to maintain a detailed list of assets should correspond to the criticality of the asset.Assets must be returned to Rocket.Chat once an owner leaves the organization. Ownership of an asset and the risks associated with an asset are separated to focus on overarching risk mitigation without boundaries between assets.
 
-The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/1Nh8T3FP7QGR35jAdbd9j6HQnnirQDNcnC7X9Dg-Kdvo/edit?usp=sharing)
+The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/1Fmei\_-OGpXvUwsHzd8K87ke-CgCLOGpzerrPEQo9e0Q/edit#gid=705993908)
 
 ## Acceptable Use
 

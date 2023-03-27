@@ -42,7 +42,7 @@ description: Playbooks for security process and operations.
 
 ### [Static Code Analysis](code-analysis.md)
 
-## [Awareness & Training Plan](awareness-and-training.md)
+## [Awareness & Training Plan](../security-policy/awareness-and-training.md)
 
 
 

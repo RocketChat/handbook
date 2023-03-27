@@ -160,45 +160,11 @@ Examples of incidents include:
 * Email with confidential data sent to wrong recipient
 * Law enforcement requests to disclose data of customers
 
-General Incident Process:
-
-1. Logging the incident
-2. Assigning it to the proper team to investigate
-3. Triage
-4. Escalation (if needed)
-5. Resolution, including implementation, testing, as well as reaching out to other parties necessary. Before advancing, the affected user or customer must also be in agreement that the incident has been resolved.
-6. Closing
-
-The Security Team will produce metrics on the incidents occurring in order to reduce their occurrence and improve our process. The detailed process is in the playbooks section of the security team.
-
-Incidents happen and it is important for Rocket.Chat to be aware of them and taking proper action. In case you feel you are in a conflict of interest or in fear of potential repercussions of reporting an incident, you can confidentially contact the HR team or the Security team and your incident report will be submitted anonymously.
+The Rocket.Chat's incident response plan is an internal Document that can be found here: [Incident Response Plan](https://docs.google.com/document/d/17yZJ9oP3OJl3oWYTSNKNeXy54OEr7dn3ldpDKi52Ksc/edit#heading=h.wytzxqmvrwlq)
 
 ## Business Continuity and Disaster Recovery
 
-Business Continuity ensures that regular business will continue even during a disaster.
-
-Disaster recovery means restoring vital support systems and is a subset of business continuity.
-
-### Disaster prevention:
-
-Disaster prevention is everyone´s responsibility. This means that every employee must actively prevent disasters from occurring and report potential risks of a disaster to management. Most controls to prevent disasters are taken on a system level by the respective system administrator and will be performed against a system specific control catalog (e.g. backup configuration). Since many of our systems rely on third party providers, following our policies for third parties is critical. Disaster Prevention controls include:
-
-* Redundancy of the network in the office
-* Preventing vendor lock-ins
-* Chosing of trusted partners that provide an adequate level of security (e.g. SaaS providers)
-* Storing data offsite and off-client
-
-### Criticality ratings:
-
-Rocket.Chat maintains a list of all systems, including a rating of their criticality on our business processes. This criticality is mostly based on tolerable downtime. The criticality ratings are defined in specific DR documents. Criticality ratings to a system may be adjusted on a case-by-case basis where the circumstances justify the adjustment. Rocket.Chat also runs a risk management program to identify and manage risks, including risks of a disaster occuring.
-
-### Disaster Recovery:
-
-In case of a disaster, we will form an incident response team consisting of the respective members of our management team, security and other individuals, depending on the type of disaster. The members of the team will communicate using Rocket.Chat - or where this is not possible - email or phone. We will inform all affected employees via the Rocket.Chat channel "important" or others where relevant. In case the disaster has taken down the rocket.chat servers, we will notify via email or - where warranted - contact you via the phone numbers you have given us during onboarding. The incident response team will also ensure that affected customers are informed via the proper methods.
-
-### Testing:
-
-Annually, we test our business continuity and disaster recovery capabilities. The scope and method of testing are related to our risk management process and decided by management. The results of these tests are shared in the company and may lead to updates to this policy.
+Refer to [Business Continuity and Disaster Recovery](security-policy/business-continuity-and-disaster-recovery.md)
 
 ## Procurement
 
@@ -249,3 +215,7 @@ Se o time encontrar alguma red flag, contato com o fornecedor deve ser feito.
 ## Auditing
 
 The Information Security Team will audit the design and implementation of these policies on a regular basis, with a focus on risks identified in the risk management process. Where a potential conflict of interest takes place, the audit will be delegated to another individual with such conflict or other compensating controls be taken.
+
+## Security Awareness and Training
+
+Please refer to [Awareness and Training session](security-policy/awareness-and-training.md)
