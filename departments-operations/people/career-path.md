@@ -6,13 +6,13 @@ The Rocket.Chat's career path considers the long-term relationship development w
 
 The paths consider technical and nontechnical aspects based on a “Y” career allowing the team member to tread their career path in a technical or the management trial reaching similar levels, regardless of path chosen by the employee.
 
-### Career paths by area
+### Career Paths by Area
 
 ## Levels
 
 ![](<../../.gitbook/assets/Screen Shot 2021-09-08 at 12.27.54.png>)
 
-### Strategic level
+### Strategic Level
 
 This level is in charge of **setting the company’s goals**, provide and approve the resources supply for the other company levels to reach the objectives.
 
@@ -32,7 +32,7 @@ The strategy must answer **WHY and WHEN** the company has to reach each goal. **
 
 It is essential to say that all those concepts mentioned in the last paragraph must be clear, tangible, and intelligible for the other organization’s levels since the strategic level has more information and context than the tactical and operational teams.
 
-### Tactical level
+### Tactical Level
 
 The tactical level is in charge of **transforming the company goals into actions and initiatives**. Middle-level or senior professionals as Principal, Managers, and staff participates in committees and commissions and provide information for the other levels of the organization.
 
@@ -68,11 +68,11 @@ Adopting the “Y” career path model permits the team member to evolve in the 
 
 Once someone reaches a Senior-level role and wants to progress, they will need to decide if they wish to remain purely technical or pursue managing technical teams. Their manager can provide opportunities to try tasks from both tracks if they want to. Staff-level roles and Manager roles are equivalent in terms of base compensation and prestige.
 
-### The common axis
+### The Common Axis
 
 Will be assigned Intern, Junior, Intermediate, and Senior levels to the entry positions according to their experience, skills, and characteristics. In this common axis, there’s no separation between Technical and Management careers.
 
-### The Individual contributor axis
+### The Individual Contributor Axis
 
 Technical excellence is something that Rocket.Chat values. Individual contributor career path allows the team member to keep their development without considering a change to a management approach and still with similar compensation.
 
@@ -82,55 +82,55 @@ The specific trail also clarifies the requirements for the team member assignmen
 
 In the individual contributor path, the team member can reach the following levels:
 
-**At tactical level**
+**At Tactical Level**
 
-**First stage**
+**First Stage**
 
 Staff or Product Manager: Considering the career will be directed for a product or technical trail.
 
 The first step of the tactical level is acting as a consultant and an individual reference for the team.
 
-**Second stage**
+**Second Stage**
 
 Principal or Senior Product Manager: Considering the career will be directed for a product or technical trail.
 
 The second step of the tactical level is acting as a high consultant and a corporative reference for the team.
 
-**At strategic level**
+**At Strategic Level**
 
-**First stage**
+**First Stage**
 
 Distinguished: At this level, the person's contribution plays to their strength and role on the team. These contributions come in different forms: Provides technical direction to stakeholders (Product, Sales, others) and being the primary reference for the company on a specific topic influencing the company’s strategic decisions.
 
-**Second stage**
+**Second Stage**
 
 Fellow: Advocate for improvements, being a principal reference for a specific product, service, or technology. Exert significant influence on the overall objectives and long-range goals. Solve technical problems of the highest scope and complexity for the entire organization.
 
-### The management axis
+### The Management Axis
 
 In the management path, the team member can reach the following levels:
 
-**At tactical level**
+**At Tactical Level**
 
-**First stage**
+**First Stage**
 
 Manager: At this level, the managers will seek to build out a great team, happy and prosperous; They will improve processes to make the team more effective. Plan and execute long-term strategies that benefit the team and the product stage\*\*.\*\* In charge of the people management, the manager must hold regular 1:1's with all team members helping the people evolve and grow up as a professional.
 
-**Second stage**
+**Second Stage**
 
 Senior Manager or Group Product Manager: At this level, the person must extend the manager’s responsibilities; Manage multiple teams. Generate and implement process improvements, especially cross-team processes. Regarding people management, this individual must hold regular 1:1s with team managers and skip-level 1:1s with all team members. Establish a management mentorship.
 
-**At strategic level**
+**At Strategic Level**
 
-**First stage**
+**First Stage**
 
 Director: At this level, the person must extend the Senior Manager requirements and add excellent communication skills; Expert hiring manager skills. Be the manager of managers and keep solid agile project management skills. This position requires also to be in charge of budgeting and the second level OKR management, overseen the initiatives related.
 
-**Second stage**
+**Second Stage**
 
 VP: At this level, the person must extend that of the Senior Director, Development responsibilities. It expands the role to cover full functional and product capabilities at Rocket.Chat. Drive recruiting of a world-class team at all levels. Help their directors, senior managers, managers, and individual contributors grow their skills and experience.
 
-**Third stage**
+**Third Stage**
 
 C-Level: Be the principal management reference in the department. At this level, the person will be in charge of developing the organization strategy, defining the company’s main objectives, and representing the company for the board of investors. In addition, be a mentor to the company leadership.
 
