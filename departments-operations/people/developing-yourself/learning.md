@@ -4,16 +4,16 @@ description: Here are the paths you can use to improve your skills!
 
 # Learning
 
-## Italki
+## iTalki
 
-Train your English or learn any new language talking to native speaker teachers!\
+Train your English or learn any new language by talking to native-speaker teachers!\
 In the platform, the company will give you monthly $100 to spend on classes if you want to!
 
 To get access, send an email request to patricia.ferreira@rocket.chat.\
 \
-**Important observation:** As the possibility to learn languages is offered through italki, we **do not** reimburse language courses in the Courses and Books category.
+**Important observation:** As the possibility to learn languages is offered through iTalki, we **do not** reimburse language courses in the Courses and Books category.
 
-## Other courses and books
+## Other Courses and Books
 
 Want to do a course or buy a book to develop a skill related to your role or career development? Here's how this policy can support you with that! (Make sure to read this policy until the end to fully understand all limitations and requirements involved in it.)
 
