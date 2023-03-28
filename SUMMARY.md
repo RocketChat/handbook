@@ -150,7 +150,7 @@
     * [Holidays, Vacations and Leaves](departments-operations/people/daily-life/holidays-and-vacations.md)
     * [Sick Leave](departments-operations/people/daily-life/sick-leave.md)
   * [Developing yourself](departments-operations/people/developing-yourself/README.md)
-    * [Performance and Career Check-in](departments-operations/people/developing-yourself/check-in.md)
+    * [Performance and Career Check-In](departments-operations/people/developing-yourself/check-in.md)
     * [Learning](departments-operations/people/developing-yourself/learning.md)
     * [Book Club](departments-operations/people/developing-yourself/book-club.md)
   * [Summit](departments-operations/people/summit.md)
