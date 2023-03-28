@@ -1,6 +1,6 @@
 # Address Book
 
-During your journey as a Rocketeer you will have different questions about different teams and topics, and to make the process of finding these answers easier for you, here goes a guide on: who to call?&#x20;
+During your journey as a Rocketeer you will have different questions about different teams and topics, and to make the process of finding these answers easier for you, here goes a guide on who to call.&#x20;
 
 |        Team        |   Rocket.Chat User  |
 | :----------------: | :-----------------: |
