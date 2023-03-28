@@ -4,11 +4,10 @@ During your journey as a Rocketeer you will have different questions about diffe
 
 |        Team        |   Rocket.Chat User  |
 | :----------------: | :-----------------: |
-|      Community     |    @duda.nogueira   |
 |  Customer Success  |    @marcela.lima    |
 |       Design       |     @ivan.netto     |
 |       Finance      |     @debora.coy     |
-|      Marketing     |   @manu.sreekanta   |
+|      Marketing     |      @bruno.bin     |
 |        Sales       |   @leandro.coletti  |
 |     Operations     |     @alan.wright    |
 |      Security      |    @bruno.cestari   |
