@@ -8,7 +8,7 @@
 * [Tools](company/tools/README.md)
   * [Rocket.Chat](company/tools/rocket.chat.md)
   * [Google G Suite](company/tools/google-g-suite.md)
-  * [Systems responsible](company/tools/systems-responsible.md)
+  * [Systems Responsible](company/tools/systems-responsible.md)
   * [Access Control Policy](company/tools/access-control-policy.md)
   * [Address Book](company/tools/address-book.md)
 * [Our Culture](company/our-culture/README.md)
