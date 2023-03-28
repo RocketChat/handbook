@@ -137,7 +137,7 @@
     * [Platforms and Systems](departments-operations/people/onboarding/platforms-and-systems.md)
     * [Monthly payment](departments-operations/people/onboarding/monthly-payment.md)
     * [Our Benefits](departments-operations/people/onboarding/benefits/README.md)
-      * [Stock options](departments-operations/people/onboarding/benefits/stock-options.md)
+      * [Stock Options](departments-operations/people/onboarding/benefits/stock-options.md)
       * [Remote Benefit](departments-operations/people/onboarding/benefits/remote-benefit.md)
     * [Getting Your Company Equipment](departments-operations/people/onboarding/laptop-ordering/README.md)
       * [Employees Located in Brazil and US](departments-operations/people/onboarding/laptop-ordering/employees-located-in-brazil-and-us.md)
