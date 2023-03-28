@@ -172,45 +172,11 @@ All Systems procured must comply with defined information security requirements.
 
 ## Supplier Relationship
 
-A supplier relationship refers to the interaction and collaboration between a company or organization and Rocket.Chat. It encompasses the various ways in which our company manages and interacts with suppliers, such as procurement processes, contract negotiation, quality management, communication, and collaboration on innovation and product development. The goal of building a strong supplier relationship is to create a mutually beneficial partnership that promotes long-term sustainability, reliability, and value for both Rocket.Chat and its suppliers.&#x20;
-
-This policy applies to the security and compliance of supplier relationships. Maintaining a secure supply chain is important because often vulnerabilities and risks are introduced through supplier relationships.&#x20;
-
-Suppliers can be SaaS providers, hardware suppliers and similar.
-
-### Contracts & Service levels:
-
-Relationships with suppliers must be based on written agreements/contracts. Such contracts must include provisions on information security when necessary. Service levels of suppliers must be agreed upon and monitored, e.g. by monitoring uptime reports, quality of service, and in case the service does not meet the expected level, the supplier be notified to remediate the issues. Changes to the provision of services by vendors, including changes to agreements, must be recorded (e.g. a contract amendment).
-
-### Supplier access & privacy:
-
-Suppliers accessing or processing Rocket.Chat data must be subject to an NDA or other confidentiality clauses. They must follow either our privacy policy or have their own, legally compliant privacy policy.
-
-For cases when supplier needs to access Rocket.Chat information, then the Vendor Risk Assessment Questionnaire must be sent to the supplier or vendor.
-
-A security questionnaire is a set of questions that is used by a Rocket.Chat to evaluate the security posture of suppliers. The purpose of the security questionnaire is to assess the level of risk associated with working with a particular supplier and to identify any potential security vulnerabilities that may exist in their systems, ecosystems or processes.
-
-Our security questionnaire has questions covering topics such as Access Controls, Compliance, Incident Management, Risk Management, Vulnerability Management among others.
-
-The questionnaire template can be found \<HERE>&#x20;
-
-Once responded, the questionnaire must be made available to the security and compliance teams for risk assessment.
-
-### Supplier compliance:
-
-Supplier compliance is assessed on a risk-based approach and against the requirements of our security policies. Suppliers must demonstrate the same level of compliance for their supply chain.
-
-### Supplier Monitoring:
 
 
+Refer to the new page [Supplier Relationship](https://handbook.rocket.chat/departments-operations/security/security-policy/supplier-relationship).
 
-&#x20;Quando iniciar contato com algum fornecedor que precise de alguma forma acesso a informaçoes da RC, enviar o questionário.
 
-Pedir 2 semanas para a resposta
-
-Depois enviar a resposta do possível vendor para \<emails>
-
-Se o time encontrar alguma red flag, contato com o fornecedor deve ser feito.
 
 ## Auditing
 
