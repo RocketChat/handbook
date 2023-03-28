@@ -139,7 +139,7 @@
     * [Our benefits](departments-operations/people/onboarding/benefits/README.md)
       * [Stock options](departments-operations/people/onboarding/benefits/stock-options.md)
       * [Remote Benefit](departments-operations/people/onboarding/benefits/remote-benefit.md)
-    * [Getting your company equipment](departments-operations/people/onboarding/laptop-ordering/README.md)
+    * [Getting Your Company Equipment](departments-operations/people/onboarding/laptop-ordering/README.md)
       * [Employees located in Brazil and US](departments-operations/people/onboarding/laptop-ordering/employees-located-in-brazil-and-us.md)
       * [Contractors](departments-operations/people/onboarding/laptop-ordering/contractors.md)
     * [Getting the email signature](departments-operations/people/onboarding/getting-the-email-signature.md)
