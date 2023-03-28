@@ -100,7 +100,7 @@
   * [Travel Policy](departments-operations/finance/travel-policy/README.md)
     * [Who does this policy apply to?](departments-operations/finance/travel-policy/who-does-this-policy-apply-to.md)
     * [What is the Objective and Why are we implementing this policy?](departments-operations/finance/travel-policy/what-is-the-objective-and-why-are-we-implementing-this-policy.md)
-    * [Travel and reimbursement request](departments-operations/finance/travel-policy/travel-and-reimbursement-request.md)
+    * [Travel and Reimbursement Request](departments-operations/finance/travel-policy/travel-and-reimbursement-request.md)
     * [Coronavirus Pandemic](departments-operations/finance/travel-policy/coronavirus-pandemic.md)
   * [Payroll Schedule Process](departments-operations/finance/payroll-schedule-process.md)
 * [Marketing](departments-operations/marketing/README.md)
