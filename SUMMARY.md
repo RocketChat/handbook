@@ -136,7 +136,7 @@
     * [Departmental Onboarding](departments-operations/people/onboarding/departmental-onboarding.md)
     * [Platforms and Systems](departments-operations/people/onboarding/platforms-and-systems.md)
     * [Monthly payment](departments-operations/people/onboarding/monthly-payment.md)
-    * [Our benefits](departments-operations/people/onboarding/benefits/README.md)
+    * [Our Benefits](departments-operations/people/onboarding/benefits/README.md)
       * [Stock options](departments-operations/people/onboarding/benefits/stock-options.md)
       * [Remote Benefit](departments-operations/people/onboarding/benefits/remote-benefit.md)
     * [Getting Your Company Equipment](departments-operations/people/onboarding/laptop-ordering/README.md)
