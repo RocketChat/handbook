@@ -2,15 +2,15 @@
 
 ## Purpose
 
-Our Disciplinary Action policy explains how we address our employees’ misconduct, offensive behaviors, or information security breaches.
+Our Disciplinary Action policy explains how we address our employees’ misconduct, offensive behaviours, or information security breaches.
 
 This policy is designed to help and encourage you to identify and speak up about any of these situations and outlines the process that will be used if Rocketeers fail to achieve and maintain the required standards.
 
-We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and in the workplace violence policy, so we're here opening a [Hearing Channel forms](https://docs.google.com/forms/d/e/1FAIpQLSc9HlJ3abk2Vwvebfhot5SyRQfluERaG27oAVo\_hXOO02y4Hw/viewform?usp=sf\_link) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.
+We want you to have clarity about the paths you can use to speak up about any of the situations mentioned in this, in the no-retaliation policy and the workplace violence policy, so we're here opening a [Hearing Channel forms](https://docs.google.com/forms/d/e/1FAIpQLSc9HlJ3abk2Vwvebfhot5SyRQfluERaG27oAVo\_hXOO02y4Hw/viewform?usp=sf\_link) if you want to keep anonymity. If you feel comfortable you can also discuss any situation with your manager or with the People team.
 
 ## Scope
 
-The Rocket.Chat Disciplinary Action Policy applies to all staff. The aim of this policy is to ensure consistent and fair treatment for all at the company.
+The Rocket.Chat Disciplinary Action Policy applies to all staff. This policy aims to ensure consistent and fair treatment for all at the company.
 
 ## Principles
 
@@ -18,11 +18,11 @@ Our disciplinary procedure begins when there is sufficient evidence to justify i
 
 You will have the right to appeal against any disciplinary action.
 
-HR and managers should document every stage of our disciplinary procedure. If appropriate, include necessary information like evidence, testimonies, and employee’s progress or improvement.
+HR and managers should document every stage of our disciplinary procedure. If appropriate, include necessary information like evidence, testimonies, and employee progress or improvement.
 
-We are obliged to refrain from disciplinary actions that may constitute retaliatory behavior. A no-retaliation company policy (See appendix) will be effective at all times to ensure there is no misuse of our disciplinary procedure.
+We are obliged to refrain from disciplinary actions that may constitute retaliatory behaviour. A no-retaliation company policy (See appendix) will be effective at all times to ensure there is no misuse of our disciplinary procedure.
 
-We have the right to modify this policy or act in any other legal or reasonable way as each case demands. But, we will always enforce discipline in a fair and lawful manner.
+We have the right to modify this policy or act in any other legal or reasonable way as each case demands. But, we will always enforce discipline fairly and lawfully.
 
 ## The Procedure
 
@@ -30,21 +30,21 @@ The Rocket.Chat Disciplinary Action Policy can result in the following actions b
 
 **1. Verbal and/or Written Warning**
 
-3 records can generate a suspension. The warning is the simpler disciplinary action and that is precisely why it is applied by the employer only in case of minor offenses, being alert about the wrong conduct so that the employee will not repeat it. Verbal warnings should be documented and written warnings must be signed.
+3 records can generate a suspension. The warning is the simpler disciplinary action and that is precisely why it is applied by the employer only in case of minor offences, being alert about the wrong conduct so that the employee will not repeat it. Verbal warnings should be documented and written warnings must be signed.
 
 **2. Suspension**
 
-Suspension is more severe, therefore it should be applied in case of offenses of medium gravity or when the employee has accumulated warnings by similar conduct. In this case, the employer is allowed to proceed with salary discounts for the days the employee was suspended. The suspension must not go over 30 days.
+Suspension is more severe, therefore it should be applied in case of offences of medium gravity or when the employee has accumulated warnings by similar conduct. In this case, the employer is allowed to proceed with salary discounts for the days the employee was suspended. The suspension must not go over 30 days.
 
-**3. Termination of contract**
+**3. Termination of Contract**
 
-The most severe action is the dismissal or termination of the contract. This is applied solely when there is robust comprobation of the offense, and to apply it the offense must be serious enough to make the continuity of the employment impossible due to loss of trust between the company and the employee.
+The most severe action is the dismissal or termination of the contract. This is applied solely when there is robust comprobation of the offence, and to apply it the offence must be serious enough to make the continuity of the employment impossible due to loss of trust between the company and the employee.
 
-## Types of offenses
+## Types of Offences
 
 The circumstances that lead to disciplinary action and the appropriate action to be taken in each case are the following:
 
-* **Performance issues**
+* **Performance Issues**
 
 The disciplinary procedure starts at stage 1 (Verbal/written warning). It includes but is not limited to:
 
@@ -52,24 +52,24 @@ The disciplinary procedure starts at stage 1 (Verbal/written warning). It includ
 2. Attendance issues.
 3. Failure to meet deadlines.
 
-* **Misdemeanors/One-time minor offense**
+* **Misdemeanours/One-Time Minor Offence**
 
 The disciplinary procedure starts at stage 1 (Verbal/written warning). It includes but is not limited to:
 
-1. Rude behavior toward customers or partners.
+1. Rude behaviour toward customers or partners.
 2. On-the-job minor mistakes.
 3. Involuntary Discrimination.
 
-* **Misconduct/Frequent offender**
+* **Misconduct/Frequent Offender**
 
 The disciplinary procedure starts at stage 2 (Suspension). It includes but is not limited to:
 
-1. Lack of response to counseling and corrective actions.
+1. Lack of response to counselling and corrective actions.
 2. Lost temper in front of customers or partners.
 3. On-the-job major mistakes.
 4. Unwillingness to follow health and safety standards.
 
-* **Severe offensive behavior/Felony**
+* **Severe Offensive Behaviour/Felony**
 
 The disciplinary procedure starts at stage 3 (Termination of contract). It includes but is not limited to:
 
@@ -79,7 +79,7 @@ The disciplinary procedure starts at stage 3 (Termination of contract). It inclu
 4. Workplace Violence (See appendix)
 5. Embezzlement/Fraud.
 
-* **Information security breach**
+* **Information Security Breach**
 
 The disciplinary procedure starts at stage 1 (Verbal/written warning). It includes but is not limited to the items listed in the Rocket.Chat [security policy](https://handbook.rocket.chat/departments-operations/security/security-policy).
 
