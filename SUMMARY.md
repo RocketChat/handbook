@@ -128,7 +128,7 @@
   * [Revenue Operations](departments-operations/operations-team/revenue-operations.md)
   * [Security](departments-operations/operations-team/security.md)
 * [People Experience](departments-operations/people/README.md)
-  * [Recruitment](departments-operations/people/recruitment/README.md)
+  * [Talent Acquisition](departments-operations/people/recruitment/README.md)
     * [External Recruitment](departments-operations/people/recruitment/recruitment.md)
     * [Internal Recruitment](departments-operations/people/recruitment/internal-recruitment.md)
   * [Onboarding](departments-operations/people/onboarding/README.md)
