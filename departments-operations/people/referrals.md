@@ -17,7 +17,7 @@ If your referral **joins the team and stays for at least 90 days**, you'll get a
 
 _**But are these rewards?**_
 
-You'll get an **Experience Pass** ✨ It's be launched in the system to be credited to you as soon as you complete 3 months in the company, then the Finance team will add the value corresponding to one-month [remote benefit](https://handbook.rocket.chat/company/people/entering-rocket.chat/benefits/remote-benefit) (see values according to a location in the link) to your next paycheck.
+You'll get an **Experience Pass** ✨ It's being launched in the system to be credited to you as soon as you complete 3 months in the company, then the Finance team will add the value corresponding to one-month [remote benefit](https://handbook.rocket.chat/company/people/entering-rocket.chat/benefits/remote-benefit) (see values according to a location in the link) to your next paycheck.
 
 You can use this credit to pay for experiences such as:
 
@@ -27,4 +27,4 @@ You can use this credit to pay for experiences such as:
 * That game subscription you've always wanted
 * An Airbnb Experience
 
-Any questions you have just reach out to the People Experience team!
+If any questions you have just reach out to the People Experience team!
