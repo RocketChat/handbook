@@ -1,6 +1,6 @@
 # Onboarding
 
-When onboarding the New Rocketeer, our main goal is to welcome and help this person with the understanding of daily basis activities, departments, and tools. The Onboarding process is split between Company Onboarding and Departmental Onboarding. Inside each topic below you'll be able to find a description of both stages.
+When onboarding the New Rocketeer, our main goal is to welcome and help this person with the understanding of daily basis activities, departments, and tools. The Onboarding Process is split between Company Onboarding and Departmental Onboarding. Inside each topic below you'll be able to find a description of both stages.
 
 {% content-ref url="company-onboarding.md" %}
 [company-onboarding.md](company-onboarding.md)
