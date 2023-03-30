@@ -1,12 +1,12 @@
 # Departmental Onboarding
 
-The process of departmental onboarding to be described in this section was developed with the help of our Rocketeers, after surveys and workshops were conducted to receive their inputs on an **ideal standard onboarding** to enter an area.
+The process of departmental onboarding to be described in this section was developed with the help of our Rocketeers after surveys and workshops were conducted to receive their inputs on an **ideal standard onboarding** to enter an area.
 
 Other teams might have onboardings with additional routines or items, but the process described here is what is considered the minimum expected from any area-specific onboarding. Furthermore, every person has their own perspective and pace. For some, the onboarding might be a lot to process...for others, it can be a piece of cake. So, there is nothing better than **communicating** - either with your Leader or with the People Team.&#x20;
 
 ## Initial Guidelines
 
-For starters, it's important to establish three basic guidelines about the area onboarding in order to achieve a smooth process that doesn't overwhelm its participant:
+For starters, it's important to establish three basic guidelines about the area onboarding to achieve a smooth process that doesn't overwhelm its participant:
 
 * Mix types of content in support documents - only long videos or long texts aren't the ideals
 * Learning hands-on! Start with small activities, and slowly evolve
@@ -52,7 +52,7 @@ The buddy should:
 
 * Use the kick-off meeting to introduce themselves
 * Help the New Rocketeer adjust to the team, its ceremonies, and meetings
-* Be present especially during their first two weeks to support them with tools, processes, and guidance - _Remember it's not only understanding the tool itself but also how the area organizes it and uses it on a daily basis_
+* Be present especially during their first two weeks to support them with tools, processes, and guidance - _Remember it's not only understanding the tool itself but also how the area organizes and uses it daily_
 * Be available for any questions or doubts
 
 ### 3. Documentation
