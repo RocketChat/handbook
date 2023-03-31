@@ -1,16 +1,16 @@
 # Performance and Career Check-In
 
-The Check-in is the most important tool and milestone for the development of our Rocketeers. It goes beyond an evaluation of performance, since it was designed to attend to three main goals:
+The Check-in is the most important tool and milestone for the development of our Rocketeers. It goes beyond an evaluation of performance since it was designed to attend to three main goals:
 
 * Evaluating performance
 * Aligning expectations about career growth
 * Developing the career path of our Rocketeers
 
-Our Check-in cycle is hosted at [Qulture.Rocks](https://app.qulture.rocks) and Rocketeers can login by using their Google accounts (the platform is configured as to only allow login from @rocket.chat emails).
+Our Check-in cycle is hosted at [Qulture.Rocks](https://app.qulture.rocks) and Rocketeers can log in by using their Google accounts (the platform is configured to only allow login from @rocket.chat emails).
 
 ## The Process
 
-A Check-in in composed by 5 steps:
+A Check-in is composed of 5 steps:
 
 * Indications stage
 * Validation stage
@@ -18,7 +18,7 @@ A Check-in in composed by 5 steps:
 * Reports
 * Development Plan
 
-To walk you through the step-by-step of each of them, here is the [recorded training](https://drive.google.com/file/d/1Sy0cT\_QVaSLExl-IOBQFCbfR-zNOz1lz/view?usp=sharing) and the [introduction material](https://docs.google.com/presentation/d/1edbLeP28it4bCZkkao5CB4PM0NbbXsEUQGzMAmVMChU/edit?usp=sharing). If you're a leader, [here](https://docs.google.com/presentation/d/1bFeRh1KInC6zTxLiDifgWr7pIkMtoUfghqL\_fX75elQ/edit?usp=sharing)'s a guide on how to do each of your tasks during the process. In Qulture.Rocks' knowledge base you'll also find a collection of [tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
+To walk you through the step-by-step of each of them, here is the [recorded training](https://drive.google.com/file/d/1Sy0cT\_QVaSLExl-IOBQFCbfR-zNOz1lz/view?usp=sharing) and the [introduction material](https://docs.google.com/presentation/d/1edbLeP28it4bCZkkao5CB4PM0NbbXsEUQGzMAmVMChU/edit?usp=sharing). If you're a leader, [here](https://docs.google.com/presentation/d/1bFeRh1KInC6zTxLiDifgWr7pIkMtoUfghqL\_fX75elQ/edit?usp=sharing)['s](https://docs.google.com/presentation/d/1bFeRh1KInC6zTxLiDifgWr7pIkMtoUfghqL\_fX75elQ/edit#slide=id.gd9df551143\_1\_254) a guide on how to do each of your tasks during the process. In Qulture.Rocks' knowledge base you'll also find a collection of [tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
 
 ### Indications Stage
 
@@ -26,9 +26,9 @@ The default evaluations everyone will fill out are a self-review, a review of th
 
 If you want to participate in a peer's evaluation and give them a review just talk to them and ask them to indicate you or ask your leader to indicate you to evaluate them. Here are the three basic rules you need to follow regarding indications:
 
-1. The system will **limit the number of peer indications** to 5 to everyone.
-2. If you received more than 5 indications, during the indications or validation stages feel free to **refuse indications** from the Rocketeers you have less contact with and, therefore, less to contribute with. We indicate reviewing up to 5 peers in order to do a deep and healthy review.
-3. Indications \*\*will not be created by system admins \*\*after the indication period in order to maintain the freedom of evaluators to choose who to evaluate.
+1. The system will **limit the number of peer indications** to 5 for everyone.
+2. If you received more than 5 indications, during the indications or validation stages feel free to **refuse indications** from the Rocketeers you have less contact with and, therefore, less to contribute with. We indicate reviewing up to 5 peers to do a deep and healthy review.
+3. Indications \*\*will not be created by system admins \*\*after the indicated period to maintain the freedom of evaluators to choose who to evaluate.
 
 ### Validation Stage
 
