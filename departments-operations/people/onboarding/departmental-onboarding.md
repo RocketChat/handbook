@@ -2,7 +2,7 @@
 
 The process of departmental onboarding to be described in this section was developed with the help of our Rocketeers after surveys and workshops were conducted to receive their inputs on an **ideal standard onboarding** to enter an area.
 
-Other teams might have onboardings with additional routines or items, but the process described here is what is considered the minimum expected from any area-specific onboarding. Furthermore, every person has their own perspective and pace. For some, the onboarding might be a lot to process...for others, it can be a piece of cake. So, there is nothing better than **communicating** - either with your Leader or with the People Team.&#x20;
+Other teams might have onboardings with additional routines or items, but the process described here is what is considered the minimum expected from any area-specific onboarding. Furthermore, every person has their own perspective and pace. **For some, the onboarding might be a lot to process... for others, it can be a piece of cake. So, there is nothing better than communicating - either with the Leader or with the People Team.**&#x20;
 
 ## Initial Guidelines
 
