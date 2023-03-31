@@ -28,7 +28,7 @@ The Manager is responsible for:
 
 * Notifying the team on its main channel (_onboarding date, name, and role_)
 * Assigning a Buddy from the team for the new Rocketeer, and define the responsibilities towards the new team member
-* Scheduling a **welcome meeting for introductions** (ideally on the **New Rocketeer's first day**)
+* Scheduling a **welcome meeting for introductions** on the **New Rocketeer's first day**
 
 It's pre-aligned that the initial focus for new Rocketeers during the first 2 days should be going through the company onboarding, and as soon as they're done with it they're ready to get started in their departmental onboarding. Thus, the Manager should align with the new hire the date for the **kick-off meeting for the departmental onboarding** (**suggested to be on the 3rd day**).&#x20;
 
