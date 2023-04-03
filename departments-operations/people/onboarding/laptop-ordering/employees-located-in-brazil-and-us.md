@@ -12,6 +12,8 @@ For Brazilian Rocketeers, **Rocket.Chat will buy the equipment and will send it 
 
 When you receive the packages, you also have to complete the "After the Delivery" steps described below!
 
+**Important:** Interns are not elligible to receiving company equipment, unless it is previously authorized by their manager. Once they receive the equipment, they also have to complete the steps described below.
+
 ## Employees Located in US
 
 The process follows the same line as the one done for Contractors, Rocket.Chat will pay a **one-time subsidy** for ensuring adequate equipment to provide the related hired service.
@@ -44,7 +46,7 @@ As soon as you receive your equipment, you need to follow two crucial steps befo
 1. The laptop and headphones need to be reported with serial numbers, brand, model and other details by adding it to[ this form](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:asset).
 2. New laptops should be configured with security in mind, so before you start working, you need to read and fill[ this security form](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) that will guide you through the necessary configurations you need to do.
 
-## Property - Applicable to all Employees hired _before_ September 1, 2021
+## Property
 
 The equipment paid for by the company is the property of Rocket.Chat, so you do not need to buy insurance for them unless it is company policy to do so, which at the moment it is not. However, you do need to report any loss following or damage to the Program Manager ([Marcelo Schmidt](mailto:marcelo.schmidt@rocket.chat)) as soon as it occurs.
 
@@ -54,7 +56,7 @@ However, if you decide not to purchase the equipment, we will then have them shi
 
 All the information in the team-member laptops must be securely erased before they are returned. This not only protects the company but also protects you since personal information may exist in these machines. Reformatting a computer is not sufficient in these cases because it is possible to recover sensitive data after reinstalling an operating system.
 
-## Buy Back Policy - Applicable to all Employees hired _before_ September 1, 2021
+## Buy Back Policy
 
 You can buy back your existing equipment, either when it gets replaced with a new one, or when you're offboarding. In these cases, you have the option to purchase it for the residual value from Rocket.Chat.
 
@@ -64,7 +66,7 @@ The Finance team will e-mail you asking if you would like to send back or purcha
 
 If you decide to retain the laptop, you are required to wipe the machine and re-install the base operating system, and remove any and all software and configurations that were supplied by Rocket.Chat. Evidence or a declaration that the device has been wiped must be supplied within 2 weeks of the end of employment. If we discover that a device has not been wiped according to policy, we may act to enforce a remote wipe without notice.
 
-## Repairs - Applicable to all Employees hired _before_ September 1, 2021
+## Repairs
 
 If you need to replace a battery or something small that does not affect the productivity or speed of the device, please go ahead and get that small item replaced and expensed, by using [this form](https://people.zoho.com/rocketchat/zp#compensation/form/add-formLinkName:Other\_Reimbursement). If the repair is going to take longer than a day, then you need to make sure you have a backup laptop to work on.
 
