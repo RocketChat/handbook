@@ -45,5 +45,27 @@ Employees who leave the organization must have their access to sensitive or inte
 
 * When an employee leaves the organization, the employee's manager must notify the Security department immediately.
 * The Security department will revoke the employee's access to sensitive or internal systems.
-* All company's equipaments (when applied) and data holded by the employee must be returned to the company.
+* All company's equipments (when applied) and data hold by the employee must be returned to the company.
+
+### Review of Accounts and privileges
+
+Purpose is to periodically review who has access to what and perform changes if necessary.
+
+* Frequency - quarterly
+* Scope: Assets classified as Tier 1 within Asset Register 2023. (Tier 1 is composed by [Rocket.chat](https://rocket.chat/) critical systems such as Core Development systems, databases, Infrastructure providers, Finance and critical operational systems).
+
+Roles and responsibilities
+
+* Engineer Manager from Security team: responsible for periodic review with asset owners or designated person to make sure the task is being executed.
+*   Owner or designated person - access the system(s) and check for the list of all users to:
+
+    * 1\) Verify if all member are active rocketeers.
+    * 2\) Check if their level of access is appropriate to their use/role (regular user/admin/ ...).
+    * 3\) Make the removal or changes as needed.
+    * 4\) Update the checklist to confirm the review was done.
+
+    \
+    For Tier 2 and 3 applications, the review of access and privileges shall be done annually by the asset owners or designated person.
+
+
 
