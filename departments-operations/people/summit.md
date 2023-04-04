@@ -1,20 +1,20 @@
+---
+description: Rocket.Chat yearly holds a Summit!
+---
+
 # Summit
 
-Rocket.Chat yearly holds a Summit, it is the most anticipated point of contact of our team since it's the moment where we bring the entire team together in one place. 
+The Summit is the most expected moment for our team since it's when we bring the entire team together in one place. Although attendance is optional we highly recommend it because during the Summit you'll have the opportunity to meet all team members in person.&#x20;
 
-Although attendance is optional we highly recommended it because during the Summit you'll have the opportunity to meet all team members in person. As our team grows every month, we end up working remotely for almost a whole year without ever having met some coworkers in person. The Summit provides the opportunity to meet all these people in one place, it's in this moment that you'll understand the feeling mentioned in our Culture Code that whenever we’re all together it feels as if we never worked far from each other.  
-  
-You'll also:
+As we work remotely, the Summit provides the opportunity to meet all Rocketeers in one place and to practice our Culture Code so that whenever we’re all together it feels as if we never worked far from each other.
 
-* Meet new remote team members in person.
-* Develop and strengthen relationships.
-* Get a deeper understanding of our team's strengths and weaknesses.
-* Align projects with the executive team's short, medium, and long term objectives and vision.
-* Participate in team-building moments and discussions about the company's plans.
+By participating in the Summit, you will also:
+
+* [ ] Develop and strengthen relationships
+* [ ] Get a deeper understanding of our team's strengths and weaknesses
+* [ ] Align projects with the Executive Team for short, medium, and long-term&#x20;
+* [ ] Participate in team-building moments and discussions about the company's strategies
 
 {% embed url="https://www.youtube.com/watch?v=Tpm2K1E5Ev8" %}
 
 {% embed url="https://www.youtube.com/watch?v=RKDwl2xZH5g" %}
-
-
-
