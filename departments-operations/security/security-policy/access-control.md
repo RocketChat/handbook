@@ -35,6 +35,8 @@ Employees who leave the organization must have their access to sensitive or inte
 * The Security department will review the request and verify the employee's need for access.
 * The Security department will grant access to the requested systems if approved.
 
+Note: For new employees (first access) the HR team will be responsible for grating access to a set of systems and register the access request on behalf of the employee.
+
 ### Reviewing Access
 
 * Access to sensitive or internal systems will be reviewed periodically to ensure continued access is necessary.
