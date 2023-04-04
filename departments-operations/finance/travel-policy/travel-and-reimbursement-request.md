@@ -108,7 +108,7 @@ description: How to request your travel and reimbusements?
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * **Receipts must be scanned and submitted** along with the Reimbursement template.
 * Even if the purchases are made in local currency, **don't forget to fill in the "Exchange Rate" field** (with either 1 or the exchange rate amount). &#x20;
 * In case of **mileage reimbursement**: the employee should **submit the itinerary** (origin-destination) via Google Maps-type screenshot and **kilometres travelled**. The employee should also present receipts for any tools paid during the trip.
