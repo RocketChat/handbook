@@ -15,6 +15,8 @@ By participating in the Summit, you will also:
 * [ ] Align projects with the Executive Team for short, medium, and long-term&#x20;
 * [ ] Participate in team-building moments and discussions about the company's strategies
 
+{% embed url="https://www.linkedin.com/posts/rocket-chat_today-marks-the-end-of-our-2022-summit-after-activity-6991745472772083712-bTpr?utm_medium=member_desktop&utm_source=share" %}
+
 {% embed url="https://www.youtube.com/watch?v=Tpm2K1E5Ev8" %}
 
 {% embed url="https://www.youtube.com/watch?v=RKDwl2xZH5g" %}
