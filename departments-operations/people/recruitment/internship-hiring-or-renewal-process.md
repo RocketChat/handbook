@@ -51,4 +51,4 @@ The People Team is responsible for:
 * [ ] Forward all documents to the internal signature on Zoho Sign
 * [ ] Be the liaison between the University and Rocket.Chat
 
-Will all the documents in hand, the People Team must forward the final version with all signatures to the Finance Team - patricia.ferreira@rocket.chat - to complete the admission or renewal process.
+Will all the documents in hand, the People Team must forward the final version of the ICT with all signatures to the Finance Team - patricia.ferreira@rocket.chat - to complete the admission or renewal process.
