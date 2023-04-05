@@ -2,7 +2,7 @@
 
 The process of departmental onboarding to be described in this section was developed with the help of our Rocketeers after surveys and workshops were conducted to receive their inputs on an **ideal standard onboarding** to enter an area.
 
-Other teams might have onboardings with additional routines or items, but the process described here is what is considered the minimum expected from any area-specific onboarding. Furthermore, every person has their own perspective and pace. **For some, the onboarding might be a lot to process... for others, it can be a piece of cake. So, there is nothing better than communicating - either with the Leader or with the People Team.**&#x20;
+Other teams might have onboardings with additional routines or items, but the process described here is what is considered the minimum expected from any area-specific onboarding. Furthermore, every person has their own perspective and pace. **For some, the onboarding might be a lot to process... for others, it can be a piece of cake. So, there is nothing better than communicating how you're doing - either with the Leader or with the People Team.**&#x20;
 
 ## Initial Guidelines
 
@@ -44,7 +44,7 @@ When in the kick-off meeting with the new team member, you (Manager), and the as
 
 &#x20;                                               [Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a leader's checklist to not miss a thing!
 
-_Optional:_ **** Use the Jira project to coordinate your tasks and deadlines along the process to remind both yourself and the new member of the onboarding tasks to be completed during the first month. You can use it to create new tasks to help the person walk through documentation or repositories in an organized way.
+_Optional:_ Use the Jira project to coordinate your tasks and deadlines along the process to remind both yourself and the new member of the onboarding tasks to be completed during the first month. You can use it to create new tasks to help the person walk through documentation or repositories in an organized way.
 
 ### 2. Buddy
 
