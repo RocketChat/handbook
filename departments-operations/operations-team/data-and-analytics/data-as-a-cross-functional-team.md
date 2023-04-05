@@ -13,7 +13,7 @@ Most common interactions between us:
 * Providing specific visualizations and reports: Zoho has a feature called [Query Tables](https://www.zoho.com/analytics/help/query-tables.html), enabling us to create complex data modeling tables based on Sales Data;
 * Providing Dashboards with usage data enabling sales cycle reductions.
 
-Point of Contact: [Vitor Pajaro](https://open.rocket.chat/direct/vitor.pajaro) (RevOps) and [Leandro Coletti](https://open.rocket.chat/direct/leandro.coletti) (Sales)
+Point of Contact: [Leandro Coletti](https://open.rocket.chat/direct/leandro.coletti) (Sales)
 
 ### Finance
 
@@ -34,7 +34,7 @@ Main activities:
 * Supporting metrics tracking related to UTM and campaign ROI;
 * Coming up with specific visualizations and reports with [Query Tables](https://www.zoho.com/analytics/help/query-tables.html) ([1](https://analytics.zoho.com/workspace/2019720000000006001/view/2019720000006982002) and [2](https://analytics.zoho.com/workspace/2019720000000006001/view/2019720000006447214)).
 
-Point of Contact: [Júlia Grala](https://open.rocket.chat/direct/julia.grala).
+Point of Contact: [Paola Palhais](https://open.rocket.chat/direct/paola.palhais)
 
 ### Corporate Management
 
