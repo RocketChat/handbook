@@ -132,6 +132,7 @@
   * [Talent Acquisition](departments-operations/people/recruitment/README.md)
     * [External Recruitment](departments-operations/people/recruitment/recruitment.md)
     * [Internal Recruitment](departments-operations/people/recruitment/internal-recruitment.md)
+    * [Internship Hiring or Renewal Process](departments-operations/people/recruitment/internship-hiring-or-renewal-process.md)
   * [Onboarding](departments-operations/people/onboarding/README.md)
     * [Company Onboarding](departments-operations/people/onboarding/company-onboarding.md)
     * [Departmental Onboarding](departments-operations/people/onboarding/departmental-onboarding.md)
