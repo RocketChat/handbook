@@ -1,18 +1,18 @@
 # Access Control Policy
 
-In this page you can find the process description of the opening, changes and removal of access to all systems used in Rocket.Chat, along with area or role specific platforms, the permission level rules and department responsible for each system.&#x20;
+On this page, you can find the process description of the opening, changes and removal of access to all systems used in Rocket.Chat, along with area or role-specific platforms, the permission level rules and the department responsible for each system.&#x20;
 
 A periodic review of privileges and accesses must be performed by each area responsible for the system.
 
 ## Onboarding
 
-The access control for the onboarding is facilitated by Jira templates with a list of the systems the new Rocketeer should receive access to. All invites are sent on a Wednesday that precedes the Rocketeers' first day.
+The access control for the onboarding is facilitated by Jira templates with a list of the primary systems the new Rocketeer should receive access to. All invites are sent on a Wednesday that precedes the Rocketeers' first day.
 
-The list includes platforms that are used by the entire company. Platforms of each area/department are under the direct manager's responsibility to release access.&#x20;
+The list includes platforms that are used by the entire company. Platforms of each area/department are under the direct manager's responsibility to release access to the new rocketeer by following the steps described [here](https://handbook.rocket.chat/departments-operations/security/security-policy/access-control).
+
+Rocketeers can also request access to other specific area platforms according to necessity during their time in Rocket.Chat - like Loom, Huspot, CRM, and Figma...by following the steps described [here](https://handbook.rocket.chat/departments-operations/security/security-policy/access-control).
 
 Permission levels listed as "User" refer to platforms where there are no specific level attributions, and users are simply created.
-
-Members can also request access to other specific area platforms according to necessity during their time in Rocket.Chat - like Loom, Huspot, CRM, and Figma...
 
 |         Platform         |                                Who gets access                                |                                                                                                                             Permission levels                                                                                                                            |                            Who releases the access                            |
 | :----------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
