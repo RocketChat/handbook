@@ -12,7 +12,7 @@
   * [Access Control Policy](company/tools/access-control-policy.md)
   * [Address Book](company/tools/address-book.md)
 * [Our Culture](company/our-culture/README.md)
-  * [Rocket.Chat RockStars](company/our-culture/rocket.chat-allstars.md)
+  * [Rocket.Chat RockStars](company/our-culture/rocket.chat-rockstars.md)
   * [RockStars Happy Hour](company/our-culture/rockstars-happy-hour.md)
   * [Remote Work](company/our-culture/remote-work.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
