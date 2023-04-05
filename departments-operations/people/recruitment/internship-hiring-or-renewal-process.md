@@ -17,7 +17,7 @@ In Brazil, the hiring of interns tends to be very bureaucratic. The hiring model
 
 Each University has its own template documentation that Rocket.Chat and the Intern need to fill in and forward it for signing. However, there is one document in particular that is common to all processes: the Internship Commitment Term — the ICT.  The internship will only be formalized by the University's approval of this document.&#x20;
 
-To guarantee the hiring efficiency of Interns, it's important to establish the responsibilities of 3 parties:
+**To guarantee the hiring efficiency of Interns, it's important to establish the responsibilities of 3 parties:**
 
 1. &#x20;**Intern**&#x20;
 2. **Manager**
@@ -27,30 +27,28 @@ To guarantee the hiring efficiency of Interns, it's important to establish the r
 
 The Intern is responsible for:
 
-* Collecting all the documents required provided by your Internship Center
-* Share the documents with the People Team in a folder on Shared Drive
-* Communicate to the People Team the steps the University requires to firm the Internship
-* Organize the working hours by aligning with the Direct Manager
+* [ ] Collecting all the documents required provided by your Internship Center
+* [ ] Share the documents with the People Team in a folder on Shared Drive
+* [ ] Communicate to the People Team the steps the University requires to firm the Internship
+* [ ] Organize the working hours by aligning with the Direct Manager
 
 ### Manager
 
 The Manager is responsible for:
 
-* Define the duration of the contract&#x20;
-* Define the workload&#x20;
-* Define the main tasks/activities to be carried out by the Intern
-* Define how performance will be measured
+* [ ] Define the duration of the contract&#x20;
+* [ ] Define the workload&#x20;
+* [ ] Define the main tasks/activities to be carried out by the Intern
+* [ ] Define how performance will be measured
 
 ### People Team
 
 The People Team is responsible for:
 
-* Collect with the Intern all the documents necessary for filling
-* Collect with the Manager all the information described under the session “Manager”.&#x20;
-* Fill in all the contracts and documents
-* Forward all documents to internal signature on Zoho Sign
-* Be the liaison between the University and Rocket.Chat
+* [ ] Collect with the Intern all the documents necessary for filling
+* [ ] Collect with the Manager all the information described under the session “Manager”.&#x20;
+* [ ] Fill in all the contracts and documents
+* [ ] Forward all documents to the internal signature on Zoho Sign
+* [ ] Be the liaison between the University and Rocket.Chat
 
-
-
-Will all the documents in hand, the People Team can forward the final version with all signatures to the Finance Team - patricia.ferreira@rocket.chat - to complete the admission or renewal process.
+Will all the documents in hand, the People Team must forward the final version with all signatures to the Finance Team - patricia.ferreira@rocket.chat - to complete the admission or renewal process.
