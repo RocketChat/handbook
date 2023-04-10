@@ -4,7 +4,7 @@ description: >-
   and Product organizations.
 ---
 
-# Roles & Responsibilities
+# Lead Roles & Responsibilities
 
 ## Product Manager
 
@@ -27,7 +27,7 @@ description: >-
 
 Hiring (Squad Formation):&#x20;
 
-* Continuously assess and validate hiring plans based on engineering/squad **** needs
+* Continuously assess and validate hiring plans based on engineering/squad needs
 * Actively seek and hire talent following the hiring plan
 * Conduct managerial interviews for candidates
 

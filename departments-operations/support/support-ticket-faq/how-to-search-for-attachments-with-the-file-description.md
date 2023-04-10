@@ -6,9 +6,9 @@ To do this, you need to search with the prefix: file-desc: followed by your-file
 \
 Example: **file-desc:testing**
 
-****![](<../../../.gitbook/assets/image (29) (1).png>)****
+![](<../../../.gitbook/assets/image (29) (1).png>)
 
-****
+
 
 There is an exception to this type of search, you must not include space and you should type only one word which is part of the description, or a few characters(or syllable) which is part of any word inside the file description (see the above screenshot for better clarity).\
 \

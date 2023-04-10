@@ -23,7 +23,7 @@ Disaster prevention is everyone´s responsibility. This means that every employe
 
 * **Preventing vendor lock-ins**
 * **Trusted partners**\
-  ****We should always choose partners that provide an adequate level of security (e.g. SaaS providers with high reputation)
+  We should always choose partners that provide an adequate level of security (e.g. SaaS providers with high reputation)
 * **Storing data offsite and off-client**
 * **Backup and Recovery**\
   Regular backups will be taken of all critical data and systems. The backups will be stored offsite in a secure location. The recovery process will be tested regularly to ensure its effectiveness.
@@ -34,7 +34,7 @@ Disaster prevention is everyone´s responsibility. This means that every employe
 * **Cloud Services**\
   Cloud services will be used to provide redundancy and disaster recovery capabilities.
 * **Emergency Communications**\
-  ****Emergency communication protocols will be established to enable communication with employees, customers, and vendors in the event of a disaster.
+  Emergency communication protocols will be established to enable communication with employees, customers, and vendors in the event of a disaster.
 
 ## Business Impact Analysis
 

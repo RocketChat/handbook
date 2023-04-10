@@ -1,42 +1,14 @@
 ---
-description: 'IMPORTANT, THIS IS STILL A PROPOSITION, IT IS NOT THE FORMALIZED DOC YET.'
+description: >-
+  Customer Support Team responsibilities include answering inquiries, providing
+  product information, troubleshooting, handling issues, and continuously
+  improving the customer experience.
 ---
 
-# Working Shifts
+# Responsibilities
 
-**IMPORTANT, THIS IS STILL A PROPOSITION, IT IS NOT THE FORMALIZED DOC YET.**
 
-## Weekdays
 
-Rocket.Chat offers 24/7 coverage for our customers. To keep the operation running smoothly, we divide our team in 5 different shifts for weekdays \(Monday to Friday\), as below:
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:red;"><strong>Product Information</strong></mark></td><td>Customer Support Analysts should be knowledgeable about the company's product and be able to provide information to customers.</td><td>They should also extend assistance to customers with respect to any billing inquiries they may have.</td></tr><tr><td><mark style="color:red;"><strong>Troubleshooting</strong></mark></td><td><p>Customer Support Analysts should be able to help customers resolve issues they may encounter with our product. </p><p><br></p></td><td></td></tr><tr><td><mark style="color:red;"><strong>Customer Experience Continuous Improvement</strong></mark></td><td><p>Customer Support Analysts should strive to improve the overall customer experience by gathering feedback and providing suggestions for product improvements.</p><p><br></p></td><td></td></tr></tbody></table>
 
-| Shift  | Time \(UTC-3\) | Time \(UTC\) | Time \(UTC+3\) |
-| :--- | :--- | :--- | :--- |
-| A \(Europe Early Shift\) | 12 AM - 9 AM | 3 AM - 12 PM | 6 AM - 3 PM |
-| B \(Europe Mid Shift\) | 6 AM - 3 PM | 9 AM - 6 PM | 12 PM - 9 PM |
-| C \(Americas Day Shift\) | 9 AM - 6 PM | 12 PM - 9 PM | 3 PM - 12 AM |
-| D \(Americas Mid Shift\) | 1 PM - 10 PM | 4 PM - 1 AM | 7 PM - 4 AM |
-| E \(Americas Late Shift\) | 3 PM - 12 AM | 6 PM - 3 AM | 9 PM - 6 AM |
-
-## Weekends
-
-On weekends the support team works following the oncall regime. 
-
-| Shift  | Time \(UTC-3\) | Time \(UTC\) | Time \(UTC+3\) |
-| :--- | :--- | :--- | :--- |
-| Oncall A | 12 AM - 12 PM | 3 AM - 3 PM | 6 AM - 6 PM |
-| Oncall B | 12 PM - 12 AM | 3 PM - 3 AM | 6 PM - 6 AM |
-
-During the oncall the agent will be responsible for:
-
-* Meet all first touch SLAs \(Paid Support queue\)
-* Monitor the support hotline for incoming calls
-
-For the oncalls, we will have a specific channel \(rocketchat-oncall\) which will receive all notifications from Zoho Desk related to the SLA tickets on weekeds.
-
-**IMPORTANT: The shift schedule will be posted and saved on** [**Zoho People Shift Calendar tool**](https://people.zoho.com/rocketchat/zp#attendance/shiftmapping/calview)**.**
-
-## Holidays
-
-In the support team we will follow the holidays taking into consideration the agent's location. Minimum coverage per shift is mandatory \(24x7 regime\).
-
+\
