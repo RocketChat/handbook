@@ -16,4 +16,4 @@ Daily, we use different platforms and systems. Here you'll find a list of them a
   * **CRM**: It’s where we have the company's sales information.
   * **Campaigns**: Also for creating campaigns.
 
-Different areas or teams also use other specific platforms, and you will slowly get familiar with all of those too! Note that access to specific platforms regarding your area is under your direct manager's responsibility.&#x20;
+Different areas or teams also use other specific platforms, and you will slowly get familiar with all of those too! Note that access to specific platforms regarding your area is under your direct manager's responsibility by following [this procedure](https://handbook.rocket.chat/departments-operations/security/security-policy/access-control).
