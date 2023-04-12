@@ -94,7 +94,7 @@ The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/
 
 ## Data Classification & Lifecycle Policy
 
-Refer to [Data Classification and Management](security-policy/data-classification-and-management.md) Session
+Refer to [Data Classification and Management](security-policy/data-classification-and-management/) Session
 
 ## Physical Security, incl. Homeoffice
 

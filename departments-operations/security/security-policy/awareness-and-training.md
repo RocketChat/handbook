@@ -51,6 +51,6 @@ The tests may take the shape of a simulated phishing email, simulated SMS phishi
 
 In rocket.chat we use a phishing report integration from KnowBe4, called [Phish Alert Button](https://www.knowbe4.com/phish-alert). It is a orange hook add-on integrate with your corporate Gmail that is already pre-installed in every platform that you access your rocket.chat email.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Always use the integration to report suspected phishing email. If it a simulated email you will view a message congratulating your for finding out the simulated campaing. If it a potential real phishing email the email will be send to the security team for further analysis.

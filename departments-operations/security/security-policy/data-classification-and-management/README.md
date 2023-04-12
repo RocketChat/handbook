@@ -32,7 +32,7 @@ There are a variety of data types handled within the organization, such as perso
 
 ### Data Classification and Handling&#x20;
 
-#### For in-house and third-party applications 
+#### For in-house and third-party applications
 
 All data stored within our applications (in-house and third-party) shall be classified based on its sensitivity level.\
 
@@ -46,7 +46,9 @@ All data stored within our applications (in-house and third-party) shall be clas
 The handling requirements for each category consist of access controls to ensure that only authorized users can access and modify the data. Within the Asset Register, the control SPA and asset owner must be indicated and are responsible for granting access to the system or application in question and for reviewing access and privileges periodically.\
 
 
-#### User-developed data (Internal files and documents, email content, …) 
+For Google Docs, refer to [Google docs data classification](google-docs-data-classification.md) session
+
+#### User-developed data (Internal files and documents, email content, …)&#x20;
 
 As a Rocket.Chat employee or contractor, all data created, modified, received or otherwise processed in connection with Rocket.Chat, must be handled confidentially and protected according to the risk related to it. (Confidential Data). Your NDA includes more details on what is considered confidential and what not. We do not distinguish between various levels of confidentiality (like secret, top secret, super secret, ...).
 
@@ -64,6 +66,28 @@ In regards to handling and marking of data, unless stated otherwise, the creator
 
 Note: Other handling and marking methods depending on tools and systems you use may apply. When you work with specific tools and systems, these systems often come with their own classification schemes (e.g. GitHub Public vs Private Repositories) and mechanisms (access control lists, metadata, etc.). You should use these classification mechanisms in the spirit of this policy and the context of how you use the system.\
 
+
+### Documentation and Approval
+
+You can write and find documentation, procedures and guidelines in different sourcers across the organization, such as
+
+* **Gitbook**
+  * Rocket.Chat Handbook
+  * Internal Handbook
+  * Rocket.Chat Docs
+  * Rocket.Chat Developers
+* **Google Drive**
+  * Rocket.Chat - All Team
+  * Department owned shared drives
+  * Your personal Drive
+
+While the approval is automated requested while submitting changes to the gitbook, you need to ask for approval when using the Google Docs for documentation.
+
+You can do it by clicking on **File -> Approvals** and then **Make a request** on the tab opened.
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+If you don't want the file to be altered after sending the request, check the appropriate box. Remember that any change on the document will reset the approval and make it lost its integrity assurance.
 
 ### Deletion of data
 

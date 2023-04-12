@@ -40,7 +40,7 @@ When in the kick-off meeting with the new team member, you (Manager), and the as
   * Current priorities of the area (big issues, responsibilities, etc)
 * Align role and short-term expectations
 * Introduce the buddy to the new member&#x20;
-* **Present the tools and systems that are used in the department so the new rocketeer can request access by following** [**this procedure**](https://handbook.rocket.chat/departments-operations/security/security-policy/access-control).
+* **Present the tools and systems that are used in the department so the new rocketeer can request access by following** [this procedure.](https://handbook.rocket.chat/departments-operations/security/security-policy/access-control)
 
 &#x20;                                               [Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a leader's checklist to not miss a thing!
 
