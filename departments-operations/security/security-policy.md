@@ -63,7 +63,7 @@ The following are subpolicies related to specific areas and supplement the gener
 
 ## Organization
 
-We maintain a [RASCI-chart](https://drive.google.com/file/d/10oSnNvSqx5OObvXyIjrAkOZLNFEc6n6d/view?usp=sharing) that contains the responsibilities around information security. Conflicts of interest in these responsibilities must be avoided and tasks that create these conflicts be assigned to different persons. Where this is not possible, compensating controls (e.g. four-eyes principle) should be considered.
+We maintain a [RASCI-chart](https://docs.google.com/spreadsheets/d/1XHI3Ks2mywKaxK1lGteT7U5olNkaegyHrnsF7tBGjF4/edit?usp=sharing) that contains the responsibilities around information security. Conflicts of interest in these responsibilities must be avoided and tasks that create these conflicts be assigned to different persons. Where this is not possible, compensating controls (e.g. four-eyes principle) should be considered.
 
 Current conflicting roles identified:
 

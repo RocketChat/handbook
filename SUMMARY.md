@@ -61,6 +61,7 @@
         * [QA scope](departments-operations/research-and-development/engineering/quality-assurance/qa-process/qa-scope.md)
         * [QA Environments](departments-operations/research-and-development/engineering/quality-assurance/qa-process/qa-environments.md)
         * [QA Bug/Regression Severity](departments-operations/research-and-development/engineering/quality-assurance/qa-process/qa-bug-regression-severity.md)
+        * [Mobile Testing](departments-operations/research-and-development/engineering/quality-assurance/qa-process/mobile-testing.md)
       * [Technology](departments-operations/research-and-development/engineering/quality-assurance/technology/README.md)
         * [Endorsed testing tools](departments-operations/research-and-development/engineering/quality-assurance/technology/endorsed-testing-tools.md)
     * [Engineering Hiring Process](departments-operations/research-and-development/engineering/engineering-hiring-process.md)
