@@ -8,7 +8,15 @@ description: >-
 
 {% tabs %}
 {% tab title="2023" %}
+[Priyank Parmar](https://hackerone.com/priyank\_parmar)
 
+[Stefan Grönke (gronke)](https://hackerone.com/gronke?type=user)
+
+[Wojciech Kępka](https://hackerone.com/vv9k)[ (vv9k)](https://hackerone.com/vv9k)
+
+[Maik Stegemann (sectex)](https://hackerone.com/sectex)
+
+[Rojan Rijal (rijalrojan)](https://hackerone.com/rijalrojan)
 {% endtab %}
 
 {% tab title="2022" %}
@@ -197,6 +205,10 @@ Jeandre Le Roux
 [Matt Austin](http://m-austin.com)
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
