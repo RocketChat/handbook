@@ -48,7 +48,7 @@ The People Team is responsible for:
 * [ ] Collect with the Intern all the documents necessary for filling
 * [ ] Collect with the Manager all the information described under the session “Manager”.&#x20;
 * [ ] Fill in all the contracts and documents
-* [ ] Forward all documents to the internal signature on Zoho Sign
+* [ ] Forward all documents to internal signatures on Zoho Sign
 * [ ] Be the liaison between the University and Rocket.Chat
 
 Will all the documents in hand, the People Team must forward the final version of the ICT with all signatures to the Finance Team - patricia.ferreira@rocket.chat - to complete the admission or renewal process.
