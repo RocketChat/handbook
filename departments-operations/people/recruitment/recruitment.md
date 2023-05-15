@@ -14,7 +14,7 @@ Our recruitment process has essentially the following steps:
 
 **Important Information**
 
-* Positions for teams such as Engineering and Product also include a Technical Challenge after the People Interview.&#x20;
+* Positions may also include a technical challenge after the People Interview.&#x20;
 * Occasionally, the Hiring Manager and Executive interviews are done together to keep the agility of the process.
 
-All of these steps are managed through **Greenhouse,** our ATS and where all involved interviewers, leaders and recruiters can collaborate during the selection process.
+All of these steps are managed through **Greenhouse,** our ATS, and where all involved interviewers, leaders and recruiters can collaborate during the selection process.
