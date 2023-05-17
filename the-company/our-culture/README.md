@@ -2,7 +2,7 @@
 description: Meet our Culture Code and our DOTS!
 ---
 
-# Our Culture
+# 🤗 Our Culture
 
 Being a Rocketeer is about understanding and living our culture on an everyday basis! So you must meet what it is all about since the 1st Day!
 

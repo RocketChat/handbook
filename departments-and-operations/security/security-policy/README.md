@@ -88,13 +88,13 @@ The details of these processes are implemented and the records kept by the Human
 
 An asset is something of value for Rocket.Chat such as, but not limited to, information itself, a device, intellectual property.
 
-[This policy](security-policy/assets-management.md) cover important security aspects and guidelines that help rocketeers to protect and avoid any misuse of company owned assets.
+[This policy](assets-management.md) cover important security aspects and guidelines that help rocketeers to protect and avoid any misuse of company owned assets.
 
 The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/1Nh8T3FP7QGR35jAdbd9j6HQnnirQDNcnC7X9Dg-Kdvo/edit?usp=sharing)
 
 ## Data Classification & Lifecycle Policy
 
-Refer to [Data Classification and Management](security-policy/data-classification-and-management/) Session
+Refer to [Data Classification and Management](data-classification-and-management/) Session
 
 ## Physical Security, incl. Homeoffice
 
@@ -105,7 +105,7 @@ Refer to [Data Classification and Management](security-policy/data-classificatio
 
 ### Homeoffice / Remote Work
 
-Refer to [Remote work policy](security-policy/remote-work.md)
+Refer to [Remote work policy](remote-work.md)
 
 ## Cryptography and Key management
 
@@ -113,13 +113,13 @@ Cryptography is the practice of securing information by transforming it into an 
 
 Key management is the practice of protecting and managing the cryptographic keys used in encryption and decryption. It involves generating, storing, exchanging, and revoking keys to ensure that the encryption and decryption process remains secure. Proper key management is essential for maintaining the confidentiality, integrity, and availability of information that is encrypted using cryptographic algorithms. Key management also includes ensuring the authenticity of the keys, so that the right person or entity can access the encrypted information.
 
-For detailed information and guidelines refer to [Cryptography and Key management](security-policy/cryptography-and-key-management.md) session
+For detailed information and guidelines refer to [Cryptography and Key management](cryptography-and-key-management.md) session
 
 ## Authentication and Password Policy
 
 Authentication is the process of verifying the identity of a user or system entity. It is a security mechanism that helps to ensure that only authorized individuals or systems are granted access to a particular resource, such as a system, network, or application.
 
-Here you can find our detailed [Authentication](security-policy/authentication-and-password-policies.md#authentication) and [Password policy](security-policy/authentication-and-password-policies.md#password-policy)
+Here you can find our detailed [Authentication](authentication-and-password-policies.md#authentication) and [Password policy](authentication-and-password-policies.md#password-policy)
 
 ## Secure Development & Change Management
 
@@ -164,7 +164,7 @@ The Rocket.Chat's incident response plan is an internal Document that can be fou
 
 ## Business Continuity and Disaster Recovery
 
-Refer to [Business Continuity and Disaster Recovery](security-policy/business-continuity-and-disaster-recovery.md)
+Refer to [Business Continuity and Disaster Recovery](business-continuity-and-disaster-recovery.md)
 
 ## Procurement
 
@@ -184,4 +184,4 @@ The Information Security Team will audit the design and implementation of these 
 
 ## Security Awareness and Training
 
-Please refer to [Awareness and Training session](security-policy/awareness-and-training.md)
+Please refer to [Awareness and Training session](awareness-and-training.md)

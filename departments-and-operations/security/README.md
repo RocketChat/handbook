@@ -1,4 +1,4 @@
-# Security
+# 🔐 Security
 
 ### Purpose
 
@@ -45,7 +45,7 @@ Public
 
 ## Policies
 
-See [Security Policies](security-policy.md)
+See [Security Policies](security-policy/)
 
 ## Playbooks
 
