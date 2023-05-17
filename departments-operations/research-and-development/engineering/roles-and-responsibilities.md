@@ -39,7 +39,7 @@ Rocket.Chat's Site Reliability Engineers are continuously ensuring that rocket.c
 Responsibilities:&#x20;
 
 * Preventive maintenance of our environments
-* Monitoring of logs, metrics and le
+* Monitoring of logs and metrics
 * Work with the product and engineering team on different initiatives.
 * Identify blockers on processes or software.
 * Continuous work towards Infrastructure as a code and scaling our solutions.&#x20;
