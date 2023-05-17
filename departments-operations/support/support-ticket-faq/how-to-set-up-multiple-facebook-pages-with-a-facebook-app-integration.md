@@ -13,7 +13,7 @@ To have conversations routed to the same workspace from multiple pages through t
 
 \
 2\. Edit settings:\
-<img src="../../../.gitbook/assets/image (27) (3).png" alt="" data-size="original">\
+<img src="../../../.gitbook/assets/image (27).png" alt="" data-size="original">\
 \
 3\. Make sure to select all needed pages:
 

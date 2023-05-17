@@ -30,17 +30,17 @@ Normally, both the Experimental App and the Official App should be tested from h
 
 Below, there's a common CI workflow that has both iOS and Android Experimental builds ready for testing.
 
-<figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>An example of a CircleCI Workflow</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>An example of a CircleCI Workflow</p></figcaption></figure>
 
 To find and confirm the iOS experimental build that the tester needs to install on their device, click on _**ios-build-experimental**_.
 
 On this new screen, you may see the number of the build on the breadcrumbs on the top of the page like so:
 
-<figure><img src="../../../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>An arrow points to the number 25575</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>An arrow points to the number 25575</p></figcaption></figure>
 
 {% hint style="info" %}
 **Pro Tip:** You may see the number through the url preview that appears at the bottom of your browser while _hovering_ the _**ios-build-experimental**_ button.\
-<img src="../../../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 {% endhint %}
 
 The tester may use this number to find the specific build on TestFlight by tapping on the app and going to _Previous Builds_, If necessary.
@@ -49,7 +49,7 @@ The tester may use this number to find the specific build on TestFlight by tappi
 
 Once Installed, the tester may confirm the version number in a couple of places inside the app, before and after logging in.
 
-![](<../../../../../.gitbook/assets/image (15) (1).png>)![](<../../../../../.gitbook/assets/image (27).png>)
+![](<../../../../../.gitbook/assets/image (15) (1).png>)![](<../../../../../.gitbook/assets/image (27) (3).png>)
 {% endtab %}
 
 {% tab title="Android" %}
@@ -75,7 +75,7 @@ The simplest way to obtain the link to the uploaded AAB to internal App Sharing 
 
 Below, there's a common CI workflow that has both iOS and Android Experimental builds ready for testing.
 
-<figure><img src="../../../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>An example of a CircleCI Workflow</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>An example of a CircleCI Workflow</p></figcaption></figure>
 
 To find and confirm the Android experimental build that the tester needs to install on their device, click on _**android-internal-app-sharing-experimental.**_
 
@@ -93,11 +93,11 @@ To make it easier and faster, a QR Code generator could be used. [Like this one.
 
 On the same CircleCI workflow, click on _**android-build-experiemental**_ and check the number at the top of the page.
 
-<figure><img src="../../../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once Installed, the tester may confirm the version number in a couple of places inside the app, before and after logging in.
 
-![](<../../../../../.gitbook/assets/image (6).png>)![](<../../../../../.gitbook/assets/image (27).png>)
+![](<../../../../../.gitbook/assets/image (6) (1).png>)![](<../../../../../.gitbook/assets/image (27) (3).png>)
 {% endtab %}
 {% endtabs %}
 
