@@ -1,4 +1,0 @@
-# Endorsed testing tools
-
-WIP
-
