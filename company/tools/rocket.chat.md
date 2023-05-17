@@ -30,7 +30,7 @@ Audios are not searchable. Ensure that when you use audio, it's short and given 
 
 The DMs with multiple users are by design forever limited to the original members. You will never be able to add or remove any member to the conversation, even if they leave the company. This type of channel was designed for personal conversations with a defined and limited audience. If you are going to discuss any nonpersonal topic, please consider creating a channel or a discussion.
 
-### Keep People Ipdated
+### Keep People Updated
 
 When you ask someone to help you with something, but this person takes too long to answer, and you end up finding a solution somewhere else, let them know. Often the person didn't answer right away and will try to find the solution before telling you they are looking for one to give you a complete answer (and an asynchronous one). As a gratitude token towards them possibly finding a solution, let them know they don't need to worry about it anymore.
 
