@@ -49,7 +49,7 @@ The tester may use this number to find the specific build on TestFlight by tappi
 
 Once Installed, the tester may confirm the version number in a couple of places inside the app, before and after logging in.
 
-![](<../../../../../.gitbook/assets/image (15).png>)![](<../../../../../.gitbook/assets/image (27).png>)
+![](<../../../../../.gitbook/assets/image (15) (1).png>)![](<../../../../../.gitbook/assets/image (27).png>)
 {% endtab %}
 
 {% tab title="Android" %}

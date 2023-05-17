@@ -85,7 +85,7 @@ While the approval is automated requested while submitting changes to the gitboo
 
 You can do it by clicking on **File -> Approvals** and then **Make a request** on the tab opened.
 
-<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you don't want the file to be altered after sending the request, check the appropriate box. Remember that any change on the document will reset the approval and make it lost its integrity assurance.
 

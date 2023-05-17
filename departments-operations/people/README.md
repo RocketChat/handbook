@@ -1,4 +1,4 @@
-# People Experience
+# 🫂 People Experience
 
 Becoming a Rocketeer brings the responsibility of practising our values every day, taking care of the company and our internal and external clients, and believing in and trusting our team and our purpose.
 

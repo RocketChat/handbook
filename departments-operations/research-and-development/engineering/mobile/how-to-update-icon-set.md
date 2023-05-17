@@ -44,7 +44,7 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 * Click `Configure` (gear icon) on the right side of `Download`
 * Change the `Font Name` to `custom`
 
-![Configure screen](<../../../../.gitbook/assets/image (26) (1).png>)
+![Configure screen](<../../../../.gitbook/assets/image (26) (1) (1).png>)
 
 * Close this modal and click `Download`&#x20;
 * It should have generated a `.zip` file with the following content

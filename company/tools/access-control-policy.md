@@ -1,6 +1,6 @@
 # Access Control Policy
 
-On this page, you can find the process description of the opening, changes and removal of access to all systems used in Rocket.Chat, along with area or role-specific platforms, the permission level rules and the department responsible for each system.&#x20;
+On this page you can find the process description of the opening, changes and removal of access to all systems used in Rocket.Chat, along with area or role specific platforms, the permission level rules and department responsible for each system.&#x20;
 
 A periodic review of privileges and accesses must be performed by each area responsible for the system.
 

@@ -8,11 +8,9 @@ During your journey as a Rocketeer you will have different questions about diffe
 |       Design       |     @ivan.netto     |
 |       Finance      |     @debora.coy     |
 |      Marketing     |      @bruno.bin     |
-|        Sales       |   @leandro.coletti  |
 |     Operations     |     @alan.wright    |
 |      Security      |    @bruno.cestari   |
 |       Support      |   @amanda.oliveira  |
-|       People       |  @carolina.cyrelli  |
 | Talent Acquisition |    @analopes.grun   |
 |     Engineering    | @rodrigo.nascimento |
 |       Product      |   @vinicius.marino  |
