@@ -2,7 +2,7 @@
 description: >-
   Purpose: Ensure that data is classified and handled appropriately and securely
   throughout its lifecycle, reducing the risk of data breaches, protecting
-  sensitive data, and ensuring compliance with reg
+  sensitive data, and ensuring compliance.
 ---
 
 # Data Classification and Management
@@ -19,13 +19,17 @@ Note: Your private opinion, e.g. what you share on social media under your perso
 
 ### Types of data handled within our organization 
 
-There are a variety of data types handled within the organization, such as personal data, financial data, intellectual property, confidential data, etc. and for each system or repository within our [Asset Register](https://docs.google.com/spreadsheets/d/1Fmei\_-OGpXvUwsHzd8K87ke-CgCLOGpzerrPEQo9e0Q), data must be identified and classified according to the following types:&#x20;
+There are a variety of data types handled within Rocket.Chat, such as personal data, financial data, intellectual property, confidential data, etc. and for each system or repository within our [Asset Register](https://docs.google.com/spreadsheets/d/1Fmei\_-OGpXvUwsHzd8K87ke-CgCLOGpzerrPEQo9e0Q), data must be identified and classified according to the following types:&#x20;
 
 * Open data: same as public. Contain data that can be seen by anyone.&#x20;
-* Financial: contains monetary data (invoices, paychecks, reports,...)
-* Customer - Personal data (PII, PHI, user credentials,...)
-* Rocket.Chat - Personal data (employees or contractors data, PII, PHI, benefits, salary,...)&#x20;
-* Operational data: contains information related to an organization's operational processes, system configurations, or IT infrastructure.
+* Customer - Personal data (PII , PHI, credentials...)
+* Employee data -Personal data: refers to employees or contractors data (PII, PHI, benefits, salary,...)
+* Financial: contain monetary data (invoices, paychecks, reports, billing information, account details,...)
+* Legal data: this includes contracts, agreements and and other legal documents.
+* Intellectual property data: contain patents, trademarks, copyrights and other forms of intellectual property.
+* Sales and marketing data: contain customer demographics, purchase history, website traffic and social media engagement.
+* Operational data: contain information related to an organization's operational processes, system configurations, supply chain management, production.
+* IT and system data: contains system logs, user activity and cybersecurity data and IT infrastructure
 * Other - cases that do not fall into none of the above categories.&#x20;
 
 
@@ -48,13 +52,13 @@ The handling requirements for each category consist of access controls to ensure
 
 For Google Docs, refer to [Google docs data classification](google-docs-data-classification.md) session
 
+####
+
 #### User-developed data (Internal files and documents, email content, …)&#x20;
 
 As a Rocket.Chat employee or contractor, all data created, modified, received or otherwise processed in connection with Rocket.Chat, must be handled confidentially and protected according to the risk related to it. (Confidential Data). Your NDA includes more details on what is considered confidential and what not. We do not distinguish between various levels of confidentiality (like secret, top secret, super secret, ...).
 
 An exception to confidentiality of data applies when the data in question is specifically targeted at a broader audience outside the organization (e.g. blog posts, webinars, public source code). This data is classified as "public". (Public Data).
-
-
 
 In regards to handling and marking of data, unless stated otherwise, the creator of data is considered its owner and has to ensure the provisions of this policy are followed. Our general policy is that access to data is denied by default within the company, unless the owner has authorized access to it (e.g. to an individual, to a role or to a group of individuals). This granting or changing of access must be logged and the access control lists regularly reviewed by the owner. This also means we follow the principle of discretionary access control, meaning that owners of data grant access to this data by themselves.\
 
@@ -66,6 +70,8 @@ In regards to handling and marking of data, unless stated otherwise, the creator
 
 Note: Other handling and marking methods depending on tools and systems you use may apply. When you work with specific tools and systems, these systems often come with their own classification schemes (e.g. GitHub Public vs Private Repositories) and mechanisms (access control lists, metadata, etc.). You should use these classification mechanisms in the spirit of this policy and the context of how you use the system.\
 
+
+Please keep in mind that Data minimization is a critical component of our data management policy. We strive to collect and share only the minimum amount of data necessary to achieve our business objectives. We encourage all employees and stakeholders to exercise caution when sharing data and to consider the need for and appropriateness of data sharing before doing so.
 
 ### Documentation and Approval
 
@@ -85,14 +91,15 @@ While the approval is automated requested while submitting changes to the gitboo
 
 You can do it by clicking on **File -> Approvals** and then **Make a request** on the tab opened.
 
-<figure><img src="../../../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 If you don't want the file to be altered after sending the request, check the appropriate box. Remember that any change on the document will reset the approval and make it lost its integrity assurance.
 
 ### Deletion of data
 
-Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. for legal reasons).&#x20;
+Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. due to legal or regulatory requirements) - In such cases, we will ensure that appropriate measures are taken to secure the data and minimize the risk of harm to individuals. If you have any questions or concerns about the sharing of data, please send a request to privacy@rocket.chat for review and guidance.
 
+\
 Use secure methods for deleting data, e.g.[ DBAN](https://dban.org/) .Contact the security team in case you are in doubt of deleting data.&#x20;
 
 Wiping of customer data and sanitization of assets must follow defined procedures. For laptops, the sanitization shall be done upon return of the asset to the company. For servers, contact the infrastructure team for information on how the process is conducted.&#x20;
@@ -100,5 +107,12 @@ Wiping of customer data and sanitization of assets must follow defined procedure
 In regards to data stored within third-party organizations, those shall also have appropriate data classification and handling policies in place to protect the data. &#x20;
 
 Public data generally does not need to be deleted since the risk associated with it is low and our external audience often expects this data to be available (e.g. in our public source code repositories).
+
+
+
+\
+
+
+
 
 \

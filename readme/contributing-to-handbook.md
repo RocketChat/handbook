@@ -24,11 +24,11 @@ Then click the blue "Edit" button at the top-right portion of your screen.
 
 If you want to edit the current text, click it and edit in place. You'll see a menu at the right of your editing text that allows you to format the text.
 
-![](<../.gitbook/assets/image (26) (2).png>)
+![](<../.gitbook/assets/image (26) (2) (1).png>)
 
 By hovering your mouse in between lines, you can insert a new paragraph by clicking the plus sign that shows up.
 
-![](<../.gitbook/assets/image (27) (2).png>)
+![](<../.gitbook/assets/image (27) (2) (1).png>)
 
 To upload images, just copy and paste them into the text.
 

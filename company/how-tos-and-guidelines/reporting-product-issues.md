@@ -21,6 +21,6 @@ To report an issue:
 
 &#x20;3-Give a good title to your issue and fill in the form from github.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (2).png>)
 
 4-When you are done, please click on the “Submit new issue” button.
