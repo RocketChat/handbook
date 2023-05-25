@@ -1,17 +1,17 @@
 # Security Policy
 
-Page 1We have created a general information security policy and specific policies for related topics and are working to put them in place. These policies are necessary to set up secure processes and demonstrate our compliance with industry standards towards our customers. You can also find the annual acknowledgment forms here.
+We have created a general information security policy and specific policies for related topics and are working to put them in place. These policies are necessary to set up secure processes and demonstrate our compliance with industry standards towards our customers. You can also find the annual acknowledgment forms here.
 
 In case of any questions, contact the security team. More information on [this page](https://rocket.chat/handbook/departments/security/)
 
-Do you want a short summary? You can find a [security one pager here!](https://docs.google.com/document/d/1ZiyPRgAJMwKZAkdGDL36npEBFJYfCDqaX4-ZOef3P90/edit?usp=sharing)
+Do you want a short summary? You can find a [security one-pager here!](https://docs.google.com/document/d/1ZiyPRgAJMwKZAkdGDL36npEBFJYfCDqaX4-ZOef3P90/edit?usp=sharing)
 
 ## Mandatory Acknowledgment & Secure Configuration
 
-Because we all must follow our security policies, we have set up GoogleForms that you can fill out and submit. Use the following 3 checklists to set yourself up securely:
+Because we all must follow our security policies, we have set up GoogleForms that you can fill out and submit. Use the following three checklists to set yourself up securely:
 
-* [Policy Acknowledgment](https://docs.google.com/forms/d/e/1FAIpQLSe5NwjKNXQl9gQPhgF93iB2clFPY2tiYVIE3PKEL\_ZaswTkkw/viewform?usp=sf\_link), an acknowledgment for our current policies. Mandatory to complete annually by all employees
-* [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link), a checklist to set up a basic secure configuration of your tools. Mandatory to complete annually by all employees.
+* [Policy Acknowledgment](https://docs.google.com/forms/d/e/1FAIpQLSe5NwjKNXQl9gQPhgF93iB2clFPY2tiYVIE3PKEL\_ZaswTkkw/viewform?usp=sf\_link), an acknowledgment of our current policies. Mandatory to complete annually by all employees
+* [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) a checklist to set up a basic secure configuration of your tools. Mandatory to complete annually by all employees.
 
 ## Overall Security Policy
 
@@ -19,21 +19,21 @@ Overall Management intention on security and baseline for our security managemen
 
 ### Purpose
 
-Rocket.Chat places a great emphasis on protecting its information. Such information includes e.g. information we manage on behalf of our customers, personnel files, our intellectual property.
+Rocket.Chat places a great emphasis on protecting its information. Such information includes e.g. information we manage on behalf of our customers, personnel files, and our intellectual property.
 
-At Rocket.Chat, we aim to ensure at all times that information we manage is appropriately secured to protect against the consequences of breaches of confidentiality, failures of integrity or interruptions to the availability of that information.
+At Rocket.Chat, we aim to ensure at all times that the information we manage is appropriately secured to protect against the consequences of breaches of confidentiality, failures of integrity or interruptions to the availability of that information.
 
 Our objectives are:
 
-* We will meet all applicable requirements in properly protecting our information, including: laws, regulations, industry standards and contractual commitments
-* The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against the cost of controls, the impact of the controls on the effectiveness of business operations and the risks against confidentiality, integrity and availability of the information
-* We will ensure that these controls are accepted by all employees, vendors, service providers, representatives and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets
+* We will meet all applicable requirements in properly protecting our information, including laws, regulations, industry standards, and contractual commitments
+* The protections we apply to information assets will be in proportion to the value and sensitivity of the information, and will balance the sensitivity of the information against the cost of controls, the impact of the controls on the effectiveness of business operations, and the risks against confidentiality, integrity and availability of the information
+* We will ensure that these controls are accepted by all employees, vendors, service providers, representatives, and associates of our company who may have access to our information. This includes ensuring that all personnel at all levels are aware of, and are held accountable for safeguarding information assets.
 * We will identify and mitigate any breaches to this policy.
-* We aim to continually improve our security practices over time.
+* We aim to improve our security practices over time continually.
 
 ### Applicability and Ratification
 
-This information security policy provides management direction and support for information security across the organisation. Specific, subsidiary information security policies, procedures and guidelines are considered an integral part of this information security policy, because only when followed in its entirety, we can ensure the objectives of this policy are met. This policy has been ratified by Rocket.Chat´s management team and forms part of its policies and procedures. It is applicable to and will be communicated to our staff, contractors, students and other relevant parties.
+This information security policy provides management direction and support for information security across the organization. Specific, subsidiary information security policies, procedures and guidelines are considered an integral part of this information security policy, because only when followed in its entirety, we can ensure the objectives of this policy are met. This policy has been ratified by Rocket.Chat´s management team and forms part of its policies and procedures. It is applicable to and will be communicated to our staff, contractors, students and other relevant parties.
 
 ### Responsibilities
 
@@ -45,11 +45,11 @@ To manage information security within the organisation an information security o
 
 An information security working party, comprising management representatives from all relevant parts of the organisation, shall devise and coordinate the implementation of information security controls. The responsibility for ensuring the protection of information systems and ensuring that specific security processes are carried out shall lie with the head of the department managing that information system.
 
-Specialist advice on information security is available throughout the organisation. Any member of the organization can contact his manager or directly Rocket.Chat´s Security Lead.
+Specialist advice on information security is available throughout the organization. Any member of the organization can contact his manager or Rocket.Chat´s Security Lead directly.
 
-Rocket.Chat will establish and maintain appropriate contacts with other organisations, law enforcement authorities, regulatory bodies, and network and telecommunications operators.
+Rocket.Chat will establish and maintain appropriate contacts with other organizations, law enforcement authorities, regulatory bodies, and network and telecommunications operators.
 
-Violations of our policies will be handled in accordance with the severity of the violation and applicable rules and regulations, including up to termination of contract for severe violations.
+Violations of our policies will be handled in accordance with the severity of the violation and applicable rules and regulations, including up to termination of the contract for severe violations.
 
 ### Review
 
@@ -59,7 +59,7 @@ The implementation of the information security policy shall be reviewed independ
 
 ## Security Special Policies
 
-The following are subpolicies related to specific areas and supplement the general policy.
+The following are sub-policies related to specific areas and supplement the general policy.
 
 ## Organization
 

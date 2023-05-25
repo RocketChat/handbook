@@ -189,7 +189,7 @@
     * [Tasks & Project Management](departments-operations/security/playbooks/tasks-and-project-management.md)
     * [Code Analysis](departments-operations/security/playbooks/code-analysis.md)
   * [WhiteHat Hall-of-Fame](departments-operations/security/whitehat-hall-of-fame.md)
-* [Support](departments-operations/support/README.md)
+* [🆘 Support](departments-operations/support/README.md)
   * [Responsibilities](departments-operations/support/working-shifts.md)
   * [Tiered Structure](departments-operations/support/tiered-structure.md)
   * [Supported Environment and Versions](departments-operations/support/supported-environment-and-versions.md)
