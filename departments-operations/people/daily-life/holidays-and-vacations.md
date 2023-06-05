@@ -2,7 +2,7 @@
 
 ## Holidays
 
-We have a set list of National Holidays on Zoho People, these holidays are used to send the Zorro app notifications on our #important channel.\
+We have a set list of National Holidays on Zoho People, these holidays are used to send the Zoho app notifications on our #important channel.\
 In [here](https://people.zoho.com/rocketchat/zp#leavetracker/holiday/list) you can check the full list. If you have a Regional Holiday coming up and it is **not on the list**, please follow these steps:
 
 1. Send the People team the following information about the Holiday: **Name, Date, To which locations it applies.**
@@ -15,6 +15,13 @@ In [here](https://people.zoho.com/rocketchat/zp#leavetracker/holiday/list) you c
 ## Vacations
 
 We advise all Rocketeers, no matter where you live, to take at least 20 days of vacation a year (apart from PTO). This is important for you to have some cool down time and to maintain a healthy relationship with work. In the case of Brazilian Rocketeers, you respond to the CLT vacation rules and you should ask for the days off at least **30 days in advance**.&#x20;
+
+> **CLT Vacations Rules:**
+>
+> * It is not possible to take leave before completing one year of employment;
+> * After one year, you have the right to 30 days of vacations, which can be divided in as many parts as you want, as long as one has at least 14 days and the other at least 5;
+> * It's possible to sell 10 days of vacations instead of taking them;
+> * It's not possible to start vacations on Fridays or two days before Sundays and public holidays.
 
 On none of these cases we'll be able to "block" your calendar in advance, so we strongly advise you to block these days in your Google Calendar a while before to prevent people from scheduling any meetings on these special days!
 
