@@ -10,7 +10,7 @@ The team aims to guarantee the Financial Health of the company, through the main
 
 ### Members and functions:
 
-* [Suely Morales](https://open.rocket.chat/direct/suely.morales): VP of Finance
+* [Alan Wright](https://open.rocket.chat/direct/alan.wright): VP of Finance (Interim)
 * [Débora Coy](https://open.rocket.chat/direct/debora.coy): FP\&A Lead
 * [Patricia Ferreira](https://open.rocket.chat/direct/patricia.ferreira): Administrative Manager
 * [Gustavo Fogia](https://open.rocket.chat/direct/gustavo.fogia): Junior Financial Specialist

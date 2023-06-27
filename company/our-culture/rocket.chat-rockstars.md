@@ -45,7 +45,7 @@ Simply go to your Zoho People profile in order to see your Koko Points balance! 
 
 ### How do I switch my stars for items?
 
-When you want to trade your star for a Rocket.Chat swag, follow the same path as you did before when requesting it inside Zoho People, but this time you'll select Debit. Follow these steps:
+When you want to trade your star for a Rocket.Chat swag, follow the same path as you did before (Zoho People > Compensation > RockStars) when requesting it inside Zoho People, but this time you'll select Debit. Follow these steps:
 
 1. Select **Debit**, the item you want, and fill out the points field with how much it costs. Remember to always check your star balance before requesting the item to make sure you have enough to get it!
 2. Then you just have to wait for an Avenger to approve your item request, and once we fulfill the order, your new Rocketeer swag is on its way to you! (It may take a while to reach you since they ship it overseas. If your country's postal service usually tends to stop any foreign order, you can request and add a note that you'll want to retrieve your item during our next Summit we'll make sure it gets to you then).
