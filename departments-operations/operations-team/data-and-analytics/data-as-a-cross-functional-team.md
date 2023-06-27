@@ -21,7 +21,7 @@ For a couple of months, the Data team was responsible for managing and updating 
 
 We still get most of our KPIs from the spreadsheet, they are all located in the tabs Unit Economics, Unit SaaS, and Unit Self. It's still our responsibility to maintain these three tabs and come up with visualizations (available in a [Data Studio report](https://datastudio.google.com/u/0/reporting/1WcfrsaG9Mf0-en8R00p0U53pq72pSYMm/page/8ioz)).
 
-Point of Contact: [Kaique Silva](http://open.rocket.chat/direct/kaique.silva) (to check for missing invoices) and [Suely Morales](https://open.rocket.chat/direct/suely.morales)
+Point of Contact: [Kaique Silva](http://open.rocket.chat/direct/kaique.silva) (to check for missing invoices) and [Alan Wright](https://open.rocket.chat/direct/alan.wright)
 
 ### Marketing
 

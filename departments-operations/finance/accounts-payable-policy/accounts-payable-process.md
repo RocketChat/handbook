@@ -33,7 +33,7 @@ In addition to the invoice payment process, which is our primary accounts payabl
 
 If all requirements to use Corporate credit, as mentioned above, have been met:
 
-* You should send an e-mail to the **VP of Finance -** [**Suely Morales Zinezi**](mailto:suely.morales@rocket.chat), requesting the issuance of a virtual card including: a) the purpose of the purchase, b) the amount involved, c) name of the supplier and d) the approval of your Department Head.
+* You should send an e-mail to the **VP of Finance (Interim) -** [Alan Wright](https://open.rocket.chat/direct/alan.wright), requesting the issuance of a virtual card including: a) the purpose of the purchase, b) the amount involved, c) name of the supplier and d) the approval of your Department Head.
 * You will receive the virtual card number and the card's security code, as well as being informed of the validity period of the card. It is important that the purchase be made as soon as you receive the card data, so that the expiration date is not lost.
 * You should send to [accounts.payable@rocket.chat](mailto:accounts.payable@rocket.chat) the receipts of the transaction.
 * **For Applications and Software Purchases only:**
