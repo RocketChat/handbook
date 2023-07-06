@@ -23,7 +23,11 @@ We advise all Rocketeers, no matter where you live, to take at least 20 days of 
 > * It's possible to sell 10 days of vacations instead of taking them;
 > * It's not possible to start vacations on Fridays or two days before Sundays and public holidays.
 
-On none of these cases we'll be able to "block" your calendar in advance, so we strongly advise you to block these days in your Google Calendar a while before to prevent people from scheduling any meetings on these special days!
+In none of these cases, we'll be able to "block" your calendar in advance, so we strongly advise you to block these days in your Google Calendar a while before to prevent people from scheduling any meetings on these special days!&#x20;
+
+If you prefer, you can also check the rules for Brazilian employees' vacations by watching this short video:
+
+{% embed url="https://drive.google.com/file/d/1-pw8dV7CrQr4-LPlgXzbD13CGKkEx6-6/view?usp=sharing" %}
 
 ## Maternity and Paternity leaves
 
