@@ -12,4 +12,3 @@ The purpose of this policy is to **provide clear policies and procedures that pr
 
 This process aims to optimize the provisioning of the company's cash flow. We also want to make booking easier for all parties and ensure the traveller's safety.
 
-***

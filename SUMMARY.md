@@ -31,7 +31,7 @@
 * [🏗 Research & Development](departments-and-operations/research-and-development/README.md)
   * [Release Cycle](departments-operations/research-and-development/release-cycle.md)
   * [Product](departments-operations/research-and-development/product/README.md)
-    * [Technical Writing](departments-operations/research-and-development/product/technical-writing.md)
+    * [Technical Documentation Guidelines](departments-and-operations/research-and-development/product/technical-documentation-guidelines.md)
   * [Engineering](departments-operations/research-and-development/engineering/README.md)
     * [Engineering Important Definitions](departments-operations/research-and-development/engineering/engineering-important-definitions.md)
     * [Roles and Responsibilities](departments-operations/research-and-development/engineering/roles-and-responsibilities.md)

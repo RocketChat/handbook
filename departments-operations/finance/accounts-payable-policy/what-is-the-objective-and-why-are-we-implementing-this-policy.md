@@ -12,4 +12,3 @@ This policy establishes new protocols to manage how the company procures or purc
 
 This process aims to optimize the provisioning of the company's cash flow. We manage cash availability globally and we process all payments in Brazil for all Rocket.Chat Entities; it is very important to have proper visibility of the accounts payable and better management of the Company’s cash flow, as well as optimize the treasury daily routines.
 
-***

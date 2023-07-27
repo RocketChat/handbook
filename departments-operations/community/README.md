@@ -2,7 +2,7 @@
 description: The Rocket.Chat Community Team
 ---
 
-# Community
+# 🫂 Community
 
 A large global open source community, vibrant and engaged, is at the very heart of Rocket.Chat's product-led-growth business strategy. It is the mission of the Community Team to nurture, build, engage and grow this community.
 

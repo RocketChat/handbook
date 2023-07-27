@@ -39,4 +39,3 @@ Pitch: Centralize Your Communication and boost your company productivity by brin
 
 Pitch 2: Security starts by downsizing the number of tools you use. Improve your team’s productivity by 30% with the best cost-benefit communication platform for the enterprise market. Omnichannel engagement, Team collaboration and DevOps in one flexible and compliant tool, GDPR, HIPAA, CCPA, your data is secure. Seamless adaptation to all company sizes with unlimited integration with other daily tools. Centralize your communication and join millions of Rocket.Chat users worldwide.
 
-***

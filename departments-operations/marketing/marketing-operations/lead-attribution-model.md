@@ -49,14 +49,14 @@ Location in Hubspot: CONTACT MODULE
 
     Automation: Every time the lifecycle status change to MQL, a task is assigned to the owner of that Lead in Zoho\\
 
-    ***
+
 * **SQL:**\
   \*\*\*\*Responsible: Sales\
   Description: Someone qualified by SDRs through Email or Phone.\
   Identification:
   *   Deal Stage is Pre-Pipe\\
 
-      ***
+
 *   **OPP:**\
     \*\*\*\*Responsible: Sales\
     Description:Salesperson “Closer” is in touch with the contact developing business opportunities.\
@@ -64,7 +64,7 @@ Location in Hubspot: CONTACT MODULE
 
     * Deal Stage isn’t Pre-Pipe or Closed Won
 
-    ***
+
 * **CLIENT:**\
   \*\*\*\*Responsible: Sales\
   Description: Have become a customer.\
