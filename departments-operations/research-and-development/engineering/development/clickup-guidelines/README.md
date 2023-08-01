@@ -1,19 +1,16 @@
 ---
 description: >-
-  We use Clickup as our main work-tracking tool. It gives us good visibility on
-  the things everyone's working on and also to keep track of important
-  conversations
+  We use Jira as our main work-tracking tool. It gives us good visibility on the
+  things everyone's working on and also to keep track of important conversations
 ---
 
-# ClickUp Guidelines
-
-## Backend
+# General Guidelines
 
 Each task will start in `TO DO`. That means no one is actively working on it. You can take any task from this list that's not currently assigned to someone.
 
 As soon as you get something to work on, you should change the task's status to `IN PROGRESS`.
 
-If, during your development, you find something that you cannot workaround or you have an important question, you should update the status to `BLOCKED`.
+If, during your development, you find something that you cannot workaround or you have an important question, you should add a label `BLOCKED`.
 
 * When doing this, remember to **leave a comment** with the reason for the block or with the questions you have
 

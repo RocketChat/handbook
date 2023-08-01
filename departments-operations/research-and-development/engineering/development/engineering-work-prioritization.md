@@ -24,18 +24,9 @@ During freeze Period:
 
 Focus should still follow the same principle, but now for only Milestone marked tasks. Once all milestone marked tasks are done, and no regressions are left, we resume "regular sprint day work".
 
-&#x20;
 
-**III. Engineering Day:** \
-Wider engineering period, lead by chapters where engineers are expected to work on Engineering priorities, PoC, Tech Debt & Documentation; All focused in scaling engineering.
 
-Engineering Day Period:
-
-CTO assigned priorities > Chapter Lead assigned priorities > Tech Lead Priorities > Own initiatives.
-
-Please note this is the most flexible one and you can always reach chapter lead/engineer manager to discuss items and reprioritize the Engineering Day priorities for your squad and yourself.
-
-**IV. Important remarks regardless of period:**&#x20;
+**III. Important remarks regardless of period:**&#x20;
 
 1.Remember that tasks assigned to you are your responsibility and require your attention to keep moving ahead on the cycle. The PM/Manager/Lead will help with this up to a certain point and guide which should be the priorities, but this "help" should be minimal from their side.
 

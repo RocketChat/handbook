@@ -1,6 +1,6 @@
-# QA Engineer/Analyst
+# QA Engineer
 
-The Engineer/Analyst coordinates and executes test cases designed to validate and ensure expected quality
+The QA Engineer coordinates and executes test cases designed to validate and ensure expected quality
 
 * Execute the test cases designed for each software release.
 * Manage the outcome of the testing made, analyzing issues and keeping track of the bugs uploaded and the team members who are implied.
