@@ -4,11 +4,11 @@ description: Find out more about our rocketeer referral and rewards program!
 
 # Rocketeer Referral
 
-Do you know that moment when you see that open position for working in Rocket.Chat, and you remember that friend you had that fits **perfectly** with the description? _That person could be our next Rocketeer!_ And the **Referrals Program** exists so we can reward our Rocketeers who refer other amazing people to join our team!
+Do you know that moment when you see an open position to work in Rocket.Chat, and you remember that friend you have that fits **perfectly** with the description? _That person could be our next Rocketeer!_ The r**eferrals program** exists so we can reward our Rocketeers who refer other amazing people to join our team!
 
-How it's going to work:
+How it works:
 
-1. All Rocketeers can submit referrals! To do that you just have to: Enter the [Google Workspace Dashboard](https://workspace.google.com/dashboard) > Click on the Greenhouse icon > Sign in with your Rocket.Chat email > On Greenhouse's header, click on![](<../../.gitbook/assets/image (18) (4) (2) (1) (12).png>) and then on "Add a Referral".
+1. All Rocketeers can submit referrals! To do that you just have to enter your [Okta dashboard](https://login.rocket.chat/app/UserHome?session\_hint=AUTHENTICATED) and click on the [Greenhouse icon](https://app4.greenhouse.io/referrals/new). You will be already on the right page to submit your referral!
 2. Fill out the information about your referral and it's done!
 
 If your referral **joins the team and stays for at least 90 days**, you'll get a reward sponsored by the **Referrals** system! **🍾**
