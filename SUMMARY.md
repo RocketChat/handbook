@@ -89,7 +89,6 @@
       * [Resolution of Github Pull Requests](departments-operations/community/community-management/github-repositories/pull-requests.md)
       * [Feature requests for Product Roadmap Inclusion](departments-operations/community/community-management/github-repositories/feature-requests-for-product-roadmap-inclusion.md)
       * [Expedite bug fixes to improve product quality and reliability](departments-operations/community/community-management/github-repositories/expedite-bug-fixes-to-improve-product-quality-and-reliability.md)
-    * [open.rocket.chat](departments-operations/community/community-management/open.rocket.chat.md)
     * [forums.rocket.chat - Discourse forum](departments-operations/community/community-management/forums.rocket.chat-discourse-forum/README.md)
       * [Responding to forum post (Major technical/change annoucements)](departments-operations/community/community-management/forums.rocket.chat-discourse-forum/responding-to-forum-post-major-technical-change-annoucements.md)
 * [💲 Finance](departments-operations/finance/README.md)

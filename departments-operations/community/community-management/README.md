@@ -16,18 +16,3 @@ Members of the Community Management team assist, listen and respond to the commu
 * engineering management (to improve quality of product by expediting bug fixes and expedite resolution/merge of Pull Requests)
 * engineering technology team (for matters beyond the technical capabilities of the Community Management Team members)
 
-Throughout the second half of 2021 (initial formation of the Community Management Team), several processes in handling the above have been defined and are being refined by the Community Management Team and the cross-disciplinary teams listed above.
-
-These living, evolving, processes are documented below:
-
-{% content-ref url="github-repositories/" %}
-[github-repositories](github-repositories/)
-{% endcontent-ref %}
-
-{% content-ref url="forums.rocket.chat-discourse-forum" %}
-[forums.rocket.chat-discourse-forum](forums.rocket.chat-discourse-forum)
-{% endcontent-ref %}
-
-{% content-ref url="open.rocket.chat.md" %}
-[open.rocket.chat.md](open.rocket.chat.md)
-{% endcontent-ref %}
