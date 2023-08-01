@@ -38,14 +38,14 @@ Learn about each of the disciplines in the Community Team:
 [community-management](community-management/)
 {% endcontent-ref %}
 
-{% content-ref url="developer-evangelism.md" %}
-[developer-evangelism.md](developer-evangelism.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="training-and-certification.md" %}
-[training-and-certification.md](training-and-certification.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="deployment-and-devops.md" %}
-[deployment-and-devops.md](deployment-and-devops.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

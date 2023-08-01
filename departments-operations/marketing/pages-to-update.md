@@ -4,6 +4,11 @@ This is a list to keep info consistent around Internet, check and update periodi
 
 **Official listing, we have complete control to change and approve changes:**
 
+* G2 ​​[https://www.g2.com/products/rocket-chat/reviews](https://www.g2.com/products/rocket-chat/reviews)
+* Capterra [https://www.capterra.com/p/161575/Rocket-Chat/](https://www.capterra.com/p/161575/Rocket-Chat/)
+* Carahsoft [https://www.carahsoft.com/rocketchat](https://www.carahsoft.com/rocketchat)
+* Crozdesk [https://crozdesk.com/software/rocket-chat](https://crozdesk.com/software/rocket-chat)
+* SourceForge [https://sourceforge.net/projects/rocketchat-desktop.mirror/](https://sourceforge.net/projects/rocketchat-desktop.mirror/)
 * DigitalOcean Marketplace [https://marketplace.digitalocean.com/apps/rocket-chat](https://marketplace.digitalocean.com/apps/rocket-chat)
 * AWS marketplace [https://aws.amazon.com/marketplace/seller-profile?id=dcb2092b-ef39-40bd-bc7c-f2394fa75ba7](https://aws.amazon.com/marketplace/seller-profile?id=dcb2092b-ef39-40bd-bc7c-f2394fa75ba7)
 * Snap Store [https://snapcraft.io/rocketchat-server](https://snapcraft.io/rocketchat-server)
