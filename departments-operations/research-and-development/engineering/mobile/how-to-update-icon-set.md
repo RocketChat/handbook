@@ -4,7 +4,7 @@ This document explains how to update the icon set based on Figma Iconography.
 
 ### Figma Iconography
 
-[Here](https://www.figma.com/file/gC0Y4IH5uthUymNW85If7EA2/Styleguide?node-id=110%3A41) we have the Iconography source of truth, so every update needs to start from there.
+[Here](https://www.figma.com/file/W1fsDedouj59h65GBTkyvj/Iconography?type=design\&node-id=110-41\&mode=design\&t=ReKFo21nbuTUjsPG-0) we have the Iconography source of truth, so every update needs to start from there.
 
 ![Iconography Figma board](<../../../../.gitbook/assets/image (28) (1).png>)
 
@@ -37,6 +37,10 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 
 ![Icon Set with unselect icons](<../../../../.gitbook/assets/image (25).png>)
 
+* Remove the Icomoon Free set at "Remove Set" option
+
+<figure><img src="../../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
 * Select them and click `Generate Font`
 
 ![Generate Font screen](<../../../../.gitbook/assets/image (32) (1).png>)
@@ -55,6 +59,7 @@ We use [Icomoon](https://icomoon.io/) to generate our `.ttf` font file.
 * Now we need to update the [Google Drive folder](https://drive.google.com/drive/folders/18B1Br1nyJwmJTacKd7S9BgS3z7MGHiQv)
 * Click on `Untitled Project` on the header of Icomoon and then `Download`&#x20;
 * That should download a `.json` file to be used next time we need to update the icons again
+  * If the resulting json is too big, make sure to remove unnecessary icons
 * Make sure to rename it following the `Mobile Icons vN.json` format and upload it to the [Google Drive folder](https://drive.google.com/drive/folders/18B1Br1nyJwmJTacKd7S9BgS3z7MGHiQv)
 
 ### Updating the app
