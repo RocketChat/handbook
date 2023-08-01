@@ -2,14 +2,13 @@
 
 ### Purpose
 
-The purpose of the Security team is to define which risks the company is exposed to and mitigate them to a business acceptable level.
+The purpose of the Security team is to define which risks the company is exposed to and mitigate them to a business-acceptable level.
 
 We need to make sure the security best practices are being applied and guarantee the security of our applications and find and respond to new vulnerabilities and incidents, ensuring the confidentiality, integrity, and availability of our services.
 
 ### Members and functions
 
 * [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Senior Security Engineer
-* [Igor Rincon](https://open.rocket.chat/direct/igor.rincon): Staff Security Engineer
 * [Giovani Salvador](https://open.rocket.chat/direct/giovani.salvador): Manager
 
 ### Top OKRs, relevant for Security function, built by stakeholder input
@@ -22,7 +21,7 @@ We need to make sure the security best practices are being applied and guarantee
 
 ## Main Tasks
 
-Objective of the security team is to help everyone to keep Rocket.Chat and our customers secure. We can only achieve that when we all work together!
+The objective of the security team is to help everyone to keep Rocket.Chat and our customers secure. We can only achieve that when we all work together!
 
 ## Communication and Information
 
