@@ -1,23 +1,22 @@
 ---
-description: >-
-  Purpose: Ensure that data is classified and handled appropriately and securely
-  throughout its lifecycle, reducing the risk of data breaches, protecting
-  sensitive data, and ensuring compliance.
+description: This policy applies to all employees and contractors.
 ---
 
 # Data Classification and Management
 
+## Purpose
 
+Ensure that data is classified and handled appropriately and securely throughout its lifecycle, reducing the risk of data breaches, protecting sensitive data, and ensuring compliance.
 
-Scope: This data classification policy applies to all data and to all user-developed data sets and systems that may access these data, regardless of the environment where the data reside (including cloud systems, servers, personal computers, mobile devices, etc.).&#x20;
+## Scope
+
+This data classification policy applies to all data and to all user-developed data sets and systems that may access these data, regardless of the environment where the data reside (including cloud systems, servers, personal computers, mobile devices, etc.).&#x20;
 
 The policy applies regardless of the media on which data reside (including electronic, microfiche, printouts, CD, etc.) or the form they may take (text, graphics, video, voice, etc.)\
 \
 Note: Your private opinion, e.g. what you share on social media under your personal name, is not in scope of this policy. You should always make clear if you are posting in the name of Rocket.Chat or privately, if the context leaves room for ambiguity.
 
-
-
-### Types of data handled within our organization 
+## Types of data handled within our organization
 
 There are a variety of data types handled within Rocket.Chat, such as personal data, financial data, intellectual property, confidential data, etc. and for each system or repository within our [Asset Register](https://docs.google.com/spreadsheets/d/1Fmei\_-OGpXvUwsHzd8K87ke-CgCLOGpzerrPEQo9e0Q), data must be identified and classified according to the following types:&#x20;
 
@@ -34,12 +33,11 @@ There are a variety of data types handled within Rocket.Chat, such as personal d
 
 
 
-### Data Classification and Handling&#x20;
+## Data Classification and Handling&#x20;
 
-#### For in-house and third-party applications
+### For in-house and third-party applications
 
-All data stored within our applications (in-house and third-party) shall be classified based on its sensitivity level.\
-
+All data stored within our applications (in-house and third-party) shall be classified based on its sensitivity level.
 
 * Public data: This type of data is freely accessible to the public (i.e. all employees/company personnel). It can be freely used, reused, and redistributed without repercussions. An example might be first and last names, job descriptions, or press releases.
 * Internal-only data: This type of data is strictly accessible to internal company personnel or internal employees who are granted access. This might include internal-only memos or other communications, business plans, etc.
@@ -52,9 +50,7 @@ The handling requirements for each category consist of access controls to ensure
 
 For Google Docs, refer to [Google docs data classification](google-docs-data-classification.md) session
 
-####
-
-#### User-developed data (Internal files and documents, email content, …)&#x20;
+### User-developed data (Internal files and documents, email content, …)&#x20;
 
 As a Rocket.Chat employee or contractor, all data created, modified, received or otherwise processed in connection with Rocket.Chat, must be handled confidentially and protected according to the risk related to it. (Confidential Data). Your NDA includes more details on what is considered confidential and what not. We do not distinguish between various levels of confidentiality (like secret, top secret, super secret, ...).
 
@@ -73,7 +69,7 @@ Note: Other handling and marking methods depending on tools and systems you use 
 
 Please keep in mind that Data minimization is a critical component of our data management policy. We strive to collect and share only the minimum amount of data necessary to achieve our business objectives. We encourage all employees and stakeholders to exercise caution when sharing data and to consider the need for and appropriateness of data sharing before doing so.
 
-### Documentation and Approval
+## Documentation and Approval
 
 You can write and find documentation, procedures and guidelines in different sourcers across the organization, such as
 
@@ -95,7 +91,7 @@ You can do it by clicking on **File -> Approvals** and then **Make a request** o
 
 If you don't want the file to be altered after sending the request, check the appropriate box. Remember that any change on the document will reset the approval and make it lost its integrity assurance.
 
-### Deletion of data
+## Deletion of data
 
 Once data is considered no longer necessary, it should be deleted. Keep in mind that we are required to keep certain data for a minimum or maximum amount of time (e.g. due to legal or regulatory requirements) - In such cases, we will ensure that appropriate measures are taken to secure the data and minimize the risk of harm to individuals. If you have any questions or concerns about the sharing of data, please send a request to privacy@rocket.chat for review and guidance.
 

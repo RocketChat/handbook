@@ -1,3 +1,7 @@
+---
+description: This policy applies to all employees and contractors.
+---
+
 # Awareness and Training
 
 Awareness means putting someone´s attention on security challenges. Training means giving people the right level of security skills for their job.

@@ -1,3 +1,7 @@
+---
+description: This policy applies to all employees and contractors.
+---
+
 # Authentication and Password policies
 
 ## Authentication Policy
@@ -20,8 +24,6 @@ In terms of authentication methods, you should always opt for using SSO/SAML aut
 
 For systems that do not support Google Sign Up or SSO/SAML, follow the following Password Policy while creating a password to access the service or account.
 
-
-
 ## Password Policy
 
 While creating passwords to access company assets we recommend the employees to use Password Wallets, preferred [Zoho Vault](https://vault.zoho.com/app#/login) (using your rocket.chat email to access Zoho).
@@ -31,8 +33,6 @@ Set up a strong Master Password your wallet and enable 2FA. Refer to the Passwor
 Remember also to change your password periodically. In the case of a password leak or exposure, change it immediately and report the fact to the Security team.
 
 Systems that allow password policy enforcement will be configured to expire password after 90 days and only accept passwords that comply with the Password Creation Rule below:
-
-
 
 ### Password Creation Rules
 

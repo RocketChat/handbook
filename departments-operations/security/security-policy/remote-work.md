@@ -1,14 +1,16 @@
 ---
-description: Remote Work Security Policy for Rocket.Chat
+description: >-
+  Remote Work Security Policy for Rocket.Chat - this policy applies all
+  employees and contractors.
 ---
 
 # Remote work
 
-#### Purpose&#x20;
+## Purpose&#x20;
 
 The purpose of this policy is to ensure that Rocket.Chat employees who work remotely maintain the confidentiality, integrity and availability of company assets, data and information. This policy outlines the security guidelines, clear screen and security requirements for remote workers to follow.
 
-#### **Rules**
+## **Rules**
 
 1. Confidentiality: Remote workers must maintain the confidentiality of company data, information, and assets by following the company's data protection policies. This includes keeping passwords and sensitive information secure and not sharing it with unauthorized parties.
 2. Theft of assets: Employees who work remotely must ensure that their work equipment and assets are secure and protected from theft. This includes using password-protected screensavers, locking their workstations when not in use, applying full encryption on the working device and reporting any loss or theft of assets immediately.
@@ -22,9 +24,7 @@ The purpose of this policy is to ensure that Rocket.Chat employees who work remo
 
 By following these rules and guidelines, Rocket.Chat employees who work remotely can ensure the security of company assets, data and information, and protect the company from security breaches and data losses.
 
-
-
-#### Additional information and recommendations
+## Additional information and recommendations
 
 Here you can find guidelines on how to protect your home network:&#x20;
 

@@ -27,6 +27,8 @@ The questionnaire template can be found [here](https://docs.google.com/spreadshe
 
 Note: If you have questions whether the questionnaire should be sent to a vendor or not, please contact Compliance or Security teams.
 
+The provision of SOC 2 Type II reports by the vendors may exclude the need of filling out the Vendor Risk Assessment Questionnaire. &#x20;
+
 #### Supplier compliance:
 
 Supplier compliance is assessed on a risk-based approach and against the requirements of our security policies. Suppliers must demonstrate the same level of compliance for their supply chain.

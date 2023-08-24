@@ -1,3 +1,7 @@
+---
+description: This policy applies to all employees and contractors.
+---
+
 # Assets Management
 
 ## Asset Management

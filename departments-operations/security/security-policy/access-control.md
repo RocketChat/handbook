@@ -1,7 +1,7 @@
 ---
 description: >-
   This session establish guidelines for requesting access to sensitive or
-  internal systems within the organization
+  internal systems within the organization. This policy applies to all.
 ---
 
 # Access Control
@@ -68,6 +68,4 @@ Roles and responsibilities
 
     \
     For Tier 2 and 3 applications, the review of access and privileges shall be done annually by the asset owners or designated person.
-
-
 

@@ -1,3 +1,7 @@
+---
+description: This policy applies to all employees and contractors.
+---
+
 # Cryptography and Key management
 
 Cryptographic requirements are adressed in the other parts of the subpolicies and must follow the general principles as described by [OWASP](https://www.owasp.org/index.php/Guide\_to\_Cryptography) Cryptography in our products will be described in the product documentation.
