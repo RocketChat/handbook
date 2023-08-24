@@ -144,6 +144,7 @@
   * [Rocketeer Referral](departments-operations/people/referrals.md)
   * [Our Wishlist](departments-operations/people/wishlist.md)
   * [Career Path](departments-operations/people/career-path.md)
+  * [Code of Conduct](departments-and-operations/people/code-of-conduct.md)
   * [Disciplinary Actions Policy](departments-operations/people/disciplinary-actions-policy/README.md)
     * [Appendix: No retaliation policy](departments-operations/people/disciplinary-actions-policy/appendix-no-retaliation-policy.md)
     * [Appendix: Workplace violence policy](departments-operations/people/disciplinary-actions-policy/appendix-workplace-violence-policy.md)

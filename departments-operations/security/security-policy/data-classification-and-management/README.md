@@ -1,5 +1,8 @@
 ---
-description: This policy applies to all employees and contractors.
+description: >-
+  Purpose: Ensure that data is classified and handled appropriately and securely
+  throughout its lifecycle, reducing the risk of data breaches, protecting
+  sensitive data, and ensuring compliance.
 ---
 
 # Data Classification and Management
