@@ -1,6 +1,6 @@
 # Platforms and Systems
 
-Daily, we use different platforms and systems. Here you'll find a list of what we use them for. A few days before your start date, you'll receive access and invites to all of them.
+In our daily lives, we interact with various platforms and systems to fulfil different tasks and routines. Upon receiving your credentials a few days prior to your start date, you'll gain access to all necessary accounts. Rocket.Chat streamlines access through a single sign-on (SSO) and multi-factor authentication platform named [Okta](https://login.rocket.chat/app/UserHome?session\_hint=AUTHENTICATED). This means that you will be able to log in to all the listed applications below (and others) via the Okta platform.
 
 * \*\*\*\*[**open.rocket.chat**](https://open.rocket.chat/): It is the open-source server of Rocket.Chat, where our company channels are, and where the magic happens!
 * \*\*\*\*[**Github**](https://github.com/): The platform where our open source code is available, where collaborative coding happens.
