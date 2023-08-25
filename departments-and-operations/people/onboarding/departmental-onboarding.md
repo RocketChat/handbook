@@ -1,62 +1,52 @@
 # Departmental Onboarding
 
-The process of departmental onboarding to be described in this section was developed with the help of our Rocketeers after surveys and workshops were conducted to receive their inputs on an **ideal standard onboarding** to enter an area.
+During the first and second days, the new Rocketeer must focus on completing the Onboarding Certification and going through the company onboarding as described in this handbook. By the third day, this person may be ready to start the area-specific onboarding.
 
-Other teams might have onboardings with additional routines or items, but the process described here is what is considered the minimum expected from any area-specific onboarding. Furthermore, **every person has their own perspective and pace**. So, there is nothing better than communicating where are you at - either with your direct Manager or with the People Team.&#x20;
+The process of departmental onboarding described in this section was developed with the help of our Rocketeers after conducting surveys and workshops to gather their input on an ideal standard area-specific onboarding.
+
+Different teams may have onboarding workflows with additional routines or items, but the process described here is what is considered the minimum expected of any area-specific onboarding.&#x20;
 
 ## Initial Guidelines
 
-For starters, it's important to establish three basic guidelines about the area onboarding to achieve a smooth process that doesn't overwhelm its participant:
+For starters, it's important to establish two basic guidelines about the area-specific onboarding to achieve a smooth process that doesn't overwhelm its participant:
 
-* Mix types of content in support documents - only long videos or long texts aren't the ideals
-* Learning hands-on! Start with small activities, and slowly evolve
-* Slowly expand the “world” of knowledge the person is having contact with to avoid being overwhelmed
+* Emphasize hands-on learning. Commence with small activities and gradually progress.
+* Introduce new information gradually to prevent individuals from feeling overwhelmed.
 
 ## General Structure
 
-To guarantee that the new team member feels supported without depending only on a manager or one team member, it's important to create the structure of 3 support lines:
+To ensure that the new team member receives support beyond reliance on a single manager or team member, it is crucial to establish the structure of three key support roles:
 
 1. Manager
 2. Buddy
 3. Documentation
 
-Each of these three will play different parts during each step of the onboarding. Let's walk through them and understand the different roles.
+Each of these roles plays a critical part during the onboarding process. Let's explore them and understand their distinct responsibilities.
 
 ### 1. Manager
 
 The Manager is responsible for:
 
-* Notifying the team on its main channel (_onboarding date, name, and role_)
-* Assigning a Buddy from the team for the new Rocketeer, and define the responsibilities towards the new team member
-* Scheduling a **welcome meeting for introductions** on the **New Rocketeer's first day**
-
-It's pre-aligned that the initial focus for new Rocketeers during the first 2 days should be going through the company onboarding, and as soon as they're done with it they're ready to get started in their departmental onboarding. Thus, the Manager should align with the new hire the date for the **kick-off meeting for the departmental onboarding** (**suggested to be on the 3rd day**).&#x20;
-
-When in the kick-off meeting with the new team member, you (Manager), and the assigned buddy, may cover:
-
-* General details about the department, the team, the area's OKRs, initiatives, and other suggested topics to discuss are:
-  * Overview of the product
-  * Who are the area's main stakeholders
-  * Current priorities of the area (big issues, responsibilities, etc)
-* Align role and short-term expectations
-* Introduce the buddy to the new member&#x20;
-* **Present the tools and systems that are used in the department so the new rocketeer can request access by following** [this procedure.](https://handbook.rocket.chat/departments-operations/security/security-policy/access-control)
+* Notifying the team on its main channel about the new Rocketeer soon to be onboarded;
+* Assigning a Buddy for the new Rocketeer, and defining the responsibilities toward the new team member;
+* Introducing the new Rocketeer to the team during the _team welcome meeting_ on the very first day;
+* On the third day, during the kick-off meeting for area-specific onboarding, covering topics such as presenting the area, providing an overview of the backlog and main projects for the next months, detailing the tools and systems used by the team, aligning expectations for the new team member's performance and responsibilities, and explaining how their performance will be measured.
 
 &#x20;                                               [Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a leader's checklist to not miss a thing!
 
-_Optional:_ Use the Jira project to coordinate your tasks and deadlines along the process to remind both yourself and the new member of the onboarding tasks to be completed during the first month. You can use it to create new tasks to help the person walk through documentation or repositories in an organized way.
+**Optional**: Utilize a Jira project to coordinate tasks and deadlines throughout the process, serving as a reminder for both yourself and the new member of the tasks to be accomplished.
 
 ### 2. Buddy
 
-The buddy should:
+The Buddy assigned by the Manager should:
 
-* Use the kick-off meeting to introduce themselves
-* Help the New Rocketeer adjust to the team, its ceremonies, and meetings
-* Be present especially during their first two weeks to support them with tools, processes, and guidance - _Remember it's not only understanding the tool itself but also how the area organizes and uses it daily_
-* Be available for any questions or doubts
+* Use the kick-off meeting to introduce themselves;
+* Help the new Rocketeer adjust to the team, its ceremonies, and meetings;
+* Be present especially during their first month to support them with tools, processes, and general guidance;
+* Be available for any questions or doubts.
 
 ### 3. Documentation
 
-The documentation should:
+The Documentation should:
 
-The area should create documentation both for processes and tools, especially those that everyone in the area will have contact with. Having this in place brings back the initial guideline about mixing types of content, allowing the Rocketeer to also learn by going through the area's practices described in the internal handbook whenever necessary, optimizing the time spent by the manager and/or buddy.  &#x20;
+The area's documentation should encompass both processes and tools. Establishing comprehensive documentation adheres to the initial guideline of offering a mix of content types, allowing Rocketeers to learn by reviewing the area's practices outlined in the internal handbook whenever necessary. This minimizes the time required from both the manager and the buddy.
