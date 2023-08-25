@@ -12,11 +12,11 @@ Do you want a short summary? You can find a [security one-pager here!](https://d
 
 Because we all must follow our security policies, we have set up a Zoho Sign term that must be filled out and signed by all Rocketeers.
 
-* [Policy Acknowledgment,](https://sign.zoho.com/signform?form\_link=234b4d535f495623d7afa605b2c4f12ecea8c219fde51f54332f67b4dacec1104dff6619576027ca9bb31be732284cc8fa4601fcd081cf3d616fb616760bf4d69625a87df702dd0b) an acknowledgment of our current policies. Mandatory to complete all employees and contractors.
+* [Policy Acknowledgment,](https://sign.zoho.com/signform?form\_link=234b4d535f495623d7afa605b2c4f12ecea8c219fde51f54332f67b4dacec1104dff6619576027ca9bb31be732284cc8fa4601fcd081cf3d616fb616760bf4d69625a87df702dd0b) an acknowledgment of our current policies. Mandatory to all employees and contractors.
 
 And to set yourself up securely, please follow the guidelines and fill out the form provided in the link below::
 
-* [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) a checklist to set up a basic secure configuration of your tools. Mandatory to complete all employees and contractors.
+* [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) a checklist to set up a basic secure configuration of your tools. Mandatory to all employees and contractors.
 
 {% hint style="info" %}
 If you have already signed it during the onboarding training, no need to sign again.

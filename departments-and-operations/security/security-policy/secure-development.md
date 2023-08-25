@@ -12,8 +12,4 @@ The purpose of the secure development policy is to ensure that our software deve
 
 ## Policy
 
-[Secure Development Policy](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/\~/changes/1876/security/security-policies/security-policy/secure-development)
-
-\
-
-
+[Secure Development Policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/secure-development)

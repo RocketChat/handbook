@@ -10,7 +10,7 @@ The purpose of the network security policy is to establish guidelines and respon
 
 ## Policy
 
-[Network security policy](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/\~/changes/1876/security/security-policies/security-policy/network-security) is available to all employees and contractors within our internal handbook.
+[Network security policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/network-security) is available to all employees and contractors within our internal handbook.
 
 
 

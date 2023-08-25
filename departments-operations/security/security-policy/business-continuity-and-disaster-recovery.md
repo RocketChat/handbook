@@ -24,5 +24,5 @@ The components and steps necessary for ensuring continuity of Rocket.Chat servic
 
 ## Policy&#x20;
 
-For details, check our [Business Continuity and Disaster Recovery policy](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/\~/changes/1876/security/security-policies/security-policy/business-continuity-and-disaster-recovery) in the internal handbook
+For details, check our [Business Continuity and Disaster Recovery policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/business-continuity-and-disaster-recovery) in the internal handbook
 

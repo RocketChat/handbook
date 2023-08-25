@@ -10,4 +10,4 @@ The purpose of Secure Data transfer policy is to establish guidelines and proced
 
 ## Policy
 
-[Secure Data Transfer policy](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/\~/changes/1876/security/security-policies/security-policy/secure-data-transfer)
+[Secure Data Transfer policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/secure-data-transfer)
