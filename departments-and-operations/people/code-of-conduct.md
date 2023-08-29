@@ -1,14 +1,14 @@
 # Code of Conduct
 
-Welcome to Rocket.Chat! We empower organizations to own their conversations by developing the world’s most flexible and secure open source communications platform.
+Welcome to Rocket.Chat! We empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications platform.
 
-The core of our culture are our DOTS! They represent who we are, and who we want to be, and they show us the behaviors and competencies we should expect from every Rocketeer. And our DOTS extend and inform how we work – summarized here in our foundational code of conduct.
+The core of our culture is our DOTS! They represent who we are, and who we want to be, and they show us the behaviours and competencies we should expect from every Rocketeer. And our DOTS extend and inform how we work – summarized here in our foundational code of conduct.
 
 ## Purpose
 
 This code of conduct is our guide for ethical and responsible work as well as enduring success as a company and team. It reflects our enduring commitment to work and deliver on our mission with diversity, inclusion, and impact. We strive to set a high standard and establish a strong foundation.
 
-By adhering to this code, we pledge to act with integrity, uphold ethical principles, and nurture an environment where innovation, collaboration, and doing right thrives. Together, let's build a Community that not only achieves remarkable milestones but also leaves a lasting positive impact on our world.
+By adhering to this code, we pledge to act with integrity, uphold ethical principles, and nurture an environment where innovation, collaboration, and doing right thrive. Together, let's build a Community that not only achieves remarkable milestones but also leaves a lasting positive impact on our world.
 
 ## Scope
 
@@ -20,17 +20,17 @@ This policy applies to all Rocket.Chat's employees and contractors, regardless o
 
 At Rocket.Chat, we treat every individual with respect and dignity. We promote an inclusive and diverse environment where we treat all employees, customers, and partners fairly and without discrimination, regardless of race, ethnicity, gender, sexual orientation, religion, age, or other characteristics.
 
-### 2.Professionalism
+### 2. Professionalism
 
 We maintain a high standard of professionalism in all our interactions, both within the organization and with external stakeholders. We communicate with honesty and integrity.
 
-All Rocketeers must show integrity and professionalism in the workplace and in regards to the following areas:
+All Rocketeers must show integrity and professionalism in the workplace and in regard to the following areas:
 
-* Corruption and bribery&#x20;
+* Corruption and Bribery&#x20;
 
 At Rocket.Chat, we're all about maintaining the highest ethical standards. It's important that every Rocketeer follows anti-corruption and anti-bribery laws, including the Foreign Corrupt Practices Act and other applicable regulations. This means no shady payments, being clear and transparent with gifts and entertainment, checking out third parties, and speaking up if you spot any issues. Remember, if you have questions or see any red flags, just reach out to the legal team for guidance.&#x20;
 
-* Job duties and authority&#x20;
+* Job Duties and Authority&#x20;
 
 All Rocketeers should perform their work duties with integrity and respect towards co-workers, customers, stakeholders, and the community.&#x20;
 
@@ -38,7 +38,7 @@ Supervisors and managers must not abuse their authority. We expect them to deleg
 
 * Conflict of interest&#x20;
 
-We expect employees to avoid personal, financial, or other interests which might restrain their capability or willingness to perform their job duties. &#x20;
+We expect employees to avoid personal, financial, or other interests that might restrain their capability or willingness to perform their job duties. &#x20;
 
 * Collaboration&#x20;
 
@@ -54,9 +54,9 @@ We expect Rocketeers to not abuse their employment benefits. This can refer to t
 
 * Company Expenses
 
-We try to save money when possible, and do not overspend on flight, hotels, restaurants etc. For more information, please refer to our [Travel Policy.](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7hDnLLoVYXnODyaFd3-41739140/departments-and-operations/finance/travel-policy)
+We try to save money when possible and do not overspend on flights, hotels, restaurants etc. For more information, please refer to our [Travel Policy.](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7hDnLLoVYXnODyaFd3-41739140/departments-and-operations/finance/travel-policy)
 
-* Signature rights&#x20;
+* Signature Rights&#x20;
 
 We expect all our employees to respect that only Executive Management has signature rights on behalf of the company. The only exception in rare circumstances is if a specific signatory obligation is delegated and provided in writing.&#x20;
 
@@ -70,7 +70,7 @@ We encourage collaboration, cooperation, and teamwork. We value diverse opinions
 
 ### 4. Harassment and Discrimination
 
-We do not tolerate in any way displays of harassment, discrimination, and bullying, as well as any behavior that creates a hostile, offensive, or intimidating environment for others. Rocketeers must have equal opportunity in all aspects of their work, from recruitment and performance evaluation to interpersonal relations.
+We do not tolerate in any way displays of harassment, discrimination, and bullying, as well as any behaviour that creates a hostile, offensive, or intimidating environment for others. Rocketeers must have equal opportunity in all aspects of their work, from recruitment and performance evaluation to interpersonal relations.
 
 ### 5. Privacy and Confidentiality
 
@@ -82,13 +82,13 @@ We are committed to protecting employees' data in accordance with our employees'
 
 Rocket.Chat takes appropriate measures to ensure the physical and emotional safety of our employees.
 
-### 7. Compliance with laws and regulations
+### 7. Compliance With Laws and Regulations
 
-All employees must comply with applicable laws, regulations, and company policies. Any illegal or unethical behavior is strictly prohibited. All employees must protect our company’s legality. We expect employees to be ethical and responsible when dealing with our company’s finances, products, partnerships, and public image.
+All employees must comply with applicable laws, regulations, and company policies. Any illegal or unethical behaviour is strictly prohibited. All employees must protect our company’s legality. We expect employees to be ethical and responsible when dealing with our company’s finances, products, partnerships, and public image.
 
 ### 8. Intelectual Property and Copyrights
 
-#### Protection of Rocket.Chat property
+#### Protection of Rocket.Chat Property
 
 All Rocketeers should treat company property with respect and care, whether material or intangible.
 
@@ -96,11 +96,11 @@ Rocketeers:
 
 • Should not misuse company equipment or use it frivolously.
 
-• Should respect all kinds of corporate assets and company intellectual property. It includes trademarks, copyright, and other property (information, reports, etc.). Rocketeers should use them only to complete their job duties.
+• Should respect all kinds of corporate assets and company intellectual property. It includes trademarks, copyrights, and other property (information, reports, etc.). Rocketeers should use them only to complete their job duties.
 
 • Should protect company facilities and other material property from damage and vandalism whenever possible.
 
-#### Third party property
+#### Third-Party Property
 
 We are committed to maintaining intellectual property rights and strictly prohibit unauthorized use, modification, or distribution of the intellectual property of others without proper authorization, including respecting third-party proprietary rights.
 
@@ -120,4 +120,4 @@ We expect Rocketeers to actively engage in such training and stay updated by reg
 
 ## Consequences of Violations
 
-Violations to this code of conduct may result in disciplinary action, up to and including termination of employment or business relationship, depending on the severity of the infraction as outlined in our [Disciplinary Actions Policy](https://handbook.rocket.chat/departments-and-operations/people/disciplinary-actions-policy).&#x20;
+Violations of this code of conduct may result in disciplinary action, up to and including termination of employment or business relationship, depending on the severity of the infraction as outlined in our [Disciplinary Actions Policy](https://handbook.rocket.chat/departments-and-operations/people/disciplinary-actions-policy).&#x20;
