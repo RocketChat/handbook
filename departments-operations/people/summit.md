@@ -4,16 +4,16 @@ description: Rocket.Chat yearly holds a Summit!
 
 # Summit
 
-The Summit is the most expected moment for our team since it's when we bring the entire team together in one place. Although attendance is optional we highly recommend it because during the Summit you'll have the opportunity to meet all team members in person.&#x20;
+The Summit is the most anticipated moment for our team, as it's the time when we bring the entire team together in one place. Although attendance is optional, we highly recommend it because the Summit offers the opportunity to meet all team members in person.
 
-As we work remotely, the Summit provides the opportunity to meet all Rocketeers in one place and to practice our Culture Code so that whenever we’re all together it feels as if we never worked far from each other.
+Since we primarily work remotely, the Summit provides a unique chance to gather all Rocketeers in a single location and embody our Culture Code. This way, when we're all together, it feels as if we've never been far apart.
 
-By participating in the Summit, you will also:
+By taking part in the Summit, you can also:
 
-* [ ] Develop and strengthen relationships
-* [ ] Get a deeper understanding of our team's strengths and weaknesses
-* [ ] Align projects with the Executive Team for short, medium, and long-term&#x20;
-* [ ] Participate in team-building moments and discussions about the company's strategies
+* [ ] Develop and strengthen relationships;
+* [ ] Gain a deeper understanding of our team's strengths and weaknesses;
+* [ ] Align projects with the Executive Team for the short, medium, and long term;
+* [ ] Engage in team-building activities and discussions about the company's strategies.
 
 {% embed url="https://www.linkedin.com/posts/rocket-chat_today-marks-the-end-of-our-2022-summit-after-activity-6991745472772083712-bTpr?utm_medium=member_desktop&utm_source=share" %}
 

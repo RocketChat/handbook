@@ -136,7 +136,7 @@
     * [Guide to PTO](departments-operations/people/daily-life/pto-guide.md)
     * [Holidays, Vacations and Leaves](departments-operations/people/daily-life/holidays-and-vacations.md)
     * [Sick Leave](departments-operations/people/daily-life/sick-leave.md)
-  * [Developing yourself](departments-operations/people/developing-yourself/README.md)
+  * [Developing Yourself](departments-operations/people/developing-yourself/README.md)
     * [Performance and Career Check-In](departments-operations/people/developing-yourself/check-in.md)
     * [Learning](departments-operations/people/developing-yourself/learning.md)
     * [Book Club](departments-operations/people/developing-yourself/book-club.md)
