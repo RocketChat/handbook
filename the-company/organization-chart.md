@@ -6,8 +6,6 @@
 Rocket.Chat organizational chart
 {% endembed %}
 
-You can see the full structure of our organization, every team member and their roles, and the size of each team, and even start putting names to faces already! On your first day, you will also be added to it, so don’t worry about adding yourself.
+You can see the full structure of our organization, every team member and their roles, the size of each team, and even start putting names to faces already! On your first day, you be added to it, so don’t worry about adding yourself.
 
-Under the **Departments and Operations** section, you can meet each of our teams, so keep TheOrg by your side as a little map while learning more about the company structure.
-
-Remember, this introduction is for you to get to know all our different departments. You will also learn more about your direct department and team after the onboarding.
+Under the **Departments and Operations** section, you can meet each of our teams, so keep TheOrg by your side as a handy map while learning more about the company structure.
