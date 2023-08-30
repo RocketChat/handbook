@@ -10,7 +10,7 @@ If you’re looking for a career change and you notice an open position of your 
 
 * [ ] You can talk directly with a member of the Talent Acquisition Team and reveal your interest. &#x20;
 * [ ] You must inform your current Manager so that they know of your desire to switch.&#x20;
-* [ ] We will forward your application to the Hiring Manager responsible for the available position and if you have the mandatory requirements (shared in the job description), we will schedule for you an interview with the Hiring Manager and the Talent Acquisition Team.&#x20;
+* [ ] We will forward your application to the Hiring Manager responsible for the available position and if you have the mandatory requirements (shared in the job description), we will schedule an interview with the Hiring Manager and the Talent Acquisition Team.&#x20;
 * [ ] If you are accepted for the new role, your Manager will be informed, and the People Team will have a conversation with you to tell you all the details you need. Every transition step after this will be conducted by our People Team. &#x20;
 
 #### Important Information:&#x20;
