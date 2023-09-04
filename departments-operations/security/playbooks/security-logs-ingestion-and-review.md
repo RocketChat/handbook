@@ -57,3 +57,5 @@ The default retention period is set to 13 months:
 * \>3 months <13 months in Frozen data tier
 * \>13 months in snapshots (not searchable, takes more time and effort to be accessed)
 
+Note these times may be changed depending on the usage and inportance of the log source.
+
