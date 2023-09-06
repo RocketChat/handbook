@@ -2,40 +2,50 @@
 description: Meet our Culture Code and our DOTS!
 ---
 
-# Our Culture
+# 🧑🤝🧑 Our Culture
+
+Our Culture
 
 Being a Rocketeer is about understanding and living our culture on an everyday basis! So you must meet what it is all about since the 1st Day!
 
-Our Culture Code was created in 2019 during our yearly Summit. We brought **every single member** of our team together to talk about what represented us as Rocketeers, and as a result, we got a set of words, expressions and quotes that afterwards were compiled and became our Culture Code. So keep in mind that everything you see in our Culture Code was once mentioned by one or more Rocketeers and purposely built that way so it may truly represent who we are!
+Back in 2020, during our annual Summit, something remarkable happened. Every Rocketeer, gathered to explore our collective identity. What does it mean to be a part of this dynamic team? The result was a mosaic of words, expressions, and quotes that encapsulated the essence of us, our spirit, and our drive. This mosaic soon crystallized into what we proudly call our DOTS.
 
-The core of our culture are our DOTS! They represent who we are, and who we want to be, and they show us the behaviours and competencies we should expect from every Rocketeer.
+Fast forward to 2023, we went to periods marked by growth and personnel transitions. We recognized the need to recalibrate our DNA, ensuring that it still perfectly mirrored our evolving journey. Upon thorough review, it was clear for us – our core DOTS remained unshaken, just requiring a slight retouch. Every facet of our Culture Code was borne from the voices and souls of Rocketeers, carefully designed to mirror our authentic selves and that remains and still is present on day to day of our organization.&#x20;
 
-## We Dream
+Our Culture Code isn't just a set of words. It's crafted with the threads of our shared aspirations, values, and ambitions. It's a living testament to who we were, who we are, and the behaviors and competencies we should expect from every Rocketeer.
 
-We get out of our comfort zone and take risks because we **dream**. Our dreams take us to high goals and the fear of failure doesn't stop us from trying because we have the passion to go beyond the status quo.� To represent this value:
+## We Dream&#x20;
 
-* Don’t be afraid of taking risks and trying new things.
-* Take initiative, and get out of your comfort zone!
+Dream big, embrace change, and create lasting impact through belief, action, and innovation.
+
+We chase dreams boldly, embrace ambition, and shape a lasting legacy through faith, action, and innovation.
+
+![](https://lh4.googleusercontent.com/p7506oAmN3nvFP92R4GsV3LURu6FndF2TVS6Yuy-He15u62cL1qKBt904ktzpmTUWTRBEUDUKpYmfRh9qzYdYk14Oi3iAlnhPmHCj5v20-jndXS3EvCP-ijPuUkXIafOKhOD4ogAjCr-oOd5vmH1ycA)
 
 ## We Own
 
-We hope to find those better ways because of our ownership because we **own**. We own the problems that appear and feel empowered to take initiative to solve them, testing and adapting. We own our responsibilities, and if we say it we do it, constantly trying to go the extra mile to exceed expectations. We wear this ownership every day, represented by the t-shirts we so proudly wear in every possible colour.� To represent this value:
+We own it! Solving, improving, collaborating – our daily pledge. Wearing ownership proudly in the company's signature shirts.
 
-* Get involved, help with other projects, and collaborate with other areas!
-* Push yourself while being accountable and taking responsibility.
+We own the business mindset, living it through aligned solutions, proactive improvement, reliable collaboration, and accountability. Displayed proudly in our signature shirts daily.
+
+![](https://lh6.googleusercontent.com/fqjl84oj-6c9e\_1ktpwO8O5j0uhO-RfO2rfoKN8Yfk8ox0-gvHsLyryxIuaKrdMJOvxJJ5L3v58m-if6y\_BMDk1d-iYuf1TafkA0ZoSt8f4C\_g8JX3zH2ZX524lRYcCV6Fxq2e9K-HgGuZUVB8qHSrI)
 
 ## We Trust
 
-We are so proud of what we do, we wear it and talk about it because we **trust**. We trust what we're creating, we trust the purpose of what we do, and we trust each other. That is what gives us the freedom to innovate, to create our own schedules, and to have remote work as part of who we are as [Rocket.Chat](http://rocket.chat/). The flexibility and balance we achieve by trusting is what makes our environment one of enjoyment, is what makes us feel pleasure in doing what we do.� To represent this value:
+Remote-born, trust-based. We value teamwork through transparency, empathy, and fun. Trust fosters asking without judgment, uniting all Rocketeers.
 
-* Freely ask for help and be available to help others.
-* Don’t point fingers, speak up and offer feedback while being open to receiving it too.
+Remote-born, trust-based. We embrace async collaboration, nurture a team culture of transparency, empathy, and enjoyment. Trust cultivates a judgment-free help-seeking environment, reciprocating among all Rocketeers.
+
+![](https://lh3.googleusercontent.com/bQGstJB4oooYDmu6CN4XGc-9M8xWPAWd1fE02DOkIZIhCKkl9wJiCD3lKakidvKehGsQPiQu07DfZjZAjxoLiIeaY6C-n3ZXych7RpHwwpdyxBCpYlEMqp9fR-Kt2P8JrK3pOr2q-jpIizc\_xjGHuNs)
 
 ## We Share
 
-We trust, believe and enjoy what we do because we **share**. We share the good and the bad because we're united by a common belief. We team up to solve problems, meet clients, create solutions, and celebrate birthdays or our yearly Summits. Most importantly, we share because that is the essence of who we are. We're open, and built by our community, so more than just sharing, it is about empowering and loving the community and who's beside us, making this all happen.� To represent this value:
+Together > Alone! Sharing code, celebrating, and dropping egos define us. Support = team growth. Transparency fuels collaboration and improvement.
 
-* Share your knowledge and be willing to help, making your team grow with you.
-* Be transparent in your actions and tasks, go open!
+Together beats alone! Sharing means open code, knowledge, celebrating, and transparent camaraderie. Support fosters team growth; transparency drives collaboration and improvement.
 
-Check out our full Culture Code by clicking [here](https://docs.google.com/presentation/d/1\_X3PB7\_MsK86tF7ZPe3sDvP23rpgdGyk/edit#slide=id.p1).
+![](https://lh6.googleusercontent.com/GkrW08YZTTsWMjrfgYzrZp8yowBT768hIQAChroqiKaq8h5VZlGldGJJc0FJijBwpdGdjS6ijoBSO7js-93xC4R-JUxNnVH5sYlpe6LypiDVs5rGFlH\_wT5tNHBEdXQxFPYtVq68PDTiEnIWz860C-Q)
+
+
+
+Check out our full Culture Code by clicking [here](https://docs.google.com/presentation/d/1C7Ja6kYx1e88yL8XIjFy4vQom4719ouk/edit?usp=sharing\&ouid=103648908741174957624\&rtpof=true\&sd=true).
