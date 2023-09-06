@@ -31,7 +31,7 @@ The Manager is responsible for:
 * Assigning a Buddy for the new Rocketeer, and defining the responsibilities toward the new team member;
 * Introducing the new Rocketeer to the team during the _team welcome meeting_ on the very first day;
 * On the third day, during the kick-off meeting for area-specific onboarding, covering topics such as presenting the area, providing an overview of the backlog and main projects for the next months, detailing the tools and systems used by the team, aligning expectations for the new team member's performance and responsibilities, and explaining how their performance will be measured;
-* Follow up with the new rocketeer to inquire about their meeting with the stakeholders.
+* Follow up with the new rocketeer to inquire about the outcome of their meeting with the stakeholders.
 
 &#x20;                                               [Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a leader's checklist to not miss a thing!
 
