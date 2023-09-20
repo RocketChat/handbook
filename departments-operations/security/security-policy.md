@@ -72,7 +72,7 @@ Current conflicting roles identified:
 
 The company maintains relevant contacts with authorities and agencies, those relevant for Rocket.Chat being mostly:
 
-* Data protection agencies - outlined at [Breach Notification: Contact With Authorities](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/privacy-and-security/data-privacy-compliance/breach-notification-contact-with-authorities "mention")
+* Data protection agencies - outlined at [Breach notification: Contact with authorities](https://drive.google.com/file/d/1r05-d4k17RQlMH-eJdRFg-HJnKucImLN/view?usp=drive\_link)
 * NIST
 * ISO
 * Open Source Community
@@ -99,7 +99,7 @@ The details of these processes are implemented and the records kept by the Peopl
 
 This internal controls policy is to establish and maintain effective information security controls that safeguard the confidentiality, integrity, and availability of Rocket.Chat’s assets and operations.&#x20;
 
-It is everyone’s responsibility to familiarize yourselves with the company’s internal controls and comply with its requirements. See [Internal Controls](../../departments-and-operations/security/security-policy/internal-controls-policy.md) policy for details.
+It is everyone’s responsibility to familiarize yourselves with the company’s internal controls and comply with its requirements. See [Internal Controls](https://handbook.rocket.chat/departments-and-operations/security/security-policy/internal-controls-policy) policy for details.
 
 ### Asset Management and Acceptable Use
 
@@ -125,7 +125,7 @@ Refer to this [link](https://handbook.rocket.chat/departments-and-operations/sec
 
 This document applies to all individuals and entities who have authorized access to the organization's resources for work-related purposes.
 
-Please refer to this [link](../../departments-and-operations/security/security-policy/network-security.md) .
+Please refer to this [link](https://handbook.rocket.chat/departments-and-operations/security/security-policy/network-security) .
 
 ### Homeoffice / Remote Work Policy
 
@@ -149,9 +149,9 @@ To ensure data is classified and handled appropriately and securely throughout i
 
 [Data Classification and Management](security-policy/data-classification-and-management/)
 
-[Data Retention and Disposal](../../departments-and-operations/security/security-policy/data-classification-and-management/data-retention-and-disposal.md)
+[Data Retention and Disposal](https://handbook.rocket.chat/departments-and-operations/security/security-policy/data-classification-and-management/data-retention-and-disposal)
 
-[Secure Data Transfer](../../departments-and-operations/security/security-policy/secure-data-transfer.md)
+[Secure Data Transfer](https://handbook.rocket.chat/departments-and-operations/security/security-policy/secure-data-transfer)
 
 ### Accessing Customer Data
 
@@ -181,7 +181,7 @@ Features or changes involving components that could affect overall system securi
 
 Changes to assets should only occur when a change is necessary. All changes must be controlled. All changes related to source code must occur through the authorized version control system (e.g. GitHub). In case a change is urgent, the change control process may be shortened by decision of management, in order to mitigate potential damages to the organization.
 
-Please consult our [Secure Development policy](../../departments-and-operations/security/security-policy/secure-development.md) and [Change Management session](security-policy/changes-management/).
+Please consult our [Secure Development policy](https://handbook.rocket.chat/departments-and-operations/security/security-policy/secure-development) and [Change Management session](security-policy/changes-management/).
 
 ### Vulnerability and Patch Management
 
@@ -189,7 +189,7 @@ This policy applies to all software applications and infrastructure components u
 
 Software administrators, SRE and security teams must be aware of this policy and their roles in having it implemented.&#x20;
 
-Details available in this [link](../../departments-and-operations/security/security-policy/vulnerability-and-patch-management.md) .
+Details available in this [link](https://handbook.rocket.chat/departments-and-operations/security/security-policy/vulnerability-and-patch-management) .
 
 ### Incident Management
 

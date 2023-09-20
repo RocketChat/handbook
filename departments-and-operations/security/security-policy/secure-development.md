@@ -12,4 +12,4 @@ The purpose of the secure development policy is to ensure that our software deve
 
 ## Policy
 
-[Secure Development Policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/secure-development)
+[Secure Development Policy](https://docs.google.com/document/d/1B4twcCohHjp9B9xaHotiCfYA6ofBWtQU9bc0bXZu0go/edit?usp=drive\_link)

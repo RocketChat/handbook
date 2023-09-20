@@ -10,6 +10,6 @@ The purpose of this Data Retention Policy is to establish guidelines for the app
 
 ## Policy
 
-[Data retention and disposal policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/data-classification-and-management/data-retention-and-disposal) is available to all employees and contractors within our internal handbook[.](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/\~/changes/1876/security/security-policies/security-policy/data-classification-and-management/data-retention-and-disposal)&#x20;
+[Data retention and disposal policy](https://docs.google.com/document/d/1Sh6RXo9lPlu0qcn6C1FebZV0SXw15B\_SePyBXiEq4Rw/edit?usp=drive\_link) is available to all employees and contractors within our internal documentation[.](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/\~/changes/1876/security/security-policies/security-policy/data-classification-and-management/data-retention-and-disposal)&#x20;
 
 ##

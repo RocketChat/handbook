@@ -10,4 +10,4 @@ The objective of our internal control policy is to establish and maintain effect
 
 ## Policy
 
-[Internal Controls policy](http://127.0.0.1:5000/s/-M7iRWz196Rdn-5pW5QY/security/policies/security-policy/internal-controls-policy) is available to all employees and contractors within our internal handbook.
+[Internal Controls policy](https://docs.google.com/document/d/11ifKwxj\_3NlHYp3QEiu40pk4MoIzY3k4yinUJKvx3vo/edit?usp=drive\_link) is available to all employees and contractors within our internal documentation.
