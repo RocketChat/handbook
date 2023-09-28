@@ -19,6 +19,6 @@ We can’t always predict violent acts, but we ask managers and team members to 
 
 All supervisors and managers are responsible for implementing our policies and ensuring that all procedures are free of discrimination.
 
-Employees who witness or suspect violence, or are victims of violence, can report to HR through the [Hearing Channel Forms](https://docs.google.com/forms/d/e/1FAIpQLSc9HlJ3abk2Vwvebfhot5SyRQfluERaG27oAVo\_hXOO02y4Hw/viewform) or their immediate supervisor. We will investigate quickly and discreetly. We aim to protect victims from harassment and victimization.
+Employees who witness or suspect violence, or are victims of violence, can report to HR through the [Hearing Channel Forms](https://handbook.rocket.chat/departments-and-operations/people/whistleblower-policy#guidelines) or their immediate supervisor. We will investigate quickly and discreetly. We aim to protect victims from harassment and victimization.
 
 Our company doesn’t tolerate violence. Any such behaviour will trigger appropriate disciplinary action, up to and including termination, removal from boards or committees, as well as potential criminal charges.

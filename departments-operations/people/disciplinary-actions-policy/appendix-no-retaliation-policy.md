@@ -14,7 +14,7 @@ Actions that often bring about retaliation include but are not limited to:
 * Participation in a pending investigation of misconduct or violations
 * Lawsuits for wrongful dismissal or termination for cause
 
-Employees may file complaints internally to a manager or Human Resources Department through the [Hearing Channel Forms](https://docs.google.com/forms/d/e/1FAIpQLSc9HlJ3abk2Vwvebfhot5SyRQfluERaG27oAVo\_hXOO02y4Hw/viewform). Or they may speak to people able to take legal action against the alleged guilty party. These employees are called “Whistleblowers”.
+Employees may file complaints internally to a manager or Human Resources Department through the [Hearing Channel Forms](https://handbook.rocket.chat/departments-and-operations/people/whistleblower-policy#guidelines). Or they may speak to people able to take legal action against the alleged guilty party. These employees are called “Whistleblowers”.
 
 In any case, we’ll follow our harassment-free workplace principles. Employees who report misconduct or suspected violations must be protected from retaliation. We don’t want to silence complaints, but we encourage open communication.
 
