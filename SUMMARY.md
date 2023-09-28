@@ -145,6 +145,7 @@
   * [Our Wishlist](departments-operations/people/wishlist.md)
   * [Career Path](departments-operations/people/career-path.md)
   * [Code of Conduct](departments-and-operations/people/code-of-conduct.md)
+  * [Whistleblower Policy](departments-and-operations/people/whistleblower-policy.md)
   * [Disciplinary Actions Policy](departments-operations/people/disciplinary-actions-policy/README.md)
     * [Appendix: No Retaliation Policy](departments-operations/people/disciplinary-actions-policy/appendix-no-retaliation-policy.md)
     * [Appendix: Workplace Violence Policy](departments-operations/people/disciplinary-actions-policy/appendix-workplace-violence-policy.md)
