@@ -168,6 +168,12 @@ You must terminate the session immediately after the reason for your access has 
 
 You must as soon as possible inform the customer of the outcome of your access.
 
+{% hint style="info" %}
+**Important:** The use of sensitive or customer data in non-production environments is strictly prohibited.
+{% endhint %}
+
+Non-production environments, including development, testing, and staging, must not be used for any purpose involving sensitive or customer data.
+
 ### Secure Development & Change Management
 
 Secure engineering basic principles:
@@ -195,7 +201,7 @@ Details available in this [link](https://handbook.rocket.chat/departments-and-op
 
 An incident is any event that has the potential to affect the confidentiality, integrity or availability of Rocket.Chat information, in any format, or IT systems in which this information is held. Violations of laws, policies, contractual obligations or also external requests should also be considered as incidents in this sense.
 
-Examples of incidents include:
+Examples of incidents include but are not limited to:
 
 * Lost devices
 * A suspicious and successful log in
@@ -204,9 +210,9 @@ Examples of incidents include:
 * Email with confidential data sent to wrong recipient
 * Law enforcement requests to disclose data of customers
 
-The Rocket.Chat's incident response plan is an internal Document that can be found here: [Incident Response Plan](https://docs.google.com/document/d/17yZJ9oP3OJl3oWYTSNKNeXy54OEr7dn3ldpDKi52Ksc/edit#heading=h.wytzxqmvrwlq)
+The Rocket.Chat's incident response plan is an internal document that can be found here: [Incident Response Plan](https://docs.google.com/document/d/17yZJ9oP3OJl3oWYTSNKNeXy54OEr7dn3ldpDKi52Ksc/edit#heading=h.wytzxqmvrwlq). This plan is tested annually to ensure effectiveness and promptness in the event of an incident.
 
-In addition to that we also have in place an Incident Communication protocol available in this link.&#x20;
+In addition to that we also have in place an Incident Communication protocol available in this [link](https://docs.google.com/document/d/1IJm0EjZtISE\_PDHdrr4YL1lJzxsiA37-7bszv3OPP6I/edit?usp=drive\_link).&#x20;
 
 ### Business Continuity and Disaster Recovery
 
