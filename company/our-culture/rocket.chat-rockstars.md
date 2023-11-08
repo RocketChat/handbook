@@ -18,7 +18,7 @@ We have three types of points:
 
 Let's take a look at the complete [list of actions and events](https://docs.google.com/spreadsheets/d/1GfdttY-0eFtzY5ZerPKRaAwvSQGaxjbFSZsa4RoebuA/edit#gid=0) in each category and the number of stars you can get:
 
-<figure><img src="../../.gitbook/assets/RockStars.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Table of Koko Points (Updated).png" alt=""><figcaption></figcaption></figure>
 
 ### Important Notes:
 
