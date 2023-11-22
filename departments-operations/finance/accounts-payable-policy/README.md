@@ -11,5 +11,5 @@ description: What you will see in this section
 
 **Accounts Payable Team contacts:**
 
-* [Kaique Silva](https://open.rocket.chat/direct/kaique.silva)
+* [Karen Demeterco](https://open.rocket.chat/direct/karen.demeterco)
 * [Patricia Ferreira](https://open.rocket.chat/direct/patricia.ferreira)

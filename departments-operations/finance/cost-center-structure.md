@@ -8,7 +8,7 @@ The cost center's main function is to track all expenses linked to a particular 
 
 ## Cost Center Structure
 
-Whenever your team uses part of their budget to \*\*purchase \*\*something, the expenses **will be allocated to your specific department's cost center**, as well as salaries and contractors costs.
+Whenever your team uses part of their budget to **purchase** something, the expenses **will be allocated to your specific department's cost center**, as well as salaries and contractors costs.
 
 Below, is our Cost Center structure.
 

@@ -24,7 +24,7 @@ description: >-
 In addition to the invoice payment process, which is our primary accounts payable policy, it is important to describe our policies and procedures for purchases made via credit card.
 
 * **Requirements to purchase with Corporate Credit Card**
-  * **Corporate Credit Card purchases are applicable to small purchases, limited to U$ 200.00 per item and non recurring charges.**
+  * **Corporate Credit Card purchases are applicable to small purchases, limited to USD 200 per item and non recurring charges.**
   * **Credit card purchases must only be made in a second instance**, when there is no possibility of payment by invoice.
   * In any case that it is not possible to negotiate payment term other than credit card, please contact [accounts.payable@rocket.chat](mailto:accounts.payable@rocket.chat).
   * We also strongly recommend you to avoid as much as possible using your personal credit card for corporate purchases.

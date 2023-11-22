@@ -10,7 +10,7 @@ description: How to request your travel and reimbusements?
 * All trips should be requested in the following time frame:
   * Domestic travel: at least 15 days in advance;
   * International travel: at least 21 days in advance.
-* The travel request forms will be approved, **first**, by the **Head of the Department** and, **second**, by the \*\*Finance \*\*team.
+* The travel request forms will be approved, **first**, by the **Head of the Department** and, **second**, by the **Finance** team.
   * If there are any exceptions to be approved, the Head of the Department can make an observation in the text field in the approval step.
   * Employees **should not book their own flight tickets and request reimbursement before the travel request approval by Finance** unless previously justified and approved by the Head of the Department.
 * The Finance team has up to **one business day** to approve the travel request, after the Department Head's approval.
