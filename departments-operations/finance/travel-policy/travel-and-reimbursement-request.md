@@ -73,7 +73,7 @@ description: How to request your travel and reimbusements?
 ## Alternative Transportation
 
 * Employees should use Uber as alternative transportation, using Rocket.Chat’s corporate account.
-* To include Rocket.Chat’s corporate account in their app, employees should request [Patricia Ferreira](http://127.0.0.1:5000/u/tYWMiaKG2tUhYMb6IAjXK9JnU2u1), via e-mail, including the Department Head's approval for the trip.
+* To include Rocket.Chat’s corporate account in their app, employees should request [Patricia Ferreira](https://app.gitbook.com/u/tYWMiaKG2tUhYMb6IAjXK9JnU2u1), via e-mail, including the Department Head's approval for the trip.
 * Taxi or other types of alternative transportation should only be used in locations where Uber is not available and it will be subject to the presentation of receipts in the reimbursement request.
 
 ## Meals Daily Voucher per Person

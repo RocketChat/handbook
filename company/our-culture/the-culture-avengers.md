@@ -1,3 +1,7 @@
+---
+description: Nurturing a strong organizational culture!
+---
+
 # The Culture Avengers
 
 An important part of thriving as an organization is having a strong, consistent culture, especially when you have a distributed team. One important way of achieving this is through a Culture Committee, and ours goes by: **The Culture Avengers**.

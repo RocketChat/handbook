@@ -12,13 +12,13 @@ All products within the stars program are purchased through [Printful](https://w
 
 We have three types of points:
 
-* **Request and Collect:** Whenever you perform an action in this category, you can submit this action for approval to our Avengers within the system (Zoho People) and collect your stars!
+* **Request and Collect:** Whenever you act in this category, you can submit this action for approval to our Avengers within the system (Zoho People) and collect your stars!
 * **Automatic Collection:** Stars are automatically collected on special occasions, such as birthdays, company anniversaries, or when you use the rocketchat-thanks channel to express gratitude for someone.
 * **Admin Allocation:** These stars will be added to your account by the administrator of the specific tool. For instance, you'll receive stars from the Qulture.Rocks admin each time you complete your IDP or achieve 100% completion of the Check-in. In this case, the Qulture.Rocks admin will assign the stars to you within the system.
 
 Let's take a look at the complete [list of actions and events](https://docs.google.com/spreadsheets/d/1GfdttY-0eFtzY5ZerPKRaAwvSQGaxjbFSZsa4RoebuA/edit#gid=0) in each category and the number of stars you can get:
 
-<figure><img src="../../.gitbook/assets/Table of Koko Points (Updated).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Table of Koko Points (Updated).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Important Notes:
 
@@ -39,7 +39,7 @@ The first thing you should do is go to Zoho People > Compensation > RockStars. T
 
 ### Where do I see how many stars I have?
 
-Simply go to your Zoho People profile in order to see your Koko Points balance! **Remember**: The stars are capped at a total of 1200, so even if you request more stars, after reaching this total it will be maintained until you exchange some of them.
+Simply go to your Zoho People profile to see your Koko Points balance! **Remember**: The stars are capped at a total of 1200, so even if you request more stars, after reaching this total it will be maintained until you exchange some of them.
 
 ### How do I switch my stars for items?
 
@@ -54,86 +54,86 @@ Check out the complete list of Rocket.Chat swags you can get through RockStars b
 
 {% tabs %}
 {% tab title="Mug" %}
-![](../../.gitbook/assets/mug.png)
+![](../../../.gitbook/assets/mug.png)
 {% endtab %}
 
 {% tab title="Socks" %}
-![](../../.gitbook/assets/socks.png)
+![](../../../.gitbook/assets/socks.png)
 {% endtab %}
 
 {% tab title="Notebook" %}
-![](../../.gitbook/assets/notebook.png)
+![](../../../.gitbook/assets/notebook.png)
 {% endtab %}
 
 {% tab title="Baby One-piece" %}
-![](../../.gitbook/assets/tiptop.png)
+![](../../../.gitbook/assets/tiptop.png)
 {% endtab %}
 
 {% tab title="Flip flops" %}
-![](../../.gitbook/assets/flipflops.png)
+![](../../../.gitbook/assets/flipflops.png)
 {% endtab %}
 
 {% tab title="Beanie" %}
-![](../../.gitbook/assets/beanie.png)
+![](../../../.gitbook/assets/beanie.png)
 {% endtab %}
 
 {% tab title="T-shirt" %}
-![](../../.gitbook/assets/tshirts.png)
+![](../../../.gitbook/assets/tshirts.png)
 {% endtab %}
 
 {% tab title="Kids T-shirts" %}
-![](../../.gitbook/assets/Allstars.png)
+![](../../../.gitbook/assets/Allstars.png)
 {% endtab %}
 
 {% tab title="Dawstring bag" %}
-![](../../.gitbook/assets/drawstring.png)
+![](../../../.gitbook/assets/drawstring.png)
 {% endtab %}
 
 {% tab title="Dad hat" %}
-![](<../../.gitbook/assets/dad hat.png>)
+![](<../../../.gitbook/assets/dad hat.png>)
 {% endtab %}
 
 {% tab title="Bucket hat" %}
-![](../../.gitbook/assets/bucket.png)
+![](../../../.gitbook/assets/bucket.png)
 {% endtab %}
 
 {% tab title="Tote bag" %}
-![](../../.gitbook/assets/tote.png)
+![](../../../.gitbook/assets/tote.png)
 {% endtab %}
 
 {% tab title="Pillow" %}
-![](../../.gitbook/assets/pillow.png)
+![](../../../.gitbook/assets/pillow.png)
 {% endtab %}
 
 {% tab title="Embroidered polo shirt" %}
-![](<../../.gitbook/assets/polo shirts.png>)
+![](<../../../.gitbook/assets/polo shirts.png>)
 {% endtab %}
 
 {% tab title="Laptop sleeve" %}
-![](../../.gitbook/assets/laptop.png)
+![](../../../.gitbook/assets/laptop.png)
 {% endtab %}
 
 {% tab title="Water bottle" %}
-![](../../.gitbook/assets/bottle.png)
+![](../../../.gitbook/assets/bottle.png)
 {% endtab %}
 
 {% tab title="Framed poster" %}
-![](<../../.gitbook/assets/framed poster.png>)
+![](<../../../.gitbook/assets/framed poster.png>)
 {% endtab %}
 
 {% tab title="Sweatshirt" %}
-![](../../.gitbook/assets/sweatshirt.png)
+![](../../../.gitbook/assets/sweatshirt.png)
 {% endtab %}
 
 {% tab title="Throw Blanket" %}
-![](<../../.gitbook/assets/throw towel.png>)
+![](<../../../.gitbook/assets/throw towel.png>)
 {% endtab %}
 
 {% tab title="WooHoodie" %}
-![](../../.gitbook/assets/hoodie.png)
+![](../../../.gitbook/assets/hoodie.png)
 {% endtab %}
 
 {% tab title="Backpack" %}
-![](../../.gitbook/assets/backpack.png)
+![](../../../.gitbook/assets/backpack.png)
 {% endtab %}
 {% endtabs %}
