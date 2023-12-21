@@ -4,9 +4,9 @@ description: In here you'll find every benefit Rocket.Chat offers!
 
 # Our Benefits
 
-Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable, exciting and comfortable, so if you are remote or working from our office in Porto Alegre you’ll receive a set of benefits to improve your work experience!
+Whether you're working remotely or from our office in Porto Alegre, we aim to ensure that your experience as a Rocketeer is not only productive but also enjoyable and comfortable. Regardless of your location, you'll receive a comprehensive set of benefits designed to enhance your work experience.&#x20;
 
-**All** **Rocketeers** receive the following benefits since the 1st Day:
+**All Rocketeers** enjoy the following benefits:
 
 * [Unlimited PTO](https://handbook.rocket.chat/departments-operations/people/daily-life/pto-guide)
 * [Company Laptop and Headphone](https://handbook.rocket.chat/company/people/joining/onboarding/laptop-ordering)
@@ -15,22 +15,22 @@ Wherever you are our goal is to make your routine as a Rocketeer feel enjoyable,
 * [Courses and Books](https://handbook.rocket.chat/company/people/developing-yourself/learning)
 * [Stock Options](https://handbook.rocket.chat/departments-operations/people/onboarding/benefits/stock-options)
 
-We are constantly looking for new possibilities, and trying to bring a better set of benefits to our Rocketeers, so any suggestions or feedback can be directed to the People Experience team, who will be glad to receive them!
+We are continually exploring new possibilities and striving to enhance the benefits offered to our Rocketeers. Any suggestions or feedback are welcome and can be directed to the People Experience team, who will be delighted to receive them!
 
 ## If you're in Brazil
 
-Because of Brazil's legislation for workers, our Brazilian Rocketeers also receive the following:
+According to CLT laws, our Brazilian Rocketeers will also receive the following:
 
-* Meal voucher of R$30/​day.
-* Transportation card (for those in the Porto Alegre region)
+* Meal Voucher of R$30/​day.
+* Transportation Card (for those in Porto Alegre/RS)
 * Gympass
-* Healthcare plan (with dental)
+* Private Healthcare and Dental Insurance
 
-You can have access to a full explanation about the CLT benefits like the types of plans, values received and the dates that you receive them by accessing [http://bit.ly/BR-benefits](http://bit.ly/BR-benefits).
+You can access a full explanation of the CLT benefits, including information on the types of plans, values received, and the dates you receive them, by accessing [this link](https://docs.google.com/presentation/d/1fCHbGZIqpQtWrlWdNEdERrgM1494gMVj/edit#slide=id.p1).
 
 ## If you're in the US
 
-Besides processing payroll, through TriNet you'll also be able to opt for a healthcare plan. For each plan there is a part that is the company's contribution and another that is the responsibility of the employee, you can choose the plan you prefer, but the values will vary according to the plan and if you have dependents. You will have access to pricing details of each plan and will choose when you're completing your register in TriNet, but you can see an overview of your options below:
+In addition to payroll processing, TriNet provides the option to enrol in a healthcare plan. Each plan comprises both a company contribution and an employee responsibility. While you have the flexibility to choose the plan that suits you best, the costs will vary depending on the selected plan and whether you have dependents. Detailed pricing information for each plan will be accessible during your registration on TriNet. You can preview an overview of your options below:
 
 **Medical**: 243 plan options for employee, employee + spouse, employee + children or employee + family; Carriers: Kaiser CO, Kaiser GA, Tufts Freedom, Kaiser WA, Kaiser MD, UHC HI, Kaiser HI, Tufts, Blue Shield of CA, Kaiser, Aetna
 
