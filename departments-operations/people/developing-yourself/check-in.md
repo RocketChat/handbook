@@ -1,16 +1,16 @@
 # Performance and Career Check-In
 
-The Check-in is the most important tool and milestone for the development of our Rocketeers. It goes beyond an evaluation of performance since it was designed to attend to three main goals:
+The Check-In is the most important tool and milestone for the development of our Rocketeers. It goes beyond an evaluation of performance since it was designed to attend to three main goals:
 
-* Evaluating performance;
-* Aligning expectations about career growth;
-* Developing the career path of our Rocketeers.
+* Evaluating performance
+* Aligning expectations about career growth
+* Developing the career path of our Rocketeers
 
-Our Check-in cycle is hosted at[ Qulture.Rocks](https://app.qulture.rocks/) and our rocketeers can log in through their Okta dashboard (SSO).
+Our Check-In is hosted on [Qulture.Rocks](https://app.qulture.rocks/) and our Rocketeers can log in through [Okta](https://login.rocket.chat/app/UserHome?session\_hint=AUTHENTICATED) (SSO).
 
 ## The Process
 
-The Check-in is composed of 5 steps:
+The Check-In has 5 steps:
 
 1. Indications Stage;
 2. Validation Stage;
@@ -18,7 +18,7 @@ The Check-in is composed of 5 steps:
 4. Reports;
 5. Feedback Session / Development Plan.
 
-To walk you through each of them, here is the[ recorded training](https://www.loom.com/share/de3ee1c4115c4018bfb86e9bf64a6dec?sid=70f14e30-d44e-4b99-92ef-37d9d9bbc595) and the[ introduction material](https://docs.google.com/presentation/d/15hF\_l9iLbA4j2pUyPV0Q63X02us5Slk2qgPvwRWGNzE/edit#slide=id.g28814b1ba89\_0\_489). At Qulture.Rocks' knowledge base you'll also find a collection of[ tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
+To walk you through each of them, here is the[ recorded training](https://www.loom.com/share/de3ee1c4115c4018bfb86e9bf64a6dec?sid=70f14e30-d44e-4b99-92ef-37d9d9bbc595) and the[ introduction material](https://docs.google.com/presentation/d/15hF\_l9iLbA4j2pUyPV0Q63X02us5Slk2qgPvwRWGNzE/edit#slide=id.g28814b1ba89\_0\_489). At Qulture.Rocks' Knowledge Base you'll also find a collection of[ tutorials](https://help.qulture.rocks/en/collections/2438024-performance-evaluation#tutorial-for-employees) to help you during the process.
 
 ### Indications Stage
 
@@ -47,11 +47,11 @@ In this stage, you'll answer your self-evaluation, review your manager, any dire
 
 ### Reports
 
-After the reviews are submitted, a report containing the results of the review will be generated and released by the leaders. This will be an important output that you'll use, together with your profile as input for your feedback session with your leader and the creation of your Development Plan. We indicate the release of the reports to be done close to the feedback session to avoid misunderstandings.
+After the reviews are submitted, leaders will generate and release a report containing the results. This report, along with your profile, will serve as crucial inputs for your feedback session with your leader and the creation of your Development Plan. We aim to release the reports close to the feedback session to minimize the potential for misunderstandings.
 
 ### Development Plan
 
-After the answer period, comes the time for you and your leader to get together for the feedback session. You'll go over the report, understand the difference in perspective of the responses you received and the possible reason for that, read your profile and talk about your aspirations, and all that will point to the development areas and agreements you should focus on for the next semester.
+After the question-and-answer period, it's time for you and your leader to come together for the feedback session. During this session, you'll review the report, discuss the variations in perspectives from the responses received, explore potential reasons for those differences, delve into your profile, and converse about your aspirations. All of these aspects will contribute to identifying your developmental areas and establishing agreements to focus on for the upcoming semester.
 
 ## Engineering Performance and Career Check-In
 
@@ -59,7 +59,7 @@ For the Engineering Team, we are launching a more specific and structured evalua
 
 ## Some Useful Links
 
-Here are some interesting materials that will also help you during this process:
+Here are some interesting articles that will also assist you during this process:"
 
 * [How to give constructive feedback](https://help.qulture.rocks/en/articles/94918-how-to-give-constructive-feedback)
 * [How to not react to feedback you’ve received](https://help.qulture.rocks/en/articles/930279-how-to-not-react-to-a-feedback-you-ve-received)

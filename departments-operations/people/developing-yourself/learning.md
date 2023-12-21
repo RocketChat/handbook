@@ -1,63 +1,56 @@
 ---
-description: Here are the paths you can use to improve your skills!
+description: Ways to improve your skills!
 ---
 
 # Learning
 
 ## iTalki
 
-Train your English or learn any new language by talking to native-speaker teachers!\
-In the platform, the company will give you a monthly amount of $100 to spend on classes if you want to!
-
-To get access, send an email request to patricia.ferreira@rocket.chat.\
+Improve your English or learn any new language by conversing with native-speaking teachers! As part of our set of benefits, the company provides a monthly allowance of $100 for language classes through [iTalki](https://www.italki.com/dashboard). If you're interested, simply send an email request to [patricia.ferreira@rocket.chat](mailto:patricia.ferreira@rocket.chat).\
 \
-**Important:** As the possibility to learn languages is offered through iTalki, we **do not** reimburse language courses in the Courses and Books category.
+**Important Note:** Language learning opportunities are facilitated through iTalki, and as such, we do not reimburse other language courses under the 'Courses and Books' category.
 
 ## Other Courses and Books
 
-Want to do a course or buy a book to develop a skill related to your role or career development? Here's how this policy can support you with that! (Make sure to read this policy until the end to fully understand all limitations and requirements involved in it.)
+Looking to enrol in a course or purchase a book to enhance a skill related to your role or career development? Here's how this policy can support you! Be sure to read this policy until the end to fully understand all limitations and requirements.
 
-* **For books:** Rocket.Chat pays for the full price of this segment.
-* **For courses:** In this case, we **always** use the 70/30 rule, in which the company pays 70% of the price and the Rocketeer 30% (_The only exception_ to this rule is the cases where the company asks for the Rocketeer to do a course, in these cases Rocket.Chat will pay for the full price).&#x20;
+* **For Books:** Rocket.Chat pays for the full expense.
+* **For Courses:** In this case, we always use the 70/30 rule, in which the company pays 70% of the price and the Rocketeer 30%. The sole exception to this rule is when the company specifically requests a Rocketeer to undertake a course; in such cases, Rocket.Chat will cover the entire cost.
 
-Here's how the process works:
+**Here's How It Works:**
 
-1. You find a book/course you want to purchase. In here it's important to remind you that **these should be related to the development of skills related to your role or area of activity.**
-2. **BEFORE** you enrol or purchase anything, validate it with the People team (fernanda.bernardes).
-3. If the People team approves it, you can go ahead, purchase it and request the reimbursement on the [Books and Courses](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003) request page, always remembering to present the receipt of the purchase. However, let's pause here to discuss some important aspects:
+1. You find a book and/or course you want to purchase. It's important to remind you that these should be associated with the development of skills related to your role or area of activity.
+2. **BEFORE** you enrol or purchase anything, validate it with the People Team with @fernanda.bernardes.
+3. If the People Team approves it, you can go ahead, purchase it and request the reimbursement in Zoho People, [here](https://people.zoho.com/rocketchat/zp#compensation/form/listview-formId:524549000001045001/viewId:524549000001045003). Remember to present the receipt of the purchase.&#x20;
 
-You can do courses of any value BUT Rocket.Chat can only pay until a maximum amount. This maximum for Rocketeers **outside of Brazil is $500**, and for Rocketeers **in Brazil, it's R$1.953**. (Brazilians might notice this is a very specific value, and that's for a reason! **By law**, companies are only allowed to pay up to 1.5 times the Brazilian minimum wage in policies such as this one.) &#x20;
+**IMPORTANT:**
 
-Now, **very** important notes:
+While you can enrol in courses of any cost, please note that Rocket.Chat will only cover expenses up to a specified maximum. For Rocketeers outside of Brazil, the limit is $500, and for those in Brazil, it's R$1,953. This specific value for Brazilians adheres to legal restrictions, as companies are permitted to pay up to 1.5 times the Brazilian minimum wage in policies like this one.
 
-* This maximum value is **per course**, not per month. e.g. You purchased a $600 course, you can't request $300 in two months, you will receive 70% of $600 in one single month, so $420.
-* The maximum value includes the total sum of any eventual additional taxes, such as enrollment fees or currency conversion fees.
+* The maximum cost applies per course, not per month. For instance, if you purchase a $600 course, you cannot split the reimbursement over two months; instead, you will receive 70% of the $600 in a single month, totalling $420.
+* Additionally, the maximum cost covers the total amount, including any additional taxes, such as enrollment fees or currency conversion fees.
 
-There are only a few exceptions to this policy, and they are:
+**Exceptions:** Long-duration and high-cost courses, such as MBAs and post-graduate programs. Approvals for these exceptions should be granted by the General Manager and must be included in the yearly budget by the business area.
 
-* **Long-duration and high-cost courses:** Such as MBAs and Post-graduate programs.
+### Retention Ranges (Applied Only to Courses)
 
-Approvals applied to these exceptions should be approved by the General Manager and should be included in the year budget by the business area.
+The retention ranges are established based on common practices observed in benchmarked organizations, creating a 'two-way street' between the organization and the Rocketeer through educational support. Different ranges of company support values are associated with varying expected retention periods. The retention period commences from the moment a Rocketeer requests a course, and should they leave the company during this period, they will be required to reimburse the proportional value for the time remaining in the retention period.
 
-### Retention Ranges (Applied only to courses)
+To ensure fairness, the policy delineates distinct retention ranges for Rocketeers inside and outside Brazil, considering the different maximum expenses applicable.
 
-The retention ranges are based on a common practice in benchmarked organizations and it's a form of creating a "two-way street" between the organization and the Rocketeer through this educational support. Basically, different ranges of value of company support are attached to different expected retention periods. The period starts counting from the moment a Rocketeer requests the course, and if they leave the company during this period, they'll be requested to return the proportional value to the time remaining in the retention period.
-
-Since there are different maximum values, to create a fair policy, there are also different divisions of retention ranges for Rocketeers in and outside Brazil.
-
-* **In Brazil (maximum value R$ 1,818):**
-  * R$ 0 to R$ 300 - No retention period necessary
+* **In Brazil (maximum R$ 1,818):**
+  * R$ 0 to R$ 300 - no retention period&#x20;
   * R$ 301 to R$ 1,000 - 3-month retention period
   * R$ 1,001 to R$ 1,818 - 6-month retention period
-  * Over R$ 1,818 **(exception approved by Head of the Area)** - 1-year retention period
-* **Outside of Brazil (maximum value $ 500):**
-  * $ 0 to $ 100 - No retention period necessary
+  * Over R$ 1,818 **-** 1-year retention period
+* **Outside Brazil (maximum $ 500):**
+  * $ 0 to $ 100 - no retention period necessary
   * $ 101 to $ 250 - 3-month retention period
   * $ 251 to $ 500 - 6-month retention period
-  * Over $ 500 **(exception approved by Head of the Area)** - 1-year retention period
+  * Over $ 500 - 1-year retention period
 
 ## Expensing
 
-Every request approved until the 15th of each month will be paid in the current payroll cycle (request made on April 13th, will be paid at the end of April). Requests approved after the 15th will be paid at the end of the next month.
+Every request approved by the 15th of each month will be processed in the current payroll cycle (for example, a request made on April 13th will be paid at the end of April). Requests approved after the 15th will be processed at the end of the following month.
 
-Remember we have an annual budgeted amount dedicated to team courses, and we need to wisely manage this amount in a fair way to all Rocketeers, therefore **always** verify with the People team **before** requesting.
+Please remember that we have an annual budgeted amount allocated to team courses, and it's essential to manage this budget judiciously in a fair manner for all Rocketeers. Therefore, always verify with the People Team before submitting your request.
