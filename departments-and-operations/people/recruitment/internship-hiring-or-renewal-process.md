@@ -7,17 +7,17 @@ description: General Steps For Hiring New Interns Or Contract Renewal
 In Brazil, the hiring of interns tends to be very bureaucratic. The hiring model is governed by [Internship Law No. 11.788](http://www.planalto.gov.br/ccivil\_03/\_ato2007-2010/2008/lei/l11788.htm), published in 2008, which establishes all the rules that must be followed:
 
 * The maximum workload must be 20 hours or 30 hours a week
-* The activities performed must mandatorily be related to the Intern's grade course
-* The maximum duration of the contract is 2 years
-* The company must provide a professional to supervise the activities performed by the Intern (usually the Hiring Manager)
+* The activities performed must mandatorily be related to the Intern's graduation course
+* The maximum duration of the internship contract is 2 years
+* The company must provide a professional to supervise the activities performed by the Intern&#x20;
 
-**Note:** The Intern compensation package is standard for all according to the workload. To learn more about remuneration and benefits, contact the People Team.&#x20;
+**Note:** the compensation package is standard for all interns according to the workload. To learn more about remuneration and benefits, contact the People Team.&#x20;
 
 ### Required Documents
 
-Each University has its own template documentation that Rocket.Chat and the Intern need to fill in and forward it for signing. However, there is one document in particular that is common to all processes: the Internship Commitment Term — the ICT.  The internship will only be formalized by the University's approval of this document.&#x20;
+Each University has its template documentation that Rocket.Chat and the Intern need to fill in and forward it for signing. However, there is one document in particular that is common to all processes: the Internship Commitment Term — the ICT.  The internship will only be formalized by the University's approval of this document.&#x20;
 
-**To guarantee the hiring efficiency of Interns, it's important to establish the responsibilities of 3 parties:**
+**To guarantee the hiring efficiency, it's important to establish the responsibilities of 3 parties:**
 
 1. &#x20;**Intern**&#x20;
 2. **Manager**
@@ -27,10 +27,10 @@ Each University has its own template documentation that Rocket.Chat and the Inte
 
 The Intern is responsible for:
 
-* [ ] Collecting all the documents required provided by your Internship Center
-* [ ] Share the documents with the People Team in a folder on Shared Drive
+* [ ] Collecting all the documents required provided by your University's Internship Center
+* [ ] Share the documents with the People Team in a folder on Google Drive
 * [ ] Communicate to the People Team the steps the University requires to firm the Internship
-* [ ] Organize the working hours by aligning with the Direct Manager
+* [ ] Organize the working hours by aligning with the Hiring Manager
 
 ### Manager
 
@@ -46,9 +46,9 @@ The Manager is responsible for:
 The People Team is responsible for:
 
 * [ ] Collect with the Intern all the documents necessary for filling
-* [ ] Collect with the Manager all the information described under the session “Manager”.&#x20;
+* [ ] Collect with the Manager all the information they are responsible for providing
 * [ ] Fill in all the contracts and documents
 * [ ] Forward all documents to internal signatures on Zoho Sign
 * [ ] Be the liaison between the University and Rocket.Chat
 
-Will all the documents in hand, the People Team must forward the final version of the ICT with all signatures to the Finance Team - patricia.ferreira@rocket.chat - to complete the admission or renewal process.
+After obtaining all necessary documents, the People Team must send the completed final versions with all signatures to the Finance Team at patricia.ferreira@rocket.chat to finalize the admission or renewal process.
