@@ -23,7 +23,6 @@ According to CLT laws, our Brazilian Rocketeers will also receive the following:
 
 * Meal Voucher of R$30/​day.
 * Transportation Card (for those in Porto Alegre/RS)
-* Gympass
 * Private Healthcare and Dental Insurance
 
 You can access a full explanation of the CLT benefits, including information on the types of plans, values received, and the dates you receive them, by accessing [this link](https://docs.google.com/presentation/d/1fCHbGZIqpQtWrlWdNEdERrgM1494gMVj/edit#slide=id.p1).

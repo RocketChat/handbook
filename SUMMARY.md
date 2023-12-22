@@ -20,13 +20,13 @@
     * [Rocket.Chat RockStars](company/our-culture/rocket.chat-rockstars.md)
   * [Remote Work](company/our-culture/remote-work.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
-  * [Async Communication](company/our-culture/async-communication.md)
-* [❔ How-tos & Guidelines](the-company/how-tos-and-guidelines/README.md)
-  * [Meetings](company/how-tos-and-guidelines/meetings/README.md)
-    * [Recurring Meetings](company/how-tos-and-guidelines/meetings/recurring-meetings.md)
-    * [All Hands Meeting](company/how-tos-and-guidelines/meetings/all-hands-meeting.md)
-    * [Blocking Calendar Slots and Meeting Free Day](company/how-tos-and-guidelines/meetings/blocking-calendar-slots-and-meeting-free-day.md)
-  * [Reporting Product Issues](company/how-tos-and-guidelines/reporting-product-issues.md)
+  * [How Do We Communicate](the-company/our-culture/how-do-we-communicate/README.md)
+    * [❔ How-tos & Guidelines](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/README.md)
+      * [Meetings](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/meetings/README.md)
+        * [Recurring Meetings](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/meetings/recurring-meetings.md)
+        * [All Hands Meeting](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/meetings/all-hands-meeting.md)
+        * [Blocking Calendar Slots and Meeting Free Day](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/meetings/blocking-calendar-slots-and-meeting-free-day.md)
+      * [Reporting Product Issues](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/reporting-product-issues.md)
 
 ## Departments and Operations
 
