@@ -13,7 +13,7 @@ Here's how it works:
 
 If your referral joins the team and stays for at least 90 days, you'll get an **Experience Pass** sponsored by the Referrals system! **🍾**✨&#x20;
 
-The ammount corresponds to one month [remote benefit](https://handbook.rocket.chat/company/people/entering-rocket.chat/benefits/remote-benefit). You can use this credit to pay for experiences such as:
+The ammount corresponds to one month remote benefit. You can use this credit to pay for experiences such as:
 
 * An awesome dinner;
 * A class of something you like (maybe dancing? maybe some sport? maybe cooking?);

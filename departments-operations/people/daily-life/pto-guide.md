@@ -77,4 +77,4 @@ You play an important role in helping your team take more PTOs and enjoy them fu
 1. Avoid sending messages to that person as much as possible! Before reaching out, consider whether anyone else could provide the answer or find it for you. Can someone else handle the issue for now?
 2. If the person doesn't want to share much about the reason for their PTO, don't pressure them. We all have personal situations, and sometimes we may not feel comfortable discussing them. This is a time when you'll need to be understanding and empathetic!
 
-![A quick guide to PTO!](<../../../.gitbook/assets/HOW TO PTO.png>)
+![Guide to PTO!](<../../../.gitbook/assets/HOW TO PTO.png>)
