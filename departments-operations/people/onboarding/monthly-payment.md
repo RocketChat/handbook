@@ -18,22 +18,21 @@ Your payment is processed through [TriNet](https://www.trinet.com/). There is no
 
 ## Contractor Rocketeers
 
-If you are a contractor, your payment is done through Deel!
+If you are a contractor, your payment is done through [Deel](https://www.deel.com)!
 
 Firstly, what is Deel? - Deel reimagines payouts for businesses working with remote teams internationally. Deel helps you get paid anywhere you are, easy and fast with the most optimized rates.
 
-Why do I need to provide my passport or government-issued ID? - This is a standard operating procedure and ensures we know who we're working with and remain compliant.
+We'll send you an invitation to join Deel. After you receive it, you must follow these steps:
 
-Additional fees may occur in the case of countries where local bank transfer isn't possible.
-
-We'll send you an invitation to join Deel when you receive it:
-
-1. Please [complete your profile](https://help.letsdeel.com/en/articles/4751721-how-to-sign-up-for-deel) by adding all information.
-2. Add all your [compliance documents](https://help.letsdeel.com/en/articles/4754627-collect-compliance-documentation-on-deel).
-3. Fill out the [necessary tax forms](https://help.letsdeel.com/en/articles/4754599-tax-feature-on-deel-here-s-how-it-works) and sign the agreement.
+1. Complete your profile by adding all the information and identification documents.
+2. Add all mandatory [compliance documents](https://help.letsdeel.com/en/articles/4754627-collect-compliance-documentation-on-deel).
+3. Fill out the [necessary tax forms](https://help.letsdeel.com/en/articles/4754599-tax-feature-on-deel-here-s-how-it-works) and sign the agreements.
 4. Go through [your verification process](https://help.letsdeel.com/en/articles/4752382-how-to-verify-your-contractor-account-on-deel).
 5. Enter your [preferred payment method](https://help.letsdeel.com/en/articles/4754676-how-to-withdraw-money-from-deel-balance).
 
-For Contractors located outside Brazil, a background check is required through Deel. This process entails researching and verifying an individual's history, commonly conducted to assess their suitability for a specific role, position, or activity, particularly for legal and financial purposes. Before the background check on Deel, individuals must provide consent for the process to be initiated.
+### **FAQ**
+
+1. **Why do I need to provide my passport or government-issued ID?** This is a standard operating procedure and ensures we know who we're working with and remain compliant. Additional fees may occur in the case of countries where local bank transfer isn't possible.
+2. **What is a background check?** For Contractors located outside Brazil, a background check is a mandatory requirement facilitated through Deel. This comprehensive process involves thorough research and verification of an individual's history. It is commonly conducted to assess suitability for a specific role, position, or activity, with a particular focus on legal and financial considerations. Before initiating the background check through Deel, individuals must provide explicit consent. For a background check to be carried out, individuals must submit all required compliance documents through Deel, as the payroll process is conditional on this verification. This step ensures transparency and compliance with privacy regulations. The background check is an integral part of our commitment to maintaining a secure and trustworthy work environment.
 
 Don't hesitate to reach out to the Finance Team if you have any questions.
