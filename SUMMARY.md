@@ -18,6 +18,7 @@
     * [The Gabes](the-company/our-culture/awards-and-recognition/the-gabes.md)
     * [Rocket.Chat RockStars](company/our-culture/rocket.chat-rockstars.md)
   * [Remote Work](company/our-culture/remote-work.md)
+  * [Rocket.Chat Clubs](the-company/our-culture/rocket.chat-clubs.md)
   * [Summit](the-company/our-culture/summit.md)
   * [The Culture Avengers](company/our-culture/the-culture-avengers.md)
   * [How Do We Communicate](the-company/our-culture/how-do-we-communicate/README.md)
