@@ -24,7 +24,7 @@ Since you'll be using the Rocket.Chat platform for daily communication, understa
 
 **`#important:`**make sure to check this channel regularly as essential announcements are made here.
 
-**Rocket.Chat Clubs:** this is where you can join clubs aligned with your various interests, making it easy for you to find and become part of communities that resonate with your ideas. Explore [here](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7hDnLLoVYXnODyaFd3-41739140/\~/changes/911/the-company/our-culture/rocket.chat-clubs)!
+**Rocket.Chat Clubs:** this is where you can join clubs aligned with your various interests, making it easy for you to find and become part of communities that resonate with your ideas. Explore [here](https://handbook.rocket.chat/the-company/our-culture/rocket.chat-clubs)!
 
 ## Best Practices
 
