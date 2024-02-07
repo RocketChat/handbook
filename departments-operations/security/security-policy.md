@@ -4,7 +4,7 @@
 
 We have created a general information security policy and specific policies for related topics and are continuously working to put them in place. These policies are necessary to set up secure processes and demonstrate our compliance with industry standards towards our customers. You can also find the annual acknowledgment forms here.
 
-In case of any questions, contact the security team. More information on [this page](https://rocket.chat/handbook/departments/security/)
+In case of any questions, contact the security team. More information on [this page](https://handbook.rocket.chat/departments-and-operations/security)
 
 Do you want a short summary? You can find a [security one-pager here!](https://docs.google.com/document/d/1ZiyPRgAJMwKZAkdGDL36npEBFJYfCDqaX4-ZOef3P90/edit?usp=sharing)
 
