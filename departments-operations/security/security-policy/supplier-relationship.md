@@ -22,7 +22,7 @@ The questionnaire template can be found [here](https://docs.google.com/spreadshe
 
 * Make a local copy of the questionnaire.
 * Send to the supplier as attachment.
-* Once responded by the supplier and sent back, the questionnaire must be made available to the [security](mailto:security@rocket.chat) and [compliance](mailto:mayara.santos@rocket.chat) teams for risk assessment. Please mention the purpose of the relationship with the supplier.
+* Once responded by the supplier and sent back, the questionnaire must be made available to the [security](mailto:security@rocket.chat) and [compliance](mailto:compliance@rocket.chat) teams for risk assessment. Please mention the purpose of the relationship with the supplier.
 * The Security and Compliance teams will raise flags if necessary and a proper contact with the supplier must be made to notify about Rocket.Chat's concerns.
 
 Note: If you have questions whether the questionnaire should be sent to a vendor or not, please contact Compliance or Security teams.
