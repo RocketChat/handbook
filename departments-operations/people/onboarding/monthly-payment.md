@@ -18,17 +18,17 @@ Your payment is processed through [TriNet](https://www.trinet.com/). There is no
 
 ## Contractor Rocketeers
 
-If you are a contractor, your payment is done through [Deel](https://www.deel.com)!
+If you are a contractor, your payment is done through [Deel](https://help.letsdeel.com/hc/en-gb/articles/4407745444497-What-is-Deel)!
 
 Firstly, what is Deel? - Deel reimagines payouts for businesses working with remote teams internationally. Deel helps you get paid anywhere you are, easy and fast with the most optimized rates.
 
 We'll send you an invitation to join Deel. After you receive it, you must follow these steps:
 
 1. Complete your profile by adding all the information and identification documents.
-2. Add all mandatory [compliance documents](https://help.letsdeel.com/en/articles/4754627-collect-compliance-documentation-on-deel).
-3. Fill out the [necessary tax forms](https://help.letsdeel.com/en/articles/4754599-tax-feature-on-deel-here-s-how-it-works) and sign the agreements.
-4. Go through [your verification process](https://help.letsdeel.com/en/articles/4752382-how-to-verify-your-contractor-account-on-deel).
-5. Enter your [preferred payment method](https://help.letsdeel.com/en/articles/4754676-how-to-withdraw-money-from-deel-balance).
+2. Add all mandatory [compliance documents](https://help.letsdeel.com/hc/en-gb/articles/15011445081745-How-Do-I-Upload-My-Compliance-Documents).
+3. Fill out the [necessary tax forms](https://help.letsdeel.com/hc/en-gb/articles/20954531514385-How-to-View-and-Download-Tax-forms) and sign the agreements.
+4. Go through [your verification process](https://help.letsdeel.com/hc/en-gb/articles/4407737887889-How-To-Verify-Your-Contractor-Account).
+5. Enter your [preferred payment method](https://help.letsdeel.com/hc/en-gb/articles/4407745403281-Supported-Payment-Methods-And-Currencies-For-Client-Account-Funding).
 
 ### **FAQ**
 
