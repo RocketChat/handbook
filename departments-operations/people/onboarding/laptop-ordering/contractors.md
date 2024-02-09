@@ -12,6 +12,8 @@ As part of the Independent Contractor's agreement, the Company will pay a **one-
 
 The subsidy amount will be **paid on the first day of the beginning of the services in a single payment of up to USD 2,150.00** (two thousand and one hundred and fifty dollars), which considers the Company's estimates for the purchase of a new notebook and headphones for remote work to be used for a period of **36 months**.
 
+**After the 36-month period**, the contractor will **not be eligible to a new subsidy** amount, with the **exception of the R\&D team**.&#x20;
+
 The equipment (notebook and headphones) purchased **belongs to the Contractor**, who is solely responsible for its careful use and maintenance (no repairs refund are applicable).
 
 You don't need to send any quotes for approval prior to the purchase, you just need to send the purchase receipt (with a value up to USD 2150) to the Finance team (patricia.ferreira@rocket.chat) so they can proceed with the reimbursement.&#x20;
