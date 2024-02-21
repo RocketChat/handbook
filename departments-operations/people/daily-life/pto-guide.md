@@ -42,6 +42,8 @@ It would be great to have a 5-day notice period before taking a small PTO. For l
 
 Go to Zoho People > Leave Tracker > Apply Leave, and then choose the best category for your PTO. Please note that your birthday is the only exception when it comes to requesting PTO on Zoho. All Rocketeers are automatically granted PTO on their birthdays. If you need to take a sick leave, please attach your doctor's note or sick leave certificate to the leave request form.
 
+**Note:** If you are an employee in Finland or Croatia, you should also request for the PTO through Deel.
+
 **3 - Plan:**
 
 Have you considered the tasks or people that may need your attention during your absence? It would be best to plan and schedule necessary emails beforehand or delegate responsibilities to a colleague. Taking care of these important details will allow you to leave without worrying about checking in too often. And, don't forget to block your calendar to avoid any unexpected appointments.
