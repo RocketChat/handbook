@@ -1,11 +1,11 @@
 # Table of contents
 
 * [👋 Rocket.Chat Handbook](README.md)
-  * [✍ Contributing to handbook](readme/contributing-to-handbook.md)
+  * [✍️ Contributing to handbook](readme/contributing-to-handbook.md)
 
 ## The Company
 
-* [👨💻 Organization Chart](the-company/organization-chart.md)
+* [👨‍💻 Organization Chart](the-company/organization-chart.md)
 * [🔤 Glossary](the-company/glossary.md)
 * [🔧 Tools](the-company/tools/README.md)
   * [Rocket.Chat](company/tools/rocket.chat.md)
@@ -13,7 +13,7 @@
   * [Systems Responsible](company/tools/systems-responsible.md)
   * [Access Control Policy](company/tools/access-control-policy.md)
   * [Address Book](company/tools/address-book.md)
-* [🧑🤝🧑 Our Culture](company/our-culture/README.md)
+* [🧑‍🤝‍🧑 Our Culture](company/our-culture/README.md)
   * [Awards & Recognition](the-company/our-culture/awards-and-recognition/README.md)
     * [The Gabes](the-company/our-culture/awards-and-recognition/the-gabes.md)
     * [Rocket.Chat RockStars](company/our-culture/rocket.chat-rockstars.md)
@@ -31,7 +31,7 @@
 
 ## Departments and Operations
 
-* [🏗 Research & Development](departments-and-operations/research-and-development/README.md)
+* [🏗️ Research & Development](departments-and-operations/research-and-development/README.md)
   * [Release Cycle](departments-operations/research-and-development/release-cycle.md)
   * [Product](departments-operations/research-and-development/product/README.md)
     * [Roles & Responsibilities](departments-and-operations/research-and-development/product/roles-and-responsibilities.md)
@@ -95,7 +95,7 @@
     * [What is the Objective and Why are we implementing this policy?](departments-operations/finance/travel-policy/what-is-the-objective-and-why-are-we-implementing-this-policy.md)
     * [Travel and Reimbursement Request](departments-operations/finance/travel-policy/travel-and-reimbursement-request.md)
   * [Payroll Schedule Process](departments-operations/finance/payroll-schedule-process.md)
-* [🎙 Marketing](departments-operations/marketing/README.md)
+* [🎙️ Marketing](departments-operations/marketing/README.md)
   * [Content Creation](departments-operations/marketing/content-creation.md)
   * [Marketing Operations](departments-operations/marketing/marketing-operations/README.md)
     * [Marketing Leads Attribution Model](departments-operations/marketing/marketing-operations/lead-attribution-model.md)
@@ -105,7 +105,7 @@
   * [Product Profiles](departments-operations/marketing/pages-to-update.md)
   * [Company Positioning and Messaging](departments-operations/marketing/company-positioning-and-messaging.md)
   * [Social Media Content: How To Contribute](departments-operations/marketing/social-media-content-how-to-contribute.md)
-* [👩🏭 Operations](departments-operations/operations-team/README.md)
+* [👩‍🏭 Operations](departments-operations/operations-team/README.md)
   * [Data & Analytics](departments-operations/operations-team/data-and-analytics/README.md)
     * [Data Lake](departments-operations/operations-team/data-and-analytics/data-lake.md)
       * [Athena Naming Conventions](departments-operations/operations-team/data-and-analytics/data-lake/athena-naming-conventions.md)
@@ -181,7 +181,7 @@
     * [Tasks & Project Management](departments-operations/security/playbooks/tasks-and-project-management.md)
     * [Code Analysis](departments-operations/security/playbooks/code-analysis.md)
   * [WhiteHat Hall-of-Fame](departments-operations/security/whitehat-hall-of-fame.md)
-* [⚖ Legal](departments-and-operations/legal/README.md)
+* [⚖️ Legal](departments-and-operations/legal/README.md)
   * [Privacy Policies](departments-and-operations/legal/privacy-policies.md)
 * [🆘 Support](departments-operations/support/README.md)
   * [Responsibilities](departments-operations/support/working-shifts.md)
