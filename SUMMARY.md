@@ -146,6 +146,7 @@
   * [Rocketeer Referral](departments-operations/people/referrals.md)
   * [Our Wishlist](departments-operations/people/wishlist.md)
   * [Career Path](departments-operations/people/career-path.md)
+  * [CIPA](departments-and-operations/people/cipa.md)
   * [Code of Conduct](departments-and-operations/people/code-of-conduct.md)
   * [Whistleblower Policy](departments-and-operations/people/whistleblower-policy.md)
   * [Disciplinary Actions Policy](departments-operations/people/disciplinary-actions-policy/README.md)
