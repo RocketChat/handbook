@@ -91,6 +91,7 @@
     * [What is the Objective and Why are we implementing this policy?](departments-operations/finance/accounts-payable-policy/what-is-the-objective-and-why-are-we-implementing-this-policy.md)
     * [Accounts Payable Process](departments-operations/finance/accounts-payable-policy/accounts-payable-process.md)
     * [Policy Effectiveness and Transition Period](departments-operations/finance/accounts-payable-policy/policy-effectiveness-and-transition-period.md)
+  * [Collection Process](departments-and-operations/finance/collection-process.md)
   * [Travel Policy](departments-operations/finance/travel-policy/README.md)
     * [Who does this policy apply to?](departments-operations/finance/travel-policy/who-does-this-policy-apply-to.md)
     * [What is the Objective and Why are we implementing this policy?](departments-operations/finance/travel-policy/what-is-the-objective-and-why-are-we-implementing-this-policy.md)
