@@ -16,8 +16,6 @@ The subsidy amount will be **paid on the first day of the beginning of the servi
 
 The equipment (notebook and headphones) purchased **belongs to the Contractor**, who is solely responsible for its careful use and maintenance (no repairs refund are applicable).
 
-You don't need to send any quotes for approval prior to the purchase, you just need to send the purchase receipt (with a value up to USD 2150) to the Finance team (patricia.ferreira@rocket.chat) so they can proceed with the reimbursement.&#x20;
-
 Contractor also agrees with the following rules of use of the equipment for the purpose of rendering services in accordance with the Company standards:
 
 * The equipment is intended for work purposes only;
