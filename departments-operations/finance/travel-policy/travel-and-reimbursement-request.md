@@ -34,14 +34,14 @@ description: How to request your travel and reimbusements?
 
 * Hotel rooms should be booked according to the maximum rate per night in each region:
 
-|             Region             | Amount per night |
-| :----------------------------: | :--------------: |
-|     Brazil - state capitals    |      R$495       |
-|      Brazil - other cities     |       R$275      |
-| Other Latin American countries |       $110       |
-|               USA              |       $198       |
-|             Europe             |      EUR 132     |
-|          Asia-Pacific          |       $110       |
+|             Region             |  Amount per night |
+| :----------------------------: | :---------------: |
+|     Brazil - state capitals    |       R$495       |
+|      Brazil - other cities     |       R$275       |
+| Other Latin American countries |        $110       |
+|               USA              |        $198       |
+|            EU and UK           | EUR 132 / GBP 117 |
+|          Asia-Pacific          |        $110       |
 
 * Employees should prefer hotels that include breakfast in their rates.
 * If the employee chooses to book a room with a higher rate, Rocket.Chat will reimburse the employee up to the maximum daily amount per region described above.
@@ -58,13 +58,13 @@ description: How to request your travel and reimbusements?
 
 * If the employee chooses to use their own car on a business trip, Rocket.Chat will pay the mileage reimbursement, according to the table below:
 
-|             Region             | Amount per kilometer |
-| :----------------------------: | :------------------: |
-|             Brazil             |        R$1.10        |
-| Other Latin American countries |        $0.385        |
-|               USA              |        $0.385        |
-|             Europe             |       EUR 0.33       |
-|          Asia-Pacific          |        $0.385        |
+|             Region             |  Amount per kilometer |
+| :----------------------------: | :-------------------: |
+|             Brazil             |         R$1.10        |
+| Other Latin American countries |         $0.385        |
+|               USA              |         $0.385        |
+|            EU and UK           | EUR 0.33 / GBP 0.2926 |
+|          Asia-Pacific          |         $0.385        |
 
 * The employee should submit an itinerary (origin-destination) and kilometres travelled.
 * Rocket.Chat will also reimburse any tolls and parking paid during the trip, all subject to the presentation of the receipts in the reimbursement request.
@@ -80,13 +80,13 @@ description: How to request your travel and reimbusements?
 
 * Meals daily allowance will be reimbursed according to the table below (including tips):
 
-|             Region             | <p>Breakfast</p><p>(only if not included</p><p>in hotel daily rate)</p> |  Lunch  |   Dinner  |
-| :----------------------------: | :---------------------------------------------------------------------: | :-----: | :-------: |
-|             Brazil             |                                 R$27.50                                 | R$60.50 |  R$82.50  |
-| Other Latin American countries |                                  $16.50                                 |   $33   |   $60.50  |
-|               USA              |                                   $22                                   |   $55   |   $82.50  |
-|             Europe             |                                  EUR 22                                 |  EUR 55 | EUR 82.50 |
-|          Asia-Pacific          |                                  $16.50                                 |   $33   |   $60.50  |
+|             Region             | <p>Breakfast</p><p>(only if not included</p><p>in hotel daily rate)</p> |      Lunch      |       Dinner       |
+| :----------------------------: | :---------------------------------------------------------------------: | :-------------: | :----------------: |
+|             Brazil             |                                 R$27.50                                 |     R$60.50     |       R$82.50      |
+| Other Latin American countries |                                  $16.50                                 |       $33       |       $60.50       |
+|               USA              |                                   $22                                   |       $55       |       $82.50       |
+|            EU and UK           |                            EUR 22 / GBP 19.50                           | EUR 55 / GBP 49 | EUR 82.50 / GBP 73 |
+|          Asia-Pacific          |                                  $16.50                                 |       $33       |       $60.50       |
 
 * Employees are not allowed to pay for meals for clients, suppliers, government officers and people who are not employed with Rocket.Chat. The Sales Account Executive team is exempt from this rule, although it should be conditioned to budget availability and previous approval in case of government officers.&#x20;
   * In the case of government officers, the expense must be previously approved by General Manager, even before it occurs.

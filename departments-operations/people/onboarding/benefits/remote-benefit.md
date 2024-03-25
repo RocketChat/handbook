@@ -12,7 +12,7 @@ We’ve budgeted an amount to reimburse teammates for special costs. Market rate
 | :----------------------------------: | :--------------------------------------------: |
 | Brazil (including office boundaries) |  R$250 (adjusted starting on 1st January 2024) |
 |            USA and Canada            |                      $150                      |
-|            European Union            |                     EUR 150                    |
+|               EU and UK              |                EUR 150 / GBP 133               |
 |            Other countries           |                      $100                      |
 
 ### Expensing
