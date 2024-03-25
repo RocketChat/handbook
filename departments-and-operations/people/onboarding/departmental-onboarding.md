@@ -41,10 +41,15 @@ The Manager is responsible for:
 
 The Buddy assigned by the Manager should:
 
-* Use the kick-off meeting to introduce themselves;
-* Help the new Rocketeer adjust to the team, its ceremonies, and meetings;
-* Be present especially during their first month to support them with tools, processes, and general guidance;
-* Be available for any questions or doubts.
+1\. Introduce themselves;
+
+2\. Help the new Rocketeer adjust to the team, its ceremonies, and meetings;
+
+3\. Be present especially during their first month to support them with tools, processes, and general guidance;
+
+4\. Be available for any questions or doubts.
+
+**Note:** Our culture is one of the most significant strengths within [Rocket.Chat](http://rocket.chat), and we want to acknowledge actions that promote it. **You can collect stars for being a New Rocketeer's buddy!** Check out our [handbook](https://handbook.rocket.chat/the-company/our-culture/awards-and-recognition/rocket.chat-rockstars) for more details.
 
 ### 3. Documentation
 
