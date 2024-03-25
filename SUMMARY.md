@@ -21,7 +21,7 @@
   * [Rocket.Chat Clubs](the-company/our-culture/rocket.chat-clubs.md)
   * [Summit](the-company/our-culture/summit.md)
   * [The Culture Avengers](the-company/our-culture/the-culture-avengers/README.md)
-    * [What is expected of Avengers](the-company/our-culture/the-culture-avengers/what-is-expected-of-avengers.md)
+    * [What Is Expected From Avengers](the-company/our-culture/the-culture-avengers/what-is-expected-from-avengers.md)
   * [How Do We Communicate](the-company/our-culture/how-do-we-communicate/README.md)
     * [❔ How-tos & Guidelines](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/README.md)
       * [Meetings](the-company/our-culture/how-do-we-communicate/how-tos-and-guidelines/meetings/README.md)

@@ -51,4 +51,4 @@ The People Team is responsible for:
 * [ ] Forward all documents to internal signatures on Zoho Sign
 * [ ] Be the liaison between the University and Rocket.Chat
 
-After obtaining all necessary documents, the People Team must send the completed final versions with all signatures to the Finance Team at patricia.ferreira@rocket.chat to finalize the admission or renewal process.
+After obtaining all necessary documents, the People Team must mail the completed final versions with all signatures to the person responsible for finalizing the admission or renewal process.

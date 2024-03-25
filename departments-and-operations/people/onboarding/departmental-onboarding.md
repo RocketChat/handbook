@@ -33,9 +33,7 @@ The Manager is responsible for:
 * On the third day, during the kick-off meeting for area-specific onboarding, covering topics such as presenting the area, providing an overview of the backlog and main projects for the next months, detailing the tools and systems used by the team, aligning expectations for the new team member's performance and responsibilities, and explaining how their performance will be measured;
 * Follow up with the new rocketeer to inquire about the outcome of their meeting with the stakeholders.
 
-&#x20;                                               [Here´s](https://docs.google.com/presentation/d/1fWg1roczPgTqeuSjCWNdUj7nvAsRmZ7aL962UwMlFC8/edit#slide=id.ge5371f3319\_0\_0) a leader's checklist to not miss a thing!
-
-**Optional**: Utilize a Jira project to coordinate tasks and deadlines throughout the process, serving as a reminder for both yourself and the new member of the tasks to be accomplished.
+**Note**: Once you become a manager of a new hire, you will be added to our onboarding platform, [Workleap](https://onboarding.workleap.com/). There, you will have access to a manager's checklist with tasks under your responsibility.
 
 ### 2. Buddy
 
