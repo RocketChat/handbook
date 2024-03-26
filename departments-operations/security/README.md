@@ -11,6 +11,7 @@ We need to make sure the security best practices are being applied and guarantee
 * [Giovani Salvador](https://open.rocket.chat/direct/giovani.salvador): Senior Manager
 * [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Staff Security Engineer
 * [Nicolás Guimar](https://open.rocket.chat/direct/nicolas.guimar): Senior Security Engineer
+* [Renata Juraski](https://open.rocket.chat/direct/renata.juraski): Junior Security Engineer
 
 
 
@@ -32,7 +33,7 @@ Discussion Channels
 
 * [RC security channel](https://open.rocket.chat/group/rocketchat-security) - day-to-day conversation, invite on request
 * [RC important](https://open.rocket.chat/group/important) - company-wide announcements
-* RC-security-team - team-internal conversations, all team members are added during onboarding
+* [RC-security-team](https://open.rocket.chat/group/rc-security-team) - team-internal conversations, all team members are added during onboarding
 
 Mailing lists
 
@@ -43,6 +44,12 @@ Public
 
 * [Security solutions](https://rocket.chat/security) - summary of security features of the product
 * [Invitation to contribute to security](https://github.com/RocketChat/handbook/tree/de7159ac6bcdaf458b4c36e149f3db09e28670d3/operations/contributing/security/README.md) - Disclosure policy
+
+Reporting or communicating incidents and vulnerabilities
+
+* [Security mailing list](mailto:security@rocket.chat)
+* Reach out to any of the security team members listed [here](./#members-and-functions)
+* &#x20;Refer to the internal handbook page in this [link](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/security/playbooks/incident-communication-protocol).
 
 ## Policies
 
