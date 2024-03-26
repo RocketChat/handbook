@@ -18,7 +18,7 @@ This policy applies to all employees, contractors, and third-party vendors who r
 
 Access to sensitive or internal systems must be requested through the company's Security department.
 
-All requests for access must be approved by the employee's manager and the Security department.
+Except for common platforms and systems that are part of the onboarding access provision, all requests for access must be approved by the employee's manager and the Security department.
 
 Access to sensitive or internal systems will only be granted to authorized personnel who require access to perform their job responsibilities.
 
@@ -30,12 +30,12 @@ Employees who leave the organization must have their access to sensitive or inte
 
 ### Requesting Access
 
-* The employee must complete an access request form, which can be obtained in the link in the top of this page.
+* The employee must complete an access request form, which can be obtained via our [Access Request Form](https://rocketchat.atlassian.net/jira/core/projects/AR/form/15?atlOrigin=eyJpIjoiNGU1OTQ1Y2NmOGE5NDNmZWI5NDk4ZTJlYmRmMGY0ZjQiLCJwIjoiaiJ9).&#x20;
 * The employee's manager must review and approve the request.
 * The Security department will review the request and verify the employee's need for access.
 * The Security department will grant access to the requested systems if approved.
 
-Note: For new employees (first access) the HR team will be responsible for grating access to a set of systems and register the access request on behalf of the employee.
+Note: For new employees (first access) the People team will be responsible for granting access to a set of systems as part of the onboarding process. Those systems are listed [here](https://handbook.rocket.chat/departments-and-operations/people/onboarding/platforms-and-systems).&#x20;
 
 ### Reviewing Access
 
@@ -45,8 +45,8 @@ Note: For new employees (first access) the HR team will be responsible for grati
 
 ### Termination of Access
 
-* When an employee leaves the organization, the employee's manager must notify the Security department immediately.
-* The Security department will revoke the employee's access to sensitive or internal systems.
+* When an employee leaves the organization, the employee's manager must notify the People and Security department immediately.
+* People and Security department will revoke the employee's access to sensitive or internal systems.
 * All company's equipments (when applied) and data hold by the employee must be returned to the company.
 
 ### Review of Accounts and privileges
@@ -54,18 +54,19 @@ Note: For new employees (first access) the HR team will be responsible for grati
 Purpose is to periodically review who has access to what and perform changes if necessary.
 
 * Frequency - quarterly
-* Scope: Assets classified as Tier 1 within Asset Register 2023. (Tier 1 is composed by [Rocket.chat](https://rocket.chat/) critical systems such as Core Development systems, databases, Infrastructure providers, Finance and critical operational systems).
+* Scope: Assets classified as Tier 1 within Asset Register. (Tier 1 is composed by [Rocket.chat](https://rocket.chat/) critical systems such as Core Development systems, databases, Infrastructure providers, Finance and critical operational systems).
 
 Roles and responsibilities
 
 * Engineer Manager from Security team: responsible for periodic review with asset owners or designated person to make sure the task is being executed.
-*   Owner or designated person - access the system(s) and check for the list of all users to:
+* Owner or designated person - access the system(s) and check for the list of all users to:
+  * 1\) Verify if all member are active rocketeers.
+  * 2\) Check if their level of access is appropriate to their use/role (regular user/admin/ ...).
+  * 3\) Make the removal or changes as needed.
+  * 4\) Update the checklist to confirm the review was done.
 
-    * 1\) Verify if all member are active rocketeers.
-    * 2\) Check if their level of access is appropriate to their use/role (regular user/admin/ ...).
-    * 3\) Make the removal or changes as needed.
-    * 4\) Update the checklist to confirm the review was done.
+For Tier 2 and 3 applications, the review of access and privileges shall be done annually by the asset owners or designated person.
 
-    \
-    For Tier 2 and 3 applications, the review of access and privileges shall be done annually by the asset owners or designated person.
+For Network components the access and privilege review is required twice a year.&#x20;
 
+Checklist used to document the review process is available within folder entitled Access and Privilege control\_checklists.&#x20;

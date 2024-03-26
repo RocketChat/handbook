@@ -18,19 +18,18 @@ You should always use your firstname.lastname@rocket.chat identity. Exceptions a
 
 ### Authentication Methods
 
-In terms of authentication methods, you should always opt for using SSO/SAML authentication where possible. Since your identity is tied to a Google account, you can also click on the "Sign up with Google" button or similar phrasing, in case SAML/SSO is not available. If you get an error when authenticating via SAML or SSO, contact the person who invited you to enable it properly.
+In terms of authentication methods, you should a**lways opt for using SSO/SAML** authentication where possible. Since your identity is tied to a Google account, you can also click on the **"Sign up with Google"** button or similar phrasing, in case SAML/SSO is not available. If you get an error when authenticating via SAML or SSO, contact the person who invited you to enable it properly.
 
-2-Factor (2FA) or Multifactor (MFA) Authentication is required before accessing critical assets and will be set as mandatory there. For non-critical assets that allows 2FA we still highly recommend it to be set up, since it grants a higher level of security.
+**2-Factor (2FA)** or Multifactor (MFA) Authentication is required before accessing critical assets and will be set as mandatory there. For non-critical assets that allows 2FA we still highly recommend it to be set up, since it grants a higher level of security.
 
 For systems that do not support Google Sign Up or SSO/SAML, follow the following Password Policy while creating a password to access the service or account.
 
-## Password Policy
+## Password & Secrets Policy
 
-While creating passwords to access company assets we recommend the employees to use Password Wallets, preferred [Zoho Vault](https://vault.zoho.com/app#/login) (using your rocket.chat email to access Zoho).
-
-Set up a strong Master Password your wallet and enable 2FA. Refer to the Password Creation Rules.
-
-Remember also to change your password periodically. In the case of a password leak or exposure, change it immediately and report the fact to the Security team.
+* Always use strong passwords, as described e.g. [here.](https://www.fpainc.com/blog/password-guidelines-from-nist)
+* Always reset your password if you have suspicion of it being compromised.
+* Always keep your passwords in a secure and encrypted location like your password manager (preferred, e.g. ZOHO Vault) or your head.
+* Never share your passwords with anyone. Credential sharing is not allowed. An exception to this applies if the password is shared by nature.
 
 Systems that allow password policy enforcement will be configured to expire password after 90 days and only accept passwords that comply with the Password Creation Rule below:
 
@@ -41,8 +40,23 @@ Systems that allow password policy enforcement will be configured to expire pass
 * Passwords must be unique and not used for multiple accounts.
 * Passwords can not be reused in the same system.
 
-### Shared secrets
+### Shared Passwords
 
-You should always avoid using shared accounts, but in the extreme case where it is needed (or if you need to share another kind of secret among a team or peers), do it using the Share Password feature of Zoho Vault. **NEVER** share a password or secret in plain text or via any kinda of communication platform, even Rocket.Chat.
+Shared passwords & secrets should only be used, if a personal password can NOT be used. Always prefer using your own passwords (tied with your own account/credential). Shared passwords must be stored in an approved secure and auditable password storage system. Our current standard is ZOHO Vault, its integrations are approved (e.g. the browser extension).
+
+Shared Passwords MUST:
+
+* Abide our password policies (complexity, length), unless the target system/use case does not allow this or prescribes a different standard
+* Have one or multiple owners, default owner is the creator of the shared password. In Zoho, this is called “Authorizer” or “Owner”.
+* Always be maintained in the central storage system. Do not update passwords and keep an outdated password in ZOHO. ZOHO is single source of truth.
+
+Shared Passwords SHOULD:
+
+* Be put in folders (ZOHO: “Chambers”), with a pre-configured set of persons with access. This makes it easier to manage access control.
+* Not be exported out of Zoho.
+
+When a person leaves the company, he must transfer ownership of the shared password to a successor. Click on “more actions” → “Transfer Ownership” in ZOHO.
+
+**NEVER** share a password or secret in plain text or via any kinda of communication platform, even Rocket.Chat.
 
 If it is impossible to use the Share Password feature from Zoho Vault and you really need to send the secret via a communication platform you can use specific tools such as [PwPush](https://pwpush.com/). Remember to push only the secret, without any other context about where it will be used or event the username, and set the link with the most restrict expiration settings possible.

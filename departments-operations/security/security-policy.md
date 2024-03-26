@@ -4,7 +4,7 @@
 
 We have created a general information security policy and specific policies for related topics and are continuously working to put them in place. These policies are necessary to set up secure processes and demonstrate our compliance with industry standards towards our customers. You can also find the annual acknowledgment forms here.
 
-In case of any questions, contact the security team. More information on [this page](https://handbook.rocket.chat/departments-and-operations/security)
+In case of any questions, contact the security team. More information on [this page](https://rocket.chat/handbook/departments/security/)
 
 Do you want a short summary? You can find a [security one-pager here!](https://docs.google.com/document/d/1ZiyPRgAJMwKZAkdGDL36npEBFJYfCDqaX4-ZOef3P90/edit?usp=sharing)
 
@@ -12,15 +12,14 @@ Do you want a short summary? You can find a [security one-pager here!](https://d
 
 Because we all must follow our security policies, we have set up a Zoho Sign term that must be filled out and signed by all Rocketeers.
 
-* [Policy Acknowledgment,](https://sign.zoho.com/signform?form\_link=234b4d535f495623d7afa605b2c4f12ecea8c219fde51f54332f67b4dacec1104dff6619576027ca9bb31be732284cc8fa4601fcd081cf3d616fb616760bf4d69625a87df702dd0b) an acknowledgment of our current policies. Mandatory to all employees and contractors.
+* [Policy Acknowledgment](https://sign.zoho.com/signform?form\_link=234b4d535f495623d7afa605b2c4f12ecea8c219fde51f54332f67b4dacec1104dff6619576027ca9bb31be732284cc8fa4601fcd081cf3d616fb616760bf4d69625a87df702dd0b), an acknowledgment of our current policies. Mandatory to all employees and contractors.
+
+Note: If you have already signed it during the onboarding training, no need to sign again.\
+
 
 And to set yourself up securely, please follow the guidelines and fill out the form provided in the link below::
 
 * [Security configuration](https://docs.google.com/forms/d/e/1FAIpQLSffmdQUSHaE2WWX6UHo8BAqT6VM0ijBPxyWwJCkmgeRvSpvkA/viewform?usp=sf\_link) a checklist to set up a basic secure configuration of your tools. Mandatory to all employees and contractors.
-
-{% hint style="info" %}
-If you have already signed it during the onboarding training, no need to sign again.
-{% endhint %}
 
 ## Overall Security Policy
 
@@ -50,11 +49,9 @@ This information security policy provides management direction and support for i
 
 Everyone handling Rocket.Chat information has the responsibility to keep the information safe, no matter where the information is located. This includes our staff members, contractors, students, etc., but also our suppliers (e.g. those that provide us with our tools to work) and other recipients of that information.
 
-To determine the appropriate levels of security measures applied to information systems, a process of risk assessment is carried out to identify the probability and impact of security failures.\
-\
-To manage information security within the organisation an information security oversight committee is established, chaired by Rocket.Chat´s Security Lead and consisting of senior members of our relevant teams. The objective of this committee is to ensure that there is clear direction and visible management support for security initiatives. This oversight group shall promote security through appropriate commitment and adequate resourcing.
+To determine the appropriate levels of security measures applied to information systems, a process of risk assessment is carried out to identify the probability and impact of security failures.
 
-An information security working party, comprising management representatives from all relevant parts of the organization, shall devise and coordinate the implementation of information security controls. The responsibility for ensuring the protection of information systems and ensuring that specific security processes are carried out shall lie with the head of the department managing that information system.
+To manage information security within the organization, an information security oversight is led by Rocket.Chat´s Security Lead in conjunction with senior members of our relevant teams. Regular meetings are held  between Security Lead and CTO to ensure that there is clear direction and visible management support for security initiatives. This oversight group shall promote security through appropriate commitment and adequate resourcing. The responsibility for ensuring the protection of information systems and ensuring that specific security processes are carried out shall lie with the head of the department managing that information system.
 
 Specialist advice on information security is available throughout the organization. Any member of the organization can contact his manager or Rocket.Chat´s Security Lead directly.
 
@@ -68,11 +65,11 @@ We maintain a [RASCI-chart](https://docs.google.com/spreadsheets/d/1XHI3Ks2mywKa
 
 Current conflicting roles identified:
 
-* None
+* [SOD - Conflicting roles and mitigation actions - Google Sheets](https://docs.google.com/spreadsheets/d/1oBle0evovWXeAcFd99jHpw07aBAfdT2Ib7BgFbX6NuY/edit#gid=0)
 
 The company maintains relevant contacts with authorities and agencies, those relevant for Rocket.Chat being mostly:
 
-* Data protection agencies - outlined at [Breach notification: Contact with authorities](https://drive.google.com/file/d/1r05-d4k17RQlMH-eJdRFg-HJnKucImLN/view?usp=drive\_link)
+* Data protection agencies - outlined at [Breach Notification Plan](https://app.gitbook.com/s/-M7iRWz196Rdn-5pW5QY/privacy-and-security/data-privacy-compliance/breach-notification-contact-with-authorities "mention")
 * NIST
 * ISO
 * Open Source Community
@@ -99,13 +96,13 @@ The details of these processes are implemented and the records kept by the Peopl
 
 This internal controls policy is to establish and maintain effective information security controls that safeguard the confidentiality, integrity, and availability of Rocket.Chat’s assets and operations.&#x20;
 
-It is everyone’s responsibility to familiarize yourselves with the company’s internal controls and comply with its requirements. See [Internal Controls](https://handbook.rocket.chat/departments-and-operations/security/security-policy/internal-controls-policy) policy for details.
+It is everyone’s responsibility to familiarize yourselves with the company’s internal controls and comply with its requirements. See [Internal Controls policy](broken-reference) for details.
 
 ### Asset Management and Acceptable Use
 
 An asset is something of value for Rocket.Chat such as, but not limited to, information itself, a device, intellectual property.
 
-[Asset Management policy](https://handbook.rocket.chat/departments-and-operations/security/security-policy/assets-management) cover important security aspects and guidelines that help rocketeers to protect and avoid any misuse of company owned assets.
+[Asset Management policy ](broken-reference)cover important security aspects and guidelines that help rocketeers to protect and avoid any misuse of company owned assets.
 
 The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/1Nh8T3FP7QGR35jAdbd9j6HQnnirQDNcnC7X9Dg-Kdvo/edit?usp=sharing)
 
@@ -113,25 +110,25 @@ The lists of assets can be found [here.](https://docs.google.com/spreadsheets/d/
 
 Authentication is the process of verifying the identity of a user or system entity. It is a security mechanism that helps to ensure that only authorized individuals or systems are granted access to a particular resource, such as a system, network, or application.
 
-Here you can find our detailed [Authentication](security-policy/authentication-and-password-policies.md#authentication) and [Password policy](security-policy/authentication-and-password-policies.md#password-policy)
+Here you can find our detailed [Authentication and Password](broken-reference) policy
 
 ### Access Control Policy
 
 Access to sensitive or internal systems is critical for the security and confidentiality of Rocket.Chat.
 
-Refer to this [link](https://handbook.rocket.chat/departments-and-operations/security/security-policy/access-control) to access policy and procedure.
+Refer to this[ link](broken-reference) to access policy and procedure.
 
 ### Network Security Policy
 
 This document applies to all individuals and entities who have authorized access to the organization's resources for work-related purposes.
 
-Please refer to this [link](https://handbook.rocket.chat/departments-and-operations/security/security-policy/network-security) .
+Please refer to this [link](broken-reference) .
 
 ### Homeoffice / Remote Work Policy
 
 Rocket.Chat primarily is a remote and global company and this policy outlines the security guidelines, clear screen and security requirements for remote workers to follow.&#x20;
 
-Refer to [Remote work policy](security-policy/remote-work.md).
+Please refer to [Remote work policy](broken-reference).
 
 Porto Alegre’ office building  is available for those in that location. It does not contain or house critical assets or operations. To have access to it, please contact Patricia Ferreira for guidance. Make sure the rules pinned in the office are followed.
 
@@ -141,34 +138,33 @@ Cryptography is the practice of securing information by transforming it into an 
 
 Key management is the practice of protecting and managing the cryptographic keys used in encryption and decryption. It involves generating, storing, exchanging, and revoking keys to ensure that the encryption and decryption process remains secure. Proper key management is essential for maintaining the confidentiality, integrity, and availability of information that is encrypted using cryptographic algorithms. Key management also includes ensuring the authenticity of the keys, so that the right person or entity can access the encrypted information.
 
-For detailed information and guidelines refer to [Cryptography and Key management](security-policy/cryptography-and-key-management.md) session
+For detailed information and guidelines refer to [Cryptography and Key management](broken-reference) page.
 
 ### Data Classification & Lifecycle Policy
 
 To ensure data is classified and handled appropriately and securely throughout its lifecycle, check the policies below:
 
-[Data Classification and Management](security-policy/data-classification-and-management/)
+[Data Classification and Management](broken-reference)
 
-[Data Retention and Disposal](https://handbook.rocket.chat/departments-and-operations/security/security-policy/data-classification-and-management/data-retention-and-disposal)
+[Data Retention and Disposal](broken-reference)
 
-[Secure Data Transfer](https://handbook.rocket.chat/departments-and-operations/security/security-policy/secure-data-transfer)
+[Secure Data Transfer](broken-reference)
 
 ### Accessing Customer Data
 
-For access to customer data, you must adhere to the following:
-
+For access to customer data, you must adhere to the following:\
 You may only access customer data if
 
-* The customer specifically requests it (e.g. support request) _or_
+* The customer specifically requests it (e.g. support request) or
 * When it is necessary for us to fulfill our contractual obligations (e.g. to act proactively to prevent an instance from failing)
 
 Access is strictly limited to the data needed to fulfill the request. You may not access data of other customers. No customer data may be extracted unless this is strictly requested by the customer. All data extracted must be stored safely and deleted when it is no longer necessary.
 
-You must terminate the session immediately after the reason for your access has been resolved.&#x20;
+You must terminate the session immediately after the reason for your access has been resolved.
 
 You must as soon as possible inform the customer of the outcome of your access.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Important:** The use of sensitive or customer data in non-production environments is strictly prohibited.
 {% endhint %}
 
@@ -187,7 +183,7 @@ Features or changes involving components that could affect overall system securi
 
 Changes to assets should only occur when a change is necessary. All changes must be controlled. All changes related to source code must occur through the authorized version control system (e.g. GitHub). In case a change is urgent, the change control process may be shortened by decision of management, in order to mitigate potential damages to the organization.
 
-Please consult our [Secure Development policy](https://handbook.rocket.chat/departments-and-operations/security/security-policy/secure-development) and [Change Management session](security-policy/changes-management/).
+Please consult our[ Secure Development policy](broken-reference) and [Change Management session](broken-reference).
 
 ### Vulnerability and Patch Management
 
@@ -195,13 +191,13 @@ This policy applies to all software applications and infrastructure components u
 
 Software administrators, SRE and security teams must be aware of this policy and their roles in having it implemented.&#x20;
 
-Details available in this [link](https://handbook.rocket.chat/departments-and-operations/security/security-policy/vulnerability-and-patch-management) .
+Details available in this [link ](broken-reference).
 
 ### Incident Management
 
 An incident is any event that has the potential to affect the confidentiality, integrity or availability of Rocket.Chat information, in any format, or IT systems in which this information is held. Violations of laws, policies, contractual obligations or also external requests should also be considered as incidents in this sense.
 
-Examples of incidents include but are not limited to:
+Examples of incidents include:
 
 * Lost devices
 * A suspicious and successful log in
@@ -210,31 +206,27 @@ Examples of incidents include but are not limited to:
 * Email with confidential data sent to wrong recipient
 * Law enforcement requests to disclose data of customers
 
-The Rocket.Chat's incident response plan is an internal document that can be found here: [Incident Response Plan](https://docs.google.com/document/d/17yZJ9oP3OJl3oWYTSNKNeXy54OEr7dn3ldpDKi52Ksc/edit#heading=h.wytzxqmvrwlq). This plan is tested annually to ensure effectiveness and promptness in the event of an incident.
+The Rocket.Chat's incident response plan is an internal document and access to it is restricted to authorized personnel.&#x20;
 
-In addition to that we also have in place an Incident Communication protocol available in this [link](https://docs.google.com/document/d/1IJm0EjZtISE\_PDHdrr4YL1lJzxsiA37-7bszv3OPP6I/edit?usp=drive\_link).&#x20;
+The plan is tested annually to ensure effectiveness and promptness in the event of an incident. In the event of actual incidents within the year, we consider our annual testing requirement fulfilled, ensuring that our Incident Response Plan remains regularly assessed and validated. If there are no actual incidents, we shall conduct simulated testing to ensure ongoing readiness and effectiveness.
+
+In addition to that we also have in place an Incident Communication protocol available in this [link](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/security/playbooks/incident-communication-protocol).
 
 ### Business Continuity and Disaster Recovery
 
 The purpose of this policy is to outline the components and steps necessary to ensure the continuity of Rocket.Chat operations in the event of a disaster or disruptive event.&#x20;
 
-Please check the [Business Continuity and Disaster Recovery](security-policy/business-continuity-and-disaster-recovery.md) page.
+Please check the [Business Continuity and Disaster Recovery](broken-reference) page.
 
-### Procurement
+### Supplier Relationship and Procurement&#x20;
 
-Before a procurement decision is made on behalf of Rocket.Chat, please check our internal Procurement [page](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/procurement/procurement-at-rocket.chat/procurement-policy). Within it  there are all the tips you shall be aware of and also the Financial, Security and Privacy requirements. &#x20;
+This policy applies to the security and compliance of supplier relationships. It includes guidelines you shall be aware of when making a procurement decision on behalf of Rocket.Chat.  For details please refer to the [Supplier Relationship and Procurement](https://handbook.rocket.chat/departments-and-operations/security/security-policy/supplier-relationship) page.
 
-In addition to that, it is recommended that you check if the system or solution you are interested in meets the recommendations outlined in our Information Security Requirements guide. \<link to document playbook>
+In addition to that, it is recommended that you check if the system or solution you are interested in meets the recommendations outlined in our [Information Security Requirements](https://app.gitbook.com/o/-M41dOPtnjO7qK6KCyrt/s/-M7iRWz196Rdn-5pW5QY/security/playbooks/information-security-requirements-analysis-and-specification) guide.
 
-### Supplier Relationship
+### Security Awareness and Training
 
-This policy applies to the security and compliance of supplier relationships.
-
-Please refer to [Supplier Relationship](https://handbook.rocket.chat/departments-operations/security/security-policy/supplier-relationship) page.
-
-## Security Awareness and Training
-
-Please refer to [Awareness and Training session](security-policy/awareness-and-training.md)
+All new employees are required to complete basic security training as part of their onboarding process. Please refer to [Awareness and Training session](broken-reference)
 
 ## Auditing
 
@@ -247,5 +239,3 @@ Rocket.Chat will conduct periodic reviews and audits to ensure compliance with t
 Any suspected or observed non-compliance with this policy should be promptly reported to the policy owner, GRC team or through the designated reporting channels.
 
 Non-compliance with this policy may result in disciplinary actions, including but not limited to verbal or written warnings, suspension, termination of employment or engagement, and legal actions as deemed necessary.
-
-\
