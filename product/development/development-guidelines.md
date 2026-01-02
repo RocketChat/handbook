@@ -4,7 +4,7 @@
 
 Your development workstation needs to have at least 8GB RAM or more to be able to build the Rocket.Chat's source code.
 
-Rocket.Chat runs on top of [Meteor](https://www.meteor.com/). To run it on development mode you need to [install Meteor](https://www.meteor.com/install) and clone/download the Rocket.Chat's code, then just open the code folder and run:
+Rocket.Chat runs on top of [Meteor](https://www.meteor.com/). To run it on development mode you need to [install Meteor](https://docs.meteor.com/about/install.html) and clone/download the Rocket.Chat's code, then just open the code folder and run:
 
 ```text
 meteor npm install && meteor
