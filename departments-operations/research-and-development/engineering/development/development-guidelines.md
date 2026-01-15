@@ -13,13 +13,12 @@ We recommend using yarn
 {% endhint %}
 
 ```
-node -v // v14.17.0
-yarn -v // 3.2.0
+node -v // v22.16.0
+yarn -v // 4.x
+deno --version //v1.43.6 (or current LTS)
 ```
 
-Rocket.Chat runs on top of [Meteor](https://www.meteor.com/), which is based on Fibers implementation, Fibers only support s node 14.17.0  that's why you will not have success trying a different one.
-
-You need to [install Meteor](https://www.meteor.com/install) and clone/download the [Rocket.Chat's code](https://github.com/RocketChat/Rocket.Chat.git) by executing
+Clone/download the [Rocket.Chat's code](https://github.com/RocketChat/Rocket.Chat.git) by executing
 
 ```
 git clone https://github.com/RocketChat/Rocket.Chat.git
@@ -28,6 +27,7 @@ git clone https://github.com/RocketChat/Rocket.Chat.git
 Then you just need to run
 
 ```
+corepack enable # ensures yarn 4 is used
 yarn # installs the dependencies for all projects
 yarn build
 yarn dev # it will build the sub projects and then run the meteor project
