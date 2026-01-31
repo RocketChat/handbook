@@ -77,7 +77,7 @@ Feature Branch will allow PR to have multiple checks and is expected to reduce b
 
 ### Rule 8: Comments to Code
 
-As we are an open source company with potential for every PR to be checked by community and have multiple engineers from different areas that can review your code it helps a lot to live comments on code to place lines of thought, as a calculation memory.
+As we are an open source company with potential for every PR to be checked by community and have multiple engineers from different areas that can review your code it helps a lot to leave comments on code to place lines of thought, as a calculation memory.
 
 ### Rule 9: PR Review Actions
 
